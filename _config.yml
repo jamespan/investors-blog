@@ -8,6 +8,7 @@ baseurl: /dark-side
 
 sass: 
   style: compressed
+  sass_dir: _sass
 
 ### exclude the instructions / write-up in the README.md
 exclude:
