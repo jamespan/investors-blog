@@ -3,7 +3,6 @@ layout: page
 title: About
 ---
 
-This is a dark theme suitable for hacker blogs. 
+Learning and investing with the CANSLIM System since 2020.
 
-[Demo](http://webjeda.com/dark-side/) [Repo](https://github.com/sharu725/dark-side)
-
+Subscripter of [Investor's Business Daily](https://www.investors.com/) since 2020.
