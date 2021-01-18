@@ -17,13 +17,6 @@ highlighter: rouge
 markdown: kramdown
 ### exclude the instructions / write-up in the README.md
 
-
-# Tracker
-analytics: N/A
-
-# Comments
-disqus-shortname: N/A
-
 #optimization
 #compress.html
 compress_html:
