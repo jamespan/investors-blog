@@ -4,11 +4,10 @@ title: The Dark Side
 
 permalink: /:title
 
-baseurl: /dark-side
+baseurl: /
 
 sass: 
   style: compressed
-  sass_dir: _sass
 
 ### exclude the instructions / write-up in the README.md
 exclude:
