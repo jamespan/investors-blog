@@ -1,5 +1,3 @@
-### your site title here
-
 title: How I Made $5000 in the Stock Market
 
 collections:
@@ -18,7 +16,6 @@ exclude:
 
 highlighter: rouge
 markdown: kramdown
-### exclude the instructions / write-up in the README.md
 
 #optimization
 #compress.html
