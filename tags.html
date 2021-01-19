@@ -9,7 +9,6 @@ title: Tags
     <a href="#{{ tag[0] | slugify }}">{{ tag[0] }}</a>
     {% endfor %}
   </div>
-  <hr/>
   <div>
     {% for tag in site.tags %}
     <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
