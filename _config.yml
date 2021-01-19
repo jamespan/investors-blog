@@ -2,7 +2,10 @@
 
 title: How I Made $5000 in the Stock Market
 
-permalink: /:title
+collections:
+  posts:
+    output: true
+    permalink: /posts/:slug
 
 baseurl: /
 
