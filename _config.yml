@@ -14,7 +14,7 @@ sass:
 exclude:
 - README.md
 
-tag_page: '/tags/'
+tag_page: '/tags'
 
 highlighter: rouge
 markdown: kramdown
