@@ -8,7 +8,7 @@
 
 <ul class="image-gallery">
     {% for file in include.images %}
-        {% assign filename = file.path | split: "/" | last | replace: file.extname, "" | replace: "market_pulse_", "" %}
+        {% assign filename = file.path | split: "/" | last | replace: file.extname, "" %}
         {% assign url = file.path | relative_url %}
         <li>
             <span>{{ filename }}</span><a href="{{ url }}" title="{{ filename }}"><img src="{{ url }}" alt="{{ filename }}" title="{{ filename }}" /></a>
