@@ -1,0 +1,7 @@
+---
+layout: page
+title: Market Pluse
+---
+
+{% assign image_files = site.static_files | where: "market_pulse", true | sort | reverse %}
+{% include image-gallery.html images=image_files %}

@@ -10,6 +10,12 @@ baseurl: /
 sass: 
   style: compressed
 
+defaults:
+  - scope:
+      path: "_assets/img/pulse"
+    values:
+      market_pulse: true
+
 ### exclude the instructions / write-up in the README.md
 exclude:
 - README.md
