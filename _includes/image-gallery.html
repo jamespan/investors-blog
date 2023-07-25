@@ -6,12 +6,10 @@
     .image-gallery li a img {width: 100%; display: block;}
 </style>
 
-<ul class="image-gallery">
+<ul class="gallery">
     {% for file in include.images %}
         {% assign filename = file.path | split: "/" | last | replace: file.extname, "" | replace: "market_pulse_", "" %}
         {% assign url = file.path | relative_url %}
-        <li>
-            <a href="{{ url }}" title="{{ filename }}"><img src="{{ url }}" alt="{{ filename }}" title="{{ filename }}" /><span>{{ filename }}</span></a>
-        </li>
+        <img src="{{ url }}" alt="{{ filename }}" title="{{ filename }}" />
     {% endfor %}
 </ul>
