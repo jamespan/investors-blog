@@ -6,15 +6,11 @@ collections:
     permalink: /posts/:slug
   columns:
     output: true
-    permalink: /columns/:slug
 
 baseurl: /
 
 sass: 
   style: compressed
-
-include:
-  - assets
 
 defaults:
   - scope:
