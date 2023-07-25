@@ -1,5 +1,5 @@
 <style>
-    .image-gallery {overflow: auto; display: flex; margin-left: -1%!important; flex-wrap: wrap; flex-direction: row; align-items: flex-end;}
+    .image-gallery {overflow: auto; display: flex; margin-left: -1%!important; flex-wrap: wrap; flex-direction: row; align-items: flex-start;}
     .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
@@ -11,7 +11,7 @@
         {% assign filename = file.path | split: "/" | last | replace: file.extname, "" | replace: "market_pulse_", "" %}
         {% assign url = file.path | relative_url %}
         <li>
-            <a href="{{ url }}" title="{{ filename }}"><img src="{{ url }}" alt="{{ filename }}" title="{{ filename }}" /><span>{{ filename }}</span></a>
+            <span>{{ filename }}</span><a href="{{ url }}" title="{{ filename }}"><img src="{{ url }}" alt="{{ filename }}" title="{{ filename }}" /></a>
         </li>
     {% endfor %}
 </ul>
