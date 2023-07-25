@@ -10,9 +10,12 @@ baseurl: /
 sass: 
   style: compressed
 
+include:
+  - assets
+
 defaults:
   - scope:
-      path: "_assets/img/pulse"
+      path: "assets/img/pulse"
     values:
       market_pulse: true
 

@@ -1,0 +1,1101 @@
+
+<!doctype html>
+<html class="no-js" lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script type="text/javascript">
+;window.NREUM||(NREUM={});NREUM.init={distributed_tracing:{enabled:true},privacy:{cookies_enabled:true},ajax:{deny_list:["bam.nr-data.net"]}};;NREUM.loader_config={accountID:"3396106",trustKey:"1022681",agentID:"1386087247",licenseKey:"NRJS-1d1f3abf755c31b57a1",applicationID:"1371019354"}
+;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"NRJS-1d1f3abf755c31b57a1",applicationID:"1371019354",sa:1};(()=>{"use strict";var e,t,r={625:(e,t,r)=>{r.d(t,{I:()=>n});var n=0,i=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);i&&(n=+i[1])},7442:(e,t,r)=>{r.d(t,{T:()=>n,p:()=>i});const n=/(iPad|iPhone|iPod)/g.test(navigator.userAgent),i=n&&Boolean("undefined"==typeof SharedWorker)},5763:(e,t,r)=>{r.d(t,{P_:()=>l,Mt:()=>g,C5:()=>s,DL:()=>v,OP:()=>T,lF:()=>D,Yu:()=>y,Dg:()=>h,CX:()=>c,GE:()=>b,sU:()=>_});var n=r(8632),i=r(9567);const o={beacon:n.ce.beacon,errorBeacon:n.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},a={};function s(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!a[e])throw new Error("Info for ".concat(e," was never set"));return a[e]}function c(e,t){if(!e)throw new Error("All info objects require an agent identifier!");a[e]=(0,i.D)(t,o),(0,n.Qy)(e,a[e],"info")}var u=r(7056);const d=()=>{const e={blockSelector:"[data-nr-block]",maskInputOptions:{password:!0}};return{allow_bfcache:!0,privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,enabled:!0,harvestTimeSeconds:10},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},session:{domain:void 0,expiresMs:u.oD,inactiveMs:u.Hb},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0,harvestTimeSeconds:10},metrics:{enabled:!0},page_action:{enabled:!0,harvestTimeSeconds:30},page_view_event:{enabled:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30,long_task:!1},session_trace:{enabled:!0,harvestTimeSeconds:10},session_replay:{enabled:!1,harvestTimeSeconds:60,sampleRate:.1,errorSampleRate:.1,maskTextSelector:"*",maskAllInputs:!0,get blockClass(){return"nr-block"},get ignoreClass(){return"nr-ignore"},get maskTextClass(){return"nr-mask"},get blockSelector(){return e.blockSelector},set blockSelector(t){e.blockSelector+=",".concat(t)},get maskInputOptions(){return e.maskInputOptions},set maskInputOptions(t){e.maskInputOptions={...t,password:!0}}},spa:{enabled:!0,harvestTimeSeconds:10}}},f={};function l(e){if(!e)throw new Error("All configuration objects require an agent identifier!");if(!f[e])throw new Error("Configuration for ".concat(e," was never set"));return f[e]}function h(e,t){if(!e)throw new Error("All configuration objects require an agent identifier!");f[e]=(0,i.D)(t,d()),(0,n.Qy)(e,f[e],"config")}function g(e,t){if(!e)throw new Error("All configuration objects require an agent identifier!");var r=l(e);if(r){for(var n=t.split("."),i=0;i<n.length-1;i++)if("object"!=typeof(r=r[n[i]]))return;r=r[n[n.length-1]]}return r}const p={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},m={};function v(e){if(!e)throw new Error("All loader-config objects require an agent identifier!");if(!m[e])throw new Error("LoaderConfig for ".concat(e," was never set"));return m[e]}function b(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");m[e]=(0,i.D)(t,p),(0,n.Qy)(e,m[e],"loader_config")}const y=(0,n.mF)().o;var w=r(1720),x=r(6818);const A={buildEnv:x.Re,bytesSent:{},queryBytesSent:{},customTransaction:void 0,disabled:!1,distMethod:x.gF,isolatedBacklog:!1,loaderType:void 0,maxBytes:3e4,offset:Math.floor(w._A?.performance?.timeOrigin||w._A?.performance?.timing?.navigationStart||Date.now()),onerror:void 0,origin:""+w._A.location,ptid:void 0,releaseIds:{},session:void 0,xhrWrappable:"function"==typeof w._A.XMLHttpRequest?.prototype?.addEventListener,version:x.q4},E={};function T(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!E[e])throw new Error("Runtime for ".concat(e," was never set"));return E[e]}function _(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");E[e]=(0,i.D)(t,A),(0,n.Qy)(e,E[e],"runtime")}function D(e){return function(e){try{const t=s(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}(e)}},9567:(e,t,r)=>{r.d(t,{D:()=>i});var n=r(50);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.Z)("Setting a Configurable requires an object as input");if(!t||"object"!=typeof t)return(0,n.Z)("Setting a Configurable requires a model to set its initial properties");const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),o=0===Object.keys(r).length?e:r;for(let a in o)if(void 0!==e[a])try{"object"==typeof e[a]&&"object"==typeof t[a]?r[a]=i(e[a],t[a]):r[a]=e[a]}catch(e){(0,n.Z)("An error occurred while setting a property of a Configurable",e)}return r}catch(e){(0,n.Z)("An error occured while setting a Configurable",e)}}},6818:(e,t,r)=>{r.d(t,{Re:()=>i,gF:()=>o,q4:()=>n});const n="1.235.0",i="PROD",o="CDN"},1117:(e,t,r)=>{r.d(t,{w:()=>o});var n=r(50);const i={agentIdentifier:"",ee:void 0};class o{constructor(e){try{if("object"!=typeof e)return(0,n.Z)("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,i),Object.entries(e).forEach((e=>{let[t,r]=e;Object.keys(i).includes(t)&&(this.sharedContext[t]=r)}))}catch(e){(0,n.Z)("An error occured while setting SharedContext",e)}}}},8e3:(e,t,r)=>{r.d(t,{L:()=>d,R:()=>c});var n=r(2177),i=r(1284),o=r(4322),a=r(3325);const s={};function c(e,t){const r={staged:!1,priority:a.p[t]||0};u(e),s[e].get(t)||s[e].set(t,r)}function u(e){e&&(s[e]||(s[e]=new Map))}function d(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"",t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"feature";if(u(e),!e||!s[e].get(t))return a(t);s[e].get(t).staged=!0;const r=[...s[e]];function a(t){const r=e?n.ee.get(e):n.ee,a=o.X.handlers;if(r.backlog&&a){var s=r.backlog[t],c=a[t];if(c){for(var u=0;s&&u<s.length;++u)f(s[u],c);(0,i.D)(c,(function(e,t){(0,i.D)(t,(function(t,r){r[0].on(e,r[1])}))}))}delete a[t],r.backlog[t]=null,r.emit("drain-"+t,[])}}r.every((e=>{let[t,r]=e;return r.staged}))&&(r.sort(((e,t)=>e[1].priority-t[1].priority)),r.forEach((e=>{let[t]=e;a(t)})))}function f(e,t){var r=e[1];(0,i.D)(t[r],(function(t,r){var n=e[0];if(r[0]===n){var i=r[1],o=e[3],a=e[2];i.apply(o,a)}}))}},2177:(e,t,r)=>{r.d(t,{c:()=>f,ee:()=>u});var n=r(8632),i=r(2210),o=r(1284),a=r(5763),s="nr@context";let c=(0,n.fP)();var u;function d(){}function f(e){return(0,i.X)(e,s,l)}function l(){return new d}function h(){u.aborted=!0,u.backlog={}}c.ee?u=c.ee:(u=function e(t,r){var n={},c={},f={},g=!1;try{g=16===r.length&&(0,a.OP)(r).isolatedBacklog}catch(e){}var p={on:b,addEventListener:b,removeEventListener:y,emit:v,get:x,listeners:w,context:m,buffer:A,abort:h,aborted:!1,isBuffering:E,debugId:r,backlog:g?{}:t&&"object"==typeof t.backlog?t.backlog:{}};return p;function m(e){return e&&e instanceof d?e:e?(0,i.X)(e,s,l):l()}function v(e,r,n,i,o){if(!1!==o&&(o=!0),!u.aborted||i){t&&o&&t.emit(e,r,n);for(var a=m(n),s=w(e),d=s.length,f=0;f<d;f++)s[f].apply(a,r);var l=T()[c[e]];return l&&l.push([p,e,r,a]),a}}function b(e,t){n[e]=w(e).concat(t)}function y(e,t){var r=n[e];if(r)for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)}function w(e){return n[e]||[]}function x(t){return f[t]=f[t]||e(p,t)}function A(e,t){var r=T();p.aborted||(0,o.D)(e,(function(e,n){t=t||"feature",c[n]=t,t in r||(r[t]=[])}))}function E(e){return!!T()[c[e]]}function T(){return p.backlog}}(void 0,"globalEE"),c.ee=u)},5546:(e,t,r)=>{r.d(t,{E:()=>n,p:()=>i});var n=r(2177).ee.get("handle");function i(e,t,r,i,o){o?(o.buffer([e],i),o.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}},4322:(e,t,r)=>{r.d(t,{X:()=>o});var n=r(5546);o.on=a;var i=o.handlers={};function o(e,t,r,o){a(o||n.E,i,e,t,r)}function a(e,t,r,i,o){o||(o="feature"),e||(e=n.E);var a=t[o]=t[o]||{};(a[r]=a[r]||[]).push([e,i])}},3239:(e,t,r)=>{r.d(t,{bP:()=>s,iz:()=>c,m$:()=>a});var n=r(1720);let i=!1,o=!1;try{const e={get passive(){return i=!0,!1},get signal(){return o=!0,!1}};n._A.addEventListener("test",null,e),n._A.removeEventListener("test",null,e)}catch(e){}function a(e,t){return i||o?{capture:!!e,passive:i,signal:t}:!!e}function s(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;window.addEventListener(e,t,a(r,n))}function c(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;document.addEventListener(e,t,a(r,n))}},4402:(e,t,r)=>{r.d(t,{Ht:()=>u,M:()=>c,Rl:()=>a,ky:()=>s});var n=r(1720);const i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";function o(e,t){return e?15&e[t]:16*Math.random()|0}function a(){const e=n._A?.crypto||n._A?.msCrypto;let t,r=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(31))),i.split("").map((e=>"x"===e?o(t,++r).toString(16):"y"===e?(3&o()|8).toString(16):e)).join("")}function s(e){const t=n._A?.crypto||n._A?.msCrypto;let r,i=0;t&&t.getRandomValues&&(r=t.getRandomValues(new Uint8Array(31)));const a=[];for(var s=0;s<e;s++)a.push(o(r,++i).toString(16));return a.join("")}function c(){return s(16)}function u(){return s(32)}},7056:(e,t,r)=>{r.d(t,{Bq:()=>n,Hb:()=>o,oD:()=>i});const n="NRBA",i=144e5,o=18e5},7894:(e,t,r)=>{function n(){return Math.round(performance.now())}r.d(t,{z:()=>n})},7243:(e,t,r)=>{r.d(t,{e:()=>o});var n=r(1720),i={};function o(e){if(e in i)return i[e];if(0===(e||"").indexOf("data:"))return{protocol:"data"};let t;var r=n._A?.location,o={};if(n.il)t=document.createElement("a"),t.href=e;else try{t=new URL(e,r.href)}catch(e){return o}o.port=t.port;var a=t.href.split("://");!o.port&&a[1]&&(o.port=a[1].split("/")[0].split("@").pop().split(":")[1]),o.port&&"0"!==o.port||(o.port="https"===a[0]?"443":"80"),o.hostname=t.hostname||r.hostname,o.pathname=t.pathname,o.protocol=a[0],"/"!==o.pathname.charAt(0)&&(o.pathname="/"+o.pathname);var s=!t.protocol||":"===t.protocol||t.protocol===r.protocol,c=t.hostname===r.hostname&&t.port===r.port;return o.sameOrigin=s&&(!t.hostname||c),"/"===o.pathname&&(i[e]=o),o}},50:(e,t,r)=>{function n(e,t){"function"==typeof console.warn&&(console.warn("New Relic: ".concat(e)),t&&console.warn(t))}r.d(t,{Z:()=>n})},2587:(e,t,r)=>{r.d(t,{N:()=>c,T:()=>u});var n=r(2177),i=r(5546),o=r(8e3),a=r(3325);const s={stn:[a.D.sessionTrace],err:[a.D.jserrors,a.D.metrics],ins:[a.D.pageAction],spa:[a.D.spa],sr:[a.D.sessionReplay,a.D.sessionTrace]};function c(e,t){const r=n.ee.get(t);e&&"object"==typeof e&&(Object.entries(e).forEach((e=>{let[t,n]=e;void 0===u[t]&&(s[t]?s[t].forEach((e=>{n?(0,i.p)("feat-"+t,[],void 0,e,r):(0,i.p)("block-"+t,[],void 0,e,r),(0,i.p)("rumresp-"+t,[Boolean(n)],void 0,e,r)})):n&&(0,i.p)("feat-"+t,[],void 0,void 0,r),u[t]=Boolean(n))})),Object.keys(s).forEach((e=>{void 0===u[e]&&(s[e]?.forEach((t=>(0,i.p)("rumresp-"+e,[!1],void 0,t,r))),u[e]=!1)})),(0,o.L)(t,a.D.pageViewEvent))}const u={}},2210:(e,t,r)=>{r.d(t,{X:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},1720:(e,t,r)=>{r.d(t,{FN:()=>a,_A:()=>o,il:()=>n,v6:()=>i});const n=Boolean("undefined"!=typeof window&&window.document),i=Boolean("undefined"!=typeof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator);let o=(()=>{if(n)return window;if(i){if("undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope)return globalThis;if(self instanceof WorkerGlobalScope)return self}throw new Error('New Relic browser agent shutting down due to error: Unable to locate global scope. This is possibly due to code redefining browser global variables like "self" and "window".')})();const a=""+o.location},1284:(e,t,r)=>{r.d(t,{D:()=>n});const n=(e,t)=>Object.entries(e||{}).map((e=>{let[r,n]=e;return t(r,n)}))},4351:(e,t,r)=>{r.d(t,{P:()=>o});var n=r(2177);const i=()=>{const e=new WeakSet;return(t,r)=>{if("object"==typeof r&&null!==r){if(e.has(r))return;e.add(r)}return r}};function o(e){try{return JSON.stringify(e,i())}catch(e){try{n.ee.emit("internal-error",[e])}catch(e){}}}},3960:(e,t,r)=>{r.d(t,{K:()=>a,b:()=>o});var n=r(3239);function i(){return"undefined"==typeof document||"complete"===document.readyState}function o(e,t){if(i())return e();(0,n.bP)("load",e,t)}function a(e){if(i())return e();(0,n.iz)("DOMContentLoaded",e)}},8632:(e,t,r)=>{r.d(t,{EZ:()=>u,Qy:()=>c,ce:()=>o,fP:()=>a,gG:()=>d,mF:()=>s});var n=r(7894),i=r(1720);const o={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function a(){return i._A.NREUM||(i._A.NREUM={}),void 0===i._A.newrelic&&(i._A.newrelic=i._A.NREUM),i._A.NREUM}function s(){let e=a();return e.o||(e.o={ST:i._A.setTimeout,SI:i._A.setImmediate,CT:i._A.clearTimeout,XHR:i._A.XMLHttpRequest,REQ:i._A.Request,EV:i._A.Event,PR:i._A.Promise,MO:i._A.MutationObserver,FETCH:i._A.fetch}),e}function c(e,t,r){let i=a();const o=i.initializedAgents||{},s=o[e]||{};return Object.keys(s).length||(s.initializedAt={ms:(0,n.z)(),date:new Date}),i.initializedAgents={...o,[e]:{...s,[r]:t}},i}function u(e,t){a()[e]=t}function d(){return function(){let e=a();const t=e.info||{};e.info={beacon:o.beacon,errorBeacon:o.errorBeacon,...t}}(),function(){let e=a();const t=e.init||{};e.init={...t}}(),s(),function(){let e=a();const t=e.loader_config||{};e.loader_config={...t}}(),a()}},7956:(e,t,r)=>{r.d(t,{N:()=>i});var n=r(3239);function i(e){let t=arguments.length>1&&void 0!==arguments[1]&&arguments[1],r=arguments.length>2?arguments[2]:void 0,i=arguments.length>3?arguments[3]:void 0;return void(0,n.iz)("visibilitychange",(function(){if(t)return void("hidden"==document.visibilityState&&e());e(document.visibilityState)}),r,i)}},1214:(e,t,r)=>{r.d(t,{em:()=>v,u5:()=>N,QU:()=>S,_L:()=>I,Gm:()=>L,Lg:()=>M,gy:()=>U,BV:()=>Q,Kf:()=>ee});var n=r(2177);const i="nr@original";var o=Object.prototype.hasOwnProperty,a=!1;function s(e,t){return e||(e=n.ee),r.inPlace=function(e,t,n,i,o){n||(n="");var a,s,c,u="-"===n.charAt(0);for(c=0;c<t.length;c++)d(a=e[s=t[c]])||(e[s]=r(a,u?s+n:n,i,s,o))},r.flag=i,r;function r(t,r,n,a,s){return d(t)?t:(r||(r=""),nrWrapper[i]=t,u(t,nrWrapper,e),nrWrapper);function nrWrapper(){var i,u,d,f;try{u=this,i=[...arguments],d="function"==typeof n?n(i,u):n||{}}catch(t){c([t,"",[i,u,a],d],e)}o(r+"start",[i,u,a],d,s);try{return f=t.apply(u,i)}catch(e){throw o(r+"err",[i,u,e],d,s),e}finally{o(r+"end",[i,u,f],d,s)}}}function o(r,n,i,o){if(!a||t){var s=a;a=!0;try{e.emit(r,n,i,t,o)}catch(t){c([t,r,n,i],e)}a=s}}}function c(e,t){t||(t=n.ee);try{t.emit("internal-error",e)}catch(e){}}function u(e,t,r){if(Object.defineProperty&&Object.keys)try{return Object.keys(e).forEach((function(r){Object.defineProperty(t,r,{get:function(){return e[r]},set:function(t){return e[r]=t,t}})})),t}catch(e){c([e],r)}for(var n in e)o.call(e,n)&&(t[n]=e[n]);return t}function d(e){return!(e&&e instanceof Function&&e.apply&&!e[i])}var f=r(2210),l=r(1720);const h={},g=XMLHttpRequest,p="addEventListener",m="removeEventListener";function v(e){var t=function(e){return(e||n.ee).get("events")}(e);if(h[t.debugId]++)return t;h[t.debugId]=1;var r=s(t,!0);function i(e){r.inPlace(e,[p,m],"-",o)}function o(e,t){return e[1]}return"getPrototypeOf"in Object&&(l.il&&b(document,i),b(l._A,i),b(g.prototype,i)),t.on(p+"-start",(function(e,t){var n=e[1];if(null!==n&&("function"==typeof n||"object"==typeof n)){var i=(0,f.X)(n,"nr@wrapped",(function(){var e={object:function(){if("function"!=typeof n.handleEvent)return;return n.handleEvent.apply(n,arguments)},function:n}[typeof n];return e?r(e,"fn-",null,e.name||"anonymous"):n}));this.wrapped=e[1]=i}})),t.on(m+"-start",(function(e){e[1]=this.wrapped||e[1]})),t}function b(e,t){let r=e;for(;"object"==typeof r&&!Object.prototype.hasOwnProperty.call(r,p);)r=Object.getPrototypeOf(r);for(var n=arguments.length,i=new Array(n>2?n-2:0),o=2;o<n;o++)i[o-2]=arguments[o];r&&t(r,...i)}var y="fetch-",w=y+"body-",x=["arrayBuffer","blob","json","text","formData"],A=l._A.Request,E=l._A.Response,T="prototype",_="nr@context";const D={};function N(e){const t=function(e){return(e||n.ee).get("fetch")}(e);if(!(A&&E&&l._A.fetch))return t;if(D[t.debugId]++)return t;function r(e,r,n){var i=e[r];"function"==typeof i&&(e[r]=function(){var e,r=[...arguments],o={};t.emit(n+"before-start",[r],o),o[_]&&o[_].dt&&(e=o[_].dt);var a=i.apply(this,r);return t.emit(n+"start",[r,e],a),a.then((function(e){return t.emit(n+"end",[null,e],a),e}),(function(e){throw t.emit(n+"end",[e],a),e}))})}return D[t.debugId]=1,x.forEach((e=>{r(A[T],e,w),r(E[T],e,w)})),r(l._A,"fetch",y),t.on(y+"end",(function(e,r){var n=this;if(r){var i=r.headers.get("content-length");null!==i&&(n.rxSize=i),t.emit(y+"done",[null,r],n)}else t.emit(y+"done",[e],n)})),t}const O={},j=["pushState","replaceState"];function S(e){const t=function(e){return(e||n.ee).get("history")}(e);return!l.il||O[t.debugId]++||(O[t.debugId]=1,s(t).inPlace(window.history,j,"-")),t}var P=r(3239);const C={},R=["appendChild","insertBefore","replaceChild"];function I(e){const t=function(e){return(e||n.ee).get("jsonp")}(e);if(!l.il||C[t.debugId])return t;C[t.debugId]=!0;var r=s(t),i=/[?&](?:callback|cb)=([^&#]+)/,o=/(.*)\.([^.]+)/,a=/^(\w+)(\.|$)(.*)$/;function c(e,t){var r=e.match(a),n=r[1],i=r[3];return i?c(i,t[n]):t[n]}return r.inPlace(Node.prototype,R,"dom-"),t.on("dom-start",(function(e){!function(e){if(!e||"string"!=typeof e.nodeName||"script"!==e.nodeName.toLowerCase())return;if("function"!=typeof e.addEventListener)return;var n=(a=e.src,s=a.match(i),s?s[1]:null);var a,s;if(!n)return;var u=function(e){var t=e.match(o);if(t&&t.length>=3)return{key:t[2],parent:c(t[1],window)};return{key:e,parent:window}}(n);if("function"!=typeof u.parent[u.key])return;var d={};function f(){t.emit("jsonp-end",[],d),e.removeEventListener("load",f,(0,P.m$)(!1)),e.removeEventListener("error",l,(0,P.m$)(!1))}function l(){t.emit("jsonp-error",[],d),t.emit("jsonp-end",[],d),e.removeEventListener("load",f,(0,P.m$)(!1)),e.removeEventListener("error",l,(0,P.m$)(!1))}r.inPlace(u.parent,[u.key],"cb-",d),e.addEventListener("load",f,(0,P.m$)(!1)),e.addEventListener("error",l,(0,P.m$)(!1)),t.emit("new-jsonp",[e.src],d)}(e[0])})),t}var k=r(5763);const H={};function L(e){const t=function(e){return(e||n.ee).get("mutation")}(e);if(!l.il||H[t.debugId])return t;H[t.debugId]=!0;var r=s(t),i=k.Yu.MO;return i&&(window.MutationObserver=function(e){return this instanceof i?new i(r(e,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype),t}const z={};function M(e){const t=function(e){return(e||n.ee).get("promise")}(e);if(z[t.debugId])return t;z[t.debugId]=!0;var r=n.c,o=s(t),a=k.Yu.PR;return a&&function(){function e(r){var n=t.context(),i=o(r,"executor-",n,null,!1);const s=Reflect.construct(a,[i],e);return t.context(s).getCtx=function(){return n},s}l._A.Promise=e,Object.defineProperty(e,"name",{value:"Promise"}),e.toString=function(){return a.toString()},Object.setPrototypeOf(e,a),["all","race"].forEach((function(r){const n=a[r];e[r]=function(e){let i=!1;[...e||[]].forEach((e=>{this.resolve(e).then(a("all"===r),a(!1))}));const o=n.apply(this,arguments);return o;function a(e){return function(){t.emit("propagate",[null,!i],o,!1,!1),i=i||!e}}}})),["resolve","reject"].forEach((function(r){const n=a[r];e[r]=function(e){const r=n.apply(this,arguments);return e!==r&&t.emit("propagate",[e,!0],r,!1,!1),r}})),e.prototype=a.prototype;const n=a.prototype.then;a.prototype.then=function(){var e=this,i=r(e);i.promise=e;for(var a=arguments.length,s=new Array(a),c=0;c<a;c++)s[c]=arguments[c];s[0]=o(s[0],"cb-",i,null,!1),s[1]=o(s[1],"cb-",i,null,!1);const u=n.apply(this,s);return i.nextPromise=u,t.emit("propagate",[e,!0],u,!1,!1),u},a.prototype.then[i]=n,t.on("executor-start",(function(e){e[0]=o(e[0],"resolve-",this,null,!1),e[1]=o(e[1],"resolve-",this,null,!1)})),t.on("executor-err",(function(e,t,r){e[1](r)})),t.on("cb-end",(function(e,r,n){t.emit("propagate",[n,!0],this.nextPromise,!1,!1)})),t.on("propagate",(function(e,r,n){this.getCtx&&!r||(this.getCtx=function(){if(e instanceof Promise)var r=t.context(e);return r&&r.getCtx?r.getCtx():this})}))}(),t}const B={},F="requestAnimationFrame";function U(e){const t=function(e){return(e||n.ee).get("raf")}(e);if(!l.il||B[t.debugId]++)return t;B[t.debugId]=1;var r=s(t);return r.inPlace(window,[F],"raf-"),t.on("raf-start",(function(e){e[0]=r(e[0],"fn-")})),t}const q={},G="setTimeout",V="setInterval",X="clearTimeout",Z="-start",W="-",$=[G,"setImmediate",V,X,"clearImmediate"];function Q(e){const t=function(e){return(e||n.ee).get("timer")}(e);if(q[t.debugId]++)return t;q[t.debugId]=1;var r=s(t);return r.inPlace(l._A,$.slice(0,2),G+W),r.inPlace(l._A,$.slice(2,3),V+W),r.inPlace(l._A,$.slice(3),X+W),t.on(V+Z,(function(e,t,n){e[0]=r(e[0],"fn-",null,n)})),t.on(G+Z,(function(e,t,n){this.method=n,this.timerDuration=isNaN(e[1])?0:+e[1],e[0]=r(e[0],"fn-",this,n)})),t}var Y=r(50);const K={},J=["open","send"];function ee(e){var t=e||n.ee;const r=function(e){return(e||n.ee).get("xhr")}(t);if(K[r.debugId]++)return r;K[r.debugId]=1,v(t);var i=s(r),o=k.Yu.XHR,a=k.Yu.MO,c=k.Yu.PR,u=k.Yu.SI,d="readystatechange",f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],h=[],g=l._A.XMLHttpRequest.listeners,p=l._A.XMLHttpRequest=function(e){var t=new o(e);function n(){try{r.emit("new-xhr",[t],t),t.addEventListener(d,b,(0,P.m$)(!1))}catch(e){(0,Y.Z)("An error occured while intercepting XHR",e);try{r.emit("internal-error",[e])}catch(e){}}}return this.listeners=g?[...g,n]:[n],this.listeners.forEach((e=>e())),t};function m(e,t){i.inPlace(t,["onreadystatechange"],"fn-",E)}function b(){var e=this,t=r.context(e);e.readyState>3&&!t.resolved&&(t.resolved=!0,r.emit("xhr-resolved",[],e)),i.inPlace(e,f,"fn-",E)}if(function(e,t){for(var r in e)t[r]=e[r]}(o,p),p.prototype=o.prototype,i.inPlace(p.prototype,J,"-xhr-",E),r.on("send-xhr-start",(function(e,t){m(e,t),function(e){h.push(e),a&&(y?y.then(A):u?u(A):(w=-w,x.data=w))}(t)})),r.on("open-xhr-start",m),a){var y=c&&c.resolve();if(!u&&!c){var w=1,x=document.createTextNode(w);new a(A).observe(x,{characterData:!0})}}else t.on("fn-end",(function(e){e[0]&&e[0].type===d||A()}));function A(){for(var e=0;e<h.length;e++)m(0,h[e]);h.length&&(h=[])}function E(e,t){return t}return r}},7825:(e,t,r)=>{r.d(t,{t:()=>n});const n=r(3325).D.ajax},6660:(e,t,r)=>{r.d(t,{A:()=>i,t:()=>n});const n=r(3325).D.jserrors,i="nr@seenError"},3081:(e,t,r)=>{r.d(t,{gF:()=>o,mY:()=>i,t9:()=>n,vz:()=>s,xS:()=>a});const n=r(3325).D.metrics,i="sm",o="cm",a="storeSupportabilityMetrics",s="storeEventMetrics"},4649:(e,t,r)=>{r.d(t,{t:()=>n});const n=r(3325).D.pageAction},7633:(e,t,r)=>{r.d(t,{Dz:()=>i,OJ:()=>a,qw:()=>o,t9:()=>n});const n=r(3325).D.pageViewEvent,i="firstbyte",o="domcontent",a="windowload"},9251:(e,t,r)=>{r.d(t,{t:()=>n});const n=r(3325).D.pageViewTiming},3614:(e,t,r)=>{r.d(t,{BST_RESOURCE:()=>i,END:()=>s,FEATURE_NAME:()=>n,FN_END:()=>u,FN_START:()=>c,PUSH_STATE:()=>d,RESOURCE:()=>o,START:()=>a});const n=r(3325).D.sessionTrace,i="bstResource",o="resource",a="-start",s="-end",c="fn"+a,u="fn"+s,d="pushState"},7836:(e,t,r)=>{r.d(t,{BODY:()=>A,CB_END:()=>E,CB_START:()=>u,END:()=>x,FEATURE_NAME:()=>i,FETCH:()=>_,FETCH_BODY:()=>v,FETCH_DONE:()=>m,FETCH_START:()=>p,FN_END:()=>c,FN_START:()=>s,INTERACTION:()=>l,INTERACTION_API:()=>d,INTERACTION_EVENTS:()=>o,JSONP_END:()=>b,JSONP_NODE:()=>g,JS_TIME:()=>T,MAX_TIMER_BUDGET:()=>a,REMAINING:()=>f,SPA_NODE:()=>h,START:()=>w,originalSetTimeout:()=>y});var n=r(5763);const i=r(3325).D.spa,o=["click","submit","keypress","keydown","keyup","change"],a=999,s="fn-start",c="fn-end",u="cb-start",d="api-ixn-",f="remaining",l="interaction",h="spaNode",g="jsonpNode",p="fetch-start",m="fetch-done",v="fetch-body-",b="jsonp-end",y=n.Yu.ST,w="-start",x="-end",A="-body",E="cb"+x,T="jsTime",_="fetch"},5938:(e,t,r)=>{r.d(t,{W:()=>o});var n=r(5763),i=r(2177);class o{constructor(e,t,r){this.agentIdentifier=e,this.aggregator=t,this.ee=i.ee.get(e,(0,n.OP)(this.agentIdentifier).isolatedBacklog),this.featureName=r,this.blocked=!1}}},9144:(e,t,r)=>{r.d(t,{j:()=>m});var n=r(3325),i=r(5763),o=r(5546),a=r(2177),s=r(7894),c=r(8e3),u=r(3960),d=r(1720),f=r(50),l=r(3081),h=r(8632);function g(){const e=(0,h.gG)();["setErrorHandler","finished","addToTrace","inlineHit","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError","setUserId"].forEach((t=>{e[t]=function(){for(var r=arguments.length,n=new Array(r),i=0;i<r;i++)n[i]=arguments[i];return function(t){for(var r=arguments.length,n=new Array(r>1?r-1:0),i=1;i<r;i++)n[i-1]=arguments[i];let o=[];return Object.values(e.initializedAgents).forEach((e=>{e.exposed&&e.api[t]&&o.push(e.api[t](...n))})),o.length>1?o:o[0]}(t,...n)}}))}var p=r(2587);function m(e){let t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},m=arguments.length>2?arguments[2]:void 0,v=arguments.length>3?arguments[3]:void 0,{init:b,info:y,loader_config:w,runtime:x={loaderType:m},exposed:A=!0}=t;const E=(0,h.gG)();y||(b=E.init,y=E.info,w=E.loader_config),(0,i.Dg)(e,b||{}),(0,i.GE)(e,w||{}),(0,i.sU)(e,x),y.jsAttributes??={},d.v6&&(y.jsAttributes.isWorker=!0),(0,i.CX)(e,y),g();const T=function(e,t){t||(0,c.R)(e,"api");const h={};var g=a.ee.get(e),p=g.get("tracer"),m="api-",v=m+"ixn-";function b(t,r,n,o){const a=(0,i.C5)(e);return null===r?delete a.jsAttributes[t]:(0,i.CX)(e,{...a,jsAttributes:{...a.jsAttributes,[t]:r}}),x(m,n,!0,o||null===r?"session":void 0)(t,r)}function y(){}["setErrorHandler","finished","addToTrace","inlineHit","addRelease"].forEach((e=>h[e]=x(m,e,!0,"api"))),h.addPageAction=x(m,"addPageAction",!0,n.D.pageAction),h.setCurrentRouteName=x(m,"routeName",!0,n.D.spa),h.setPageViewName=function(t,r){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,i.OP)(e).customTransaction=(r||"http://custom.transaction")+t,x(m,"setPageViewName",!0)()},h.setCustomAttribute=function(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2];if("string"==typeof e){if(["string","number"].includes(typeof t)||null===t)return b(e,t,"setCustomAttribute",r);(0,f.Z)("Failed to execute setCustomAttribute.\nNon-null value must be a string or number type, but a type of <".concat(typeof t,"> was provided."))}else(0,f.Z)("Failed to execute setCustomAttribute.\nName must be a string type, but a type of <".concat(typeof e,"> was provided."))},h.setUserId=function(e){if("string"==typeof e||null===e)return b("enduser.id",e,"setUserId",!0);(0,f.Z)("Failed to execute setUserId.\nNon-null value must be a string type, but a type of <".concat(typeof e,"> was provided."))},h.interaction=function(){return(new y).get()};var w=y.prototype={createTracer:function(e,t){var r={},i=this,a="function"==typeof t;return(0,o.p)(v+"tracer",[(0,s.z)(),e,r],i,n.D.spa,g),function(){if(p.emit((a?"":"no-")+"fn-start",[(0,s.z)(),i,a],r),a)try{return t.apply(this,arguments)}catch(e){throw p.emit("fn-err",[arguments,this,"string"==typeof e?new Error(e):e],r),e}finally{p.emit("fn-end",[(0,s.z)()],r)}}}};function x(e,t,r,i){return function(){return(0,o.p)(l.xS,["API/"+t+"/called"],void 0,n.D.metrics,g),i&&(0,o.p)(e+t,[(0,s.z)(),...arguments],r?null:this,i,g),r?void 0:this}}function A(){r.e(439).then(r.bind(r,7438)).then((t=>{let{setAPI:r}=t;r(e),(0,c.L)(e,"api")})).catch((()=>(0,f.Z)("Downloading runtime APIs failed...")))}return["actionText","setName","setAttribute","save","ignore","onEnd","getContext","end","get"].forEach((e=>{w[e]=x(v,e,void 0,n.D.spa)})),h.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),(0,o.p)(l.xS,["API/noticeError/called"],void 0,n.D.metrics,g),(0,o.p)("err",[e,(0,s.z)(),!1,t],void 0,n.D.jserrors,g)},d.il?(0,u.b)((()=>A()),!0):A(),h}(e,v);return(0,h.Qy)(e,T,"api"),(0,h.Qy)(e,A,"exposed"),(0,h.EZ)("activatedFeatures",p.T),T}},3325:(e,t,r)=>{r.d(t,{D:()=>n,p:()=>i});const n={ajax:"ajax",jserrors:"jserrors",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",spa:"spa"},i={[n.pageViewEvent]:1,[n.pageViewTiming]:2,[n.metrics]:3,[n.jserrors]:4,[n.ajax]:5,[n.sessionTrace]:6,[n.pageAction]:7,[n.spa]:8,[n.sessionReplay]:9}}},n={};function i(e){var t=n[e];if(void 0!==t)return t.exports;var o=n[e]={exports:{}};return r[e](o,o.exports,i),o.exports}i.m=r,i.d=(e,t)=>{for(var r in t)i.o(t,r)&&!i.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,r)=>(i.f[r](e,t),t)),[])),i.u=e=>(({78:"page_action-aggregate",147:"metrics-aggregate",193:"session_trace-aggregate",242:"session-manager",317:"jserrors-aggregate",348:"page_view_timing-aggregate",412:"lazy-feature-loader",439:"async-api",538:"recorder",590:"session_replay-aggregate",675:"compressor",786:"page_view_event-aggregate",873:"spa-aggregate",898:"ajax-aggregate"}[e]||e)+"."+{78:"af5d1c80",147:"7ece083a",148:"03807465",193:"27e34592",242:"2a64278a",317:"dcb6ac07",348:"1c78d061",412:"0ba331d7",439:"d1647fbb",538:"1b18459f",590:"a5e677ba",675:"ae9f91a8",786:"a7935af6",860:"e997904f",873:"5c4318f2",898:"09a31ca7"}[e]+"-1.235.0.min.js"),i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA:",i.l=(r,n,o,a)=>{if(e[r])e[r].push(n);else{var s,c;if(void 0!==o)for(var u=document.getElementsByTagName("script"),d=0;d<u.length;d++){var f=u[d];if(f.getAttribute("src")==r||f.getAttribute("data-webpack")==t+o){s=f;break}}s||(c=!0,(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+o),s.src=r),e[r]=[n];var l=(t,n)=>{s.onerror=s.onload=null,clearTimeout(h);var i=e[r];if(delete e[r],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(n))),t)return t(n)},h=setTimeout(l.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=l.bind(null,s.onerror),s.onload=l.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.j=403,i.p="https://js-agent.newrelic.com/",(()=>{var e={403:0,885:0};i.f.j=(t,r)=>{var n=i.o(e,t)?e[t]:void 0;if(0!==n)if(n)r.push(n[2]);else{var o=new Promise(((r,i)=>n=e[t]=[r,i]));r.push(n[2]=o);var a=i.p+i.u(t),s=new Error;i.l(a,(r=>{if(i.o(e,t)&&(0!==(n=e[t])&&(e[t]=void 0),n)){var o=r&&("load"===r.type?"missing":r.type),a=r&&r.target&&r.target.src;s.message="Loading chunk "+t+" failed.\n("+o+": "+a+")",s.name="ChunkLoadError",s.type=o,s.request=a,n[1](s)}}),"chunk-"+t,t)}};var t=(t,r)=>{var n,o,[a,s,c]=r,u=0;if(a.some((t=>0!==e[t]))){for(n in s)i.o(s,n)&&(i.m[n]=s[n]);if(c)c(i)}for(t&&t(r);u<a.length;u++)o=a[u],i.o(e,o)&&e[o]&&e[o][0](),e[o]=0},r=window.webpackChunkNRBA=window.webpackChunkNRBA||[];r.forEach(t.bind(null,0)),r.push=t.bind(null,r.push.bind(r))})();var o={};(()=>{i.r(o);var e=i(3325),t=i(5763);const r=Object.values(e.D);function n(e){const n={};return r.forEach((r=>{n[r]=function(e,r){return!1!==(0,t.Mt)(r,"".concat(e,".enabled"))}(r,e)})),n}var a=i(9144);var s=i(5546),c=i(7442),u=i(8e3),d=i(5938),f=i(3960),l=i(1720),h=i(50);class g extends d.W{constructor(e,t,r){let n=!(arguments.length>3&&void 0!==arguments[3])||arguments[3];super(e,t,r),this.auto=n,this.abortHandler,this.featAggregate,this.onAggregateImported,n&&(0,u.R)(e,r)}importAggregator(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};if(this.featAggregate||!this.auto)return;const r=l.il&&!0===(0,t.Mt)(this.agentIdentifier,"privacy.cookies_enabled");let n,o;this.onAggregateImported=new Promise(((e,t)=>{n=e,o=t}));const a=async()=>{let t;try{if(r){const{setupAgentSession:e}=await Promise.all([i.e(860),i.e(242)]).then(i.bind(i,3228));t=e(this.agentIdentifier)}}catch(e){(0,h.Z)("A problem occurred when starting up session manager. This page will not start or extend any session.",e)}try{if(!this.shouldImportAgg(this.featureName,t))return void(0,u.L)(this.agentIdentifier,this.featureName);const{lazyFeatureLoader:r}=await i.e(412).then(i.bind(i,8582)),{Aggregate:o}=await r(this.featureName,"aggregate");this.featAggregate=new o(this.agentIdentifier,this.aggregator,e),n()}catch(e){(0,h.Z)("Downloading and initializing ".concat(this.featureName," failed..."),e),this.abortHandler?.(),o()}};l.il?(0,f.b)((()=>a()),!0):a()}shouldImportAgg(r,n){return r!==e.D.sessionReplay||!1!==(0,t.Mt)(this.agentIdentifier,"session_trace.enabled")&&(!!n?.isNew||!!n?.state.sessionReplay)}}var p=i(7633),m=i(7894);class v extends g{static featureName=p.t9;constructor(r,n){let i=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];if(super(r,n,p.t9,i),("undefined"==typeof PerformanceNavigationTiming||c.T)&&"undefined"!=typeof PerformanceTiming){const n=(0,t.OP)(r);n[p.Dz]=Math.max(Date.now()-n.offset,0),(0,f.K)((()=>n[p.qw]=Math.max((0,m.z)()-n[p.Dz],0))),(0,f.b)((()=>{const t=(0,m.z)();n[p.OJ]=Math.max(t-n[p.Dz],0),(0,s.p)("timing",["load",t],void 0,e.D.pageViewTiming,this.ee)}))}this.importAggregator()}}var b=i(1117),y=i(1284);class w extends b.w{constructor(e){super(e),this.aggregatedData={}}store(e,t,r,n,i){var o=this.getBucket(e,t,r,i);return o.metrics=function(e,t){t||(t={count:0});return t.count+=1,(0,y.D)(e,(function(e,r){t[e]=x(r,t[e])})),t}(n,o.metrics),o}merge(e,t,r,n,i){var o=this.getBucket(e,t,n,i);if(o.metrics){var a=o.metrics;a.count+=r.count,(0,y.D)(r,(function(e,t){if("count"!==e){var n=a[e],i=r[e];i&&!i.c?a[e]=x(i.t,n):a[e]=function(e,t){if(!t)return e;t.c||(t=A(t.t));return t.min=Math.min(e.min,t.min),t.max=Math.max(e.max,t.max),t.t+=e.t,t.sos+=e.sos,t.c+=e.c,t}(i,a[e])}}))}else o.metrics=r}storeMetric(e,t,r,n){var i=this.getBucket(e,t,r);return i.stats=x(n,i.stats),i}getBucket(e,t,r,n){this.aggregatedData[e]||(this.aggregatedData[e]={});var i=this.aggregatedData[e][t];return i||(i=this.aggregatedData[e][t]={params:r||{}},n&&(i.custom=n)),i}get(e,t){return t?this.aggregatedData[e]&&this.aggregatedData[e][t]:this.aggregatedData[e]}take(e){for(var t={},r="",n=!1,i=0;i<e.length;i++)t[r=e[i]]=E(this.aggregatedData[r]),t[r].length&&(n=!0),delete this.aggregatedData[r];return n?t:null}}function x(e,t){return null==e?function(e){e?e.c++:e={c:1};return e}(t):t?(t.c||(t=A(t.t)),t.c+=1,t.t+=e,t.sos+=e*e,e>t.max&&(t.max=e),e<t.min&&(t.min=e),t):{t:e}}function A(e){return{t:e,min:e,max:e,sos:e*e,c:1}}function E(e){return"object"!=typeof e?[]:(0,y.D)(e,T)}function T(e,t){return t}var _=i(8632),D=i(4402),N=i(4351);var O=i(7956),j=i(3239),S=i(9251);class P extends g{static featureName=S.t;constructor(e,r){let n=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,r,S.t,n),l.il&&((0,t.OP)(e).initHidden=Boolean("hidden"===document.visibilityState),(0,O.N)((()=>(0,s.p)("docHidden",[(0,m.z)()],void 0,S.t,this.ee)),!0),(0,j.bP)("pagehide",(()=>(0,s.p)("winPagehide",[(0,m.z)()],void 0,S.t,this.ee))),this.importAggregator())}}var C=i(3081);class R extends g{static featureName=C.t9;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,C.t9,r),this.importAggregator()}}var I,k=i(2210),H=i(1214),L=i(2177),z={};try{I=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(z.console=!0,-1!==I.indexOf("dev")&&(z.dev=!0),-1!==I.indexOf("nr_dev")&&(z.nrDev=!0))}catch(e){}function M(e){try{z.console&&M(e)}catch(e){}}z.nrDev&&L.ee.on("internal-error",(function(e){M(e.stack)})),z.dev&&L.ee.on("fn-err",(function(e,t,r){M(r.stack)})),z.dev&&(M("NR AGENT IN DEVELOPMENT MODE"),M("flags: "+(0,y.D)(z,(function(e,t){return e})).join(", ")));var B=i(6660);class F extends g{static featureName=B.t;constructor(r,n){let i=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(r,n,B.t,i),this.skipNext=0;try{this.removeOnAbort=new AbortController}catch(e){}const o=this;o.ee.on("fn-start",(function(e,t,r){o.abortHandler&&(o.skipNext+=1)})),o.ee.on("fn-err",(function(t,r,n){o.abortHandler&&!n[B.A]&&((0,k.X)(n,B.A,(function(){return!0})),this.thrown=!0,(0,s.p)("err",[n,(0,m.z)()],void 0,e.D.jserrors,o.ee))})),o.ee.on("fn-end",(function(){o.abortHandler&&!this.thrown&&o.skipNext>0&&(o.skipNext-=1)})),o.ee.on("internal-error",(function(t){(0,s.p)("ierr",[t,(0,m.z)(),!0],void 0,e.D.jserrors,o.ee)})),this.origOnerror=l._A.onerror,l._A.onerror=this.onerrorHandler.bind(this),l._A.addEventListener("unhandledrejection",(t=>{const r=function(e){let t="Unhandled Promise Rejection: ";if(e instanceof Error)try{return e.message=t+e.message,e}catch(t){return e}if(void 0===e)return new Error(t);try{return new Error(t+(0,N.P)(e))}catch(e){return new Error(t)}}(t.reason);(0,s.p)("err",[r,(0,m.z)(),!1,{unhandledPromiseRejection:1}],void 0,e.D.jserrors,this.ee)}),(0,j.m$)(!1,this.removeOnAbort?.signal)),(0,H.gy)(this.ee),(0,H.BV)(this.ee),(0,H.em)(this.ee),(0,t.OP)(r).xhrWrappable&&(0,H.Kf)(this.ee),this.abortHandler=this.#e,this.importAggregator()}#e(){this.removeOnAbort?.abort(),this.abortHandler=void 0}onerrorHandler(t,r,n,i,o){"function"==typeof this.origOnerror&&this.origOnerror(...arguments);try{this.skipNext?this.skipNext-=1:(0,s.p)("err",[o||new U(t,r,n),(0,m.z)()],void 0,e.D.jserrors,this.ee)}catch(t){try{(0,s.p)("ierr",[t,(0,m.z)(),!0],void 0,e.D.jserrors,this.ee)}catch(e){}}return!1}}function U(e,t,r){this.message=e||"Uncaught error with no additional information",this.sourceURL=t,this.line=r}let q=1;const G="nr@id";function V(e){const t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===l._A?0:(0,k.X)(e,G,(function(){return q++}))}var X=i(625);function Z(e){if("string"==typeof e&&e.length)return e.length;if("object"==typeof e){if("undefined"!=typeof ArrayBuffer&&e instanceof ArrayBuffer&&e.byteLength)return e.byteLength;if("undefined"!=typeof Blob&&e instanceof Blob&&e.size)return e.size;if(!("undefined"!=typeof FormData&&e instanceof FormData))try{return(0,N.P)(e).length}catch(e){return}}}var W=i(7243);class ${constructor(e){this.agentIdentifier=e,this.generateTracePayload=this.generateTracePayload.bind(this),this.shouldGenerateTrace=this.shouldGenerateTrace.bind(this)}generateTracePayload(e){if(!this.shouldGenerateTrace(e))return null;var r=(0,t.DL)(this.agentIdentifier);if(!r)return null;var n=(r.accountID||"").toString()||null,i=(r.agentID||"").toString()||null,o=(r.trustKey||"").toString()||null;if(!n||!i)return null;var a=(0,D.M)(),s=(0,D.Ht)(),c=Date.now(),u={spanId:a,traceId:s,timestamp:c};return(e.sameOrigin||this.isAllowedOrigin(e)&&this.useTraceContextHeadersForCors())&&(u.traceContextParentHeader=this.generateTraceContextParentHeader(a,s),u.traceContextStateHeader=this.generateTraceContextStateHeader(a,c,n,i,o)),(e.sameOrigin&&!this.excludeNewrelicHeader()||!e.sameOrigin&&this.isAllowedOrigin(e)&&this.useNewrelicHeaderForCors())&&(u.newrelicHeader=this.generateTraceHeader(a,s,c,n,i,o)),u}generateTraceContextParentHeader(e,t){return"00-"+t+"-"+e+"-01"}generateTraceContextStateHeader(e,t,r,n,i){return i+"@nr=0-1-"+r+"-"+n+"-"+e+"----"+t}generateTraceHeader(e,t,r,n,i,o){if(!("function"==typeof l._A?.btoa))return null;var a={v:[0,1],d:{ty:"Browser",ac:n,ap:i,id:e,tr:t,ti:r}};return o&&n!==o&&(a.d.tk=o),btoa((0,N.P)(a))}shouldGenerateTrace(e){return this.isDtEnabled()&&this.isAllowedOrigin(e)}isAllowedOrigin(e){var r=!1,n={};if((0,t.Mt)(this.agentIdentifier,"distributed_tracing")&&(n=(0,t.P_)(this.agentIdentifier).distributed_tracing),e.sameOrigin)r=!0;else if(n.allowed_origins instanceof Array)for(var i=0;i<n.allowed_origins.length;i++){var o=(0,W.e)(n.allowed_origins[i]);if(e.hostname===o.hostname&&e.protocol===o.protocol&&e.port===o.port){r=!0;break}}return r}isDtEnabled(){var e=(0,t.Mt)(this.agentIdentifier,"distributed_tracing");return!!e&&!!e.enabled}excludeNewrelicHeader(){var e=(0,t.Mt)(this.agentIdentifier,"distributed_tracing");return!!e&&!!e.exclude_newrelic_header}useNewrelicHeaderForCors(){var e=(0,t.Mt)(this.agentIdentifier,"distributed_tracing");return!!e&&!1!==e.cors_use_newrelic_header}useTraceContextHeadersForCors(){var e=(0,t.Mt)(this.agentIdentifier,"distributed_tracing");return!!e&&!!e.cors_use_tracecontext_headers}}var Q=i(7825),Y=["load","error","abort","timeout"],K=Y.length,J=t.Yu.REQ,ee=l._A.XMLHttpRequest;class te extends g{static featureName=Q.t;constructor(r,n){let i=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(r,n,Q.t,i),(0,t.OP)(r).xhrWrappable&&(this.dt=new $(r),this.handler=(e,t,r,n)=>(0,s.p)(e,t,r,n,this.ee),(0,H.u5)(this.ee),(0,H.Kf)(this.ee),function(r,n,i,o){function a(e){var t=this;t.totalCbs=0,t.called=0,t.cbTime=0,t.end=E,t.ended=!1,t.xhrGuids={},t.lastSize=null,t.loadCaptureCalled=!1,t.params=this.params||{},t.metrics=this.metrics||{},e.addEventListener("load",(function(r){_(t,e)}),(0,j.m$)(!1)),X.I||e.addEventListener("progress",(function(e){t.lastSize=e.loaded}),(0,j.m$)(!1))}function s(e){this.params={method:e[0]},T(this,e[1]),this.metrics={}}function c(e,n){var i=(0,t.DL)(r);i.xpid&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",i.xpid);var a=o.generateTracePayload(this.parsedOrigin);if(a){var s=!1;a.newrelicHeader&&(n.setRequestHeader("newrelic",a.newrelicHeader),s=!0),a.traceContextParentHeader&&(n.setRequestHeader("traceparent",a.traceContextParentHeader),a.traceContextStateHeader&&n.setRequestHeader("tracestate",a.traceContextStateHeader),s=!0),s&&(this.dt=a)}}function u(e,t){var r=this.metrics,i=e[0],o=this;if(r&&i){var a=Z(i);a&&(r.txSize=a)}this.startTime=(0,m.z)(),this.listener=function(e){try{"abort"!==e.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==e.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof t.onload)&&"function"==typeof o.end)&&o.end(t)}catch(e){try{n.emit("internal-error",[e])}catch(e){}}};for(var s=0;s<K;s++)t.addEventListener(Y[s],this.listener,(0,j.m$)(!1))}function d(e,t,r){this.cbTime+=e,t?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof r.onload||"function"!=typeof this.end||this.end(r)}function f(e,t){var r=""+V(e)+!!t;this.xhrGuids&&!this.xhrGuids[r]&&(this.xhrGuids[r]=!0,this.totalCbs+=1)}function h(e,t){var r=""+V(e)+!!t;this.xhrGuids&&this.xhrGuids[r]&&(delete this.xhrGuids[r],this.totalCbs-=1)}function g(){this.endTime=(0,m.z)()}function p(e,t){t instanceof ee&&"load"===e[0]&&n.emit("xhr-load-added",[e[1],e[2]],t)}function v(e,t){t instanceof ee&&"load"===e[0]&&n.emit("xhr-load-removed",[e[1],e[2]],t)}function b(e,t,r){t instanceof ee&&("onload"===r&&(this.onload=!0),("load"===(e[0]&&e[0].type)||this.onload)&&(this.xhrCbStart=(0,m.z)()))}function y(e,t){this.xhrCbStart&&n.emit("xhr-cb-time",[(0,m.z)()-this.xhrCbStart,this.onload,t],t)}function w(e){var t,r=e[1]||{};"string"==typeof e[0]?t=e[0]:e[0]&&e[0].url?t=e[0].url:l._A?.URL&&e[0]&&e[0]instanceof URL&&(t=e[0].href),t&&(this.parsedOrigin=(0,W.e)(t),this.sameOrigin=this.parsedOrigin.sameOrigin);var n=o.generateTracePayload(this.parsedOrigin);if(n&&(n.newrelicHeader||n.traceContextParentHeader))if("string"==typeof e[0]||l._A?.URL&&e[0]&&e[0]instanceof URL){var i={};for(var a in r)i[a]=r[a];i.headers=new Headers(r.headers||{}),s(i.headers,n)&&(this.dt=n),e.length>1?e[1]=i:e.push(i)}else e[0]&&e[0].headers&&s(e[0].headers,n)&&(this.dt=n);function s(e,t){var r=!1;return t.newrelicHeader&&(e.set("newrelic",t.newrelicHeader),r=!0),t.traceContextParentHeader&&(e.set("traceparent",t.traceContextParentHeader),t.traceContextStateHeader&&e.set("tracestate",t.traceContextStateHeader),r=!0),r}}function x(e,t){this.params={},this.metrics={},this.startTime=(0,m.z)(),this.dt=t,e.length>=1&&(this.target=e[0]),e.length>=2&&(this.opts=e[1]);var r,n=this.opts||{},i=this.target;"string"==typeof i?r=i:"object"==typeof i&&i instanceof J?r=i.url:l._A?.URL&&"object"==typeof i&&i instanceof URL&&(r=i.href),T(this,r);var o=(""+(i&&i instanceof J&&i.method||n.method||"GET")).toUpperCase();this.params.method=o,this.txSize=Z(n.body)||0}function A(t,r){var n;this.endTime=(0,m.z)(),this.params||(this.params={}),this.params.status=r?r.status:0,"string"==typeof this.rxSize&&this.rxSize.length>0&&(n=+this.rxSize);var o={txSize:this.txSize,rxSize:n,duration:(0,m.z)()-this.startTime};i("xhr",[this.params,o,this.startTime,this.endTime,"fetch"],this,e.D.ajax)}function E(t){var r=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;o<K;o++)t.removeEventListener(Y[o],this.listener,!1);r.aborted||(n.duration=(0,m.z)()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==r.status&&(r.status=0):_(this,t),n.cbTime=this.cbTime,i("xhr",[r,n,this.startTime,this.endTime,"xhr"],this,e.D.ajax))}}function T(e,t){var r=(0,W.e)(t),n=e.params;n.hostname=r.hostname,n.port=r.port,n.protocol=r.protocol,n.host=r.hostname+":"+r.port,n.pathname=r.pathname,e.parsedOrigin=r,e.sameOrigin=r.sameOrigin}function _(e,t){e.params.status=t.status;var r=function(e,t){var r=e.responseType;return"json"===r&&null!==t?t:"arraybuffer"===r||"blob"===r||"json"===r?Z(e.response):"text"===r||""===r||void 0===r?Z(e.responseText):void 0}(t,e.lastSize);if(r&&(e.metrics.rxSize=r),e.sameOrigin){var n=t.getResponseHeader("X-NewRelic-App-Data");n&&(e.params.cat=n.split(", ").pop())}e.loadCaptureCalled=!0}n.on("new-xhr",a),n.on("open-xhr-start",s),n.on("open-xhr-end",c),n.on("send-xhr-start",u),n.on("xhr-cb-time",d),n.on("xhr-load-added",f),n.on("xhr-load-removed",h),n.on("xhr-resolved",g),n.on("addEventListener-end",p),n.on("removeEventListener-end",v),n.on("fn-end",y),n.on("fetch-before-start",w),n.on("fetch-start",x),n.on("fn-start",b),n.on("fetch-done",A)}(r,this.ee,this.handler,this.dt),this.importAggregator())}}var re=i(3614);const{BST_RESOURCE:ne,RESOURCE:ie,START:oe,END:ae,FEATURE_NAME:se,FN_END:ce,FN_START:ue,PUSH_STATE:de}=re;var fe=i(7836);const{FEATURE_NAME:le,START:he,END:ge,BODY:pe,CB_END:me,JS_TIME:ve,FETCH:be,FN_START:ye,CB_START:we,FN_END:xe}=fe;var Ae=i(4649);class Ee extends g{static featureName=Ae.t;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,Ae.t,r),this.importAggregator()}}new class{constructor(e){let t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:(0,D.ky)(16);this.agentIdentifier=t,this.sharedAggregator=new w({agentIdentifier:this.agentIdentifier}),this.features={},this.desiredFeatures=new Set(e.features||[]),this.desiredFeatures.add(v),Object.assign(this,(0,a.j)(this.agentIdentifier,e,e.loaderType||"agent")),this.start()}get config(){return{info:(0,t.C5)(this.agentIdentifier),init:(0,t.P_)(this.agentIdentifier),loader_config:(0,t.DL)(this.agentIdentifier),runtime:(0,t.OP)(this.agentIdentifier)}}start(){const t="features";try{const r=n(this.agentIdentifier),i=[...this.desiredFeatures];i.sort(((t,r)=>e.p[t.featureName]-e.p[r.featureName])),i.forEach((t=>{if(r[t.featureName]||t.featureName===e.D.pageViewEvent){const n=function(t){switch(t){case e.D.ajax:return[e.D.jserrors];case e.D.sessionTrace:return[e.D.ajax,e.D.pageViewEvent];case e.D.sessionReplay:return[e.D.sessionTrace];case e.D.pageViewTiming:return[e.D.pageViewEvent];default:return[]}}(t.featureName);n.every((e=>r[e]))||(0,h.Z)("".concat(t.featureName," is enabled but one or more dependent features has been disabled (").concat((0,N.P)(n),"). This may cause unintended consequences or missing data...")),this.features[t.featureName]=new t(this.agentIdentifier,this.sharedAggregator)}})),(0,_.Qy)(this.agentIdentifier,this.features,t)}catch(e){(0,h.Z)("Failed to initialize all enabled instrument classes (agent aborted) -",e);for(const e in this.features)this.features[e].abortHandler?.();const r=(0,_.fP)();return delete r.initializedAgents[this.agentIdentifier]?.api,delete r.initializedAgents[this.agentIdentifier]?.[t],delete this.sharedAggregator,r.ee?.abort(),delete r.ee?.get(this.agentIdentifier),!1}}}({features:[te,v,P,class extends g{static featureName=se;constructor(t,r){if(super(t,r,se,!(arguments.length>2&&void 0!==arguments[2])||arguments[2]),!l.il)return;const n=this.ee;let i;(0,H.QU)(n),this.eventsEE=(0,H.em)(n),this.eventsEE.on(ue,(function(e,t){this.bstStart=(0,m.z)()})),this.eventsEE.on(ce,(function(t,r){(0,s.p)("bst",[t[0],r,this.bstStart,(0,m.z)()],void 0,e.D.sessionTrace,n)})),n.on(de+oe,(function(e){this.time=(0,m.z)(),this.startPath=location.pathname+location.hash})),n.on(de+ae,(function(t){(0,s.p)("bstHist",[location.pathname+location.hash,this.startPath,this.time],void 0,e.D.sessionTrace,n)}));try{i=new PerformanceObserver((t=>{const r=t.getEntries();(0,s.p)(ne,[r],void 0,e.D.sessionTrace,n)})),i.observe({type:ie,buffered:!0})}catch(e){}this.importAggregator({resourceObserver:i})}},R,Ee,F,class extends g{static featureName=le;constructor(e,r){if(super(e,r,le,!(arguments.length>2&&void 0!==arguments[2])||arguments[2]),!l.il)return;if(!(0,t.OP)(e).xhrWrappable)return;try{this.removeOnAbort=new AbortController}catch(e){}let n,i=0;const o=this.ee.get("tracer"),a=(0,H._L)(this.ee),s=(0,H.Lg)(this.ee),c=(0,H.BV)(this.ee),u=(0,H.Kf)(this.ee),d=this.ee.get("events"),f=(0,H.u5)(this.ee),h=(0,H.QU)(this.ee),g=(0,H.Gm)(this.ee);function p(e,t){h.emit("newURL",[""+window.location,t])}function v(){i++,n=window.location.hash,this[ye]=(0,m.z)()}function b(){i--,window.location.hash!==n&&p(0,!0);var e=(0,m.z)();this[ve]=~~this[ve]+e-this[ye],this[xe]=e}function y(e,t){e.on(t,(function(){this[t]=(0,m.z)()}))}this.ee.on(ye,v),s.on(we,v),a.on(we,v),this.ee.on(xe,b),s.on(me,b),a.on(me,b),this.ee.buffer([ye,xe,"xhr-resolved"],this.featureName),d.buffer([ye],this.featureName),c.buffer(["setTimeout"+ge,"clearTimeout"+he,ye],this.featureName),u.buffer([ye,"new-xhr","send-xhr"+he],this.featureName),f.buffer([be+he,be+"-done",be+pe+he,be+pe+ge],this.featureName),h.buffer(["newURL"],this.featureName),g.buffer([ye],this.featureName),s.buffer(["propagate",we,me,"executor-err","resolve"+he],this.featureName),o.buffer([ye,"no-"+ye],this.featureName),a.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"],this.featureName),y(f,be+he),y(f,be+"-done"),y(a,"new-jsonp"),y(a,"jsonp-end"),y(a,"cb-start"),h.on("pushState-end",p),h.on("replaceState-end",p),window.addEventListener("hashchange",p,(0,j.m$)(!0,this.removeOnAbort?.signal)),window.addEventListener("load",p,(0,j.m$)(!0,this.removeOnAbort?.signal)),window.addEventListener("popstate",(function(){p(0,i>1)}),(0,j.m$)(!0,this.removeOnAbort?.signal)),this.abortHandler=this.#e,this.importAggregator()}#e(){this.removeOnAbort?.abort(),this.abortHandler=void 0}}],loaderType:"spa"})})(),window.NRBA=o})();
+</script> <script>
+
+        var envURL = 'investors.com';
+        window.adBlocker = 'Blocked';
+        window.envURL = envURL;
+        thempletpath = 'https://www.investors.com';
+        if ('scrollRestoration' in history) {
+            history.scrollRestoration = 'manual';
+        }
+    </script>
+<meta name="tag" content="All News And Stock Ideas|Dow Jones Industrial Average Stock News|Earnings|Economy">
+<meta name='uac-config' content='{"breakpoints":{"at4units":0,"at8units":320,"at12units":1024}}' /> <script>
+		function _typeof(e){return(_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e})(e)}!function(){try{for(var e,t,n=[],r=window,o=r;o;){if(o.frames.__tcfapiLocator){e=o;break}if(o===r.top)break;o=r.parent}}catch(e){}e||(function e(){var t=r.document,n=!!r.frames.__tcfapiLocator;if(!n)if(t.body){var o=t.createElement("iframe");o.style.cssText="display:none",o.name="__tcfapiLocator",t.body.appendChild(o)}else setTimeout(e,5);return!n}(),r.__tcfapi=function(){for(var e=arguments.length,r=new Array(e),o=0;o<e;o++)r[o]=arguments[o];if(!r.length)return n;"setGdprApplies"===r[0]?r.length>3&&2===parseInt(r[1],10)&&"boolean"==typeof r[3]&&(t=r[3],"function"==typeof r[2]&&r[2]("set",!0)):"ping"===r[0]?"function"==typeof r[2]&&r[2]({gdprApplies:t,cmpLoaded:!1,cmpStatus:"stub"}):n.push(r)},r.addEventListener("message",(function(e){var t="string"==typeof e.data,n={};if(t)try{n=JSON.parse(e.data)}catch(e){}else n=e.data;var r="object"===_typeof(n)?n.__tcfapiCall:null;r&&window.__tcfapi(r.command,r.version,(function(n,o){var a={__tcfapiReturn:{returnValue:n,success:o,callId:r.callId}};e&&e.source&&e.source.postMessage&&e.source.postMessage(t?JSON.stringify(a):a,"*")}),r.parameter)}),!1))}(),function(){var e=window,t=document;function n(t){var n="string"==typeof t.data;try{var r=n?JSON.parse(t.data):t.data;if(r.__cmpCall){var o=r.__cmpCall;e.__uspapi(o.command,o.parameter,(function(e,r){var a={__cmpReturn:{returnValue:e,success:r,callId:o.callId}};t.source.postMessage(n?JSON.stringify(a):a,"*")}))}}catch(r){}}!function n(){if(!e.frames.__uspapiLocator)if(t.body){var r=t.body,o=t.createElement("iframe");o.style.cssText="display:none",o.name="__uspapiLocator",r.appendChild(o)}else setTimeout(n,5)}(),"function"!=typeof __uspapi&&(e.__uspapi=function(){var e=arguments;if(__uspapi.a=__uspapi.a||[],!e.length)return __uspapi.a;"ping"===e[0]?e[2]({gdprAppliesGlobally:!1,cmpLoaded:!1},!0):__uspapi.a.push([].slice.apply(e))},__uspapi.msgHandler=n,e.addEventListener("message",n,!1))}(),function(e){var t={};function n(r){if(t[r])return t[r].exports;var o=t[r]={i:r,l:!1,exports:{}};return e[r].call(o.exports,o,o.exports,n),o.l=!0,o.exports}n.m=e,n.c=t,n.d=function(e,t,r){n.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:r})},n.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},n.t=function(e,t){if(1&t&&(e=n(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var r=Object.create(null);if(n.r(r),Object.defineProperty(r,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var o in e)n.d(r,o,function(t){return e[t]}.bind(null,o));return r},n.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return n.d(t,"a",t),t},n.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},n.p="/",n(n.s=0)}([function(e,t,n){"use strict";n.r(t);var r=function(){var e=window.djcmp,t=void 0===e?{}:e;if(!t._params){var n=document.querySelector("#djcmp"),r=n&&n.getAttribute("data-params");t._params=r&&JSON.parse(r)}return t._params||{}},o=function(){return!(-1!==(document&&document.cookie||"").indexOf("gdprApplies=false"))},a=function(){return window&&window.djcmp&&window.djcmp.tcData&&window.djcmp.tcData.gdprApplies},i=function(){var e=a();return"boolean"==typeof e?e:null},p=function(e,t){if(r().gdprApplies)return!0;switch(e){case"cookieOnly":return o();case"serviceOnly":return function(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:function(){},t=r().geoServiceUrl;if(t){var n="".concat(t,"/geolocation-services/gdpr");fetch(n).then((function(e){return e.json()})).then((function(t){var n=t.applies;e(n)})).catch((function(){e(null)}))}else"function"==typeof e&&e(null)}(t);case"tcfapiOnly":return"function"==typeof t?function(e){var t=a();return"boolean"==typeof t?e(t):window.__tcfapi("getTCData",2,(function(t){var n="boolean"!=typeof t.gdprApplies||t.gdprApplies;e(n)}))}(t):i();case"cookieFirst":return-1!==(document&&document.cookie||"").indexOf("gdprApplies=")?o():i();default:return function(){var e=a();return"boolean"==typeof e?e:o()}()}},c=function(e){return!!r().ccpaApplies};!function(){var e=[];function t(){e.push(arguments)}window.djcmp||(t.gdprApplies=p,t.ccpaApplies=c,t.queue=e,window.djcmp=t)}()}]);
+		!function(){var e,t,i;window.ace=window.ace||{},e={},t={},i={addToExecutionQueue(e){return t[e]||(t[e]=[]),t[e].push(arguments),t},getSubscribedElements:()=>Object.keys(e),getSubscribedFunctions:t=>Object.keys(e[t]||{}),executeQueue(e){try{t[e]&&t[e].forEach((e=>this.execute(...e))),delete t[e]}catch(e){console.error(e)}},execute(){var[t,i,r,n]=arguments,s=e[t][i],u=e=>e,c=[];return"function"!=typeof s?s:(r&&("function"==typeof r?(u=r,n&&Array.isArray(n)&&(c=n)):Array.isArray(r)&&(c=r)),u(s.apply(null,c)))},__reset(){var i=e=>Object.keys(e).forEach((t=>delete e[t]));i(e),i(t)},hasSubscription(e){return this.getSubscribedElements().indexOf(e)>-1},hasSubscribedFunction(e,t){return this.getSubscribedFunctions(e).indexOf(t)>-1},uniqueFucntionsUnderSubscription(t,i){const{__ace:r=(()=>({}))}=window;let n={};return Object.keys(i).forEach((s=>{e[t][s]?r("log","log",[{type:"warning",initiator:"page",message:"You are trying to subscribe the function "+s+" under the "+t+" namespace again. Use another name."}]):n[s]=i[s]})),n},addSubscription(t,i){if(this.hasSubscription(t)){const r=this.uniqueFucntionsUnderSubscription(t,i);e[t]={...e[t],...r}}else e[t]=i;return e},subscribe(t,i,r){if(r)return e[t]=i,e;if(!i||"object"!=typeof i)throw new Error("Missing third parameter. You must provide an object.");return this.addSubscription(t,i),this.executeQueue(t),e},globalMessaging(){var[e,t,...i]=arguments;if(!e&&!t)return this.getSubscribedElements();if(e&&"string"==typeof e&&!t)return this.getSubscribedFunctions(e);if("string"!=typeof e||"string"!=typeof t)throw new Error("First and second argument must be String types");if(this.hasSubscribedFunction(e,t))return this.execute(e,t,...i);this.addToExecutionQueue(e,t,...i)}},window.__ace=i.globalMessaging.bind(i),window.__ace.subscribe=i.subscribe.bind(i)}();
+
+		/**
+		 * Adds callback function to be called when DJCMP is ready and custom vendor is enabled if vendorId is specified.
+		 *
+		 * @param callback Callback.
+		 * @param vendorId Optional Vendor ID, when specified, it will check with `customVendorIsEnabled`, the callback
+		 * 	function will be called only when custom vendor is enabled.
+		 */
+		function __djcmpReady( callback, vendorId ) {
+			if ( vendorId ) {
+				window.__ace( 'djcmp', 'executeOnCmpReady', [ { id: vendorId, cb: callback } ] );
+			} else {
+				window.__ace( 'djcmp', 'executeOnCmpReady', [ { cb: callback } ] );
+			}
+		}
+	</script>
+<script type="text/javascript">
+		__ace('dataLayer', 'setData', [{"article_id":8537257,"article_headline":"Tesla, Other Earnings Hit Stock Market, But Here's The New Leading Index","article_author":["JUAN CARLOS ARANCIBIA"],"article_type":"The Big Picture","article_keywords":["All News And Stock Ideas","Dow Jones Industrial Average Stock News","Earnings","Economy"],"page_content_type":"Articles","page_section":"Market Trend","page_subsection":"The Big Picture","page_subsection2":null,"quote_ticker":null,"keywords":[],"page_breaking_news":"BREAKING: Futures Little Changed With Fed Meeting, Big Earnings Ahead","page_document_title":"Tesla, Other Earnings Hit Stock Market, But Here&#039;s The New Leading Index - Investor&#039;s Business Daily","search_keywords":[],"page_adblocker":null,"chart_type":null,"refsec":null}]);
+		</script> <script type="text/javascript">
+		if( 0 < document.referrer.length && -1 < document.referrer.indexOf( window.envURL + '/' ) ) {
+			__ace('dataLayer', 'setData', [{'refsec': document.referrer.split(window.envURL + '/')[1].split('?')[0].split('/').filter(v => v)}]);
+		}
+		</script><script async src="https://www.wsj.com/asset/ace/ace.min.js" data-product="investors" data-ace-uac-url="https://www.wsj.com/asset/ace" data-config="%7B%22enableSourcepoint%22%3Atrue%2C%22enableUsp%22%3Atrue%2C%22enableGpt%22%3Atrue%2C%22enableUac%22%3Atrue%2C%22enableMoat%22%3Atrue%2C%22enableProximic%22%3Atrue%7D" id="ace-manifest"></script><script type='text/javascript' id='investors-advertising-uac-js-js-extra'>
+/* <![CDATA[ */
+var InvestorsAdvertisingGAMSettings = {"IBDdfpID":"2","lazyLoadOnOff":"On","refreshRate":"30","browserDetectOnOff":"On","testTagKey":"test","pageType":"article","pageKeywords":["All News And Stock Ideas","Dow Jones Industrial Average Stock News","Earnings","Economy"],"mrssCmsId":"2602759","suppressHowToInvest":"Off"};
+var categoryObject = {"categories":"\"Market Trend\\\/The Big Picture\\\/\""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.investors.com/wp-content/plugins/investors-advertising/js/dist/uac.min.js?ver=1.0.41' id='investors-advertising-uac-js-js'></script>
+<script src='https://www.investors.com/wp-content/themes/ibd/dist/scripts/ad.info.js?ver=202307170126'></script><script src='https://services.investors.com/services/userprofile.aspx'></script> <script type="text/javascript">
+		__ace('dataLayer', 'setData', [{page_adblocker: window.adBlocker, user_type: null, user_trial_products: null, user_sub_products: null}]);
+		if (typeof (userTrialStatus) != 'undefined' && 0 < userTrialStatus.length) {
+			__ace('dataLayer', 'setData', [{user_type: userTrialStatus}])
+		}
+		if (typeof (userProductsOnTrial) != 'undefined' && 0 < userProductsOnTrial.length) {
+			__ace('dataLayer', 'setData', [{user_trial_products: userProductsOnTrial}])
+		}
+		if (typeof (userProductsOwned) != 'undefined' && 0 < userProductsOwned.length) {
+			__ace('dataLayer', 'setData', [{user_sub_products: userProductsOwned}])
+		}
+		</script><script>var digitalData = {"pageName":"Tesla, Other Earnings Hit Stock Market, But Here's The New Leading Index","articleName":"Tesla, Other Earnings Hit Stock Market, But Here's The New Leading Index","articlePosition":"Position 1","channel":"News & Analysis","contentType":"Articles","subSection1":"Market Trend","subSection2":"The Big Picture","subSection3":"","authorName":"JUAN CARLOS ARANCIBIA","articleDate":"2023-07-20T14:36:59-07:00","tags":"All News And Stock Ideas,Dow Jones Industrial Average Stock News,Earnings,Economy","User":{"PaywallToken":false}};</script><script>		digitalData.userID = userId;
+		digitalData.userType = userSubType;
+		if (typeof (User) != 'undefined') {
+			digitalData.User = digitalData.User || {};
+			digitalData.User = Object.assign(digitalData.User, User);
+		}
+		if (typeof (userTrialStatus) != 'undefined') {
+			digitalData.trialStatus = userTrialStatus;
+		}
+		if (typeof (userProductsOnTrial) != 'undefined') {
+			digitalData.productsOnTrial = userProductsOnTrial;
+		}
+		if (typeof (userProductsOwned) != 'undefined') {
+			digitalData.productsOwned = userProductsOwned;
+		}
+		if ( 'undefined' !== typeof (userNOOK) ) {
+			digitalData.userNOOK = userNOOK;
+		}
+			if ( null !== document.querySelector( 'meta[name="keywords"]' ) ) {
+				digitalData.articleKeyword = document.querySelector( 'meta[name="keywords"]' ).getAttribute( 'content' );
+			}
+		</script><script>digitalData.adBlocker = window.adBlocker;</script> <script>
+		function __djcmpLoadAdobe() {
+			// Anti anti-flicker...
+			document.body.style.cssText += 'opacity:1!important;';
+			var firstScript = document.getElementsByTagName('script')[0],
+			script = document.createElement('script');
+			script.async = true;
+			script.src = '//assets.adobedtm.com/launch-ENf263bf5369324660a57c9ba498859e48.min.js';
+			firstScript.parentNode.insertBefore(script, firstScript);
+		}
+		if ( window.__djcmpReady ) {
+			window.__djcmpReady( __djcmpLoadAdobe );
+		} else {
+			__djcmpLoadAdobe();
+		}
+	</script>
+
+<script type="text/javascript">
+		// Delays GTM loading until DJCMP is ready.
+		function __djcmpLoadGTM() {
+			(function (w, d, s, l, i) {
+				w[l] = w[l] || [];
+				w[l].push({
+					'gtm.start': new Date().getTime(), event: 'gtm.js'
+				});
+				var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l !== 'dataLayer' ? '&l=' + l : '';
+				j.async = true;
+				j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore(j, f);
+			})(window, document, 'script', 'dataLayer', 'GTM-WTJV5P');
+		}
+		if ( window.__djcmpReady ) {
+			window.__djcmpReady( __djcmpLoadGTM );
+		} else {
+			__djcmpLoadGTM();
+		}
+
+	</script>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<title>Stock Market Selling Spread Beyond Big Tech | Investor&#039;s Business Daily</title>
+<meta name="description" content="To be sure, Thursday&#039;s stock market selling spread far beyond Big Tech." />
+<link rel="canonical" href="https://www.investors.com/market-trend/the-big-picture/tesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Tesla, Other Earnings Hit Stock Market, But Here&#039;s The New Leading Index" />
+<meta property="og:description" content="To be sure, Thursday&#039;s stock market selling spread far beyond Big Tech." />
+<meta property="og:url" content="https://www.investors.com/market-trend/the-big-picture/tesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index/" />
+<meta property="og:site_name" content="Investor&#039;s Business Daily" />
+<meta property="article:publisher" content="https://www.facebook.com/investorsbusinessdaily/" />
+<meta property="article:author" content="/pages/Juan-Carlos-Arancibia/902797609800488" />
+<meta property="article:published_time" content="2023-07-20T21:36:59+00:00" />
+<meta property="article:modified_time" content="2023-07-21T12:06:03+00:00" />
+<meta property="og:image" content="https://www.investors.com/wp-content/uploads/2022/01/Stock-nyse2-0122-shutt.jpg" />
+<meta property="og:image:width" content="1000" />
+<meta property="og:image:height" content="563" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@IBD_Jarancibia" />
+<meta name="twitter:site" content="@IBDinvestors" />
+<meta name="twitter:label1" content="Written by">
+<meta name="twitter:data1" content="JUAN CARLOS ARANCIBIA">
+<meta name="twitter:label2" content="Est. reading time">
+<meta name="twitter:data2" content="4 minutes">
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.investors.com/#organization","name":"Investor's Business Daily","url":"https://www.investors.com/","sameAs":["https://www.facebook.com/investorsbusinessdaily/","https://www.instagram.com/investorsbusinessdaily/","https://www.linkedin.com/company/11970/","https://www.youtube.com/user/IBDTV","https://twitter.com/IBDinvestors"],"logo":{"@type":"ImageObject","@id":"https://www.investors.com/#logo","inLanguage":"en-US","url":"https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg","contentUrl":"https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg","width":1200,"height":630,"caption":"Investor's Business Daily"},"image":{"@id":"https://www.investors.com/#logo"}},{"@type":"WebSite","@id":"https://www.investors.com/#website","url":"https://www.investors.com/","name":"Investor&#039;s Business Daily","description":"","publisher":{"@id":"https://www.investors.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.investors.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.investors.com/market-trend/the-big-picture/tesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index/#primaryimage","inLanguage":"en-US","url":"https://www.investors.com/wp-content/uploads/2022/01/Stock-nyse2-0122-shutt.jpg","contentUrl":"https://www.investors.com/wp-content/uploads/2022/01/Stock-nyse2-0122-shutt.jpg","width":1000,"height":563,"caption":"(orhan akkurt/shutterstock.com)"},{"@type":"WebPage","@id":"https://www.investors.com/market-trend/the-big-picture/tesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index/#webpage","url":"https://www.investors.com/market-trend/the-big-picture/tesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index/","name":"Stock Market Selling Spread Beyond Big Tech | Investor&#039;s Business Daily","isPartOf":{"@id":"https://www.investors.com/#website"},"primaryImageOfPage":{"@id":"https://www.investors.com/market-trend/the-big-picture/tesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index/#primaryimage"},"datePublished":"2023-07-20T21:36:59+00:00","dateModified":"2023-07-21T12:06:03+00:00","description":"To be sure, Thursday's stock market selling spread far beyond Big Tech.","breadcrumb":{"@id":"https://www.investors.com/market-trend/the-big-picture/tesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.investors.com/market-trend/the-big-picture/tesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index/"]}]},{"@type":"BreadcrumbList","@id":"https://www.investors.com/market-trend/the-big-picture/tesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.investors.com/","url":"https://www.investors.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.investors.com/market-trend/the-big-picture/tesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index/#webpage"}}]},{"@type":"NewsArticle","@id":"https://www.investors.com/market-trend/the-big-picture/tesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index/#article","isPartOf":{"@id":"https://www.investors.com/market-trend/the-big-picture/tesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index/#webpage"},"author":{"@id":"https://www.investors.com/#/schema/person/0bf2fc1dca4aa34c728ffa43f51d2654"},"headline":"Tesla, Other Earnings Hit Stock Market, But Here's The New Leading Index","datePublished":"2023-07-20T21:36:59+00:00","dateModified":"2023-07-21T12:06:03+00:00","mainEntityOfPage":{"@id":"https://www.investors.com/market-trend/the-big-picture/tesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index/#webpage"},"wordCount":710,"publisher":{"@id":"https://www.investors.com/#organization"},"image":{"@id":"https://www.investors.com/market-trend/the-big-picture/tesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index/#primaryimage"},"thumbnailUrl":"https://www.investors.com/wp-content/uploads/2022/01/Stock-nyse2-0122-shutt.jpg","keywords":["All News And Stock Ideas","Dow Jones Industrial Average Stock News","Earnings","Economy"],"articleSection":["The Big Picture"],"inLanguage":"en-US","copyrightYear":"2023","copyrightHolder":{"@id":"https://www.investors.com/#organization"}},{"@type":"Person","@id":"https://www.investors.com/#/schema/person/0bf2fc1dca4aa34c728ffa43f51d2654","name":"JUAN CARLOS ARANCIBIA","sameAs":["https://www.investors.com","/pages/Juan-Carlos-Arancibia/902797609800488","https://twitter.com/IBD_Jarancibia"],"url":"https://www.investors.com/author/arancibiaj/"}]}</script>
+
+<link rel='dns-prefetch' href='//www.investors.com' />
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel='dns-prefetch' href='//services.investors.com' />
+<link rel='dns-prefetch' href='//www.queryly.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="preconnect" href="https://mb.moatads.com"><link rel="preload" href="https://z.moatads.com/investorsprebidheader416259853029/moatheader.js" as="script"><script async src="https://z.moatads.com/investorsprebidheader416259853029/moatheader.js"></script><link rel='stylesheet' id='app-banners-styles-css' href='https://www.investors.com/wp-content/plugins/appbanners/lib/smartbanner/jquery.smartbanner.min.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='ibd-data-tables-shortcode-style-css' href='https://www.investors.com/wp-content/plugins/ibd-data-tables-shortcode/styles/dist/ibd-data-tables-shortcode-style.min.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='investors-advertising-bcb-css-css' href='https://www.investors.com/wp-content/plugins/investors-advertising/css/dist/bcb.min.css?ver=1.0.41' type='text/css' media='all' />
+<link rel='stylesheet' id='investors-charts-css' href='https://www.investors.com/wp-content/plugins/investors-charts/css/dist/styles.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='investors-display-posts-css' href='https://www.investors.com/wp-content/plugins/investors-display-posts/css/dist/style.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='investors-newsletters-v2-signup-css' href='https://www.investors.com/wp-content/plugins/investors-newsletters-v2/assets/dist/signup.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='investors-paywall-paywall-frontend-style-css' href='https://www.investors.com/wp-content/plugins/investors-paywall/css/dist/paywall-frontend.min.css?ver=1.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='investors-search-queryly-css' href='https://www.investors.com/wp-content/plugins/investors-search/css/dist/queryly-search.min.css?ver=0.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='investors-sotd-cards-frontend-style-css' href='https://www.investors.com/wp-content/plugins/investors-sotd-cards/css/dist/front.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='investors-tickers-data-table-css' href='https://www.investors.com/wp-content/plugins/investors-tickers-data-table/assets/dist/tickers-data-table-frontend.min.css?ver=1.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css' href='https://www.investors.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16' type='text/css' media='all' />
+<style id='addtoany-inline-css' type='text/css'>
+.addtoany_share_save_container { text-align:right; }
+.addtoany_header { display: none;}
+.addtoany_list a img {width: 25px;}
+#a2amail_any_email { display:none !important; } /* For the email-only menu */
+</style>
+<link rel='stylesheet' id='article_css-css' href='https://www.investors.com/wp-content/themes/ibd/dist/styles/article.css?ver=202307170126' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.investors.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.investors.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='addtoany-core-js-before'>
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+a2a_config.callbacks.push({
+    share: function(data) {
+        if (typeof (digitalData) != 'undefined') {
+            digitalData.shareIcon = data.service;
+            try {
+                _satellite.track('shareicon');
+            } catch (e) {
+            console.log('DTM Error');
+            }
+        }
+        //console.log(data);
+    }
+});
+a2a_config.menu_type = "mail"; /* For the email-only menu */
+if (/politics/.test(window.location.href)){
+a2a_config.templates.twitter =  "${title} ${link} via @IBDeditorials";
+}else{
+a2a_config.templates.twitter =  "${title} ${link} via @IBDinvestors";
+}
+</script>
+<script type='text/javascript' async src='https://static.addtoany.com/menu/page.js' id='addtoany-core-js'></script>
+<script type='text/javascript' async src='https://www.investors.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1' id='addtoany-jquery-js'></script>
+<script type='text/javascript' id='ua-wn-js-extra'>
+/* <![CDATA[ */
+var uaWnSettings = {"prompt":{"enabled":true,"prompt_views":1,"prompt_again_views":1}};
+/* ]]> */
+</script>
+<script type="text/javascript" id="djcmp-notification-script">
+	window.__djcmpReady( function() {
+		var s = document.createElement('script');
+		s.src = 'https://www.investors.com/wp-content/plugins/urban-airship-web-push-notifications/assets/js/notification.js?ver=1.3.4';
+		s.async = true;
+		document.head.appendChild(s);
+	}, '6061aec5b5389c56c59ea31d' );
+</script><link rel="https://api.w.org/" href="https://www.investors.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.investors.com/wp-json/wp/v2/posts/8537257" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.investors.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.investors.com/wp-includes/wlwmanifest.xml" />
+<link rel='shortlink' href='https://www.investors.com/?p=8537257' />
+<link rel="alternate" type="application/json+oembed" href="https://www.investors.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.investors.com%2Fmarket-trend%2Fthe-big-picture%2Ftesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.investors.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.investors.com%2Fmarket-trend%2Fthe-big-picture%2Ftesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index%2F&#038;format=xml" />
+<meta name="apple-itunes-app" content="app-id=1132274579">
+<meta name="google-play-app" content="app-id=com.investors.business.daily">
+<meta name="author" content="Investor's Business Daily">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script type="text/javascript">
+		__ace('dataLayer', 'setData', [{page_document_title: document.title}]);
+		</script>
+
+<meta name="parsely-title" content="Tesla, Other Earnings Hit Stock Market, But Here&#039;s The New Leading Index" />
+<meta name="parsely-link" content="http://www.investors.com/market-trend/the-big-picture/tesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index/" />
+<meta name="parsely-type" content="post" />
+<meta name="parsely-image-url" content="https://www.investors.com/wp-content/uploads/2022/01/Stock-nyse2-0122-shutt-640x360.jpg" />
+<meta name="parsely-pub-date" content="2023-07-20T21:36:59Z" />
+<meta name="parsely-section" content="The Big Picture" />
+<meta name="parsely-tags" content="all news and stock ideas,dow jones industrial average stock news,earnings,economy" />
+<meta name="parsely-author" content="JUAN CARLOS ARANCIBIA" />
+
+<script>
+            jQuery(document).ready(function ($) {
+                $('body').on('click', '.sb-button', function () {
+                    ga('send', {
+                        'hitType': 'event',                 // Required.
+                        'eventCategory': 'App Banners',     // Required.
+                        'eventAction': 'click',             // Required.
+                        'eventLabel': 'Clicked App Banner'  //Optional
+                    });
+                });
+            });
+        </script>
+<script defer src="https://markets.moneymade.io/embed/v2.min.js"></script><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://www.investors.com/wp-content/uploads/2018/03/cropped-ibd-icon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.investors.com/wp-content/uploads/2018/03/cropped-ibd-icon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.investors.com/wp-content/uploads/2018/03/cropped-ibd-icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.investors.com/wp-content/uploads/2018/03/cropped-ibd-icon-270x270.png" />
+</head>
+<body class="post-template-default single single-post postid-8537257 single-format-standard wp-custom-logo tesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index">
+<!--[if lt IE 9]>
+	  <div class="alert alert-warning">
+		You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.	  </div>
+	<![endif]-->
+<aside class="ibd-mobile-nav">
+<div class="mobile-nav-ad"></div>
+<label for="queryly_toggle" class="queryly_search_form">
+<img class="queryly_search_button" style="vertical-align:middle;width: 42px;cursor: pointer;float:right;background: #004E8E;padding: 5px;border-radius: 20px;margin: 16px 5px;" src="https://www.queryly.com/images/whitesearchicon.png">
+</label>
+<ul id="menu-main-nav" class="off-canvas-list"><li id="menu-item-472480" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-472480"><a href="https://research.investors.com/markettrend.aspx">Market Trend</a>
+<ul class="sub-menu">
+<li id="menu-item-473641" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-473641"><a href="https://research.investors.com/markettrend.aspx">Market Trend</a>
+<ul class="sub-menu">
+<li id="menu-item-471724" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-471724"><a href="https://www.investors.com/category/market-trend/the-big-picture/">The Big Picture</a></li>
+<li id="menu-item-471725" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-471725"><a href="https://www.investors.com/category/market-trend/stock-market-today/">Stock Market Today</a></li>
+<li id="menu-item-4136276" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4136276"><a href="https://www.investors.com/market-trend/ibds-etf-market-strategy/ibds-etf-market-strategy/">IBD's ETF Market Strategy</a></li>
+<li id="menu-item-3892384" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3892384"><a href="https://www.investors.com/research/stock-market-data-dow-jones-sp-500-nasdaq-spdr-etfs/">Stock Market Data</a></li>
+<li id="menu-item-316043" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-316043"><a href="https://research.investors.com/psychological-market-indicators/">Psychological Indicators</a></li>
+<li id="menu-item-2322978" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2322978"><a href="https://get.investors.com/getting-started/?src=A00332A&#038;intcode=EditorialTests_GettingStarted_MarketTrend">New? Start Here</a></li>
+<li id="menu-item-7099081" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7099081"><a href="https://get.investors.com/ibd/?intcode=gnvb%7Cgnvb%7Cevgr%7C2021%7C08%7Cibdd%7Cna%7C%7C115458&#038;src=AKCAGE">IBD Digital: 2 Months for $20</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-2206" class="stock-lists joyride-third menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2206"><a href="https://www.investors.com/stock-lists/stocks-to-watch-top-rated-ipos-big-caps-and-growth-stocks/">Stock Lists</a>
+<ul class="sub-menu">
+<li id="menu-item-34931" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34931"><a href="https://www.investors.com/stock-lists/stocks-to-watch-top-rated-ipos-big-caps-and-growth-stocks/">Stock Lists</a>
+<ul class="sub-menu">
+<li id="menu-item-5553551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5553551"><a href="https://www.investors.com/research/ibd-long-term-leaders-screen/"><b>IBD Long-Term Leaders</b></a></li>
+<li id="menu-item-2212" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2212"><a href="https://research.investors.com/stock-lists/new-highs/">New Highs</a></li>
+<li id="menu-item-2216" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2216"><a href="https://research.investors.com/stocksonthemove.aspx">Stocks On The Move</a></li>
+<li id="menu-item-2215" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2215"><a href="https://research.investors.com/stock-lists/your-weekly-review/">Your Weekly Review</a></li>
+<li id="menu-item-2208" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2208"><a href="https://research.investors.com/stock-lists/ibd-50/"><b>IBD 50</b></a></li>
+<li id="menu-item-204159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-204159"><a href="https://www.investors.com/ibd-data-tables/">IBD Data Tables</a></li>
+<li id="menu-item-36864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36864"><a href="https://research.investors.com/stock-lists/relative-strength-at-new-high/">Relative Strength at New High</a></li>
+<li id="menu-item-348488" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-348488"><a href="https://www.investors.com/category/stock-lists/stocks-near-a-buy-zone/">Stocks Near A Buy Zone</a></li>
+<li id="menu-item-2207" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2207"><a href="https://research.investors.com/stock-lists/sector-leaders"><b>IBD Sector Leaders</b></a></li>
+<li id="menu-item-3710530" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3710530"><a href="https://www.investors.com/ibd-indexes/ibd-etf-indexes-ibd-50-etf-leaders-breakout-stocks-etf-ffty-ldrs-bout/">IBD ETF Indexes</a></li>
+<li id="menu-item-36865" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36865"><a href="https://research.investors.com/stock-lists/rising-profit-estimates/">Rising Profit Estimates</a></li>
+<li id="menu-item-36866" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36866"><a href="https://research.investors.com/stock-lists/stocks-that-funds-are-buying/">Stocks that Funds are Buying</a></li>
+<li id="menu-item-2210" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2210"><a href="https://research.investors.com/stock-lists/big-cap-20/"><b>IBD Big Cap 20</b></a></li>
+<li id="menu-item-2211" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2211"><a href="https://research.investors.com/stock-lists/ipo-leaders/">IPO Leaders</a></li>
+<li id="menu-item-3282027" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3282027"><a href="https://www.investors.com/stock-lists/best-growth-stocks-buy-watch-ibd-stock-lists/">Stock Lists Update</a></li>
+<li id="menu-item-2322985" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2322985"><a href="https://shop.investors.com/offer/splashresponsive.aspx?id=gettingstarted&#038;src=A00332A&#038;intcode=EditorialTests_GettingStarted_StockLists"><font color="#003399">New? Start Here</font></a></li>
+<li id="menu-item-514943" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-514943"><a href="https://myibd.investors.com/my-ibd/portfolio.aspx">My Stock Lists</a></li>
+<li id="menu-item-2209" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2209"><a href="https://research.investors.com/stock-lists/stock-spotlight/">Stock Spotlight</a></li>
+<li id="menu-item-7099080" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7099080"><a href="https://get.investors.com/ibd/?intcode=gnvb%7Cgnvb%7Cevgr%7C2021%7C08%7Cibdd%7Cna%7C%7C115458&#038;src=AKCAGE">IBD Digital: 2 Months for $20</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-2218" class="research menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2218"><a href="https://research.investors.com">Research</a>
+<ul class="sub-menu">
+<li id="menu-item-2233" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2233"><a href="https://research.investors.com">Stock Research</a>
+<ul class="sub-menu">
+<li id="menu-item-2234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2234"><a href="https://research.investors.com/stock-checkup/">IBD Stock Checkup</a></li>
+<li id="menu-item-2235" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2235"><a href="https://research.investors.com/stock-charts/nasdaq-nasdaq-composite-0ndqc.htm?cht=pvc&#038;type=daily">IBD Charts</a></li>
+<li id="menu-item-5029174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5029174"><a href="https://ibdstockscreener.investors.com">IBD Stock Screener</i></a></li>
+<li id="menu-item-3369152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3369152"><a href="https://www.investors.com/research/ibd-stock-of-the-day/">IBD Stock Of The Day</a></li>
+<li id="menu-item-6776628" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6776628"><a href="https://www.investors.com/research/best-stocks-to-buy-watch-ibd-screen-of-the-day/">IBD Screen Of The Day</a></li>
+<li id="menu-item-258244" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-258244"><a href="https://www.investors.com/category/research/investing-action-plan/">Investing Action Plan</a></li>
+<li id="menu-item-4293970" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4293970"><a href="https://www.investors.com/etfs-and-funds/etfs/best-etfs-exchange-traded-funds/">Best ETFs</a></li>
+<li id="menu-item-4293977" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4293977"><a href="https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-news-performance-reports-investing-ideas/">Best Mutual Funds</a></li>
+<li id="menu-item-127425" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-127425"><a href="https://www.investors.com/category/research/the-income-investor/">The Income Investor</a></li>
+<li id="menu-item-206091" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-206091"><a href="https://www.investors.com/category/research/earnings-preview/">Earnings Preview</a></li>
+<li id="menu-item-523692" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-523692"><a href="https://www.investors.com/research/earnings-calendar-analyst-estimates-stocks-to-watch/">Earnings Calendar</a></li>
+<li id="menu-item-2238" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2238"><a href="https://www.investors.com/category/research/industry-snapshot/">Industry Snapshot</a></li>
+<li id="menu-item-3560661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3560661"><a href="https://www.investors.com/research/ibd-50-growth-stocks-to-watch/">IBD 50 Stocks To Watch</a></li>
+<li id="menu-item-2237" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2237"><a href="https://www.investors.com/category/research/ibd-industry-themes/">IBD Industry Themes</a></li>
+<li id="menu-item-2241" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2241"><a href="https://www.investors.com/category/research/ibd-stock-analysis/">IBD Stock Analysis</a></li>
+<li id="menu-item-5784945" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5784945"><a href="https://www.investors.com/category/research/options/">Options</a></li>
+<li id="menu-item-2236" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2236"><a href="https://www.investors.com/category/research/the-new-america/">The New America</a></li>
+<li id="menu-item-488840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488840"><a href="https://www.investors.com/ibd-data-stories/build-your-investing-watch-list-with-stock-ratings-buy-zones-earnings/">IBD Data Stories</a></li>
+<li id="menu-item-214072" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-214072"><a href="https://www.investors.com/category/research/swing-trading/">Swing Trading</a></li>
+<li id="menu-item-7099078" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7099078"><a href="https://get.investors.com/ibd/?intcode=gnvb%7Cgnvb%7Cevgr%7C2021%7C08%7Cibdd%7Cna%7C%7C115458&#038;src=AKCAGE">IBD Digital: 2 Months for $20</a></li>
+</ul>
+</li>
+<li id="menu-item-2245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2245"><a href="https://research.investors.com">Premium Investing Tools</a>
+<ul class="sub-menu">
+<li id="menu-item-2246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2246"><a href="https://leaderboard.investors.com/"><font color="#006600">Leaderboard</font></a></li>
+<li id="menu-item-214739" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214739"><a href="https://swingtrader.investors.com"><font color="#563d93">SwingTrader</font></a></li>
+<li id="menu-item-2250" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2250"><a href="https://marketsmith.investors.com/"><font color="#cc3300">MarketSmith</font></a></li>
+<li id="menu-item-5156745" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5156745"><a href="https://research.investors.com/ibdlive"><font color="#004e8e">IBD Live</font></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-8293035" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8293035"><a href="https://www.investors.com/tag/all-news-and-stock-ideas/">NEWS</a>
+<ul class="sub-menu">
+<li id="menu-item-2255" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2255"><a href="https://www.investors.com/tag/all-news-and-stock-ideas/">NEWS</a>
+<ul class="sub-menu">
+<li id="menu-item-2256" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2256"><a href="https://research.investors.com/eIBD"><i>e</i>IBD</a></li>
+<li id="menu-item-34988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34988"><a href="https://www.investors.com/technology/">Technology</a></li>
+<li id="menu-item-263605" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-263605"><a href="https://www.investors.com/category/etfs-and-funds/personal-finance/">Personal Finance</a></li>
+<li id="menu-item-275130" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-275130"><a href="https://www.investors.com/category/etfs-and-funds/retirement/">Retirement</a></li>
+<li id="menu-item-4294849" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4294849"><a href="https://www.investors.com/etfs-and-funds/financial-advisor-retirement-planning-personal-finance-news/">Financial Advisors</a></li>
+<li id="menu-item-129832" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129832"><a href="https://www.investors.com/management/">Management</a></li>
+<li id="menu-item-464559" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-464559"><a href="https://www.investors.com/news/technology/fang-stocks-news-quotes-facebook-amazon-netflix-google/">FANG Stocks News</a></li>
+<li id="menu-item-177358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177358"><a href="https://www.investors.com/special-reports/">Special Reports</a></li>
+<li id="menu-item-517046" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-517046"><a href="https://www.investors.com/news/industry-news-and-stocks-to-watch/">Industry News Pages</a></li>
+<li id="menu-item-7840160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7840160"><a href="https://www.investors.com/news/cryptocurrency-prices-news/"><i style="font-style: normal; font-weight: bold; color:#003399;"><i style="font-size:12px;float:left; margin-right:5px;font-style: italic;">New</i>Cryptocurrency</i></a></li>
+</ul>
+</li>
+<li id="menu-item-4289906" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4289906"><a href="https://www.investors.com/economic-news-president-job-approval/">ECONOMY</a>
+<ul class="sub-menu">
+<li id="menu-item-8009572" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8009572"><a href="https://research.investors.com/economic-calendar/">Economic Calendar</a></li>
+<li id="menu-item-4289894" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4289894"><a href="https://www.investors.com/category/news/economy/">Economic News</a></li>
+<li id="menu-item-291728" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-291728"><a href="https://www.investors.com/news/ibdtipp-americas-most-accurate-pollster/">IBD/TIPP Poll</a></li>
+<li id="menu-item-405147" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-405147"><a href="https://www.investors.com/news/economy/ibdtipp-poll-economic-optimism-index/">Economic Optimism Index</a></li>
+<li id="menu-item-4289919" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4289919"><a href="https://www.investors.com/politics/ibdtipp-poll-presidential-approval-direction-of-country/">Presidential Leadership Index</a></li>
+<li id="menu-item-7099075" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7099075"><a href="https://get.investors.com/ibd/?intcode=gnvb%7Cgnvb%7Cevgr%7C2021%7C08%7Cibdd%7Cna%7C%7C115458&#038;src=AKCAGE">IBD Digital: 2 Months for $20</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-2229" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2229"><a href="https://www.investors.com/ibd-videos/">Videos</a>
+<ul class="sub-menu">
+<li id="menu-item-4920253" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4920253"><a href="https://www.investors.com/ibd-videos/">All Videos</a>
+<ul class="sub-menu">
+<li id="menu-item-4004747" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4004747"><a href="https://www.investors.com/ibd-videos/category/how-to-invest-hti">How To Invest Videos</a></li>
+<li id="menu-item-4868028" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4868028"><a href="https://www.investors.com/podcast">Investing With IBD Podcast</a></li>
+<li id="menu-item-5158398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5158398"><a href="https://research.investors.com/ibdlive"><i style="font-style: normal; font-weight: bold; color:#003399;"><i style="font-size:12px;float:left; margin-right:5px;font-style: italic;">New</i>IBD Live</i></a></li>
+<li id="menu-item-495199" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-495199"><a href="https://shop.investors.com/offer/splashresponsive.aspx?id=HSProgram&#038;src=A00272A">Online Courses</a></li>
+<li id="menu-item-4434141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4434141"><a href="https://www.investors.com/ibd-videos/category/options-ibd-videos?archive=1">Options Videos</a></li>
+<li id="menu-item-7272183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7272183"><a href="https://get.investors.com/growth-stories-podcast/">Growth Stories Podcast</a></li>
+<li id="menu-item-7768093" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7768093"><a href="https://www.investors.com/ibd-videos/category/webinars">Webinars</a></li>
+<li id="menu-item-7099073" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7099073"><a href="https://get.investors.com/ibd/?intcode=gnvb%7Cgnvb%7Cevgr%7C2021%7C08%7Cibdd%7Cna%7C%7C115458&#038;src=AKCAGE">IBD Digital: 2 Months for $20</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-8296109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8296109"><a href="https://investors.com/how-to-invest/how-to-invest-rules-for-when-buy-and-sell-stocks-in-bull-and-bear-markets/">Learn</a>
+<ul class="sub-menu">
+<li id="menu-item-8296111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8296111"><a href="https://investors.com/how-to-invest/how-to-invest-rules-for-when-buy-and-sell-stocks-in-bull-and-bear-markets/">How To Invest</a>
+<ul class="sub-menu">
+<li id="menu-item-8296112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8296112"><a href="https://www.investors.com/how-to-invest/how-to-invest-in-stocks-investing-for-beginners/">How To Invest In Stocks</a></li>
+<li id="menu-item-8296114" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8296114"><a href="https://investors.com/how-to-invest/how-to-buy-stocks-using-stock-lists-stock-ratings-stock-screener/">How To Buy Stocks</a></li>
+<li id="menu-item-8296115" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8296115"><a href="https://investors.com/how-to-invest/stock-investing-how-to-make-money-in-stock-3-key-factors/">3 Keys To Stock Investing</a></li>
+<li id="menu-item-8296117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8296117"><a href="https://investors.com/how-to-invest/when-to-sell-stocks">When To Sell Stocks</a></li>
+<li id="menu-item-8296118" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8296118"><a href="https://investors.com/how-to-invest/stock-market-timing-how-to-invest-in-stocks-tracking-bull-markets-bear-markets-stock-market-trends/">Stock Market Timing</a></li>
+<li id="menu-item-8296119" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8296119"><a href="https://investors.com/research/swing-trading/swing-trading-strategies/">Swing Trading</a></li>
+<li id="menu-item-8296121" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8296121"><a href="https://investors.com/how-to-invest/how-to-handle-changing-stock-market-trends/">Tracking Stock Market Trends</a></li>
+<li id="menu-item-8296122" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8296122"><a href="https://investors.com/how-to-invest/cryptocurrency-what-is-crypto/">What Is Crypto</a></li>
+<li id="menu-item-8296123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8296123"><a href="https://investors.com/how-to-invest/stock-charts-buying-stocks-using-technical-analysis/">How To Read Stock Charts</a></li>
+<li id="menu-item-8296125" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8296125"><a href="https://get.investors.com/online-courses/?src=A00272A">Premium Online Courses</a></li>
+</ul>
+</li>
+<li id="menu-item-34922" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34922"><a>Educational Resources</a>
+<ul class="sub-menu">
+<li id="menu-item-34926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34926"><a href="https://get.investors.com/getting-started/">New to IBD</a></li>
+<li id="menu-item-7656488" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7656488"><a href="https://get.investors.com/events/">Events</a></li>
+<li id="menu-item-472715" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-472715"><a href="https://www.investors.com/category/how-to-invest/investors-corner/">Investor's Corner</a></li>
+<li id="menu-item-4551419" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4551419"><a href="https://www.investors.com/how-to-invest/investing-strategies/">Investing Strategies Video Series</a></li>
+<li id="menu-item-4316081" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4316081"><a href="https://www.investors.com/podcast">Investing with IBD Podcast</a></li>
+<li id="menu-item-472819" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-472819"><a href="https://get.investors.com/trading-summit/">IBD Workshops</a></li>
+<li id="menu-item-346218" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-346218"><a href="https://www.investors.com/ibd-videos/category/webinars">Webinars</a></li>
+<li id="menu-item-34929" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34929"><a href="https://education.investors.com/financial-dictionary/?nav=IBDUKeyTerms">IBD Key Terms</a></li>
+<li id="menu-item-6593120" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6593120"><a href="https://get.investors.com/moneyworks/"><font color="#069237"><b>IBD Moneyworks</b></font></a></li>
+<li id="menu-item-5965166" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5965166"><a href="https://get.investors.com/ibd/12-days-of-learning/">12 Days Of Learning</a></li>
+<li id="menu-item-7096472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7096472"><a href="https://get.investors.com/infographics">Investing Infographics</a></li>
+<li id="menu-item-7099071" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7099071"><a href="https://get.investors.com/ibd/?intcode=gnvb%7Cgnvb%7Cevgr%7C2021%7C08%7Cibdd%7Cna%7C%7C115458&#038;src=AKCAGE">IBD Digital: 2 Months for $20</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-5304361" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5304361"><a href="https://research.investors.com/ibdlive?id=IBD-Live&#038;src=A00582A"><font color="#004e8e">IBD Live</font></a></li>
+<li id="menu-item-2231" class="leaderboard menu-item menu-item-type-custom menu-item-object-custom menu-item-2231"><a href="https://leaderboard.investors.com">Leaderboard</a></li>
+<li id="menu-item-198953" class="swingtrader menu-item menu-item-type-custom menu-item-object-custom menu-item-198953"><a href="https://swingtrader.investors.com">SwingTrader</a></li>
+<li id="menu-item-263433" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-263433"><a href="https://marketsmith.investors.com/?intcode=lgnv%7Clgnv%7CMarketSmith%7C2023%7C06%7Cmsp%7Cna%7C%7C725068&#038;src=A00653"><font color="#f86e27">MarketSmith</font></a></li>
+<li id="menu-item-7951672" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7951672"><a href="https://get.investors.com/marketdiem/?intcode=lgnv%7Clgnv%7Cprdmcst%7C2022%7C10%7Cmkdm%7Cna%7C%7C832881&#038;src=A00653"><font color="#66B32A">MarketDiem</font></a></li>
+<li id="menu-item-5395440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5395440"><a href="https://get.investors.com/?src=APA1BQ">Store</a></li>
+</ul></aside>
+<div class="wrapper">
+<div class="mask"></div>
+<div id="breaking-news" class="breaking-news">
+<div class="row">
+<div id="breaking-news-id1" class="breaking-headline"><p><strong>BREAKING: <a href="https://www.investors.com/market-trend/stock-market-today/dow-jones-win-streak-is-longest-in-6-years-tesla-reboundes-fed-meeting-tech-titans-on-tap/">Futures Little Changed With Fed Meeting, Big Earnings Ahead</a></strong></p>
+</div> <div class="breaking-ad adunit" data-adposition="breakingnews" id="-adunit-breakingnews" style="min-height:50px"></div>
+<script type="text/javascript">
+		          window.InvestorsAdvertisingUAC.RenderAd( document.getElementById( '-adunit-breakingnews') );
+	          </script>
+</div>
+</div>
+<div class="wrapper" style="padding: 0;">
+<div class="container">
+<div class="row">
+<div>
+<div class="broadcast-text"><p></p>
+<p></p>
+<style>.broadcast-text p{ margin:0;}.bc-mobile{display:none;}.bc-desktop {display:block;} @media screen and (max-width:768px) {.bc-desktop {display:none;} .bc-mobile {display:block;} }</style>
+<p style="margin: 0;"><a class="bc-desktop" style="width: 100%; max-width: 1240px; text-decoration: none; margin: 0 auto !important;" href="https://get.investors.com/marketsmith/market-shark/?intcode=nhpbrm%7Cnhpbrm%7CSharkWeek%7C2023%7C07%7Cmsp%7Cna%7C%7C553626&amp;src=A00627" target="_blank" rel="noopener"><img class="" style="width: 100%; max-width: 1240px; height: auto; margin: 0 auto;" src="https://www.investors.com/wp-content/uploads/2023/07/2023-market-shark-1240x80-1.gif" alt="2023 Market Shark Offer" /></a><a class="bc-mobile" style="width: 100%; max-width: 1240px; text-decoration: none; margin: 0 auto !important;" href="https://get.investors.com/marketsmith/market-shark/?intcode=nhpbrm%7Cnhpbrm%7CSharkWeek%7C2023%7C07%7Cmsp%7Cna%7C%7C553626&amp;src=A00627" target="_blank" rel="noopener"><img class="" style="width: 100%; max-width: 750px; height: auto; margin: 0 auto;" src="https://www.investors.com/wp-content/uploads/2023/07/2023-market-shark-750x80-1.gif" alt="2023 Market Shark Offer" /><br />
+</a></p>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<header class="banner top-bar" role="banner" data-topbar role="navigation">
+<div class="inner-wrap">
+<section class="nav-container">
+<div class="row topLogoContainer">
+<div class="small-2 medium-3 columns desktop-nav-ad-container">
+<div class="adunit desktop-nav-ad" data-adposition="sponsorbtn1" id="-adunit-sponsorbtn1"></div>
+<script type="text/javascript">
+						window.InvestorsAdvertisingUAC.RenderAd( document.getElementById( '-adunit-sponsorbtn1' ) );
+					</script>
+</div>
+<div class="medium-6 columns investors-logo ">
+<a href="https://www.investors.com" class="custom-logo-link" rel="home">
+<img width="2401" height="182" src="https://www.investors.com/wp-content/themes/ibd/dist/images/ibd-logo.svg" class="custom-logo" alt="Investor's Business Daily">
+</a>
+<style>header svg {
+								width: 50%
+							}</style>
+</div>
+<div class="show-for-large-up medium-3 columns">
+<div class="shopping-cart empty">
+<div class="icon">
+Shopping Cart
+</div>
+<div class="widget-shopping-cart navCart" id="lists">
+Your cart is currently empty.<br> Visit the <a href="https://shop.investors.com">IBD Store</a> to get started.
+</div>
+</div>
+<label for="queryly_toggle" class="queryly_search_form">
+<img class="queryly_search_button" style="vertical-align:middle;width: 42px;cursor: pointer;float:right;background: #004E8E;padding: 5px;border-radius: 20px;margin: 16px 5px;" src="https://www.queryly.com/images/whitesearchicon.png">
+</label>
+</div>
+</div>
+<div class="show-for-medium-down mobile-icon-nav">
+<i class="fa fa-bars"></i>
+</div>
+<ul id="menu-main-nav-1" class="center-buttons nav-investor"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-472480"><a href="https://research.investors.com/markettrend.aspx">Market Trend</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-473641"><a href="https://research.investors.com/markettrend.aspx">Market Trend</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-471724"><a href="https://www.investors.com/category/market-trend/the-big-picture/">The Big Picture</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-471725"><a href="https://www.investors.com/category/market-trend/stock-market-today/">Stock Market Today</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4136276"><a href="https://www.investors.com/market-trend/ibds-etf-market-strategy/ibds-etf-market-strategy/">IBD's ETF Market Strategy</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3892384"><a href="https://www.investors.com/research/stock-market-data-dow-jones-sp-500-nasdaq-spdr-etfs/">Stock Market Data</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-316043"><a href="https://research.investors.com/psychological-market-indicators/">Psychological Indicators</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2322978"><a href="https://get.investors.com/getting-started/?src=A00332A&#038;intcode=EditorialTests_GettingStarted_MarketTrend">New? Start Here</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7099081"><a href="https://get.investors.com/ibd/?intcode=gnvb%7Cgnvb%7Cevgr%7C2021%7C08%7Cibdd%7Cna%7C%7C115458&#038;src=AKCAGE">IBD Digital: 2 Months for $20</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="stock-lists joyride-third menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2206"><a href="https://www.investors.com/stock-lists/stocks-to-watch-top-rated-ipos-big-caps-and-growth-stocks/">Stock Lists</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34931"><a href="https://www.investors.com/stock-lists/stocks-to-watch-top-rated-ipos-big-caps-and-growth-stocks/">Stock Lists</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5553551"><a href="https://www.investors.com/research/ibd-long-term-leaders-screen/"><b>IBD Long-Term Leaders</b></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2212"><a href="https://research.investors.com/stock-lists/new-highs/">New Highs</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2216"><a href="https://research.investors.com/stocksonthemove.aspx">Stocks On The Move</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2215"><a href="https://research.investors.com/stock-lists/your-weekly-review/">Your Weekly Review</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2208"><a href="https://research.investors.com/stock-lists/ibd-50/"><b>IBD 50</b></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-204159"><a href="https://www.investors.com/ibd-data-tables/">IBD Data Tables</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36864"><a href="https://research.investors.com/stock-lists/relative-strength-at-new-high/">Relative Strength at New High</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-348488"><a href="https://www.investors.com/category/stock-lists/stocks-near-a-buy-zone/">Stocks Near A Buy Zone</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2207"><a href="https://research.investors.com/stock-lists/sector-leaders"><b>IBD Sector Leaders</b></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3710530"><a href="https://www.investors.com/ibd-indexes/ibd-etf-indexes-ibd-50-etf-leaders-breakout-stocks-etf-ffty-ldrs-bout/">IBD ETF Indexes</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36865"><a href="https://research.investors.com/stock-lists/rising-profit-estimates/">Rising Profit Estimates</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36866"><a href="https://research.investors.com/stock-lists/stocks-that-funds-are-buying/">Stocks that Funds are Buying</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2210"><a href="https://research.investors.com/stock-lists/big-cap-20/"><b>IBD Big Cap 20</b></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2211"><a href="https://research.investors.com/stock-lists/ipo-leaders/">IPO Leaders</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3282027"><a href="https://www.investors.com/stock-lists/best-growth-stocks-buy-watch-ibd-stock-lists/">Stock Lists Update</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2322985"><a href="https://shop.investors.com/offer/splashresponsive.aspx?id=gettingstarted&#038;src=A00332A&#038;intcode=EditorialTests_GettingStarted_StockLists"><font color="#003399">New? Start Here</font></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-514943"><a href="https://myibd.investors.com/my-ibd/portfolio.aspx">My Stock Lists</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2209"><a href="https://research.investors.com/stock-lists/stock-spotlight/">Stock Spotlight</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7099080"><a href="https://get.investors.com/ibd/?intcode=gnvb%7Cgnvb%7Cevgr%7C2021%7C08%7Cibdd%7Cna%7C%7C115458&#038;src=AKCAGE">IBD Digital: 2 Months for $20</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="research menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2218"><a href="https://research.investors.com">Research</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2233"><a href="https://research.investors.com">Stock Research</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2234"><a href="https://research.investors.com/stock-checkup/">IBD Stock Checkup</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2235"><a href="https://research.investors.com/stock-charts/nasdaq-nasdaq-composite-0ndqc.htm?cht=pvc&#038;type=daily">IBD Charts</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5029174"><a href="https://ibdstockscreener.investors.com">IBD Stock Screener</i></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3369152"><a href="https://www.investors.com/research/ibd-stock-of-the-day/">IBD Stock Of The Day</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6776628"><a href="https://www.investors.com/research/best-stocks-to-buy-watch-ibd-screen-of-the-day/">IBD Screen Of The Day</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-258244"><a href="https://www.investors.com/category/research/investing-action-plan/">Investing Action Plan</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4293970"><a href="https://www.investors.com/etfs-and-funds/etfs/best-etfs-exchange-traded-funds/">Best ETFs</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4293977"><a href="https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-news-performance-reports-investing-ideas/">Best Mutual Funds</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-127425"><a href="https://www.investors.com/category/research/the-income-investor/">The Income Investor</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-206091"><a href="https://www.investors.com/category/research/earnings-preview/">Earnings Preview</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-523692"><a href="https://www.investors.com/research/earnings-calendar-analyst-estimates-stocks-to-watch/">Earnings Calendar</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2238"><a href="https://www.investors.com/category/research/industry-snapshot/">Industry Snapshot</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3560661"><a href="https://www.investors.com/research/ibd-50-growth-stocks-to-watch/">IBD 50 Stocks To Watch</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2237"><a href="https://www.investors.com/category/research/ibd-industry-themes/">IBD Industry Themes</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2241"><a href="https://www.investors.com/category/research/ibd-stock-analysis/">IBD Stock Analysis</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5784945"><a href="https://www.investors.com/category/research/options/">Options</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2236"><a href="https://www.investors.com/category/research/the-new-america/">The New America</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488840"><a href="https://www.investors.com/ibd-data-stories/build-your-investing-watch-list-with-stock-ratings-buy-zones-earnings/">IBD Data Stories</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-214072"><a href="https://www.investors.com/category/research/swing-trading/">Swing Trading</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7099078"><a href="https://get.investors.com/ibd/?intcode=gnvb%7Cgnvb%7Cevgr%7C2021%7C08%7Cibdd%7Cna%7C%7C115458&#038;src=AKCAGE">IBD Digital: 2 Months for $20</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2245"><a href="https://research.investors.com">Premium Investing Tools</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2246"><a href="https://leaderboard.investors.com/"><font color="#006600">Leaderboard</font></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214739"><a href="https://swingtrader.investors.com"><font color="#563d93">SwingTrader</font></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2250"><a href="https://marketsmith.investors.com/"><font color="#cc3300">MarketSmith</font></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5156745"><a href="https://research.investors.com/ibdlive"><font color="#004e8e">IBD Live</font></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8293035"><a href="https://www.investors.com/tag/all-news-and-stock-ideas/">NEWS</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2255"><a href="https://www.investors.com/tag/all-news-and-stock-ideas/">NEWS</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2256"><a href="https://research.investors.com/eIBD"><i>e</i>IBD</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34988"><a href="https://www.investors.com/technology/">Technology</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-263605"><a href="https://www.investors.com/category/etfs-and-funds/personal-finance/">Personal Finance</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-275130"><a href="https://www.investors.com/category/etfs-and-funds/retirement/">Retirement</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4294849"><a href="https://www.investors.com/etfs-and-funds/financial-advisor-retirement-planning-personal-finance-news/">Financial Advisors</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129832"><a href="https://www.investors.com/management/">Management</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-464559"><a href="https://www.investors.com/news/technology/fang-stocks-news-quotes-facebook-amazon-netflix-google/">FANG Stocks News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177358"><a href="https://www.investors.com/special-reports/">Special Reports</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-517046"><a href="https://www.investors.com/news/industry-news-and-stocks-to-watch/">Industry News Pages</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7840160"><a href="https://www.investors.com/news/cryptocurrency-prices-news/"><i style="font-style: normal; font-weight: bold; color:#003399;"><i style="font-size:12px;float:left; margin-right:5px;font-style: italic;">New</i>Cryptocurrency</i></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4289906"><a href="https://www.investors.com/economic-news-president-job-approval/">ECONOMY</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8009572"><a href="https://research.investors.com/economic-calendar/">Economic Calendar</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4289894"><a href="https://www.investors.com/category/news/economy/">Economic News</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-291728"><a href="https://www.investors.com/news/ibdtipp-americas-most-accurate-pollster/">IBD/TIPP Poll</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-405147"><a href="https://www.investors.com/news/economy/ibdtipp-poll-economic-optimism-index/">Economic Optimism Index</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4289919"><a href="https://www.investors.com/politics/ibdtipp-poll-presidential-approval-direction-of-country/">Presidential Leadership Index</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7099075"><a href="https://get.investors.com/ibd/?intcode=gnvb%7Cgnvb%7Cevgr%7C2021%7C08%7Cibdd%7Cna%7C%7C115458&#038;src=AKCAGE">IBD Digital: 2 Months for $20</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2229"><a href="https://www.investors.com/ibd-videos/">Videos</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4920253"><a href="https://www.investors.com/ibd-videos/">All Videos</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4004747"><a href="https://www.investors.com/ibd-videos/category/how-to-invest-hti">How To Invest Videos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4868028"><a href="https://www.investors.com/podcast">Investing With IBD Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5158398"><a href="https://research.investors.com/ibdlive"><i style="font-style: normal; font-weight: bold; color:#003399;"><i style="font-size:12px;float:left; margin-right:5px;font-style: italic;">New</i>IBD Live</i></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-495199"><a href="https://shop.investors.com/offer/splashresponsive.aspx?id=HSProgram&#038;src=A00272A">Online Courses</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4434141"><a href="https://www.investors.com/ibd-videos/category/options-ibd-videos?archive=1">Options Videos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7272183"><a href="https://get.investors.com/growth-stories-podcast/">Growth Stories Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7768093"><a href="https://www.investors.com/ibd-videos/category/webinars">Webinars</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7099073"><a href="https://get.investors.com/ibd/?intcode=gnvb%7Cgnvb%7Cevgr%7C2021%7C08%7Cibdd%7Cna%7C%7C115458&#038;src=AKCAGE">IBD Digital: 2 Months for $20</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8296109"><a href="https://investors.com/how-to-invest/how-to-invest-rules-for-when-buy-and-sell-stocks-in-bull-and-bear-markets/">Learn</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8296111"><a href="https://investors.com/how-to-invest/how-to-invest-rules-for-when-buy-and-sell-stocks-in-bull-and-bear-markets/">How To Invest</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8296112"><a href="https://www.investors.com/how-to-invest/how-to-invest-in-stocks-investing-for-beginners/">How To Invest In Stocks</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8296114"><a href="https://investors.com/how-to-invest/how-to-buy-stocks-using-stock-lists-stock-ratings-stock-screener/">How To Buy Stocks</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8296115"><a href="https://investors.com/how-to-invest/stock-investing-how-to-make-money-in-stock-3-key-factors/">3 Keys To Stock Investing</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8296117"><a href="https://investors.com/how-to-invest/when-to-sell-stocks">When To Sell Stocks</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8296118"><a href="https://investors.com/how-to-invest/stock-market-timing-how-to-invest-in-stocks-tracking-bull-markets-bear-markets-stock-market-trends/">Stock Market Timing</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8296119"><a href="https://investors.com/research/swing-trading/swing-trading-strategies/">Swing Trading</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8296121"><a href="https://investors.com/how-to-invest/how-to-handle-changing-stock-market-trends/">Tracking Stock Market Trends</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8296122"><a href="https://investors.com/how-to-invest/cryptocurrency-what-is-crypto/">What Is Crypto</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8296123"><a href="https://investors.com/how-to-invest/stock-charts-buying-stocks-using-technical-analysis/">How To Read Stock Charts</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8296125"><a href="https://get.investors.com/online-courses/?src=A00272A">Premium Online Courses</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34922"><a>Educational Resources</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34926"><a href="https://get.investors.com/getting-started/">New to IBD</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7656488"><a href="https://get.investors.com/events/">Events</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-472715"><a href="https://www.investors.com/category/how-to-invest/investors-corner/">Investor's Corner</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4551419"><a href="https://www.investors.com/how-to-invest/investing-strategies/">Investing Strategies Video Series</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4316081"><a href="https://www.investors.com/podcast">Investing with IBD Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-472819"><a href="https://get.investors.com/trading-summit/">IBD Workshops</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-346218"><a href="https://www.investors.com/ibd-videos/category/webinars">Webinars</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34929"><a href="https://education.investors.com/financial-dictionary/?nav=IBDUKeyTerms">IBD Key Terms</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6593120"><a href="https://get.investors.com/moneyworks/"><font color="#069237"><b>IBD Moneyworks</b></font></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5965166"><a href="https://get.investors.com/ibd/12-days-of-learning/">12 Days Of Learning</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7096472"><a href="https://get.investors.com/infographics">Investing Infographics</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7099071"><a href="https://get.investors.com/ibd/?intcode=gnvb%7Cgnvb%7Cevgr%7C2021%7C08%7Cibdd%7Cna%7C%7C115458&#038;src=AKCAGE">IBD Digital: 2 Months for $20</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5304361"><a href="https://research.investors.com/ibdlive?id=IBD-Live&#038;src=A00582A"><font color="#004e8e">IBD Live</font></a></li>
+<li class="leaderboard menu-item menu-item-type-custom menu-item-object-custom menu-item-2231"><a href="https://leaderboard.investors.com">Leaderboard</a></li>
+<li class="swingtrader menu-item menu-item-type-custom menu-item-object-custom menu-item-198953"><a href="https://swingtrader.investors.com">SwingTrader</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-263433"><a href="https://marketsmith.investors.com/?intcode=lgnv%7Clgnv%7CMarketSmith%7C2023%7C06%7Cmsp%7Cna%7C%7C725068&#038;src=A00653"><font color="#f86e27">MarketSmith</font></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7951672"><a href="https://get.investors.com/marketdiem/?intcode=lgnv%7Clgnv%7Cprdmcst%7C2022%7C10%7Cmkdm%7Cna%7C%7C832881&#038;src=A00653"><font color="#66B32A">MarketDiem</font></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5395440"><a href="https://get.investors.com/?src=APA1BQ">Store</a></li>
+<span class="right right-nav-items"><li class="shopping-cart-container"><div class="shopping-cart empty"><div class="icon">Shopping Cart</div><div class="widget-shopping-cart navCart" id="lists">Your cart is currently empty.<br> Visit the <a href="https://shop.investors.com">IBD Store</a> to get started.</div></div></li><li class="settings-dropdown dropdown menu" data-dropdown-menu style="display: none;" aria-haspopup="menu"><div class="my-account-menu"><a href="javascript:;" class="account-initials ada-popup-focus"><i class="fa fa-user"></i></a></div></span><div id="mySettingsModal" role="dialog" aria-hidden="true" aria-labelledby="modalTitle" data-reveal="">
+<div class="settings-user-bar row">
+<div class="columns small-6">
+<div class="user-name">Hi <span class="user-display-name"></span></div>
+</div>
+<div class="columns small-3 small-text"><a class="my-ibd-link" href="https://myibd.investors.com">MY IBD</a></div>
+<div class="columns small-3 small-text"><a class="signout-ibd-link" href="https://myibd.investors.com/logout.aspx">SIGN OUT</a></div>
+</div>
+<ul class="tabs" data-tab>
+<li class="tab-title active"><a href="#" data-panel="#panel1">My Products</a></li>
+<li class="tab-title"><a href="#" data-panel="#panel2">My Favorites</a></li>
+<li class="tab-title"><a href="#" data-panel="#panel3">My Stock Lists</a></li>
+</ul>
+<div class="tabs-content">
+<div class="content active" id="panel1">
+<div class="widget-my-products"></div>
+</div>
+<div class="content" id="panel2">
+<div class="medium-12 columns text-right">
+<a class="edit-fav-text" href="https://myibd.investors.com/edit-favorites/">Edit Favorites</a>
+</div>
+<div class="widget-my-favorites"></div>
+</div>
+<div class="content" id="panel3">
+<div class="widget-my-stock-list"></div>
+</div>
+</div>
+</div>
+</li><li class="login-dropdown right" style="display: none;"><div class="signin-links"><a id="signin-link" href="https://myibd.investors.com/secure/signin.aspx?eurl=">Sign In</a><span> or </span><a id="signup-link" href="https://shop.investors.com/offer/splashresponsive.aspx?id=ibd-getstarted-2for20&src=A00544A&intcode=HPSignup">Subscribe</a></div></li></ul> </section>
+</div>
+</header>
+
+<div class="row">
+
+<div class="ads site-header-ad pushdown-ad leaderboard-ad text-center">
+<div id="-adunit-leader" class="ads adunit" data-adposition="leader"></div>
+<script type="text/javascript">
+				window.InvestorsAdvertisingUAC.RenderAd( document.getElementById( '-adunit-leader' ) );
+		</script>
+</div>
+</div>
+
+<div class="wrap" role="document">
+<div class="content">
+<main class="main" role="main">
+<script>
+	// Set the current post ID on the window object to make it available to ajax.
+	window.postID = 8537257;
+</script>
+<hr class="top-horizontal-rule">
+<section class="main-content container">
+<div class="main row">
+<div>
+<div class="main-content-column">
+<section class="stock-market-today">
+<article class="clearfix post-8537257 post type-post status-publish format-standard has-post-thumbnail hentry category-the-big-picture tag-all-news-and-stock-ideas tag-dow-jones-industrial-average-stock-news tag-earnings tag-economy article_type-staffarticle distribution_rights-distribute">
+<header>
+<ul class="post-categories">
+<li><a href="https://www.investors.com/category/market-trend/the-big-picture/" rel="category tag">The Big Picture</a></li></ul> <h1 class="header1 crawler">
+Tesla, Other Earnings Hit Stock Market, But Here's The New Leading Index	</h1>
+<div class="featured-post-image-container"></div>
+<div class="addtoany_share_save_container addtoany_content_top row">
+<div class="share">
+<div class="a2a_kit a2a_kit_size_25 addtoany_list" data-a2a-url="https://www.investors.com/market-trend/the-big-picture/tesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index/" data-a2a-title="Tesla, Other Earnings Hit Stock Market, But Here&#039;s The New Leading Index"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.investors.com%2Fmarket-trend%2Fthe-big-picture%2Ftesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index%2F&amp;linkname=Tesla%2C%20Other%20Earnings%20Hit%20Stock%20Market%2C%20But%20Here%27s%20The%20New%20Leading%20Index" title="Facebook" rel="nofollow noopener" target="_blank"><img src="/wp-content/themes/ibd/dist/images/share-icons/facebook.png" width="25" height="25" alt="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.investors.com%2Fmarket-trend%2Fthe-big-picture%2Ftesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index%2F&amp;linkname=Tesla%2C%20Other%20Earnings%20Hit%20Stock%20Market%2C%20But%20Here%27s%20The%20New%20Leading%20Index" title="Twitter" rel="nofollow noopener" target="_blank"><img src="/wp-content/themes/ibd/dist/images/share-icons/twitter.png" width="25" height="25" alt="Twitter"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fwww.investors.com%2Fmarket-trend%2Fthe-big-picture%2Ftesla-other-earnings-hit-stock-market-but-heres-the-new-leading-index%2F&amp;linkname=Tesla%2C%20Other%20Earnings%20Hit%20Stock%20Market%2C%20But%20Here%27s%20The%20New%20Leading%20Index" title="LinkedIn" rel="nofollow noopener" target="_blank"><img src="/wp-content/themes/ibd/dist/images/share-icons/linkedin.png" width="25" height="25" alt="LinkedIn"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"><img src="/wp-content/themes/ibd/dist/images/share-icons/email.png" alt="Share"></a></div> <a class="reprints-button sharing" href="https://www.ibdlicensing.com" target="_blank">Licensing</a>
+</div>
+<ul class="post-meta">
+<li><span class="authors-links"><a href="https://www.investors.com/author/arancibiaj/" title="Posts by JUAN CARLOS ARANCIBIA" class="author url fn" rel="author">JUAN CARLOS ARANCIBIA</a></span></li>
+<li class="post-time">05:36 PM ET 07/20/2023</li>
+</ul>
+</div>
+</header>
+<div class="single-post-content post-content drop-cap crawler">
+<noscript><p>Earnings season sometimes leaves its mark on the stock market, and Thursday was a perfect example, especially for the Nasdaq composite. 
+			<span>
+				<span style="width:50%;"
+							class="video-player-container vms-left">
+					<span class="shortcode-video" data-nosnippet="true"
+					      vid-id="8537263"
+					      vid-dom-id="8537263-64bf941343739"
+					      vid-top="false"
+					      vid-repeat="1"
+					      vid-width="50"
+					      vid-url="https://content.jwplatform.com/manifests/BjzfxlWA.m3u8"
+					      jw-video-key="BjzfxlWA"
+					      data-captions="[{&quot;name&quot;:&quot;English&quot;,&quot;url&quot;:&quot;https:\/\/content.jwplatform.com\/tracks\/cgnxQUrk.vtt&quot;}]"
+					      vid-name="Dow Leads, Nasdaq Falls On Earnings; Novo Nordisk, Taiwan Semi, CrowdStrike In Focus"
+					      vid-cat="Stock Market Today"
+					      vid-date="07/20/2023"
+					      vid-date-tmsp="1689852864"					      
+					      vid-image="https://www.investors.com/wp-content/uploads/2023/07/BjzfxlWA-640x360.jpg"
+					      vid-authors="ALISSA CORAM, ED CARSON">
+						<span class="close-mini-vid">X</span>
+						<span id="shortcode-video-player-8537263-64bf941343739"
+						      class="ready-to-load"></span>
+					</span>
+				</span>
+			</span><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"VideoObject","name":"Dow Leads, Nasdaq Falls On Earnings; Novo Nordisk, Taiwan Semi, CrowdStrike In Focus","description":"Earnings drove a wedge between the major indexes, with results lifting the Dow and hitting the Nasdaq. Taiwan Semiconductor contributed to tech woes, while CrowdStrike wiped out recent gains. But the Nasdaq and growth stocks generally look strong stepping back. Meanwhile, Novo Nordisk flashed a buy signal.","thumbnailUrl":"https:\/\/www.investors.com\/wp-content\/uploads\/2023\/07\/BjzfxlWA-640x360.jpg","contentUrl":"https:\/\/content.jwplatform.com\/manifests\/BjzfxlWA.m3u8","uploadDate":"2023-07-20T11:34:24+0000","duration":"PT1015.50S","author":{"@type":"Person","name":"ALISSA CORAM, ED CARSON"},"publisher":{"@type":"Organization","name":"Investor's Business Daily","logo":{"@type":"ImageObject","url":false},"url":"https:\/\/www.investors.com"},"keywords":""}</script> The Nasdaq sold off nearly 2.1%, its worst day since March 9. It's been no secret that the Nasdaq's fortunes this year rest largely on seven megacaps. So when one of those stocks&hellip;</p>
+</noscript> </div>
+<div class="single-copyright"></div>
+</article>
+</section>
+<div class="marketing-bottom">
+<div id="dianomi-thumbnails">
+</div>
+</div> </div>
+<aside class="medium-4 large-4 columns end page-sidebar">
+<div class="aside-wrapper tag-page">
+<section class="todays-headlines">
+<h3 class="category-header">Today's Spotlight</h3>
+<article class="sidebar-todays-spotlight">
+<a href="https://www.investors.com/ibd-videos/videos/tom-sosnoff-how-to-trade-earnings-moves-with-options-using-implied-volatility?intcode=cpspt%7Ccms%7CIBDPodcast%7C2022%7C02%7Cinvpdcst%7Cna%7C%7C350093&src=A00392" target=&quot;_blank&quot;>
+<h2 class="sidebar-todays-spotlight-title"><span style="color: #004099; font-weight: bold;">New “Investing With IBD” Episode</span></h2>
+<span class="sidebar-todays-spotlight-content">This week, guest Tom Sosnoff shares how he trades earnings movers with options.</span>
+</a>
+</article>
+<article class="sidebar-todays-spotlight">
+<a href="https://get.investors.com/marketsmith/market-shark/?intcode=cpspt%7Ccms%7CSharkWeek%7C2023%7C07%7Cmsp%7Cna%7C%7C983974&src=A00392" target=&quot;_blank&quot;>
+<h2 class="sidebar-todays-spotlight-title"><span style="color: #C25404; font-weight: bold;">Trade Like a Market Shark</span></h2>
+<span class="sidebar-todays-spotlight-content">Start swimming through killer trade ideas—get 4 weeks of MarketSmith for only $24.95!</span>
+</a>
+</article>
+<article class="sidebar-todays-spotlight">
+<a href="https://get.investors.com/ibd/start-trading-stocks-in-3-days/?intcode=cpspt%7Ccms%7Cevgr%7C2022%7Cna%7Cprcn%7Cna%7C%7C196230&src=A00392" target=&quot;_blank&quot;>
+<h2 class="sidebar-todays-spotlight-title"><span style="color: #E6228C; font-weight: bold;">Start Trading Stocks in 3 Days</span></h2>
+<span class="sidebar-todays-spotlight-content">Learn how to trade stocks like a pro with just 3 email lessons! Sign up for free today.</span>
+</a>
+</article>
+</section>
+<div class="sidebar-ad-placeholder-rec1"></div>
+<div class="sidebar-ad-placeholder"></div>
+<section class="more-news">
+<h3 class="category-header">More News</h3>
+<ul>
+<li class="row">
+<a href="https://www.investors.com/etfs-and-funds/sectors/nasdaq-100-big-changes-hit-the-including-these-surprises/" title="How Nasdaq 100's Special Rebalance Punishes The 'Magnificent 7'">
+<span class="thumbnail columns small-4">
+<img width="200" height="112" src="https://www.investors.com/wp-content/uploads/2017/06/SMT_Nasdaq_061917-200x112.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="Nasdaq" loading="lazy" id="article-image-top" srcset="https://www.investors.com/wp-content/uploads/2017/06/SMT_Nasdaq_061917-200x112.jpg 200w, https://www.investors.com/wp-content/uploads/2017/06/SMT_Nasdaq_061917-640x360.jpg 640w, https://www.investors.com/wp-content/uploads/2017/06/SMT_Nasdaq_061917-300x169.jpg 300w, https://www.investors.com/wp-content/uploads/2017/06/SMT_Nasdaq_061917-768x432.jpg 768w, https://www.investors.com/wp-content/uploads/2017/06/SMT_Nasdaq_061917.jpg 1000w" sizes="(max-width: 200px) 100vw, 200px" /> </span>
+<span class="desc columns small-8">
+<span class="articletitle">How Nasdaq 100's Special Rebalance Punishes The 'Magnificent 7'</span>
+</span>
+</a>
+</li>
+<li class="row">
+<a href="https://www.investors.com/news/ev-tax-credits-all-the-2023-2024-electric-cars-and-trucks-that-get-7500/" title="EV Tax Credits: All The 2023, 2024 Cars And Trucks That Get $7,500">
+<span class="thumbnail columns small-4">
+<img width="200" height="112" src="https://www.investors.com/wp-content/uploads/2023/07/A1MAIN_evs_072123-1-200x112.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="EV Tax Credits, concept" loading="lazy" id="article-image-top" srcset="https://www.investors.com/wp-content/uploads/2023/07/A1MAIN_evs_072123-1-200x112.jpg 200w, https://www.investors.com/wp-content/uploads/2023/07/A1MAIN_evs_072123-1-300x169.jpg 300w, https://www.investors.com/wp-content/uploads/2023/07/A1MAIN_evs_072123-1-640x360.jpg 640w, https://www.investors.com/wp-content/uploads/2023/07/A1MAIN_evs_072123-1-768x432.jpg 768w, https://www.investors.com/wp-content/uploads/2023/07/A1MAIN_evs_072123-1.jpg 1000w" sizes="(max-width: 200px) 100vw, 200px" /><p id="article-image-top-caption" class="caption">EV tax credits are enticing car buyers, who can choose from a growing number of models. (© Dave Cutler)</p> </span>
+<span class="desc columns small-8">
+<span class="articletitle">EV Tax Credits: All The 2023, 2024 Cars And Trucks That Get $7,500</span>
+</span>
+</a>
+</li>
+<li class="row promoted">
+<a href="https://www.investors.com/promoted-content/direxion/investing-in-the-future-of-the-hydrogen-economy/" title="Investing In The Future Of The Hydrogen Economy">
+<span class="thumbnail columns small-4">
+<img width="200" height="112" src="https://www.investors.com/wp-content/uploads/2022/11/Xchange_China-Back-Business-200x112.png" class="attachment-small-thumb size-small-thumb" alt="" loading="lazy" srcset="https://www.investors.com/wp-content/uploads/2022/11/Xchange_China-Back-Business-200x112.png 200w, https://www.investors.com/wp-content/uploads/2022/11/Xchange_China-Back-Business.png 240w" sizes="(max-width: 200px) 100vw, 200px" /> </span>
+<span class="desc columns small-8">
+<span class="articletitle">Investing In The Future Of The Hydrogen Economy</span>
+<span class="promoText">Promoted Content By </span>
+<span class="promoName">Direxion</span><br>
+</span>
+</a>
+</li>
+</ul>
+</section>
+<div class="ads sidebar-ad rec-two">
+<div class="adunit rtPaidAd responsive-rec-two recSticky" data-adposition="rec2">
+</div>
+<div class="sticky-wrapper trading-center-wrapper">
+<section class="trading-center ads sidebar-ad">
+<h4>TRADING CENTER</h4>
+<ul>
+<li>
+<a class="trade-center-ad" href="#">
+<div class="adunit" data-adposition="tc1"></div>
+</a>
+</li>
+<li>
+<a class="trade-center-ad" href="#">
+<div class="adunit" data-adposition="tc2"></div>
+</a>
+</li>
+<li>
+<a class="trade-center-ad" href="#">
+<div class="adunit" data-adposition="tc3"></div>
+</a>
+</li>
+<li>
+<a class="trade-center-ad" href="#">
+<div class="adunit" data-adposition="tc4"></div>
+</a>
+</li>
+<li>
+<a class="trade-center-ad" href="#">
+<div class="adunit" data-adposition="tc5"></div>
+</a>
+</li>
+<li>
+<a class="trade-center-ad" href="#">
+<div class="adunit" data-adposition="tc6"></div>
+</a>
+</li>
+</ul>
+</section>
+</div>
+</div>
+</aside>
+<div class="clearfix"></div>
+</div>
+</div>
+</section>
+</main>
+</div>
+</div>
+<span class="investing-resources"><section class="grad-background">
+<div class="row mainContainer">
+<div class="small-12 columns">
+<div class="headlineMid2 center">INVESTING RESOURCES</div>
+<ul class="article small-block-grid-1 medium-block-grid-3">
+<li class="text_section">
+<a href="https://shop.investors.com/Products/OfferSelection.aspx?refresh=&type=ica_n_20intro&intcode=InvestingTools_Offer_2For20&src=A00299A">
+<div class="medium-12 large-5 columns resImg">
+<img width="233" height="150" src="https://www.investors.com/wp-content/uploads/2015/08/footer-icons-trial-1.png">
+</div>
+<article class="medium-12 large-7 columns resBlock">
+<h6 class="headline resHead">Take a Trial Today</h6>
+<p class="resourceText hide-for-small-only">Get instant access to exclusive stock lists, expert market analysis and powerful tools with 2 months of IBD Digital for only $20!</p>
+</article></a>
+</li>
+<li class="text_section">
+<a href="https://www.investors.com/ibd-videos/">
+<div class="medium-12 large-5 columns resImg">
+<img width="233" height="150" src="https://www.investors.com/wp-content/uploads/2015/08/footer-icons-video.png">
+</div>
+<article class="medium-12 large-7 columns resBlock">
+<h6 class="headline resHead">IBD Videos</h6>
+<p class="resourceText hide-for-small-only">Get market updates, educational videos, webinars, and stock analysis.</p>
+</article></a>
+</li>
+<li class="text_section">
+<a href="http://shop.investors.com/offer/splashresponsive.aspx?id=gettingstarted">
+<div class="medium-12 large-5 columns resImg">
+<img width="233" height="150" src="https://www.investors.com/wp-content/uploads/2015/08/footer-icons-started.png">
+</div>
+<article class="medium-12 large-7 columns resBlock">
+<h6 class="headline resHead">Get Started</h6>
+<p class="resourceText hide-for-small-only">Learn how you can make more money with IBD's investing tools, top-performing stock lists, and educational content.</p>
+</article></a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</span>
+<footer id="foot-start" class="mediumpadding">
+<div class="mainContainer centered">
+<div class="row">
+<ul id="menu-footer-col-1" class="hide-for-medium-down first large-2 small-12 columns nobullet small nopadding"><li id="menu-item-2179" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2179"><a href="https://research.investors.com/ibd-charts.aspx">IBD Stock Charts</a></li>
+<li id="menu-item-2180" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2180"><a href="https://research.investors.com/stock-checkup/">IBD Stock Checkup</a></li>
+<li id="menu-item-2181" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2181"><a href="https://research.investors.com/stock-quotes.aspx">Stock Quotes</a></li>
+<li id="menu-item-2183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2183"><a href="https://get.investors.com/marketsmith">MarketSmith</a></li>
+<li id="menu-item-3173972" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3173972"><a href="https://get.investors.com/newsletters/">Newsletters</a></li>
+</ul><ul id="menu-footer-col-2" class="hide-for-medium-down second large-2 small-12 columns nobullet small nopadding"><li id="menu-item-328907" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-328907"><a href="https://www.investors.com/ibd-university/how-to-buy/">How to Buy Stocks</a></li>
+<li id="menu-item-329052" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-329052"><a href="https://www.investors.com/ibd-university/chart-reading/">How to Read Stock Charts</a></li>
+<li id="menu-item-329053" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-329053"><a href="https://www.investors.com/ibd-university/how-to-sell/">When to Sell Stocks</a></li>
+<li id="menu-item-2187" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2187"><a href="https://myibd.investors.com/retail-locations">IBD Retail Locations</a></li>
+<li id="menu-item-2188" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2188"><a href="https://www.investors.com/investors-business-daily-privacy-policy/#advertisements">Ad Choices</a></li>
+</ul>
+<div class="large-5 small-12 columns text-center">
+<img width="510" height="75" class="site-logo" src="https://www.investors.com/wp-content/themes/ibd/dist/images/logo-dj.svg">
+<ul id="menu-footer-main" class="nobullet medium pipe inline"><li id="menu-item-2174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2174"><a href="https://get.investors.com/about-ibd/">About Us</a></li>
+<li id="menu-item-472019" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-472019"><a href="https://get.investors.com/advertising/">Advertising</a></li>
+<li id="menu-item-472017" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-472017"><a href="https://askinvestorhelp.force.com/s/">Contact Us</a></li>
+<li id="menu-item-2177" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2177"><a href="https://www.investors.com/home/investors-business-daily-inc-terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-2117869" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2117869"><a href="https://www.investors.com/investors-business-daily-privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-7583973" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7583973"><a href="https://www.dowjones.com/accessibility-statement/">Accessibility Statement</a></li>
+<li id="menu-item-2178" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2178"><a href="https://investors.com/site-map/">Site Map</a></li>
+</ul> </div>
+<ul id="menu-footer-col-3" class="show-for-medium-down first large-2 small-12 columns nobullet small nopadding"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2179"><a href="https://research.investors.com/ibd-charts.aspx">IBD Stock Charts</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2180"><a href="https://research.investors.com/stock-checkup/">IBD Stock Checkup</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2181"><a href="https://research.investors.com/stock-quotes.aspx">Stock Quotes</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2183"><a href="https://get.investors.com/marketsmith">MarketSmith</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3173972"><a href="https://get.investors.com/newsletters/">Newsletters</a></li>
+</ul><ul id="menu-footer-col-4" class="show-for-medium-down second large-2 small-12 columns nobullet small nopadding"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-328907"><a href="https://www.investors.com/ibd-university/how-to-buy/">How to Buy Stocks</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-329052"><a href="https://www.investors.com/ibd-university/chart-reading/">How to Read Stock Charts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-329053"><a href="https://www.investors.com/ibd-university/how-to-sell/">When to Sell Stocks</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2187"><a href="https://myibd.investors.com/retail-locations">IBD Retail Locations</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2188"><a href="https://www.investors.com/investors-business-daily-privacy-policy/#advertisements">Ad Choices</a></li>
+</ul> <ul id="menu-footer-col-5" class="large-2 small-12 columns nobullet small nopadding"><li id="menu-item-2189" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2189"><a href="https://www.investors.com/category/market-trend/stock-market-today/">Stock Market Today</a></li>
+<li id="menu-item-217154" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-217154"><a href="https://www.investors.com/category/market-trend/the-big-picture/">The Big Picture</a></li>
+<li id="menu-item-2190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2190"><a href="https://research.investors.com/economic-calendar/">Economic Calendar</a></li>
+<li id="menu-item-2192" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2192"><a href="https://get.investors.com/trading-summit/">Investing Workshops</a></li>
+<li id="menu-item-2193" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2193"><a href="https://get.investors.com/getting-started/">New to IBD</a></li>
+</ul> <ul id="menu-footer-col-6" class="large-1 small-12 columns nobullet small nopadding"><li id="menu-item-2194" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2194"><a href="https://www.investors.com/category/news/economy/">Economy</a></li>
+<li id="menu-item-2195" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2195"><a href="https://www.investors.com/technology/">Technology</a></li>
+<li id="menu-item-2196" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2196"><a href="https://www.investors.com/best-mutual-funds-awards/">Best Mutual Funds Awards</a></li>
+<li id="menu-item-2197" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2197"><a href="https://www.investors.com/best-online-brokers/">Best Online Brokers</a></li>
+</ul>
+</div>
+<div class="row social">
+<ul class="footer-social inline nobullet">
+<li class="social-follow-text">Connect With Us On</li>
+<li>
+<a href="https://www.facebook.com/investorsbusinessdaily/?fref=ts" target="_blank" alt="Facebook"> <img width="96" height="96" src="//www.investors.com/wp-content/themes/ibd/dist/images/social-icons/facebook.png" alt="Facebook" title="Like us on Facebook"></a>
+</li>
+<li>
+<a href="https://twitter.com/IBDinvestors" target="_blank" alt="Twitter"> <img width="96" height="96" src="//www.investors.com/wp-content/themes/ibd/dist/images/social-icons/twitter.png" alt="Twitter" title="Follow us on Twitter"></a>
+</li>
+<li>
+<a href="https://stocktwits.com/InvestorsBusinessDaily" target="_blank" alt="StockTwits"> <img width="96" height="96" src="//www.investors.com/wp-content/themes/ibd/dist/images/social-icons/stocktwit.png" alt="StockTwits" title="Find us on StockTwits"></a>
+</li>
+<li>
+<a href="https://www.instagram.com/investorsbusinessdaily/" target="_blank" alt="Instagram"> <img width="96" height="96" src="//www.investors.com/wp-content/themes/ibd/dist/images/social-icons/instagram.png" alt="Instagram" title="Follow us on Instagram"></a>
+</li>
+<li>
+<a href="https://www.linkedin.com/company/investors-business-daily" target="_blank" alt="LinkedIn"> <img width="96" height="96" src="//www.investors.com/wp-content/themes/ibd/dist/images/social-icons/linkedin.png" alt="Linkedin" title="Connect with us on LinkedIn"></a>
+</li>
+<li>
+<a href="https://www.youtube.com/user/IBDTV" target="_blank" alt="YouTube"> <img width="96" height="96" src="//www.investors.com/wp-content/themes/ibd/dist/images/social-icons/youtube.png" alt="YouTube" title="View our YouTube channel"></a>
+</li>
+</ul>
+</div>
+<div class="row fine-print">
+<hr />
+<p class="notice tiny">Notice: Information contained herein is not and should not be construed as an offer, solicitation, or recommendation to buy or sell securities. The information has been obtained from sources we believe to be reliable; however no guarantee is made or implied with respect to its accuracy, timeliness, or completeness. Authors may own the stocks they discuss. The information and content are subject to change without notice.</p>
+<p class="notice tiny">*Real-time prices by Nasdaq Last Sale. Realtime quote and/or trade prices are not sourced from all markets.</p>
+<p class="notice tiny">Ownership data provided by Refinitiv and Estimates data provided by FactSet.</p>
+<p class="notice tiny"> © 2000-2023 Investor's Business Daily, LLC. All rights reserved</p>
+</div>
+</div>
+</footer>
+<script type="text/javascript">
+		var adunits = document.getElementsByClassName( 'adunit' );
+		for (var i = 0; i < adunits.length; i++ ) {
+			window.InvestorsAdvertisingUAC.RenderAd( adunits[i] );
+		}
+	</script><div class="bcb_toggle_wrapper" id="broker-center-bar"></div>
+<script type="text/html" id="broker-center-bar-html">
+	<div id="bcb_wrap_toggle" class="bcb_stripe_link">
+		<div class="bcb_rec21">
+			<div class="bcb_title">Broker Center</div>
+			<div id="bcb_ads_slots" class="bcb_allspace">
+				<div id="bcb_slot_1" class="bcb-adunit" data-refresh="bcb"></div>
+				<div id="bcb_slot_2" class="bcb-adunit" data-refresh="bcb"></div>
+				<div id="bcb_slot_3" class="bcb-adunit" data-refresh="bcb"></div>
+				<div id="bcb_slot_4" class="bcb-adunit" data-refresh="bcb"></div>
+			</div>
+			<div class="bcb-svg-container"><a class="bar_x_button" style="display:block;"><svg class="svgIcon-use" width="19" height="19"><path d="M13.792 4.6l-4.29 4.29-4.29-4.29-.612.613 4.29 4.29-4.29 4.29.613.612 4.29-4.29 4.29 4.29.612-.613-4.29-4.29 4.29-4.29" fill-rule="evenodd"></path></svg></a></div>
+		</div>
+	</div>
+</script>
+<script type="text/javascript" id="djcmp-airship-footer-script">
+	window.__djcmpReady( function() {
+		
+!function(n,t,c,e,u){function r(n){try{f=n(u)}catch(n){return h=n,void i(p,n)}i(s,f)}function i(n,t){for(var c=0;c<n.length;c++)d(n[c],t);
+}function o(n,t){return n&&(f?d(n,f):s.push(n)),t&&(h?d(t,h):p.push(t)),l}function a(n){return o(!1,n)}function d(t,c){
+n.setTimeout(function(){t(c)},0)}var f,h,s=[],p=[],l={then:o,catch:a,_setup:r};n[e]=l;var v=t.createElement("script");
+v.src=c,v.async=!0,v.id="_uasdk",v.rel=e,t.head.appendChild(v)}(window,document,'https://aswpsdkus.com/notify/v1/ua-sdk.min.js',
+	'UA', {
+		appKey: 'iANLA7RbQi2cv8NNESxwWg',
+		token: 'MTppQU5MQTdSYlFpMmN2OE5ORVN4d1dnOjJudlFuNU5mVXVFV1lpbUVMN0JGTE1fMXpfQl9WNjV4WGhqNFhhUVV4aEk',
+								vapidPublicKey: 'BB7s8_dgCq2mV_4qgSubBcyqoxO4DYTv8r8s6311xigPUQhgk1xd1F3h1Jrq6gq9W88QPeizMuMwkrLhAeePnto='
+	});
+
+		
+	}, '6061aec5b5389c56c59ea31d' );
+</script><link rel='stylesheet' id='prefix-font-awesome-css' href='https://netdna.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=4.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='lato-css' href='https://fonts.googleapis.com/css?family=Lato%3A400%2C100%2C300%2C100italic%2C300italic%2C400italic%2C700%2C700italic%2C900%2C900italic&#038;display=swap&#038;ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='raleway-css' href='https://fonts.googleapis.com/css?family=Raleway%3A600%2C700%2C300&#038;display=swap&#038;ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='font-roboto-css' href='https://fonts.googleapis.com/css2?family=Roboto%3Aital%2Cwght%400%2C100%3B0%2C300%3B0%2C400%3B0%2C500%3B0%2C700%3B1%2C100%3B1%2C300%3B1%2C400%3B1%2C500%3B1%2C700&#038;display=swap&#038;ver=1.0' type='text/css' media='' />
+<link rel='stylesheet' id='ibd_print-css' href='https://www.investors.com/wp-content/themes/ibd/dist/styles/print.css?ver=1.0' type='text/css' media='print' />
+<script type='text/javascript' id='investors-djcmp-custom-js-extra'>
+/* <![CDATA[ */
+var InvestorsDJCMP = {"compliance_url":"https:\/\/compliance.investors.com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.investors.com/wp-content/themes/ibd/dist/scripts/djcmp.min.js?ver=1.0.0' id='investors-djcmp-custom-js'></script>
+<script type='text/javascript' src='https://www.investors.com/wp-content/plugins/appbanners/lib/smartbanner/jquery.smartbanner.min.js?ver=5.8.6' id='app-banners-scripts-js'></script>
+<script type='text/javascript' id='app-banners-custom-scripts-js-extra'>
+/* <![CDATA[ */
+var appBannersConfig = {"title":"Investor's Business Daily","author":"Investor's Business Daily","price":"FREE","appStoreLanguage":"US","inAppStore":"On the App Store","inGooglePlay":"In Google Play","inAmazonAppStore":"In the Amazon Appstore","inWindowsStore":"In the Windows Store","GooglePlayParams":null,"icon":"https:\/\/www.investors.com\/wp-content\/uploads\/2017\/01\/0x0ss.png","iconGloss":"","url":"","button":"VIEW","scale":"auto","speedIn":"300","speedOut":"400","daysHidden":"0","daysReminder":"0","force":null,"hideOnInstall":"1","layer":"","iOSUniversalApp":"1","appendToSelector":"body","printViewPort":"1","pushSelector":"html"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.investors.com/wp-content/plugins/appbanners/js/config.min.js?ver=5.8.6' id='app-banners-custom-scripts-js'></script>
+<script type='text/javascript' src='https://services.investors.com/jsadscripts/ibd-ads/single-post.php.js?ver=1.0' id='ibd-ads-js'></script>
+<script type='text/javascript' src='https://www.investors.com/wp-content/mu-plugins/investors-utils/js/dist/utils.min.js?ver=1.0.6' id='investors-utils-common-js'></script>
+<script type='text/javascript' src='https://www.investors.com/wp-content/plugins/investors-advertising/js/dist/advertising.min.js?ver=1.0.41' id='investors-advertising-main-js-js'></script>
+<script type='text/javascript' src='https://www.investors.com/wp-content/plugins/investors-advertising/js/dist/dianomi.min.js?ver=1.0.41' id='investors-advertising-dianomi-js-js'></script>
+<script type='text/javascript' src='https://www.investors.com/wp-content/plugins/investors-advertising/js/dist/uac-2.min.js?ver=1.0.41' id='investors-advertising-uac-2-js-js'></script>
+<script type='text/javascript' id='investors-advertising-bcb-js-js-extra'>
+/* <![CDATA[ */
+var InvestorsAdvertisingBcbSettings = {"RefreshInterval":"30","Visibility":"adobe_target"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.investors.com/wp-content/plugins/investors-advertising/js/dist/bcb.min.js?ver=1.0.41' id='investors-advertising-bcb-js-js'></script>
+<script type='text/javascript' id='investors-newsletters-v2-signup-js-extra'>
+/* <![CDATA[ */
+var InvestorsNewslettersData = {"api_url":"https:\/\/services.investors.com\/services\/JSONPService.asmx\/UpdateEmailPreference","post_id":"8537257","is_front":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.investors.com/wp-content/plugins/investors-newsletters-v2/assets/dist/signup.min.js?ver=1.0.0' id='investors-newsletters-v2-signup-js'></script>
+<script type='text/javascript' src='https://www.investors.com/wp-content/themes/ibd/dist/scripts/main.js?ver=202307170126' id='sage_js-js'></script>
+<script type='text/javascript' src='https://cdn.jwplayer.com/libraries/7uEa98vj.js?ver=1.0.23' id='jwplayer-cloud-js'></script>
+<script type='text/javascript' src='https://www.investors.com/wp-includes/js/underscore.min.js?ver=1.13.1' id='underscore-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.investors.com/wp-includes/js/wp-util.min.js?ver=5.8.6' id='wp-util-js'></script>
+<script type='text/javascript' src='https://z.moatads.com/jwplayerplugin0938452/moatplugin.js?ver=5.8.6' id='moat-jwplayer-plugin-js'></script>
+<script type='text/javascript' id='video-shortcode-js-extra'>
+/* <![CDATA[ */
+var IBDVideoShortcode = {"postId":"8537257","ajaxUrl":"https:\/\/www.investors.com\/wp-admin\/admin-ajax.php","settings":{"embedded_video_float":true},"moatPartnerCode":"investorsvideojwplayer544922131754"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.investors.com/wp-content/plugins/investors-videos/js/dist/shortcode.min.js?ver=1.0.23' id='video-shortcode-js'></script>
+<script type='text/javascript' id='investors-paywall-frontend-script-js-extra'>
+/* <![CDATA[ */
+var InvestorsPaywallData = {"api_url":"https:\/\/www.investors.com\/wp-json\/investors-paywall\/v1\/posts\/8537257","post_id":"8537257","is_unlocked":"","is_showcase":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.investors.com/wp-content/plugins/investors-paywall/js/dist/paywall-frontend.min.js?ver=1.0.4' id='investors-paywall-frontend-script-js'></script>
+<script type='text/javascript' src='//www.queryly.com/js/queryly.v4.js?ver=1.0' id='investors-search-queryly-js'></script>
+<script type='text/javascript' id='investors-search-queryly-js-after'>
+				queryly.init('b558a89a9e2e4601', document.querySelectorAll('header,section,footer, .wrapper'), {"uiversion":0});
+                queryly.search.preBatchSize = 4;
+                document.querySelector('#queryly_search_header').style["display"] = "none";
+</script>
+<script type='text/javascript' src='https://www.investors.com/wp-content/plugins/investors-sotd-cards/js/dist/front.min.js?ver=1.0.0' id='investors-sotd-cards-frontend-script-js'></script>
+<script type='text/javascript' src='https://www.investors.com/wp-content/plugins/investors-tickers-data-table/assets/dist/tickers-data-table-frontend.min.js?ver=1.0.3' id='investors-tickers-data-table-js'></script>
+<script type='text/javascript' src='https://services.investors.com/cssjshandler.ashx?groups=login&#038;ver=202307170126' id='ibd-cssjshandler-login-js'></script>
+<script type='text/javascript' src='https://www.investors.com/api/values/?ver=5.8.6' id='cross_platform_js_values-js'></script>
+<script type='text/javascript' src='https://www.investors.com/wp-content/themes/ibd/dist/scripts/modernizr.js?ver=202307170126' id='modernizr-js'></script>
+<script type='text/javascript' src='https://services.investors.com/cssjshandler.ashx?groups=widgets-loggedin&#038;ver=202307170126' id='widgets-loggedin-js'></script>
+<script type='text/javascript' src='https://www.investors.com/wp-includes/js/wp-embed.min.js?ver=5.8.6' id='wp-embed-js'></script>
+<script type='text/javascript'>
+			window.__djcmpReady( function() {
+				jQuery('body').append('<script data-cfasync="false" type="text/javascript" data-parsely-site="investors.com" src="https://cdn.parsely.com/keys/investors.com/p.js?ver=2.5.2" id="parsely-cfg"><\/script>');
+			}, '5efb47c3a86ed40d775a6693' );
+		</script> <script>
+		function __djcmpCallAdobePageBottom() {
+			try {
+				_satellite.pageBottom();
+			} catch ( e ) {
+				console.log( 'DTM lib not loaded.' );
+			}
+		}
+		if ( window.__djcmpReady ) {
+			window.__djcmpReady( __djcmpCallAdobePageBottom );
+		} else {
+			__djcmpCallAdobePageBottom();
+		}
+	</script> </div>
+</body>
+</html>
