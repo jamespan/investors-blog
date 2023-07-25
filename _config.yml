@@ -4,6 +4,9 @@ collections:
   posts:
     output: true
     permalink: /posts/:slug
+  columns:
+    output: true
+    permalink: /columns/:slug
 
 baseurl: /
 
