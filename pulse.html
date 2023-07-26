@@ -12,7 +12,6 @@ title: Market Pluse
 </style>
 
 {% assign image_files = site.static_files | where: "market_pulse", true | sort: "basename" | reverse %}
-{% include image-gallery.html images=image_files %}
 
 <ul class="image-gallery">
     {% for file in image_files %}
