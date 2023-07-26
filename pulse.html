@@ -19,7 +19,7 @@ title: Market Pluse
         {% assign url = file.path | relative_url %}
         {% assign article_url = "/columns/The_Big_Picture/" | append: filename %}
         <li>
-            <span>{{ filename }}</span><a href="{{ article_url }}" title="{{ filename }}"><img src="{{ url }}" alt="{{ filename }}" title="{{ filename }}" /></a>
+            <span>{{ filename }}</span><a href="{{ article_url }}" title="{{ filename }}"><img loading="lazy" src="{{ url }}" alt="{{ filename }}" title="{{ filename }}" /></a>
         </li>
     {% endfor %}
 </ul>
