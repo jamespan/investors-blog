@@ -17,6 +17,10 @@ defaults:
       path: "assets/img/pulse"
     values:
       market_pulse: true
+  - scope:
+      path: "_columns/The_Big_Picture"
+    values:
+      the_big_picture: true
 
 ### exclude the instructions / write-up in the README.md
 exclude:
