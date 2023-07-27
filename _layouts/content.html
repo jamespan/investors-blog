@@ -4,10 +4,11 @@ layout: default
 
 {{content}}
 
-<script>
+<script type="application/javascript">
 (function() {
     let pulse_img = document.querySelector('img[alt="Market Pulse"]');
-    pulse_img?.align="left";
-    pulse_img?.style.marginRight = "1rem";
+    if (!pulse_img) return;
+    pulse_img.align = "left";
+    pulse_img.style.marginRight = "1rem";
 })();
 </script>
