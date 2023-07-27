@@ -21,6 +21,7 @@ defaults:
       path: "_columns/The_Big_Picture"
     values:
       the_big_picture: true
+      permalink: /columns/the-big-picture/:name
 
 ### exclude the instructions / write-up in the README.md
 exclude:
