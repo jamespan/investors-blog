@@ -12,7 +12,8 @@ layout:
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.documents | where: "the_big_picture", true | sort: "basename" | reverse | limit:10 %}
+    {% assign posts = site.documents | where: "the_big_picture", true | sort: "basename" | reverse | limit:10 %}
+    {% for post in posts %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | xml_escape }}</description>
