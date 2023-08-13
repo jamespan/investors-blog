@@ -22,11 +22,13 @@ defaults:
       path: "_columns/The_Big_Picture"
     values:
       the_big_picture: true
+      index: false
       permalink: /columns/the-big-picture/:name
   - scope:
       path: "_columns/Stock_Of_the_Day"
     values:
       stock_of_the_day: true
+      index: false
       permalink: /columns/stock-of-the-day/:name
 
 ### exclude the instructions / write-up in the README.md
