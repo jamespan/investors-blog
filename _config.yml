@@ -1,4 +1,5 @@
 title: How I Made $5000 in the Stock Market
+timezone: America/New_York
 
 collections:
   posts:
@@ -7,7 +8,7 @@ collections:
   columns:
     output: true
 
-baseurl: /
+baseurl: 
 
 sass: 
   style: compressed
