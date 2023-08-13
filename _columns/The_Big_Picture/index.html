@@ -1,10 +1,9 @@
 ---
 layout: page
 title: The Big Picture
-index: true
 ---
 
-{% assign posts = site.documents | where: "the_big_picture", true | where: "index", false | sort: "date" | reverse %}
+{% assign posts = site.documents | where: "the_big_picture", true | where_exp: "item", "item.name != 'index.html'" | sort: "date" | reverse %}
 <div class="post-list">
     {% for post in posts %}
         <a class="post-title" href="{{site.baseurl}}{{post.url}}"><h2>{{ post.title }}</h2></a>
