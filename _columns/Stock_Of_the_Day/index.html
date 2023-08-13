@@ -3,11 +3,11 @@ layout: page
 title: Stock Of the Day
 ---
 
-{% assign posts = site.documents | where: "stock_of_the_day", true | sort: "date" | reverse %}
+{% assign posts = site.documents | where_exp: "item", "item.title != page.title" | where: "stock_of_the_day", true | sort: "date" | reverse %}
 <div class="post-list">
     {% for post in posts %}
-        {{ post.name }}
         <a class="post-title" href="{{site.baseurl}}{{post.url}}"><h2>{{ post.title }}</h2></a>
         <p class="date">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} by {{ post.author }} {% endif %}</p>
+        <p>{{post.excerpt | strip_html}}</p>
     {% endfor %}
 </div>
