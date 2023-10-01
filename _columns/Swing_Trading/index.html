@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Stock Of the Day
+title: Swing Trading
 ---
 
-{% assign posts = site.documents | where_exp: "item", "item.title != page.title" | where: "stock_of_the_day", true | sort: "date" | reverse %}
+{% assign posts = site.documents | where_exp: "item", "item.title != page.title" | where: "swing_trading", true | sort: "date" | reverse %}
 <div class="post-list">
     {% for post in posts %}
         <a class="post-title" href="{{site.baseurl}}{{post.url}}"><h2>{{ post.title }}</h2></a>
