@@ -28,6 +28,11 @@ defaults:
     values:
       stock_of_the_day: true
       permalink: /columns/stock-of-the-day/:name
+  - scope:
+      path: "_columns/Swing_Trading"
+    values:
+      swing_trading: true
+      permalink: /columns/swing-trading/:name
 
 ### exclude the instructions / write-up in the README.md
 exclude:
