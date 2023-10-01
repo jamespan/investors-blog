@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "过度交易都怪软件不好"
 tags: 吃一堑长一智
 ---
