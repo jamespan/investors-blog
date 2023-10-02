@@ -7,7 +7,7 @@ layout:
   <channel>
     <title>{{ "IBD Stock Of the Day Column" | xml_escape }}</title>
     <description>{{ "What are the best stocks to buy and watch? How can you improve your stock picks? When is the right time to buy a stock, and when is the optimal time to sell? The new IBD Stock Of The Day column helps you quickly and confidently answer those questions." | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/columns/stock-of-the-day</link>
+    <link>{{ site.url }}{{ site.baseurl }}/columns/stock-of-the-day/</link>
     <atom:link href="{{ "/feed-sotd.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
