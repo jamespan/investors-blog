@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "IBKR 入金指引"
+tags: Manual
 ---
 
 1. 转账与支付，转账资金
