@@ -5,14 +5,14 @@ layout:
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ "IBD Swing Trading Column" | xml_escape }}</title>
-    <description>{{ "Swing Trading relies on short-term moves in stocks to build profits. Unlike day trading, where buys and sells occur on the same day, swing trades last for a few days or weeks. IBD teaches swing trading strategies with a new column each week including analysis and annotations on swing trade examples." | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/columns/swing-trading/</link>
-    <atom:link href="{{ "/feed-swing.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <title>{{ "IBD Stock Of the Day Column" | xml_escape }}</title>
+    <description>{{ "What are the best stocks to buy and watch? How can you improve your stock picks? When is the right time to buy a stock, and when is the optimal time to sell? The new IBD Stock Of The Day column helps you quickly and confidently answer those questions." | xml_escape }}</description>
+    <link>{{ site.url }}{{ site.baseurl }}/columns/stock-of-the-day/</link>
+    <atom:link href="{{ "/feed-sotd.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% assign posts = site.documents | where: "swing_trading", true | where: "lang", "en" | where_exp: "item", "item.title != 'Swing Trading'" | sort: "date" | reverse %}
+    {% assign posts = site.documents | where: "stock_of_the_day", true | where: "lang", "zh-cn" | where_exp: "item", "item.title != 'Stock Of the Day'" | sort: "date" | reverse %}
     {% for post in posts limit: 10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>

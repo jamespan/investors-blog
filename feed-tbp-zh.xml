@@ -7,12 +7,12 @@ layout:
   <channel>
     <title>{{ "IBD The Big Picture Column" | xml_escape }}</title>
     <description>{{ "The Big Picture column will help you make smart investing decisions and find the best stocks to buy. Should I buy stocks now?" | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/columns/the-big-picture/</link>
+    <link>{{ site.url }}{{ site.baseurl }}/columns/the-big-picture/zh-cn/</link>
     <atom:link href="{{ "/feed-tbp.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% assign posts = site.documents | where: "the_big_picture", true | where: "lang", "en" | where_exp: "item", "item.title != 'The Big Picture'" | sort: "date" | reverse %}
+    {% assign posts = site.documents | where: "the_big_picture", true | where: "lang", "zh-cn" | where_exp: "item", "item.title != 'The Big Picture'" | sort: "date" | reverse %}
     {% for post in posts limit: 10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
