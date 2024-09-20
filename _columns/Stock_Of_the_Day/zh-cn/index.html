@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stock Of the Day 今日股票
+title: Stock Of the Day 今日最佳股票
 ---
 
 {% assign posts = site.documents | where_exp: "item", "item.title != page.title" | where: "stock_of_the_day", true | where: "lang", "zh-cn" | sort: "date" | reverse %}

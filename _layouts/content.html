@@ -4,7 +4,7 @@ layout: default
 
 {% if page.author %}<h1>{{page.title}}</h1>{% endif %}
 
-{{content}}
+{{ content | split: "<p><strong>YOU " | first }}
 
 <script type="application/javascript">
 (function() {
