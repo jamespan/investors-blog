@@ -2,33 +2,17 @@
 layout: content
 title: >-
   Make These Tax Moves Now. Your Future Self Will Thank You.
+date: 2024-11-29 01:00 -0500
+author: Steve Garmhausen
+tags: ['Taxes', 'Guide to Wealth']
+description: Wealthy households may have avoided some looming tax hikes thanks to Donald Trump’s election, but there are still plenty of tax steps to take before the new year.
 ---
 
 
-Taxes | Guide to Wealth
-
-Wealthy households may have avoided some looming tax hikes thanks to Donald Trump’s election, but there are still plenty of tax steps to take before the new year.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
 
 
  
 
-
-
-
-By
-
-
-Steve Garmhausen
-
-
-
-
- Nov. 29, 2024 1:00 am ET
- 
 
  
 
@@ -42,14 +26,11 @@ Steve Garmhausen
 ![](https://images.barrons.com/im-49367749?width=548&height=365)
 
 
-Illustration by Allison Vu
 
 
 
 
-
-
-With the imminent return to the White House of Donald Trump, the tax outlook is coming into focus. And the nation’s wealthiest taxpayers, who were facing a halving of the lifetime estate and gift tax exemption (currently $13.6 million) at the end of 2025, may have dodged a bullet. 
+With the imminent return to the White House of Donald Trump, the tax outlook is coming into focus. And the nation’s wealthiest taxpayers, who were facing a halving of the lifetime estate and gift tax exemption (currently \$13.6 million) at the end of 2025, may have dodged a bullet. 
 
 
 Long-term tax-planning strategies will emerge as Republican proposals wend their way through Congress. But there are still plenty of end-of-year tax steps you should take to benefit from the current tax code. From tax-loss harvesting to Roth IRA conversions to using a side hustle for write-offs, wealth management professionals say there are plenty of ways taxpayers can keep more of what they earn.
@@ -88,24 +69,8 @@ Maxing out your 401(k) or 403(b), if you have surplus cash available, is going t
 
 
 
-#### Read All the Guide to Wealth
-
-* [Trump Tax Cuts 2.0: How They Will Affect You](https://www.barrons.com/articles/WP-BAR-0001108631?mod=article_inline)
-* [5 Tax-Related Strategies as Policy Shifts](https://www.barrons.com/articles/WP-BAR-0001108992?mod=article_inline)
-* [What the Trump Tax Cuts Mean for the Deficit and Your Bond Portfolio](https://www.barrons.com/articles/WP-BAR-0001110208?mod=article_inline)
-
-
-
-
 
 Another area I spend quite a bit of time on is required minimum distributions. If someone is in the RMD age range and they’re doing charitable giving, I explain to them the benefit of directly gifting from their IRA. I start putting pressure on clients about mid-November to get that done so their distributions don’t get stuck in the custodian’s backlog.
-
-
-
-
-Advertisement - Scroll to Continue
-
-
 
 
 I like to talk to my clients and their CPAs about their asset allocations. Tax preparers can be hesitant to mention an allocation that’s producing ordinary income. I welcome the conversation. I may be able to move an investment to an exchange-traded fund in order to change the taxable nature of the investment. 
@@ -140,27 +105,8 @@ Harry Drozdowski
 
 
 
-#### Newsletter Sign-Up
 
-
-##### Advisor Daily
-
-
-A collection of our top stories from the day, delivered every evening. Stay on top of the latest advisor news, community commentary, and opinion from industry leaders.
-
-
-[Subscribe Now](https://www.barrons.com/newsletters?sub=394&mod=amp_inset)
-
-
-
-
-
-Advertisement - Scroll to Continue
-
-
-
-
-Yes, you may have this $13.6-million-dollar coupon for longer, but all of the things we were talking about before the election, we’re still talking about with clients the week after the election: forming an irrevocable dynasty trust, doing transfers of assets, and so on. Just because you may have more time to take advantage of some of these rules being extended or made permanent doesn’t mean you should wait to think about it.
+Yes, you may have this \$13.6-million-dollar coupon for longer, but all of the things we were talking about before the election, we’re still talking about with clients the week after the election: forming an irrevocable dynasty trust, doing transfers of assets, and so on. Just because you may have more time to take advantage of some of these rules being extended or made permanent doesn’t mean you should wait to think about it.
 
 
 It’s also important to stay on top of tax law changes. We got some information on election Tuesday, but there’s going to be a lot more coming in the weeks and months ahead as cabinet appointments are made, tax plans come out, and legislative plans come out, so keep abreast. Talk to your advisors regularly.
@@ -188,13 +134,6 @@ Jere Doyle
  **Estate-planning strategist, BNY Wealth**
 
 
-
-
-Advertisement - Scroll to Continue
-
-
-
-
 ### Tax-loss harvest, catch up on estimated payments, and make charitable gifts.
 
  One piece of advice has to do with harvesting capital losses before the end of the year. You want to use your losses to offset your gains in an efficient manner. For example, you can’t use a long-term capital loss to offset a short-term capital gain.
@@ -203,7 +142,7 @@ Advertisement - Scroll to Continue
 For people with self-employment income, there’s a provision in the code that is helpful if you are short on your estimated tax payments. Assuming you have the income, you can do all of your withholding in the fourth quarter. So, for example, a person might not have made estimated tax payments for the first, second, and third quarters. For the fourth installment, he can withhold enough to cover all four installments, and avoid penalties. A lot of people don’t know that rule exists.
 
 
-From a planned giving point of view, we tell people who are thinking about making charitable gifts over a number of years to make them all in one year. That way you can get your total deductions over the $29,000 threshold for itemized deductions. You can even make a big charitable deduction into a donor-advised fund. That way you get your charitable deduction in the year you make that big charitable contribution, but the amount that is distributed to the charities from the donor-advised fund can occur over future years.
+From a planned giving point of view, we tell people who are thinking about making charitable gifts over a number of years to make them all in one year. That way you can get your total deductions over the \$29,000 threshold for itemized deductions. You can even make a big charitable deduction into a donor-advised fund. That way you get your charitable deduction in the year you make that big charitable contribution, but the amount that is distributed to the charities from the donor-advised fund can occur over future years.
 
 
 
@@ -218,13 +157,6 @@ Ed Slott, founder and CEO, Ed Slott and Company
 Courtesy Ed Slott and Company
 
 
-
-
-
-
-
-
-Advertisement - Scroll to Continue
 
 
 
@@ -244,13 +176,6 @@ They tell you you’ll get a tax break [by maximizing 401(k) and IRA contributio
 
 
 If family members inherit that account, all of the money in IRAs and 401(k)s has to come out by the end of the tenth year after death. With the stretch IRA, you used to be able to go out 30, 40, or 50 years. That period has been cut down, and all of the growth and accumulation in 401(k)s and IRAs has to come out in a much shorter window. It’s a ticking tax time bomb. To avoid it, you’re better off going into Roth vehicles.
-
-
-
-
-Advertisement - Scroll to Continue
-
-
 
 
 
@@ -283,37 +208,18 @@ Jack Oujo
 I love Roth conversions, but I tend to like doing them when the stock market is down 15% to 20%. Those times are ideal opportunities to give a tax gift to the older version of yourself by selling stocks at depressed prices and then never having to pay taxes on that money again.
 
 
-Since the Republicans now control the government, it is likely that the estate tax thresholds will remain high at approximately $14 million per person or $28 million per couple. People with estates at the $5 million level would have had to do some serious planning had the Democrats taken control. We have to see what the final plans are, but people with estates around that level can breathe easier for now.
+Since the Republicans now control the government, it is likely that the estate tax thresholds will remain high at approximately \$14 million per person or \$28 million per couple. People with estates at the \$5 million level would have had to do some serious planning had the Democrats taken control. We have to see what the final plans are, but people with estates around that level can breathe easier for now.
 
 
 I believe that the state and local tax deduction is going to be back in play next year. So, people could delay making state tax estimates until January of 2026 for their 2025 tax liability. The impact of the tax deduction could offset the interest costs on underpaying an estimated payment. 
 
 
-Write to [advisor.editors@barrons.com](mailto:advisor.editors@barrons.com)
+Write to
+[advisor.editors@barrons.com](mailto:advisor.editors@barrons.com)
 
 
 
 
-
-
-
-
-#### Most Popular Today
-
-
-
-
-* [{{summary.headline}}](/amp/articles/{{seoId}}?mod=ampMP)
-
-
-
- See more
- 
-* [The S&P 500 Is Set for Back-to-Back 20% Gains. What History Says Happens Next.](https://www.barrons.com/amp/articles/stock-market-returns-rally-69c9852d?mod=ampMP)
-* [How AI Fueled Black Friday Shopping This Year](https://www.barrons.com/amp/articles/black-friday-shopping-cyber-monday-d31144da?mod=ampMP)
-* [Millions of Americans Have Failed to Comply With New Tax Ownership Rules](https://www.barrons.com/amp/articles/tax-ownership-rules-61266f0a?mod=ampMP)
-* [Trump Tax Cuts 2.0: How They Will Affect You](https://www.barrons.com/amp/articles/trump-tax-cuts-wealth-ca405b63?mod=ampMP)
-* [Nvidia Stock Rises. Why the Good News Is Back.](https://www.barrons.com/amp/articles/nvidia-stock-amd-chip-ai-a86cfa0a?mod=ampMP)
 
 
 

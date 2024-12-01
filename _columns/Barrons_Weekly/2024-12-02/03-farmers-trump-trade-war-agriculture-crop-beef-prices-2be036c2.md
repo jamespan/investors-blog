@@ -2,33 +2,17 @@
 layout: content
 title: >-
   U.S. Farmers Are Struggling. They Will Lose More in a Trade War, This Ag Expert Says.
+date: 2024-11-28 01:30 -0500
+author: Debbie Carlson
+tags: ['Agricultural Commodities', 'Q&A']
+description: Farm income has plummeted in the past two years, and the outlook is troubling, says Dan Basse, founder of the advisory firm AgResource.  How dairy cows are helping.
 ---
 
 
-Agricultural Commodities | Q&A
-
-Farm income has plummeted in the past two years, and the outlook is troubling, says Dan Basse, founder of the advisory firm AgResource. How dairy cows are helping.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
 
 
  
 
-
-
-
-By
-
-
-Debbie Carlson
-
-
-
-
- Nov. 28, 2024 1:30 am ET
- 
 
  
 
@@ -40,9 +24,6 @@ Debbie Carlson
 
 
 Dan Basse, CEO and founder of AgResource, at his home in Winnetka, Ill.
-
-
-Photograph by Kevin Serna
 
 
 
@@ -60,52 +41,35 @@ American agricultural abundance has fed the world for decades, but in the past f
 “The split between the G-7 countries and the BRICs likely will culminate in differing trade patterns that work against the U.S. farmer,” Basse says, referring to the acronym for Brazil, Russia, India, and China. “There is more ag policy (and geopolitical) uncertainty today than since the early 1970s,” he says.
 
 
- Basse, founder of the agricultural risk-management and advisory firm AgResource, grew up on a Wisconsin dairy and grain farm and started in the agriculture commodities business in 1979. He spoke recently to *Barron’s* about the impact of geopolitics on U.S. farmers, food inflation, and where he sees the future of agriculture. An edited version of the conversation follows.
+ Basse, founder of the agricultural risk-management and advisory firm AgResource, grew up on a Wisconsin dairy and grain farm and started in the agriculture commodities business in 1979. He spoke recently to
+*Barron’s*
+about the impact of geopolitics on U.S. farmers, food inflation, and where he sees the future of agriculture. An edited version of the conversation follows.
 
 
-***Barron’s*****: How have agricultural trade trends changed over the years?**
+***Barron’s***
+**: How have agricultural trade trends changed over the years?**
 
 
-**Dan Basse:** When I first got into this business in 1979, the U.S. satisfied 62% of agricultural trade. Now we’re down to about 11%. Demand is still rising globally as the population expands, but we’ve seen this behemoth named Brazil come on to the scene. Brazil is now the world’s largest soybean and corn exporter—crowns we thought the American farmer would hold for many, many years. 
+**Dan Basse:**
+When I first got into this business in 1979, the U.S. satisfied 62% of agricultural trade. Now we’re down to about 11%. Demand is still rising globally as the population expands, but we’ve seen this behemoth named Brazil come on to the scene. Brazil is now the world’s largest soybean and corn exporter—crowns we thought the American farmer would hold for many, many years.
 
 
-
-
-Advertisement - Scroll to Continue
-
-
-
-
-Ag trade has really suffered in the past few years. The American agricultural trade deficit is at $42 billion, a record. China was traditionally our top ag importer for years, but this year it is Mexico, then Canada. China ends in third place.
+Ag trade has really suffered in the past few years. The American agricultural trade deficit is at \$42 billion, a record. China was traditionally our top ag importer for years, but this year it is Mexico, then Canada. China ends in third place.
 
 
 **How did the Trump tariffs affect trade with China?**
 
 
-During the trade war in 2018, the Trump administration put tariffs on China. In 2019, we signed an agreement that was supposed to be for two years, that China would import between $40 billion to $50 billion of ag goods a year. The Biden administration kept those tariffs but, for whatever reason, didn’t hold China to the agreement.
+During the trade war in 2018, the Trump administration put tariffs on China. In 2019, we signed an agreement that was supposed to be for two years, that China would import between \$40 billion to \$50 billion of ag goods a year. The Biden administration kept those tariffs but, for whatever reason, didn’t hold China to the agreement.
 
 
-
-
-Advertisement - Scroll to Continue
-
-
-
-
-In 2023, China bought about $35 billion in ag goods, but that’s down to about $22 billion so far this year. In the past 12 months, the Chinese decided that maybe relying on the U.S. as a primary ag exporter isn’t good, so they have been buying wheat from Russia, a little corn from Argentina, and corn and soybeans from Brazil.
+In 2023, China bought about \$35 billion in ag goods, but that’s down to about \$22 billion so far this year. In the past 12 months, the Chinese decided that maybe relying on the U.S. as a primary ag exporter isn’t good, so they have been buying wheat from Russia, a little corn from Argentina, and corn and soybeans from Brazil.
 
 
 **What should the incoming Trump administration focus on in agriculture?**
 
 
 Agricultural export opportunities should be front and center in terms of supporting farm income. It’s what gets futures markets excited. 
-
-
-
-
-Advertisement - Scroll to Continue
-
-
 
 
 I worry that, as we have moved from being a global world, we’re in what I call a duopoly of economic and political power now developing between Washington and Beijing. Ultimately, if the rhetoric doesn’t change against China, China will find its food from others, and it is leaving the American farmer out. If we lose them, there really is no replacement. It isn’t that you can’t develop India or Africa into a China at some point, but it’s years and years away. 
@@ -117,27 +81,13 @@ I worry that, as we have moved from being a global world, we’re in what I call
 I don’t think China was prepared for the first trade war. In this trade war, if Trump initiates one, I believe they will be much more prepared. They have sizable reserve food stocks. They have been principally buying most of their corn and soybeans from Brazil. I’m not sure the fight will be as easy as it was back in 2018 and ’19. The Chinese will be much more difficult to deal with.
 
 
-
-
-Advertisement - Scroll to Continue
-
-
-
-
 The Chinese see themselves as decoupling from the U.S. and moving more toward those countries involved in the Belt and Road initiative [China’s global infrastructure development strategy], which for agriculture would be Russia, and principally Brazil and Argentina.
 
 
-Maybe President-elect Trump can get a deal, but it is going to take considerable time, and U.S. farmers need to be patient for the fights that are ahead. In 2018 and ’19, the administration, through the USDA’s Commodity Credit Corp., handed out so-called Trump Bucks of about $28 billion to farmers. [CCC is an agency that can borrow money from the U.S. Treasury. At the time, it gave agricultural assistance to pay certain farmers who lost money during the trade fight with China, and also bought surplus commodities.]
+Maybe President-elect Trump can get a deal, but it is going to take considerable time, and U.S. farmers need to be patient for the fights that are ahead. In 2018 and ’19, the administration, through the USDA’s Commodity Credit Corp., handed out so-called Trump Bucks of about \$28 billion to farmers. [CCC is an agency that can borrow money from the U.S. Treasury. At the time, it gave agricultural assistance to pay certain farmers who lost money during the trade fight with China, and also bought surplus commodities.]
 
 
 I suspect that, as in 2018 and ’19, CCC payments may be how farmers stay patient as we somehow rebuild ag export markets. I know tariffs are the hammer and everybody else is a nail, but we’ll really prove whether this concept is a little more effective this time around.
-
-
-
-
-Advertisement - Scroll to Continue
-
-
 
 
 **Year to date, corn prices are down 15% and soybean values are 20% lower and sitting near four-year lows. What is weighing on prices, besides weak export demand?**
@@ -155,7 +105,7 @@ As farmers start to plan for 2025 cropping decisions, variable costs will be hig
 **Where are production costs relative to futures prices? Will farmers lose money this year?**
 
 
-The national average production cost for corn is $4.69 a bushel, and for soybeans, $10.97 a bushel. CBOT [Chicago Board of Trade] corn futures are around $4.25 and soybean futures are around $9.80. Farmers will have an income, per se, but will lose money relative to their input costs. If you own your own farmland and aren’t paying land rent, that’s one thing. Farmers who rent land, which is about 30% of the U.S. farm population, will struggle and won’t have income this year. It will be a sparse year, but such is the cycle of agriculture.
+The national average production cost for corn is \$4.69 a bushel, and for soybeans, \$10.97 a bushel. CBOT [Chicago Board of Trade] corn futures are around \$4.25 and soybean futures are around \$9.80. Farmers will have an income, per se, but will lose money relative to their input costs. If you own your own farmland and aren’t paying land rent, that’s one thing. Farmers who rent land, which is about 30% of the U.S. farm population, will struggle and won’t have income this year. It will be a sparse year, but such is the cycle of agriculture.
 
 
 **You experienced the 1980 farm crisis. Is a repeat a worry?**
@@ -171,31 +121,16 @@ They will look at their cost structure around seed, fertilizer, or equipment. My
 
 
 During the boom times, everyone had their hands in the back pocket of the farmer, and they have been slow to pull their hands out. But suppliers are going to have to budge. Already you’re seeing pressure on the equipment dealers. Farmers can say to their
-
- [Deere](https://www.barrons.com/market-data/stocks/DE)
- 
-
- or Case [sales reps], I have been changing equipment every three years, I’m going to lengthen that to five years, or I’ll stop lease payments. If the farmer gets his way, he’ll then go to the seed dealers and say, I know you spend a lot on technology, but you have to help me out here. There could be some adjustment with landlords on land rents. 
+[Deere](https://www.barrons.com/market-data/stocks/DE)
+or Case [sales reps], I have been changing equipment every three years, I’m going to lengthen that to five years, or I’ll stop lease payments. If the farmer gets his way, he’ll then go to the seed dealers and say, I know you spend a lot on technology, but you have to help me out here. There could be some adjustment with landlords on land rents.
 
 
 **It’s not all gloom and doom for U.S. agriculture. Cattle producers are reaping record beef prices.**
 
 
-Retail beef prices last month were around $8.50 a pound, a record, supported by a very strong economy and consumer demand. We have also had the smallest U.S. beef-cow herd since 1961. That small beef-cow herd will take time to replenish, as we are only in early days for the expansionary phase. 
+Retail beef prices last month were around \$8.50 a pound, a record, supported by a very strong economy and consumer demand. We have also had the smallest U.S. beef-cow herd since 1961. That small beef-cow herd will take time to replenish, as we are only in early days for the expansionary phase. 
 
 
-
-
-#### Newsletter Sign-Up
-
-
-##### This Week's Magazine
-
-
-This weekly email offers a full list of stories and other features in this week's magazine. Saturday mornings ET.
-
-
-[Subscribe Now](https://www.barrons.com/newsletters?sub=150&mod=amp_inset)
 
 
 
@@ -214,7 +149,7 @@ Americans consume the same amount of pork every year. We’re seeing chicken con
 The most recent data from the USDA say farmers receive 14.9 cents for each food dollar. The other 85 cents goes to the middleman, packaging, transportation to market—all those things add up to what you’re seeing in terms of grocery prices. What farmers are paid, the farmgate price for products like milk or pork and poultry, for example, aren’t too different from 20 years ago. 
 
 
-On the beef side, prices have moved up. Americans, for whatever reason, like beef and have been willing to spend more dollars on it. Hamburger, at $8.50 a pound retail, is going to remain in short supply. We all look at fast food as being a cheap meal, and we get a Big Mac—or whatever it may be—for dinner at night.
+On the beef side, prices have moved up. Americans, for whatever reason, like beef and have been willing to spend more dollars on it. Hamburger, at \$8.50 a pound retail, is going to remain in short supply. We all look at fast food as being a cheap meal, and we get a Big Mac—or whatever it may be—for dinner at night.
 
 
 **What is the future of U.S. agriculture?**
@@ -229,26 +164,12 @@ We need to know the holistic picture and how the microbes and bacteria and every
 **Thanks, Dan.**
 
 
-Write to [editors@barrons.com](mailto:editors@barrons.com)
+Write to
+[editors@barrons.com](mailto:editors@barrons.com)
 
 
 
 
-
-
-
-
-#### Most Popular Today
-
-
-
-
-* [{{summary.headline}}](/amp/articles/{{seoId}}?mod=ampMP)
-
-
-
- See more
- 
 
 
 
