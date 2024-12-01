@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Google Will Survive AI and Breakup Calls. Why Alphabet Stock Could Gain 50%.
 date: 2024-11-22 00:30 -0500
 author: 
 tags: ['Technology', "Barron's Stock Pick"]
-description: The company is facing pressure on two fronts—the government and a host of new AI-powered search rivals. It has the capacity to meet both challenges and continue to prosper.
+description: >-
+  The company is facing pressure on two fronts—the government and a host of new AI-powered search rivals. It has the capacity to meet both challenges and continue to prosper.
 ---
 
 

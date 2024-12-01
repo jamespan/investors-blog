@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Hollywood Hopes for Holiday Synergy With ‘Wicked,’ ‘Gladiator II,’ and ‘Moana 2’
 date: 2024-11-29 16:10 -0500
 author: 
 tags: ['Media', 'Review']
-description: Last year it was Barbenheimer. This year it’s witches, gladiators, and a cute Polynesian girl in a boat.
+description: >-
+  Last year it was Barbenheimer. This year it’s witches, gladiators, and a cute Polynesian girl in a boat.
 ---
 
 

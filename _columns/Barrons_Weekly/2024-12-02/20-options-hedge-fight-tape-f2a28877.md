@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Don’t Fight the Tape. Insure Against It Instead.
 date: 2024-11-27 02:00 -0500
 author: Steve Sosnick
 tags: ['Options', 'Striking Price']
-description: If you respect the notion that one should be fearful when others are greedy, consider opportunities to protect your assets and use options as insurance.
+description: >-
+  If you respect the notion that one should be fearful when others are greedy, consider opportunities to protect your assets and use options as insurance.
 ---
 
 

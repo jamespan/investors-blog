@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   The AI Race Is Entering a New Stage. Nvidia Won’t Be the Only Winner This Time.
 date: 2024-11-26 01:30 -0500
 author: 
 tags: ['AI', 'Tech Trader']
-description: Big Tech is buying up Nvidia chips to train ever-larger AI models. As technology evolves, the spoils may spread to AMD, Intel, and start-ups.
+description: >-
+  Big Tech is buying up Nvidia chips to train ever-larger AI models. As technology evolves, the spoils may spread to AMD, Intel, and start-ups.
 ---
 
 

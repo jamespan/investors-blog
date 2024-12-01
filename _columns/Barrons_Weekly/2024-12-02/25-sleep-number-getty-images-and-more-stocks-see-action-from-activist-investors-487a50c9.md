@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Sleep Number, Getty Images, and More Stocks See Action From Activist Investors
 date: 2024-11-29 14:43 -0500
 author: 
 tags: ['Activist Investing', '13d Filings']
-description: Stadium Capital raised its stake in the bed maker. Starboard Value disclosed a new position in Healthcare Realty Trust. Plus, Paysafe, Getty Images, and GeneDx.
+description: >-
+  Stadium Capital raised its stake in the bed maker. Starboard Value disclosed a new position in Healthcare Realty Trust. Plus, Paysafe, Getty Images, and GeneDx.
 ---
 
 

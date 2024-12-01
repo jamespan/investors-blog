@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Has China Become the New Japan and Japan the New China?
 date: 2024-11-28 02:00 -0500
 author: 
 tags: ['Markets', 'Up and Down Wall Street']
-description: With China’s economy struggling and squarely in Trump’s doghouse, the world’s second-largest economy could stagnate over a sustained period, like Japan’s did for decades. Conversely, Japan has shown signs of life lately.
+description: >-
+  With China’s economy struggling and squarely in Trump’s doghouse, the world’s second-largest economy could stagnate over a sustained period, like Japan’s did for decades. Conversely, Japan has shown signs of life lately.
 ---
 
 

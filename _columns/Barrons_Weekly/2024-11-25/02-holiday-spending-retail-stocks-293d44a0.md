@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Holiday Spending Looks Strong This Year. Where to Find Bargains in Retail Stocks.
 date: 2024-11-22 17:18 -0500
 author: 
 tags: ['Retail', 'Feature']
-description: Retailers are lifting their earnings guidance as shoppers hit the stores. Five names in the bargain bin.
+description: >-
+  Retailers are lifting their earnings guidance as shoppers hit the stores. Five names in the bargain bin.
 ---
 
 

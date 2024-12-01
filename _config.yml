@@ -55,6 +55,12 @@ defaults:
       swing_trading: true
       lang: zh-cn
       permalink: /columns/swing-trading/zh-cn/:name
+  - scope:
+      path: "_columns/Barrons_Weekly"
+    values:
+      barrons_weekly: true
+      lang: en
+      permalink: /columns/barrons-weekly/:name
 
 ### exclude the instructions / write-up in the README.md
 exclude:

@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Tesla and Bitcoin Have Soared Since Election Day. We Size Up the Valuations.
 date: 2024-11-28 01:00 -0500
 author: 
 tags: ['Markets', 'Streetwise']
-description: The EV maker and crypto have dramatically outpaced the S&P 500 since Election Day. The valuations have gotten steep and the analysis tricky. Why Peter Pan is relevant to Bitcoin.
+description: >-
+  The EV maker and crypto have dramatically outpaced the S&P 500 since Election Day. The valuations have gotten steep and the analysis tricky. Why Peter Pan is relevant to Bitcoin.
 ---
 
 

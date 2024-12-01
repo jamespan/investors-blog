@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Argentina’s Markets May Be Turning a Corner. How Trump Could Help.
 date: 2024-11-27 02:30 -0500
 author: Craig Mellow
 tags: ['Economics', 'International Trader']
-description: Argentina’s markets are banking on its president being further bolstered by warm relations with U.S. President-elect Donald Trump.
+description: >-
+  Argentina’s markets are banking on its president being further bolstered by warm relations with U.S. President-elect Donald Trump.
 ---
 
 

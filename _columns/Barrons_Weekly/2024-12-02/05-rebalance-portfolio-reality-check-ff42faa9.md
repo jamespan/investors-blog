@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   It’s Time for a Portfolio Reality Check
 date: 2024-11-27 03:00 -0500
 author: 
 tags: ['Retirement', 'Feature']
-description: Rebalancing after a strong year for stocks may be uncomfortable. Do it anyway.
+description: >-
+  Rebalancing after a strong year for stocks may be uncomfortable. Do it anyway.
 ---
 
 

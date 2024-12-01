@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Estée Lauder Stock Has Tumbled. A Director Bought $25 Million of Shares.
 date: 2024-11-22 10:32 -0500
 author: 
 tags: ['Retail', 'Inside Scoop']
-description: Estée Lauder director Paul J. Fribourg just bought 157,000 shares of the beauty company on the open market.
+description: >-
+  Estée Lauder director Paul J. Fribourg just bought 157,000 shares of the beauty company on the open market.
 ---
 
 

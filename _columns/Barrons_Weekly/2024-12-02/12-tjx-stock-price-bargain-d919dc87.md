@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   TJX Stock Isn’t a Bargain Like the Clothes It Sells. It’s Worth Buying Anyway.
 date: 2024-11-25 15:45 -0500
 author: 
 tags: ['Retail', 'The Trader']
-description: Shares of the off-price retailer have performed , and should continue to do so.
+description: >-
+  Shares of the off-price retailer have performed , and should continue to do so.
 ---
 
 

@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Jobs and Inflation Data Tell Us Rate Cuts Will Continue, but More Slowly
 date: 2024-11-29 12:48 -0500
 author: 
 tags: ['Federal Reserve', 'The Economy']
-description: Unemployment is ticking up, but slowly, without widespread layoffs. And inflation is proving stubborn on the way to 2%. The wild card: Trump tariffs.
+description: >-
+  Unemployment is ticking up, but slowly, without widespread layoffs. And inflation is proving stubborn on the way to 2%. The wild card: Trump tariffs.
 ---
 
 

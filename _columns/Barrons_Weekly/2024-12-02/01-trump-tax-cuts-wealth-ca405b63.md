@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Trump Tax Cuts 2.0: How They Will Affect You
 date: 2024-11-29 01:00 -0500
 author: Karen Hube
 tags: ['Taxes', 'Guide to Wealth']
-description: A postelection look at how tax laws are likely to change, and especially the outlook for the 2017 tax cuts.
+description: >-
+  A postelection look at how tax laws are likely to change, and especially the outlook for the 2017 tax cuts.
 ---
 
 

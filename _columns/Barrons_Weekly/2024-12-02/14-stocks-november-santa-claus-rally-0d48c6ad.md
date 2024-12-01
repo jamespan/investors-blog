@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Stocks End November With a Bang. Next Up: A Santa Claus Rally?
 date: 2024-11-29 14:45 -0500
 author: 
 tags: ['Markets', 'The Trader']
-description: The postelection euphoria has given way to a more pragmatic analysis of how changes in Washington may shake out, but Inauguration Day is still far enough away not to cause too much worry.
+description: >-
+  The postelection euphoria has given way to a more pragmatic analysis of how changes in Washington may shake out, but Inauguration Day is still far enough away not to cause too much worry.
 ---
 
 

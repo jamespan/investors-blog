@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   U.S. Nuclear Reactors Still Depend on Russia. That’s Becoming a Problem.
 date: 2024-11-20 00:00 -0500
 author: 
 tags: ['Energy', 'Feature']
-description: Escalating tensions between Russia and the United States have wide implications for global security. The tensions are also impacting an important source of U.S. electricity: nuclear power plants.
+description: >-
+  Escalating tensions between Russia and the United States have wide implications for global security. The tensions are also impacting an important source of U.S. electricity: nuclear power plants.
 ---
 
 

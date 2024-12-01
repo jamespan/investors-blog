@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   What the Trump Tax Cuts Mean for the Deficit and Your Bond Portfolio
 date: 2024-11-29 01:00 -0500
 author: 
 tags: ['Bonds', 'Guide to Wealth']
-description: The deficit is likely to rise a lot more, and inflation could prove stubborn, leading to higher interest rates. How investors can protect themselves.
+description: >-
+  The deficit is likely to rise a lot more, and inflation could prove stubborn, leading to higher interest rates. How investors can protect themselves.
 ---
 
 

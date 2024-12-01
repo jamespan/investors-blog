@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Everyone Hates Healthcare Stocks. That’s Reason Enough to Take a Look.
 date: 2024-11-27 10:09 -0500
 author: 
 tags: ['Healthcare', 'The Trader']
-description: RFK Jr.’s nomination has made the sector unpopular. It shouldn’t be.
+description: >-
+  RFK Jr.’s nomination has made the sector unpopular. It shouldn’t be.
 ---
 
 

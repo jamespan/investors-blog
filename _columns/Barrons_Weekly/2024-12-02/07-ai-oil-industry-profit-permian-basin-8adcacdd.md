@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   AI is Changing Oil Country—and Pumping Up Profits
 date: 2024-11-26 03:30 -0500
 author: 
 tags: ['AI', 'Feature']
-description: The machinery in the vast Permian Basin is getting a lot more productive. And notably less noisy.
+description: >-
+  The machinery in the vast Permian Basin is getting a lot more productive. And notably less noisy.
 ---
 
 

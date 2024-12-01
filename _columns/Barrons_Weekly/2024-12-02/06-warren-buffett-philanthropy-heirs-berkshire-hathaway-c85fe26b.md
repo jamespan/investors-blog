@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   How Warren Buffett Will Give Away $150 Billion. Will His Kids Be Able to Finish the Job?
 date: 2024-11-27 00:30 -0500
 author: 
 tags: ['Warren Buffett', 'Feature']
-description: 
+description: >-
+  
 ---
 
 

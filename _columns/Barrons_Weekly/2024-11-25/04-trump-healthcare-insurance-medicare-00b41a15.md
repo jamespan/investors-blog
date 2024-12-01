@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Trump Wants to Shake Up Healthcare. What It Means for Your Insurance.
 date: 2024-11-21 03:30 -0500
 author: 
 tags: ['Retirement', 'Feature']
-description: The incoming president is likely to seek cost savings in federal spending on healthcare. What to know.
+description: >-
+  The incoming president is likely to seek cost savings in federal spending on healthcare. What to know.
 ---
 
 

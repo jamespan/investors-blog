@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   8 Safe Dividend Stocks With Generous Payouts
 date: 2024-11-27 12:43 -0500
 author: 
 tags: ['Dividends', 'Income Investing']
-description: We followed Value Line’s methodology to find stocks with above-average payout ratios, below-average debt ratios, and plenty of Buy ratings.
+description: >-
+  We followed Value Line’s methodology to find stocks with above-average payout ratios, below-average debt ratios, and plenty of Buy ratings.
 ---
 
 

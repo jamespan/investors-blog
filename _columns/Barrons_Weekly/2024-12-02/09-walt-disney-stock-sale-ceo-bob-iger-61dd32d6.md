@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Walt Disney CEO Bob Iger Sells $43 Million Worth of Stock Through Plan
 date: 2024-11-27 15:13 -0500
 author: 
 tags: ['Consumer', 'Inside Scoop']
-description: CEO Bob Iger’s trading plan exercised options and sold nearly 375,000 Disney shares. It’s his first insider sale since returning to Disney in late 2022.
+description: >-
+  CEO Bob Iger’s trading plan exercised options and sold nearly 375,000 Disney shares. It’s his first insider sale since returning to Disney in late 2022.
 ---
 
 

@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   U.S. Farmers Are Struggling. They Will Lose More in a Trade War, This Ag Expert Says.
 date: 2024-11-28 01:30 -0500
 author: Debbie Carlson
 tags: ['Agricultural Commodities', 'Q&A']
-description: Farm income has plummeted in the past two years, and the outlook is troubling, says Dan Basse, founder of the advisory firm AgResource.  How dairy cows are helping.
+description: >-
+  Farm income has plummeted in the past two years, and the outlook is troubling, says Dan Basse, founder of the advisory firm AgResource.  How dairy cows are helping.
 ---
 
 

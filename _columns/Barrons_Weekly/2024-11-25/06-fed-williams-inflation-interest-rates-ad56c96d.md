@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Fed’s Williams Sees Inflation Cooling and Interest Rates Falling Further
 date: 2024-11-21 01:00 -0500
 author: 
 tags: ['Federal Reserve', 'Q&A']
-description: John Williams, who heads the Federal Reserve Bank of New York, says 2% is the rate that can best balance the central bank’s employment and price stability goals.
+description: >-
+  John Williams, who heads the Federal Reserve Bank of New York, says 2% is the rate that can best balance the central bank’s employment and price stability goals.
 ---
 
 

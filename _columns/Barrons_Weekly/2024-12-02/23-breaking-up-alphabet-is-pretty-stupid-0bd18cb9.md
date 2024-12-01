@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Breaking Up Alphabet Is Pretty Stupid
 date: 2024-11-29 18:23 -0500
 author: 
 tags: ['Mailbag']
-description: Readers weigh in on Alphabet, Trump’s approach to the economy, a likely push for Medicare Advantage plans, and disinflation.
+description: >-
+  Readers weigh in on Alphabet, Trump’s approach to the economy, a likely push for Medicare Advantage plans, and disinflation.
 ---
 
 

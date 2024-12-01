@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Luxury Sales Are Slowing Around the World. This Country’s Outlook Bucks the Trend.
 date: 2024-11-20 03:00 -0500
 author: 
 tags: ['Retail', 'Feature']
-description: Japanese shoppers are snapping up designer goods, fueled by rising wages and a strong stock market. What that means for LVMH, Hermès, and others.
+description: >-
+  Japanese shoppers are snapping up designer goods, fueled by rising wages and a strong stock market. What that means for LVMH, Hermès, and others.
 ---
 
 

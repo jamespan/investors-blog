@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   These 2 ETFs Can Double MicroStrategy’s Gains. They Bet Big on a Bitcoin Guru.
 date: 2024-11-26 11:23 -0500
 author: Lewis Braham
 tags: ['Cryptocurrencies', 'Funds']
-description: The volatile ETFs are built more for day traders than buy-and-hold investors. What to know.
+description: >-
+  The volatile ETFs are built more for day traders than buy-and-hold investors. What to know.
 ---
 
 

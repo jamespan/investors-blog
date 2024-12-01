@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   A Wave of AI Pessimism Is Coming. How to Outlast It.
 date: 2024-11-27 13:07 -0500
 author: Jenny Johnson
 tags: ['AI', 'Other Voices']
-description: The hype cycle is nearing its peak. That will create opportunities for savvy investors, writes Franklin Templeton CEO Jenny Johnson in a guest commentary.
+description: >-
+  The hype cycle is nearing its peak. That will create opportunities for savvy investors, writes Franklin Templeton CEO Jenny Johnson in a guest commentary.
 ---
 
 

@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Ferrari’s $4 Million Car Will Supercharge the Stock. The Auto Maker Is Leading the Luxury Pack.
 date: 2024-11-27 01:00 -0500
 author: 
 tags: ['Autos', 'Feature']
-description: The car maker unites autos and luxury in a way that makes rivals feel downmarket, while its exposure to China’s faltering economy is more limited.
+description: >-
+  The car maker unites autos and luxury in a way that makes rivals feel downmarket, while its exposure to China’s faltering economy is more limited.
 ---
 
 

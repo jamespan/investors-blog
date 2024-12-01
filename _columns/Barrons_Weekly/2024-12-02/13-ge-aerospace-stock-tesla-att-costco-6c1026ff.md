@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Largest U.S. Pension Sold GE Aerospace and Tesla Stock, Bought AT&T and Costco
 date: 2024-11-24 03:00 -0500
 author: 
 tags: ['Markets', 'Inside Scoop']
-description: Calpers sold GE Aerospace and Tesla stock, and bought more shares of AT&T and Costco in the third quarter.
+description: >-
+  Calpers sold GE Aerospace and Tesla stock, and bought more shares of AT&T and Costco in the third quarter.
 ---
 
 

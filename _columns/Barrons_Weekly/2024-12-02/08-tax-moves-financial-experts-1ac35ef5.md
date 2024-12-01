@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Make These Tax Moves Now. Your Future Self Will Thank You.
 date: 2024-11-29 01:00 -0500
 author: Steve Garmhausen
 tags: ['Taxes', 'Guide to Wealth']
-description: Wealthy households may have avoided some looming tax hikes thanks to Donald Trump’s election, but there are still plenty of tax steps to take before the new year.
+description: >-
+  Wealthy households may have avoided some looming tax hikes thanks to Donald Trump’s election, but there are still plenty of tax steps to take before the new year.
 ---
 
 

@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Trump Will Be Bad for EVs But Could Be Good for Tesla, Analyst Says. Plus, Exxon Mobil, AppLovin, and More Stocks.
 date: 2024-11-29 11:48 -0500
 author: 
 tags: ['Companies', 'Research Reports']
-description: Wall Street analysts weigh in on Shift4 Payments, Applied Industrial Technologies, Old National Bancorp, AppLovin, Exxon Mobil, and Tesla.
+description: >-
+  Wall Street analysts weigh in on Shift4 Payments, Applied Industrial Technologies, Old National Bancorp, AppLovin, Exxon Mobil, and Tesla.
 ---
 
 

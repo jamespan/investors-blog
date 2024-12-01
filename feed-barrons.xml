@@ -1,0 +1,29 @@
+---
+layout: 
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ "Barron's Weekly" | xml_escape }}</title>
+    <description>{{ "Recent magazine issues from Barron's, the world's premier investing publication providing financial news, in-depth analysis and commentary on stocks, investments and how markets move." | xml_escape }}</description>
+    <link>{{ site.url }}{{ site.baseurl }}/columns/barrons-weekly/</link>
+    <atom:link href="{{ "/feed-barrons.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+    {% assign weeklys = site.documents | where_exp: "item", "item.title != page.title" | where: "barrons_weekly", true | where: "lang", "en" | group_by_exp: "item", "item.path | slice: 24, 10" | reverse %}
+    {% for weekly in weeklys limit: 2 %}
+      {% assign posts = weekly.items | sort: "slug" %}
+      {% for post in posts %}
+        <item>
+          <title>{{ post.title | xml_escape }}</title>
+          <description>{{ post.content | xml_escape }}</description>
+          <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+          <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+          <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+        </item>
+      {% endfor %}
+    {% endfor %}
+  </channel>
+</rss>

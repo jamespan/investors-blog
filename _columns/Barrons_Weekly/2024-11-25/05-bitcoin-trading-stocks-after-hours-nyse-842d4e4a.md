@@ -1,11 +1,12 @@
 ---
-layout: content
+layout: post
 title: >-
   Bitcoin Trades All Night. Why Not Stocks?
 date: 2024-11-21 01:30 -0500
 author: 
 tags: ['Markets', 'Feature']
-description: Wall Street is making a push for more extended hours in the stock market, and Trump’s incoming regulators are likely to approve. What to know so you don’t lose your shirt.
+description: >-
+  Wall Street is making a push for more extended hours in the stock market, and Trump’s incoming regulators are likely to approve. What to know so you don’t lose your shirt.
 ---
 
 
