@@ -32,10 +32,10 @@ description: >-
 
 
 Cold pizza goes stale fast. Just ask traders of
-[Domino’s Pizza](https://www.barrons.com/market-data/stocks/DPZ)
+[Domino’s Pizza](https://www.barrons.com/market-data/stocks/dpz?mod=article_chiclet)
 .
 The chain’s stock recently popped 8% after hours on news that Warren Buffett’s
-[Berkshire Hathaway](https://www.barrons.com/market-data/stocks/BRK.A)
+[Berkshire Hathaway](https://www.barrons.com/market-data/stocks/brk.b?mod=article_chiclet)
 had
 [acquired a \$550 million stake.](https://www.barrons.com/articles/berkshire-hathaway-dominos-pizza-pool-stock-buy-92b3b674?mod=article_inline) 
 The next morning, the stock cooled off and closed down 1%, leaving a bad taste for traders who had bought it piping hot the night before.
@@ -52,11 +52,11 @@ Such are the perils of trading after hours. But if you can bet on cryptocurrenci
 Even without more regulatory easing,
 [brokerages](https://www.barrons.com/advisor/articles/charles-schwab-robinhood-brokerage-stocks-soar-trump-election-47ecaebc?mod=article_inline)
 have steadily expanded stock trading to the wee hours.
-[Interactive Brokers Group](https://www.barrons.com/market-data/stocks/IBKR)
+[Interactive Brokers Group](https://www.barrons.com/market-data/stocks/ibkr?mod=article_chiclet)
 ,
-[Robinhood Markets](https://www.barrons.com/market-data/stocks/HOOD)
+[Robinhood Markets](https://www.barrons.com/market-data/stocks/hood?mod=article_chiclet)
 ,
-[Charles Schwab](https://www.barrons.com/market-data/stocks/SCHW)
+[Charles Schwab](https://www.barrons.com/market-data/stocks/schw?mod=article_chiclet)
 ,
 and Webull now offer
 [varying degrees of 24/7 trading](https://www.barrons.com/advisor/articles/charles-schwab-24-hour-trading-d2981acc?mod=article_inline)
@@ -66,7 +66,7 @@ and Webull now offer
 At Robinhood, whose stock is on a tear this year, trading
 [Bitcoin](https://www.barrons.com/market-data/cryptocurrencies/btcusd?iso=kraken&mod=article_chiclet)
 or
-[Apple](https://www.barrons.com/market-data/stocks/AAPL)
+[Apple](https://www.barrons.com/market-data/stocks/aapl?mod=article_chiclet)
 at 3 a.m. on your phone has become seamless. The brokerage has expanded after-hours trading to 900 tickers. Since the service went live in 2023, total after-hours trading volume has amounted to \$40 billion, still small but growing steadily.
 
 
@@ -95,7 +95,7 @@ Wall Street wants the stock market to be open 24 hours a day. Barron’s senior 
 
 
 Big exchanges want more of the action.
-[Intercontinental Exchange](https://www.barrons.com/market-data/stocks/ICE)
+[Intercontinental Exchange](https://www.barrons.com/market-data/stocks/ice?mod=article_chiclet)
 ,
 owner of the New York Stock Exchange, announced plans in late October to extend its NYSE Arca electronic platform to 22 hours a day—from 1:30 a.m. to 11:30 p.m. Eastern Time—five days a week. While the SEC still has to sign off, that seems likely in a Republican-led agency.
 
@@ -110,7 +110,7 @@ Traders in Asia seeking access to U.S. equities on their business hours are one 
 
 
 Young Americans accustomed to buying anything 24/7 are also fueling the growth. “An electronic exchange not functioning around the clock is like
-[Amazon](https://www.barrons.com/market-data/stocks/AMZN)
+[Amazon](https://www.barrons.com/market-data/stocks/amzn?mod=article_chiclet)
 not being open,” says Steve Quirk, chief brokerage officer of Robinhood, which
 [expanded](https://www.barrons.com/articles/robinhood-markets-stock-price-trading-e738edf9?mod=article_inline) 
 stock trading to
@@ -133,7 +133,7 @@ But because of meager volumes, trading is dicey and gets even riskier in extende
  
 
 
-[Nvidia](https://www.barrons.com/market-data/stocks/NVDA)
+[Nvidia](https://www.barrons.com/market-data/stocks/nvda?mod=article_chiclet)
 ,
 
  compared with the full suite of traders who weigh in the next day. 
@@ -157,7 +157,7 @@ Brokerages and exchanges that feed off volatility get paid no matter what, of co
  
 
 
-[Cboe Global Markets](https://www.barrons.com/market-data/stocks/CBOE)
+[Cboe Global Markets](https://www.barrons.com/market-data/stocks/cboe?mod=article_chiclet)
  
 
  all benefit from, and have vested interests in, expanded trading. So do brokerages like Robinhood, which has added after-hours to a growing suite of trading services. 
@@ -197,9 +197,9 @@ and
 
 [Nasdaq 100](https://www.barrons.com/market-data/indexes/ndx?mod=article_chiclet)
 indexes and exchange-traded funds. “There are no meme stocks,” says James Kostulias, head of trading services, referring to names like
-[GameStop](https://www.barrons.com/market-data/stocks/GME)
+[GameStop](https://www.barrons.com/market-data/stocks/gme?mod=article_chiclet)
 and
-[AMC Entertainment Holdings](https://www.barrons.com/market-data/stocks/AMC)
+[AMC Entertainment Holdings](https://www.barrons.com/market-data/stocks/amc?mod=article_chiclet)
 that can’t be traded after hours at Schwab.
 
 

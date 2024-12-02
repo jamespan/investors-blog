@@ -35,20 +35,20 @@ It’s looking like a jolly holiday season for America’s retailers, based on c
 
 
 At least 10 retailers recently raised their sales or earnings guidance for the current fiscal year to reflect continued spending, including
-[Walmart](https://www.barrons.com/market-data/stocks/wmt?mod=article_chiclet)
+[Walmart](https://www.barrons.com/market-data/stocks/WMT)
 ,
-[Gap](https://www.barrons.com/market-data/stocks/gap?mod=article_chiclet)
+[Gap](https://www.barrons.com/market-data/stocks/GAP)
 ,
-[TJX](https://www.barrons.com/market-data/stocks/tjx?mod=article_chiclet)
+[TJX](https://www.barrons.com/market-data/stocks/TJX)
 ,
-[Ralph Lauren](https://www.barrons.com/market-data/stocks/rl?mod=article_chiclet)
+[Ralph Lauren](https://www.barrons.com/market-data/stocks/RL)
 ,
-[BJ’s Wholesale Club Holdings](https://www.barrons.com/market-data/stocks/bj)
+[BJ’s Wholesale Club Holdings](https://www.barrons.com/market-data/stocks/BJ)
 ,
-[Home Depot](https://www.barrons.com/market-data/stocks/hd?mod=article_chiclet)
+[Home Depot](https://www.barrons.com/market-data/stocks/HD)
 ,
 and
-[e.l.f. Beauty](https://www.barrons.com/market-data/stocks/elf?mod=article_chiclet)
+[e.l.f. Beauty](https://www.barrons.com/market-data/stocks/ELF)
 .
 
 
@@ -99,7 +99,7 @@ Wealth increased by 37% from 2019 through 2022, according to the Federal Reserve
  
 
 
-[Visa](https://www.barrons.com/market-data/stocks/v?mod=article_chiclet)
+[Visa](https://www.barrons.com/market-data/stocks/V)
 ’s
 
  chief economist. Strong stock and housing markets had a lot to do with the increase, but income gains also contributed, and continue to do so.
@@ -166,30 +166,30 @@ Holiday Stocks
 
 
 Zackfia’s team polled 585 people about their shopping preferences. Roughly a third ranked Walmart as their top retailer for gift-buying, followed by
-[Amazon.com](https://www.barrons.com/market-data/stocks/amzn?mod=article_chiclet)
+[Amazon.com](https://www.barrons.com/market-data/stocks/AMZN)
 at 25% and
-[Costco Wholesale](https://www.barrons.com/market-data/stocks/cost?mod=article_chiclet) 
+[Costco Wholesale](https://www.barrons.com/market-data/stocks/COST) 
 at 21%. Off-price companies, such as TJX,
-[Ross Stores](https://www.barrons.com/market-data/stocks/rost?mod=article_chiclet)
+[Ross Stores](https://www.barrons.com/market-data/stocks/ROST)
 ,
 and
-[Burlington Stores](https://www.barrons.com/market-data/stocks/burl?mod=article_chiclet)
+[Burlington Stores](https://www.barrons.com/market-data/stocks/BURL)
 ,
 were also popular.
 
 
 The problem for investors is that the shares of these companies aren’t cheap. All trade for more than 20 times next year’s earnings, well above the average of about 14 times for the
-[SPDR S&P Retail](https://www.barrons.com/market-data/stocks/xrt)
+[SPDR S&P Retail](https://www.barrons.com/market-data/stocks/XRT)
 exchange-traded fund. Bulls say the premium is worth it because all of these companies have been doing well.
 
 
 Investors looking for a better deal may want to scout the small- and mid-cap aisles, where valuations tend to be lower. Dick’s Sporting Goods, Ralph Lauren,
-[Tapestry](https://www.barrons.com/market-data/stocks/tpr?mod=article_chiclet)
+[Tapestry](https://www.barrons.com/market-data/stocks/TPR)
 ,
-[Nordstrom](https://www.barrons.com/market-data/stocks/jwn?mod=article_chiclet)
+[Nordstrom](https://www.barrons.com/market-data/stocks/JWN)
 ,
 and
-[Abercrombie & Fitch](https://www.barrons.com/market-data/stocks/anf?mod=article_chiclet)
+[Abercrombie & Fitch](https://www.barrons.com/market-data/stocks/ANF)
 are among the stocks favored by Dana Telsey, CEO of Telsey Advisory Group. All five companies have delivered steady revenue and earnings growth in recent quarters, and could continue to do so in 2025. And, all five trade for under 20 times earnings.
 
 

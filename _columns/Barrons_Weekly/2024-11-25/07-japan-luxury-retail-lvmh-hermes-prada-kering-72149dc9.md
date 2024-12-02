@@ -38,7 +38,7 @@ Japan is still the land of rising fortunes for luxury-goods companies, even as t
 
 
 The Japanese luxury market got a boost earlier this year from a weakening yen and hordes of Chinese tourists, although both trends have since reversed.
-[LVMH Moët Hennessy Louis Vuitton](https://www.barrons.com/market-data/stocks/lvmuy?mod=article_chiclet)
+[LVMH Moët Hennessy Louis Vuitton](https://www.barrons.com/market-data/stocks/LVMUY)
 blamed a 2% decline in third-quarter revenue on “lower growth seen in Japan,” while rival
 [Kering](https://www.barrons.com/market-data/stocks/ppruy?mod=article_chiclet)
 called out Japan in particular, and the Asia-Pacific region generally, for “the bulk of” its sales slowdown in the period.
@@ -72,7 +72,7 @@ Japan’s share of luxury revenue also increased; sales in Japan accounted for 9
 
 
 The tourist boom has slowed this fall, partly because of the yen’s appreciation in the third quarter, which made exchange rates less favorable again. Japan’s central bank recently raised its benchmark interest rate by a quarter of a percentage point from near-zero, and
-[Bank of Japan](https://www.barrons.com/market-data/stocks/8301?countrycode=jp&mod=article_chiclet)
+[Bank of Japan](https://www.barrons.com/market-data/stocks/JP/XTKS/8301)
 Gov. Kazuo Ueda said in a rare statement that the rate hike was partly motivated by a desire to strengthen the yen. The Japanese currency has since fallen back toward the lows of early July, but the messaging about the yen’s rise may have dissuaded potential visitors.
 
 
@@ -80,7 +80,7 @@ Gov. Kazuo Ueda said in a rare statement that the rate hike was partly motivated
 
 
 Meanwhile, luxury-goods companies have raised prices to compensate for the losses they took when converting yen sales to euros.
-[Hermès](https://www.barrons.com/market-data/stocks/rms?countrycode=fr&mod=article_chiclet)
+[Hermès](https://www.barrons.com/market-data/stocks/FR/XPAR/RMS)
 ,
 
 
@@ -111,9 +111,9 @@ The Japanese stock market’s rebound has helped to encourage high-end purchases
 
 [Nikkei 225](https://www.barrons.com/market-data/indexes/nik?countrycode=jp&mod=article_chiclet)
 has gained 66% in the past five years, and about 15% this year, posting its first new high since 1989. The index is heavily weighted toward companies such as
-[Toyota Motor](https://www.barrons.com/market-data/stocks/tm?mod=article_chiclet)
+[Toyota Motor](https://www.barrons.com/market-data/stocks/TM)
 and
-[Sony Group](https://www.barrons.com/market-data/stocks/sony?mod=article_chiclet)
+[Sony Group](https://www.barrons.com/market-data/stocks/SONY)
 ,
 whose profits rise when overseas earnings are boosted by a weaker yen.
 

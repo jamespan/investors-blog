@@ -24,7 +24,8 @@ description: >-
 
 
 
-![](https://images.barrons.com/im-01258932?width=548&height=365)
+
+
 
 
 
@@ -32,7 +33,7 @@ description: >-
 
 
 Google is under attack.
-[Alphabet](https://www.barrons.com/market-data/stocks/GOOGL)
+[Alphabet](https://www.barrons.com/market-data/stocks/googl?mod=article_chiclet)
 stock will still emerge a winner.
 
 
@@ -47,7 +48,7 @@ and monitoring data, causing the stock to fall 4.7%, to \$167.63, on Thursday. T
 ,
 [Perplexity](https://www.barrons.com/articles/ai-search-engine-google-perplexity-b94431d0?mod=article_inline)
 , and
-[Microsoft](https://www.barrons.com/market-data/stocks/MSFT)
+[Microsoft](https://www.barrons.com/market-data/stocks/msft?mod=article_chiclet)
 in a way that Yahoo! and DuckDuckGo never could. Not only can they siphon users away from Google, but the search for answers instead of links also could be devastating for its advertising business. Without search and the ad dollars it produces, the mighty Alphabet collapses—and so does its stock.
 
 
@@ -67,10 +68,10 @@ Even as that future unfolds, the company’s search business remains dominant—
 
 
 For two decades now, Alphabet has been a winner. Its advertising business generates more than \$250 billion annually, while Android has become the world’s most popular mobile operating system, easily surpassing
-[Apple](https://www.barrons.com/market-data/stocks/AAPL)
+[Apple](https://www.barrons.com/market-data/stocks/aapl?mod=article_chiclet)
 ’s
 iPhone in users. Following the lead of
-[Amazon.com](https://www.barrons.com/market-data/stocks/AMZN)
+[Amazon.com](https://www.barrons.com/market-data/stocks/amzn?mod=article_chiclet)
 and Microsoft, Alphabet moved into the cloud, which is expected to generate \$58 billion in revenue for the company next year. At the same time, though less talked about than TikTok, YouTube has become the planet’s No. 1 content delivery platform, with viewers watching more than a billion hours
 [daily](https://blog.youtube/news-and-events/youtube-number-one-streamer-nielsen/)
 .
@@ -109,7 +110,7 @@ showed no signs of a search slowdown. It easily topped earnings and sales foreca
 
 
 Alphabet has something going for it that OpenAI, which has a partnership with
-[News Corp](https://www.barrons.com/market-data/stocks/NWSA)
+[News Corp](https://www.barrons.com/market-data/stocks/nwsa?mod=article_chiclet)
 ,
 
 
@@ -122,7 +123,7 @@ While the upstarts try to figure things out, search should keep growing. Media i
 
 
 The advent of AI is also likely to create new types of search and novel ways to earn money from sifting through information. There is the traditional ad-supported version—now with AI summaries—that Google dominates, and premium tools are available by subscription. There are even tools being created for individual companies, such as
-[GE Aerospace](https://www.barrons.com/market-data/stocks/GE)
+[GE Aerospace](https://www.barrons.com/market-data/stocks/ge?mod=article_chiclet)
 ’s
 ChatGPT-powered
 [Wingmate](https://www.barrons.com/articles/ge-stock-price-microsoft-ai-partnership-a9aef4dd?mod=article_inline)
@@ -132,7 +133,8 @@ ChatGPT-powered
 
 
 
-![](https://images.barrons.com/im-50741293?width=548&height=365)
+
+
 
 
 Illustration by Guillem Casasús
@@ -169,7 +171,7 @@ Some changes will be offset. An end to Alphabet paying companies like Apple to m
 
 
 Alphabet stock appears to reflect these antitrust concerns. It trades for 19.4 times earnings, below the S&P 500’s 22 times and
-[Meta Platforms](https://www.barrons.com/market-data/stocks/META)
+[Meta Platforms](https://www.barrons.com/market-data/stocks/meta?mod=article_chiclet)
 ’ 22.9 times. “The stock is already reflecting that risk,” says Ellen Hazen of F.L.Putnam Investment Management, who comments that her firm would consider adding to its existing position if it falls back to about \$170.
 
 
@@ -185,14 +187,14 @@ goes even further. He argues that Alphabet, with a market value of \$2.1 trillio
 An analysis of those
 [individual parts](https://www.barrons.com/articles/alphabet-google-doj-breakup-6411f164?mod=article_inline)
 bears that out. Alphabet’s cloud business, which could generate roughly \$20 billion in 2025 earnings before interest, taxes, depreciation, and amortization, or Ebitda, would be worth \$325 billion at a 16 times multiple, similar to what Amazon and Microsoft fetch. YouTube would be worth up to \$800 billion if it traded at 22 times Ebitda, the average of what Meta and
-[Netflix](https://www.barrons.com/market-data/stocks/NFLX)
+[Netflix](https://www.barrons.com/market-data/stocks/nflx?mod=article_chiclet)
 change hands for.
 
 
 Waymo is a little harder to value.
-[Uber Technologies](https://www.barrons.com/market-data/stocks/UBER)
+[Uber Technologies](https://www.barrons.com/market-data/stocks/uber?mod=article_chiclet)
 is valued at \$150 billion, while Wall Street valuations for
-[Tesla](https://www.barrons.com/market-data/stocks/TSLA)
+[Tesla](https://www.barrons.com/market-data/stocks/tsla?mod=article_chiclet)
 ’s
 self-driving business range from \$100 billion to
 [trillions](https://www.barrons.com/articles/ark-cathie-wood-tesla-stock-target-fdf8be18?mod=article_inline)
