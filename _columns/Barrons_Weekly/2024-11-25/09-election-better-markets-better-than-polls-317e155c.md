@@ -7,7 +7,9 @@ author:
 tags: []
 description: >-
   
----*About the authors: **[Koleman Strumpf](https://users.wfu.edu/strumpks/)**is the Burchfield Presidential chair of political economy at Wake Forest University. **[Harry Crane](https://www.harrycrane.com/)** is a professor of statistics at Rutgers University.* 
+---
+
+*About the authors: **[Koleman Strumpf](https://users.wfu.edu/strumpks/)**is the Burchfield Presidential chair of political economy at Wake Forest University. **[Harry Crane](https://www.harrycrane.com/)** is a professor of statistics at Rutgers University.* 
 
 
 
