@@ -67,9 +67,7 @@ Today, goods inflation has been tamed, while services inflation is easing alongs
 The category includes rents paid to landlords plus so-called owners’ equivalent rent, essentially the estimated cost that it would take owners to rent their homes. It can also include utilities prices. Housing makes up roughly a third of the CPI and about a 16% weight in the PCE price index.
 
 
-Housing and utilities costs in the PCE price index were up 5% from a year earlier in September, versus a peak above 8% in mid 2022. Meanwhile, prices of nonhousing services were up 3.3% year over year in September and goods were
-*down*
-1.2%.
+Housing and utilities costs in the PCE price index were up 5% from a year earlier in September, versus a peak above 8% in mid 2022. Meanwhile, prices of nonhousing services were up 3.3% year over year in September and goods were *down* 1.2%.
 
 
 
@@ -85,8 +83,7 @@ Instead, Fed officials are focusing on only new rental leases—rather than exis
 “Shelter inflation is high because rents for existing tenants are still catching up to the past surge,” said Federal Reserve Bank of Boston President Susan Collins on Nov. 20. “While this catch-up process may continue to be slow and uneven, it does not raise concerns for me about the durability of inflation’s trajectory back to 2%—as long as new tenant rent inflation remains subdued and overall inflation expectations stay well-anchored.”
 
 
-[A recent study](https://www.clevelandfed.org/publications/economic-commentary/ec-202417-new-tenant-rent-passthrough-and-future-of-rent-inflation?utm_campaign=ClevelandFedDigest&utm_medium=email&_hsenc=p2ANqtz-9L4dtPK4Z-Xo1q4nOGY-yAceSg2e8oCb323PB1NldWjdFBRLfB1C3kYN3Wym4gAjytdI0ckJQ2D0S-BQITtWnIyf69NbNd3ANH2mazt2WDrAra7Q8&_hsmi=334502119&utm_source=cfd&mod=article_inline)
-by researchers at the Cleveland Fed found there’s plenty of catching up left to do. Their model calculates that rent inflation won’t fall below its pre-2020 average of 3.5% annually until around the middle of 2026.
+[A recent study](https://www.clevelandfed.org/publications/economic-commentary/ec-202417-new-tenant-rent-passthrough-and-future-of-rent-inflation?utm_campaign=ClevelandFedDigest&utm_medium=email&_hsenc=p2ANqtz-9L4dtPK4Z-Xo1q4nOGY-yAceSg2e8oCb323PB1NldWjdFBRLfB1C3kYN3Wym4gAjytdI0ckJQ2D0S-BQITtWnIyf69NbNd3ANH2mazt2WDrAra7Q8&_hsmi=334502119&utm_source=cfd&mod=article_inline) by researchers at the Cleveland Fed found there’s plenty of catching up left to do. Their model calculates that rent inflation won’t fall below its pre-2020 average of 3.5% annually until around the middle of 2026.
 
 
 That’s all before any new growth policies of the new Congress and administration take effect. Such moves could lift goods inflation via tariffs, services inflation via labor shortages, and overall demand via tax cuts.
@@ -107,8 +104,7 @@ Officials are confident that the current level of rates is restrictive, and they
 Faced with the perhaps uncomfortable choice of living with above-target inflation for an extended period or needing to slow the economy more drastically to achieve their inflation goal, Fed officials seem to have accepted the fact that they won’t get to 2% in 2025.
 
 
-Write to Nicholas Jasinski at
-[nicholas.jasinski@barrons.com](mailto:nicholas.jasinski@barrons.com)
+Write to Nicholas Jasinski at [nicholas.jasinski@barrons.com](mailto:nicholas.jasinski@barrons.com)
 
 
 

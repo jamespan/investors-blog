@@ -46,16 +46,13 @@ The outlook for 2025 is for more of the same, with an important caveat: The inco
 A Stanford University–trained economist, Williams is an expert in the neutral rate of interest—the theoretical rate that neither stimulates nor restricts economic growth. His insights will be especially valuable as the Fed moves to bring interest rates to a level that balances the U.S. economy. 
 
 
-*Barron’s* 
-spoke with Williams on Nov. 15 about his economic and inflation outlook, the Fed’s goals, and the global implications of China’s struggle to maintain growth. An edited version of the conversation follows.
+*Barron’s*  spoke with Williams on Nov. 15 about his economic and inflation outlook, the Fed’s goals, and the global implications of China’s struggle to maintain growth. An edited version of the conversation follows.
 
 
-***Barron’s***
-**: How does the economic landscape look to you?**
+***Barron’s*** **: How does the economic landscape look to you?**
 
 
-**John Williams:**
-Economic growth has been very good. At the same time, we’ve seen a pretty steady cooling of the labor market. We’re seeing inflation steadily come down from its very high levels. We’re probably around 2.25% on PCE [personal consumption expenditures index] inflation over the past year—so, a significant decline in inflation toward our 2% goal. Obviously, [we’re] not quite there yet. The big story here is, how do you get strong growth, a cooling labor market, [and] inflation coming down all at the same time?
+**John Williams:** Economic growth has been very good. At the same time, we’ve seen a pretty steady cooling of the labor market. We’re seeing inflation steadily come down from its very high levels. We’re probably around 2.25% on PCE [personal consumption expenditures index] inflation over the past year—so, a significant decline in inflation toward our 2% goal. Obviously, [we’re] not quite there yet. The big story here is, how do you get strong growth, a cooling labor market, [and] inflation coming down all at the same time?
 
 
 I expect gross domestic product for the year to probably be around 2.5%, or maybe a little higher. I expect the labor market to continue where it is, and maybe [show] a little further cooling. The current unemployment rate is 4.1% [in October]. Maybe it will get to 4.25%. And I expect inflation to continue to gradually come down. I’m expecting the inflation rate to be around 2.25% for the full year.
@@ -71,12 +68,10 @@ I expect gross domestic product for the year to probably be around 2.5%, or mayb
 
 
 
-Williams also spoke about the gold vault underneath the NY Fed building and Chairman Powell’s taste in music.
-
+Williams also spoke about the gold vault underneath the NY Fed building and Chairman Powell’s taste in music. 
  
  Barron's Online
- 
-
+  
 
 
 
@@ -163,8 +158,7 @@ But it could be that this is going to have a longer run. AI satisfies the requir
 **What are the biggest risks on the horizon?**
 
 
-**Williams:**
-Part of the story behind why the economy is doing well is on the supply side. It is on the productivity side. If that doesn’t continue, it would shift the job for us as we try to keep supply and demand in balance. I’m a little bit on the optimist side of this, but you can be disappointed.
+**Williams:** Part of the story behind why the economy is doing well is on the supply side. It is on the productivity side. If that doesn’t continue, it would shift the job for us as we try to keep supply and demand in balance. I’m a little bit on the optimist side of this, but you can be disappointed.
 
 
 Obviously, geopolitical issues around the world are a risk. There is a lot going on in the world, and [that is] always on the list of what can disrupt the global economy. 
@@ -179,8 +173,7 @@ The third issue is China, in terms of its growth and the challenges it is facing
 **Thank you, John.**
 
 
-Write to Megan Leonhardt at
-[megan.leonhardt@barrons.com](mailto:megan.leonhardt@barrons.com)
+Write to Megan Leonhardt at [megan.leonhardt@barrons.com](mailto:megan.leonhardt@barrons.com)
 
 
 

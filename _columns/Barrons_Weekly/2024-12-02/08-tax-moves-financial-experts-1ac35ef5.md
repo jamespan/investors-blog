@@ -215,8 +215,7 @@ Since the Republicans now control the government, it is likely that the estate t
 I believe that the state and local tax deduction is going to be back in play next year. So, people could delay making state tax estimates until January of 2026 for their 2025 tax liability. The impact of the tax deduction could offset the interest costs on underpaying an estimated payment. 
 
 
-Write to
-[advisor.editors@barrons.com](mailto:advisor.editors@barrons.com)
+Write to [advisor.editors@barrons.com](mailto:advisor.editors@barrons.com)
 
 
 

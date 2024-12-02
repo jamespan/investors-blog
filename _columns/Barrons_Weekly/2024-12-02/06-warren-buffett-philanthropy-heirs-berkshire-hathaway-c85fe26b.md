@@ -34,14 +34,10 @@ Warren Buffett, chairman of Berkshire Hathaway, second from right, with his chil
 
 
 
-The most difficult job in the history of philanthropy will land in the lap of Warren Buffett’s three children after his death—and
-[Berkshire Hathaway](https://www.barrons.com/market-data/stocks/BRK.A) 
-won’t be untouched.
+The most difficult job in the history of philanthropy will land in the lap of Warren Buffett’s three children after his death—and [Berkshire Hathaway](https://www.barrons.com/market-data/stocks/BRK.A)  won’t be untouched.
 
 
-Buffett, 94, has accumulated a fortune of nearly \$150 billion, almost entirely in
-[Berkshire Hathaway](https://www.barrons.com/market-data/stocks/BRK.A)
-stock, and he has charged his three children with donating that money through a finite charitable trust upon his death.
+Buffett, 94, has accumulated a fortune of nearly \$150 billion, almost entirely in [Berkshire Hathaway](https://www.barrons.com/market-data/stocks/BRK.A) stock, and he has charged his three children with donating that money through a finite charitable trust upon his death.
 
 
  When the clock starts is an open question. The longtime Berkshire CEO could live another five years or more, and he is giving away about 5% of his Berkshire holdings annually through a giving plan adopted in 2006 that has resulted in the donation of \$55 billion in Berkshire stock.
@@ -75,9 +71,7 @@ Pasic expects the three children to take risks—as their father wants—and not
 
 
 
-Buffett likes things lean—he hates bureaucracy and runs Berkshire with a headquarters staff of under 30—and it’s a trait that runs in the family. All three Buffett children operate their own thinly staffed philanthropies, funded by annual donations from their father, each with just 20 to 30 people. They may follow the approach of Mackenzie Scott, who has given away billions of dollars without much of a staff since her divorce from
-[Amazon.com](https://www.barrons.com/market-data/stocks/AMZN)
-
+Buffett likes things lean—he hates bureaucracy and runs Berkshire with a headquarters staff of under 30—and it’s a trait that runs in the family. All three Buffett children operate their own thinly staffed philanthropies, funded by annual donations from their father, each with just 20 to 30 people. They may follow the approach of Mackenzie Scott, who has given away billions of dollars without much of a staff since her divorce from [Amazon.com](https://www.barrons.com/market-data/stocks/AMZN) 
 
 
 
@@ -88,9 +82,7 @@ But giving away \$150 billion is a huge task—especially for three siblings who
 They’ve each pursued different paths. Howard Buffett, 69, an Illinois corn and soybean farmer, has become one of the largest private donors to Ukraine, which he has called “the greatest humanitarian crisis” in his lifetime. He donated over \$350 million to Ukraine last year and was personally recognized by Ukraine’s leader, Volodymyr Zelensky, as one of the country’s great international benefactors and champions.
 
 
-Peter Buffett, 66, is a composer who has been influenced by Native American culture and lives near Kingston, N.Y. His
-[NoVo](https://www.barrons.com/market-data/stocks/CA/XTSE/NVO)
-
+Peter Buffett, 66, is a composer who has been influenced by Native American culture and lives near Kingston, N.Y. His [NoVo](https://www.barrons.com/market-data/stocks/CA/XTSE/NVO) 
 
 
 
@@ -126,9 +118,7 @@ But there is also a risk that their views will come into conflict with Buffett�
 One of the challenges faced by the Buffett kids is that their decisions for the Buffett charitable trust will need to be unanimous. Buffett wrote in his letter this past week that some wealthy friends told him that his stipulation for unanimity among the three children wouldn’t be workable. A concern is that such a rule could even paralyze the organization. Buffett, though, said that the rule would give them an easy way to fend off “earnest requests from very sincere friends” and from becoming “targets of opportunity” by allowing an individual child to say that isn’t something my siblings would approve. 
 
 
-Still, there’s a question of how the money will be donated. In an interview with The Wall Street Journal in June, Susan Buffett said she and her siblings hadn’t discussed the topic. “We have not talked about what we will do because it seems a little premature,” she said. “I can imagine it will probably be some continuation of what we’ve been doing.” The three children didn’t respond to interview requests from
-*Barron’s*
-.
+Still, there’s a question of how the money will be donated. In an interview with The Wall Street Journal in June, Susan Buffett said she and her siblings hadn’t discussed the topic. “We have not talked about what we will do because it seems a little premature,” she said. “I can imagine it will probably be some continuation of what we’ve been doing.” The three children didn’t respond to interview requests from *Barron’s* .
 
 
 Howard Buffett’s passion, Ukraine, could absorb billions in donations, as the country could be in a position to rebuild after a potential end to the war with Russia in several years. But a limited amount of money can flow into Kingston, Peter Buffett’s focus, given a population of less than 25,000. It’s estimated that he already has plowed about \$250 million into the Kingston area.
@@ -152,8 +142,7 @@ Still, Buffett expressed hope that “Susie, Howie, and Peter themselves will di
 And for Berkshire shareholders.
 
 
-Write to Andrew Bary at
-[andrew.bary@barrons.com](mailto:andrew.bary@barrons.com)
+Write to Andrew Bary at [andrew.bary@barrons.com](mailto:andrew.bary@barrons.com)
 
 
 

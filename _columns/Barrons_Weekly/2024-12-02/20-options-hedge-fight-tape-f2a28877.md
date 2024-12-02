@@ -37,30 +37,18 @@ Traders at the New York Stock Exchange.
 The trend is your friend. Momentum, a style of investing and trading that emphasizes trend following, has been the driving force behind a string of record highs. But all investment themes eventually run their course. While it’s nearly impossible to predict when that might occur, it behooves investors to protect themselves.
 
 
-Options,
-[particularly short-dated calls](https://www.barrons.com/articles/options-craze-past-manias-stock-trouble-bb109fb5?mod=article_inline)
-, have become a preferred tool for participating in the rally. Ever-increasing numbers of traders have become understandably enamored with options’ potential for leveraged returns from limited cash outlays. Yet it is worth remembering that listed derivatives markets originally developed as a tool for risk transfer and hedging, not just speculation. Both have taken a back seat during the current market environment.
+Options, [particularly short-dated calls](https://www.barrons.com/articles/options-craze-past-manias-stock-trouble-bb109fb5?mod=article_inline) , have become a preferred tool for participating in the rally. Ever-increasing numbers of traders have become understandably enamored with options’ potential for leveraged returns from limited cash outlays. Yet it is worth remembering that listed derivatives markets originally developed as a tool for risk transfer and hedging, not just speculation. Both have taken a back seat during the current market environment.
 
 
- Hedging is a form of insurance. One can hedge against catastrophes,
-[using options like flood insurance](https://www.barrons.com/articles/how-to-buy-and-sell-options-without-making-a-fool-of-yourself-51600336811?mod=article_inline)
-, or one can hedge against minor inconveniences, like carrying an umbrella. When we’ve barely seen a cloud, let alone a deluge, there is little demand for protection against rain or water damage. But that also means that protection is relatively inexpensive.
+ Hedging is a form of insurance. One can hedge against catastrophes, [using options like flood insurance](https://www.barrons.com/articles/how-to-buy-and-sell-options-without-making-a-fool-of-yourself-51600336811?mod=article_inline) , or one can hedge against minor inconveniences, like carrying an umbrella. When we’ve barely seen a cloud, let alone a deluge, there is little demand for protection against rain or water damage. But that also means that protection is relatively inexpensive.
 
 
-Markets operate on a continuum between fear and greed. Metrics that measure sentiment, such as the
-
-[Cboe Volatility Index](https://www.barrons.com/market-data/indexes/vix?mod=article_chiclet),
-or VIX, imply that investors are generally sanguine. At the same time, a wide range of valuation metrics for the
-
-[S&P 500 index](https://www.barrons.com/market-data/indexes/spx?mod=article_chiclet),
-such as forward price/earnings, price-to-book, and price-to-sales ratios, are
-[at or near long-term or all-time highs](https://www.barrons.com/articles/sp-500-melt-up-value-e20d7f5f?mod=article_inline)
-. That implies investors are displaying more avarice than concern. If you respect the notion that one should be fearful when others are greedy, consider opportunities to protect your assets and use options as insurance.
+Markets operate on a continuum between fear and greed. Metrics that measure sentiment, such as the 
+[Cboe Volatility Index](https://www.barrons.com/market-data/indexes/vix?mod=article_chiclet), or VIX, imply that investors are generally sanguine. At the same time, a wide range of valuation metrics for the 
+[S&P 500 index](https://www.barrons.com/market-data/indexes/spx?mod=article_chiclet), such as forward price/earnings, price-to-book, and price-to-sales ratios, are [at or near long-term or all-time highs](https://www.barrons.com/articles/sp-500-melt-up-value-e20d7f5f?mod=article_inline) . That implies investors are displaying more avarice than concern. If you respect the notion that one should be fearful when others are greedy, consider opportunities to protect your assets and use options as insurance.
 
 
-A key problem is that options require traders to make precise decisions about time frames—and the shorter the time to expiration, the more precision is required. Those who failed to time a hedge properly find that their wasted cash outlay is just a small piece of the loss—the more significant loss comes in the item whose protection expired too quickly. That is why investors should consider longer-dated options for hedging purposes. Like many options professionals, I typically loathe paying
-[an excess time premium](https://www.barrons.com/articles/options-trading-booming-5-rules-e64cb244?mod=article_inline)
-. This is the exception.
+A key problem is that options require traders to make precise decisions about time frames—and the shorter the time to expiration, the more precision is required. Those who failed to time a hedge properly find that their wasted cash outlay is just a small piece of the loss—the more significant loss comes in the item whose protection expired too quickly. That is why investors should consider longer-dated options for hedging purposes. Like many options professionals, I typically loathe paying [an excess time premium](https://www.barrons.com/articles/options-trading-booming-5-rules-e64cb244?mod=article_inline) . This is the exception.
 
 
 There is no one-size-fits-all strategy that works equally well for all investors—everyone’s risk tolerance is different—but here is one way to consider what might work best for you. Ask yourself honestly how much of a portfolio drawdown you are willing to endure. It might be 5% for some, 20% for others. Think of that as your deductible. 
@@ -81,8 +69,7 @@ Continually buying dips and chasing rallies has been working well for many, and 
 
 
 
-**Email:** 
-[editors@barrons.com](mailto:editors@barrons.com)
+**Email:**  [editors@barrons.com](mailto:editors@barrons.com)
 
 
 

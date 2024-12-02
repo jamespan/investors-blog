@@ -34,30 +34,10 @@ description: >-
 It’s looking like a jolly holiday season for America’s retailers, based on company guidance and economic forecasts. That’s because many U.S. consumers are in good financial health on the eve of the greatest shopping marathon of the year.
 
 
-At least 10 retailers recently raised their sales or earnings guidance for the current fiscal year to reflect continued spending, including
-[Walmart](https://www.barrons.com/market-data/stocks/WMT)
-,
-[Gap](https://www.barrons.com/market-data/stocks/GAP)
-,
-[TJX](https://www.barrons.com/market-data/stocks/TJX)
-,
-[Ralph Lauren](https://www.barrons.com/market-data/stocks/RL)
-,
-[BJ’s Wholesale Club Holdings](https://www.barrons.com/market-data/stocks/BJ)
-,
-[Home Depot](https://www.barrons.com/market-data/stocks/HD)
-,
-and
-[e.l.f. Beauty](https://www.barrons.com/market-data/stocks/ELF)
-.
+At least 10 retailers recently raised their sales or earnings guidance for the current fiscal year to reflect continued spending, including [Walmart](https://www.barrons.com/market-data/stocks/wmt?mod=article_chiclet) , [Gap](https://www.barrons.com/market-data/stocks/gap?mod=article_chiclet) , [TJX](https://www.barrons.com/market-data/stocks/tjx?mod=article_chiclet) , [Ralph Lauren](https://www.barrons.com/market-data/stocks/rl?mod=article_chiclet) , [BJ’s Wholesale Club Holdings](https://www.barrons.com/market-data/stocks/bj) , [Home Depot](https://www.barrons.com/market-data/stocks/hd?mod=article_chiclet) , and [e.l.f. Beauty](https://www.barrons.com/market-data/stocks/elf?mod=article_chiclet) . 
 
 
-
- “We feel really confident, as you can see by our guidance, in terms of what we expect both this holiday season and beyond,” said
-[Tarang Amin](https://www.barrons.com/articles/elf-beauty-tarang-amin-top-ceo-stock-price-cff9a5ee?mod=article_inline&mod=article_inline)
-, CEO of e.l.f., on a call with
-*Barron’s*
-after the company reported a 40% jump in September-quarter sales.
+ “We feel really confident, as you can see by our guidance, in terms of what we expect both this holiday season and beyond,” said [Tarang Amin](https://www.barrons.com/articles/elf-beauty-tarang-amin-top-ceo-stock-price-cff9a5ee?mod=article_inline&mod=article_inline) , CEO of e.l.f., on a call with *Barron’s* after the company reported a 40% jump in September-quarter sales.
 
 
 The National Retail Federation, an industry trade group, predicted earlier this year that sales in November and December would rise by 2.5% to 3.5% year over year, below both the five-year average of 6.7% and last year’s gain of 3.9%. That forecast now seems too conservative.
@@ -75,11 +55,7 @@ But real wages, adjusted for inflation, are on the rise, boosting consumers’ p
 Improved Sentiment
 ------------------
 
- One thing is clear: Americans are finally starting to feel better about the economy. The Conference Board’s
-[consumer confidence index](https://www.barrons.com/livecoverage/stock-market-today-102924/card/consumer-confidence-jumps-in-october-bQQ3Qer1c7aF1q8v9Qa6?mod=article_inline)
-recently notched its strongest monthly gain since March 2021, while the University of Michigan’s latest monthly Survey of Consumers, released on Friday,
-[reached its highest level](https://www.barrons.com/livecoverage/stock-market-today-110824/card/consumer-sentiment-climbs-to-highest-reading-in-half-a-year-TORvZB3mx18M3psVpkEO?mod=article_inline)
-in six months.
+ One thing is clear: Americans are finally starting to feel better about the economy. The Conference Board’s [consumer confidence index](https://www.barrons.com/livecoverage/stock-market-today-102924/card/consumer-confidence-jumps-in-october-bQQ3Qer1c7aF1q8v9Qa6?mod=article_inline) recently notched its strongest monthly gain since March 2021, while the University of Michigan’s latest monthly Survey of Consumers, released on Friday, [reached its highest level](https://www.barrons.com/livecoverage/stock-market-today-110824/card/consumer-sentiment-climbs-to-highest-reading-in-half-a-year-TORvZB3mx18M3psVpkEO?mod=article_inline) in six months.
 
 
 Positive sentiment typically correlates with a propensity to spend, although that wasn’t the case in the past two years. Consumers upped their spending during the holiday season even though pessimism about inflation had dragged sentiment readings down to their lowest levels in decades.
@@ -99,15 +75,11 @@ Wealth increased by 37% from 2019 through 2022, according to the Federal Reserve
  
 
 
-[Visa](https://www.barrons.com/market-data/stocks/V)
+[Visa](https://www.barrons.com/market-data/stocks/v?mod=article_chiclet)
 ’s
 
  chief economist. Strong stock and housing markets had a lot to do with the increase, but income gains also contributed, and continue to do so.
-In this year’s third
-[quarter](https://www.bea.gov/news/2024/gross-domestic-product-third-quarter-2024-advance-estimate?mod=article_inline)
-, real disposable personal income rose by 1.6% from the prior year, while the savings rate was 4.8%. More important, the Bureau of Economic Analysis recently
-[revised](https://www.bea.gov/news/2024/gross-domestic-product-third-estimate-corporate-profits-revised-estimate-and-gdp-0?mod=article_inline)
-higher first- and second-quarter data, suggesting that consumers are on more solid footing than economists expected at the start of the year. Real DPI for the first quarter was revised upward by 4.3 percentage points, or about \$225 billion, to show a gain of 5.6% year to year.
+In this year’s third [quarter](https://www.bea.gov/news/2024/gross-domestic-product-third-quarter-2024-advance-estimate?mod=article_inline) , real disposable personal income rose by 1.6% from the prior year, while the savings rate was 4.8%. More important, the Bureau of Economic Analysis recently [revised](https://www.bea.gov/news/2024/gross-domestic-product-third-estimate-corporate-profits-revised-estimate-and-gdp-0?mod=article_inline) higher first- and second-quarter data, suggesting that consumers are on more solid footing than economists expected at the start of the year. Real DPI for the first quarter was revised upward by 4.3 percentage points, or about \$225 billion, to show a gain of 5.6% year to year.
 
 
 These revisions helped prompt some economists to lift their holiday forecasts. Best tweaked Visa’s holiday outlook in October—to an estimated increase of 4% from a prior 3.8%.
@@ -125,9 +97,7 @@ Inflation and interest rates are taking a toll on Victoria Harris’ holiday pla
 “It’s hard going into the season knowing that we can’t afford what we would like for Christmas,” Harris said.
 
 
-Rising household debt is also a concern. It swelled to
-[\$17.9 trillion in the third quarter,](https://www.barrons.com/articles/loan-delinquencies-rise-incomes-b98fac90?mod=article_inline)
-according to the Federal Reserve Bank of New York. Delinquencies on debt payments have ticked up, particularly among lower-income and younger consumers, and the share of loans in some stage of delinquency edged up in the third quarter to 3.5% from 3.2% in the second.
+Rising household debt is also a concern. It swelled to [\$17.9 trillion in the third quarter,](https://www.barrons.com/articles/loan-delinquencies-rise-incomes-b98fac90?mod=article_inline) according to the Federal Reserve Bank of New York. Delinquencies on debt payments have ticked up, particularly among lower-income and younger consumers, and the share of loans in some stage of delinquency edged up in the third quarter to 3.5% from 3.2% in the second.
 
 
 
@@ -165,32 +135,13 @@ Holiday Stocks
 “For yet another year, we would call out the strong competitive positioning of the off-price channel, the membership club model, and Amazon, which are all still likely in the middle innings of a decadeslong runway for expansion,” wrote Sharon Zackfia, an analyst at William Blair.
 
 
-Zackfia’s team polled 585 people about their shopping preferences. Roughly a third ranked Walmart as their top retailer for gift-buying, followed by
-[Amazon.com](https://www.barrons.com/market-data/stocks/AMZN)
-at 25% and
-[Costco Wholesale](https://www.barrons.com/market-data/stocks/COST) 
-at 21%. Off-price companies, such as TJX,
-[Ross Stores](https://www.barrons.com/market-data/stocks/ROST)
-,
-and
-[Burlington Stores](https://www.barrons.com/market-data/stocks/BURL)
-,
-were also popular.
+Zackfia’s team polled 585 people about their shopping preferences. Roughly a third ranked Walmart as their top retailer for gift-buying, followed by [Amazon.com](https://www.barrons.com/market-data/stocks/amzn?mod=article_chiclet) at 25% and [Costco Wholesale](https://www.barrons.com/market-data/stocks/cost?mod=article_chiclet)  at 21%. Off-price companies, such as TJX, [Ross Stores](https://www.barrons.com/market-data/stocks/rost?mod=article_chiclet) , and [Burlington Stores](https://www.barrons.com/market-data/stocks/burl?mod=article_chiclet) , were also popular.
 
 
-The problem for investors is that the shares of these companies aren’t cheap. All trade for more than 20 times next year’s earnings, well above the average of about 14 times for the
-[SPDR S&P Retail](https://www.barrons.com/market-data/stocks/XRT)
-exchange-traded fund. Bulls say the premium is worth it because all of these companies have been doing well.
+The problem for investors is that the shares of these companies aren’t cheap. All trade for more than 20 times next year’s earnings, well above the average of about 14 times for the [SPDR S&P Retail](https://www.barrons.com/market-data/stocks/xrt) exchange-traded fund. Bulls say the premium is worth it because all of these companies have been doing well.
 
 
-Investors looking for a better deal may want to scout the small- and mid-cap aisles, where valuations tend to be lower. Dick’s Sporting Goods, Ralph Lauren,
-[Tapestry](https://www.barrons.com/market-data/stocks/TPR)
-,
-[Nordstrom](https://www.barrons.com/market-data/stocks/JWN)
-,
-and
-[Abercrombie & Fitch](https://www.barrons.com/market-data/stocks/ANF)
-are among the stocks favored by Dana Telsey, CEO of Telsey Advisory Group. All five companies have delivered steady revenue and earnings growth in recent quarters, and could continue to do so in 2025. And, all five trade for under 20 times earnings.
+Investors looking for a better deal may want to scout the small- and mid-cap aisles, where valuations tend to be lower. Dick’s Sporting Goods, Ralph Lauren, [Tapestry](https://www.barrons.com/market-data/stocks/tpr?mod=article_chiclet) , [Nordstrom](https://www.barrons.com/market-data/stocks/jwn?mod=article_chiclet) , and [Abercrombie & Fitch](https://www.barrons.com/market-data/stocks/anf?mod=article_chiclet) are among the stocks favored by Dana Telsey, CEO of Telsey Advisory Group. All five companies have delivered steady revenue and earnings growth in recent quarters, and could continue to do so in 2025. And, all five trade for under 20 times earnings.
 
 
 “Retailers who offer unique or differentiated product with a good value proposition can see better trends and better traffic, particularly as consumers remain discerning with their spending,” Telsey wrote.
@@ -199,8 +150,7 @@ are among the stocks favored by Dana Telsey, CEO of Telsey Advisory Group. All f
 Happy holidays to them, and to all.
 
 
-Write to Sabrina Escobar at
-[sabrina.escobar@barrons.com](mailto:sabrina.escobar@barrons.com)
+Write to Sabrina Escobar at [sabrina.escobar@barrons.com](mailto:sabrina.escobar@barrons.com)
 
 
 

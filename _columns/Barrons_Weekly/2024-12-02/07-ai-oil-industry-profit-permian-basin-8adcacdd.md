@@ -37,27 +37,13 @@ Jody Grove, an operations supervisor for Chevron, tours a drilling site in New M
 Over the past 15 years, oil drillers turned a stretch of desert in Texas and New Mexico called the Permian Basin into the most important oil basin in the world by re-engineering pipes and applying pressure and chemistry. Now they’re tapping a new technology to keep the crude flowing for decades more: artificial intelligence.
 
 
- AI can feel like an unnecessary gadget in some industries—a chatbot to improve emails or spiff up spreadsheets. Not in energy. One expert thinks it can help companies extract so much more oil that it’s equivalent to adding the output of an entire Middle Eastern nation. “It’s like getting a Kuwait on-line,” said Rakesh Jaggi, who leads the digital business at
-[SLB](https://www.barrons.com/market-data/stocks/SLB)
-,
-the world’s largest oil-services company.
+ AI can feel like an unnecessary gadget in some industries—a chatbot to improve emails or spiff up spreadsheets. Not in energy. One expert thinks it can help companies extract so much more oil that it’s equivalent to adding the output of an entire Middle Eastern nation. “It’s like getting a Kuwait on-line,” said Rakesh Jaggi, who leads the digital business at [SLB](https://www.barrons.com/market-data/stocks/SLB) , the world’s largest oil-services company.
 
 
 Oil companies are on a relentless quest to produce more oil at lower costs, and AI is boosting that effort. Their success has already been remarkable. Over the past decade, the U.S. pumped out 60% more oil a day with 40% fewer workers. The industry’s annual productivity gains in that stretch outpaced even those of online retailers, and are roughly seven times as large as those of the average U.S. business. By extracting more oil while reducing capital expenses and manpower, they’re lowering the costs at which they can drill profitably. In the Permian, the “break-even” price for oil producers has fallen to \$40 a barrel from over \$90 in 2012, according to S&P Global Commodity Insights. AI should take that number even lower, boosting oil company margins and cash flow.
 
 
-For the top Permian producers—
-[Exxon Mobil](https://www.barrons.com/market-data/stocks/XOM)
-,
-[Chevron](https://www.barrons.com/market-data/stocks/CVX)
-,
-[Diamondback Energy](https://www.barrons.com/market-data/stocks/FANG)
-,
-[EOG](https://www.barrons.com/market-data/stocks/EOG)
-,
-and
-[Occidental Petroleum](https://www.barrons.com/market-data/stocks/OXY)
-—all of the extra cash they’re generating through efficiency gains should keep their dividends secure and growing, even during oil price slumps. Some of those stocks now yield over 4%.
+For the top Permian producers— [Exxon Mobil](https://www.barrons.com/market-data/stocks/XOM) , [Chevron](https://www.barrons.com/market-data/stocks/CVX) , [Diamondback Energy](https://www.barrons.com/market-data/stocks/FANG) , [EOG](https://www.barrons.com/market-data/stocks/EOG) , and [Occidental Petroleum](https://www.barrons.com/market-data/stocks/OXY) —all of the extra cash they’re generating through efficiency gains should keep their dividends secure and growing, even during oil price slumps. Some of those stocks now yield over 4%.
 
 
 AI and oil might seem like a strange pairing. The sterile data centers that power AI programs have little in common with the grimy pipes and valves that pump crude. But oil drilling is a digital enterprise as much as a mechanical one today. Fields are seeded with sensors gathering reams of information about pressure, heat, radiation, and rock lithology. The action happening at the wells, tanks, and compressors is displayed on a screen hundreds of miles away—and it’s often being controlled from there, too.
@@ -91,10 +77,7 @@ The drilling process is also less explosive. The same companies pumping dirty, c
 In the past, workers had to race to the site of problems to turn off equipment. Today, software does some of those jobs. A program designed by Chevron automatically detects methane leaks and shuts them down without human intervention. It has cut methane-flaring, a potent and costly source of greenhouse-gas emissions, by 60%, the company says. 
 
 
-Tech advances ramped up in the past year or so. Chevron has been experimenting with artificial intelligence for years, but the company sped up its efforts last June as it became clear that the use cases were growing. “We began to see the future is essentially now,” said Steve Bowman, who leads a team of about 20 people focused on employing AI, particularly in the Permian region. Chevron built customized AI software using tools from
-[Microsoft](https://www.barrons.com/market-data/stocks/MSFT)
-,
-including its Azure cloud platform.
+Tech advances ramped up in the past year or so. Chevron has been experimenting with artificial intelligence for years, but the company sped up its efforts last June as it became clear that the use cases were growing. “We began to see the future is essentially now,” said Steve Bowman, who leads a team of about 20 people focused on employing AI, particularly in the Permian region. Chevron built customized AI software using tools from [Microsoft](https://www.barrons.com/market-data/stocks/MSFT) , including its Azure cloud platform.
 
 
 Exxon has similarly begun to embrace AI after some initial caution. “We don’t like jumping on bandwagons,” said Exxon Mobil CEO Darren Woods on an earnings call last month. But he’s increasingly convinced that “AI is part of the equation” for Exxon’s future growth.
@@ -147,10 +130,7 @@ Some of the most impressive gains are happening in offshore oil drilling. To fin
 “We’ve gone from 18 months to 18 days,” he said. “From the time you shoot a seismic until the time you can plan a well in a place like the Gulf of Mexico is now measured in days.”
 
 
-Seismic imaging is almost like taking an ultrasound of the rock beneath the waves. Analyzing it is akin to a radiologist seeking clues in an ultrasound or X-ray—a process that is itself being transformed by AI. But exploring underwater is much more laborious than analyzing the human body. Oil companies sometimes take seismic images of hundreds of square miles of rock, accumulating terabytes worth of data to analyze. To harness all of that information, they’re working with some unusual partners. One leader in the field is Houston-based Bluware, whose software uses concepts from the videogame industry, and is backed by the venture capital arm of oil major
-[Shell](https://www.barrons.com/market-data/stocks/SHEL)
-.
-
+Seismic imaging is almost like taking an ultrasound of the rock beneath the waves. Analyzing it is akin to a radiologist seeking clues in an ultrasound or X-ray—a process that is itself being transformed by AI. But exploring underwater is much more laborious than analyzing the human body. Oil companies sometimes take seismic images of hundreds of square miles of rock, accumulating terabytes worth of data to analyze. To harness all of that information, they’re working with some unusual partners. One leader in the field is Houston-based Bluware, whose software uses concepts from the videogame industry, and is backed by the venture capital arm of oil major [Shell](https://www.barrons.com/market-data/stocks/SHEL) . 
 
 
 Bluware says it saved an oil company \$170 million when its software identified a geologic fault at an offshore location where a company had planned to drill a well. AI also recently led to a major deepwater oil discovery, said Judson Jacobs, who leads a group that researches and consults with producers on oil-production technology at S&P Global Commodity Insights. They weren’t willing to identify the oil companies involved, for competitive reasons.
@@ -159,8 +139,7 @@ Bluware says it saved an oil company \$170 million when its software identified 
 Eventually, that mysterious find in the ocean’s depths could take a place in the history of oil. Rusty horse-drawn tank wagons at the Drake Well Museum in Titusville, Pa., mark the start of the oil age in 1859. The new age might be represented by an object much more mundane, but infinitely more powerful—say, a hard drive or a seismic image. Just don’t expect anyone to talk about it for a while. Even as AI reveals secrets hidden underground, the oil companies using it aren’t quite ready to reveal theirs.
 
 
-Write to Avi Salzman at
-[avi.salzman@barrons.com](mailto:avi.salzman@barrons.com)
+Write to Avi Salzman at [avi.salzman@barrons.com](mailto:avi.salzman@barrons.com)
 
 
 

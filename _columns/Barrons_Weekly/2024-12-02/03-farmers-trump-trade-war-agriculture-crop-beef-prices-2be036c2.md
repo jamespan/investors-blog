@@ -42,17 +42,13 @@ American agricultural abundance has fed the world for decades, but in the past f
 “The split between the G-7 countries and the BRICs likely will culminate in differing trade patterns that work against the U.S. farmer,” Basse says, referring to the acronym for Brazil, Russia, India, and China. “There is more ag policy (and geopolitical) uncertainty today than since the early 1970s,” he says.
 
 
- Basse, founder of the agricultural risk-management and advisory firm AgResource, grew up on a Wisconsin dairy and grain farm and started in the agriculture commodities business in 1979. He spoke recently to
-*Barron’s*
-about the impact of geopolitics on U.S. farmers, food inflation, and where he sees the future of agriculture. An edited version of the conversation follows.
+ Basse, founder of the agricultural risk-management and advisory firm AgResource, grew up on a Wisconsin dairy and grain farm and started in the agriculture commodities business in 1979. He spoke recently to *Barron’s* about the impact of geopolitics on U.S. farmers, food inflation, and where he sees the future of agriculture. An edited version of the conversation follows.
 
 
-***Barron’s***
-**: How have agricultural trade trends changed over the years?**
+***Barron’s*** **: How have agricultural trade trends changed over the years?**
 
 
-**Dan Basse:**
-When I first got into this business in 1979, the U.S. satisfied 62% of agricultural trade. Now we’re down to about 11%. Demand is still rising globally as the population expands, but we’ve seen this behemoth named Brazil come on to the scene. Brazil is now the world’s largest soybean and corn exporter—crowns we thought the American farmer would hold for many, many years.
+**Dan Basse:** When I first got into this business in 1979, the U.S. satisfied 62% of agricultural trade. Now we’re down to about 11%. Demand is still rising globally as the population expands, but we’ve seen this behemoth named Brazil come on to the scene. Brazil is now the world’s largest soybean and corn exporter—crowns we thought the American farmer would hold for many, many years.
 
 
 Ag trade has really suffered in the past few years. The American agricultural trade deficit is at \$42 billion, a record. China was traditionally our top ag importer for years, but this year it is Mexico, then Canada. China ends in third place.
@@ -121,9 +117,7 @@ I don’t think so. In the 1980s, farmers were overleveraged. That caused distre
 They will look at their cost structure around seed, fertilizer, or equipment. My guess is they’ll cut back on fertilizer first, since some of that builds up in the soil. The only thing corn farmers can’t do without every year in a big way is nitrogen, but they can cut back on phosphates and potassium. Farmers may say they won’t fertilize as heavily this year. You can get away with not fertilizing for one year. 
 
 
-During the boom times, everyone had their hands in the back pocket of the farmer, and they have been slow to pull their hands out. But suppliers are going to have to budge. Already you’re seeing pressure on the equipment dealers. Farmers can say to their
-[Deere](https://www.barrons.com/market-data/stocks/DE)
-or Case [sales reps], I have been changing equipment every three years, I’m going to lengthen that to five years, or I’ll stop lease payments. If the farmer gets his way, he’ll then go to the seed dealers and say, I know you spend a lot on technology, but you have to help me out here. There could be some adjustment with landlords on land rents.
+During the boom times, everyone had their hands in the back pocket of the farmer, and they have been slow to pull their hands out. But suppliers are going to have to budge. Already you’re seeing pressure on the equipment dealers. Farmers can say to their [Deere](https://www.barrons.com/market-data/stocks/DE) or Case [sales reps], I have been changing equipment every three years, I’m going to lengthen that to five years, or I’ll stop lease payments. If the farmer gets his way, he’ll then go to the seed dealers and say, I know you spend a lot on technology, but you have to help me out here. There could be some adjustment with landlords on land rents.
 
 
 **It’s not all gloom and doom for U.S. agriculture. Cattle producers are reaping record beef prices.**
@@ -165,8 +159,7 @@ We need to know the holistic picture and how the microbes and bacteria and every
 **Thanks, Dan.**
 
 
-Write to
-[editors@barrons.com](mailto:editors@barrons.com)
+Write to [editors@barrons.com](mailto:editors@barrons.com)
 
 
 

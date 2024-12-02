@@ -34,9 +34,7 @@ CNH Industrial’s New Holland CR10.90 Revelation Harvester.
 
 
 
-Greenlight Capital’s
-[David Einhor](https://www.barrons.com/articles/david-einhorn-greenlight-re-hedge-fund-a3768893?mod=article_inline)
-n likes to get paid while he waits for things to turn around. That’s a good idea for all investors.
+Greenlight Capital’s [David Einhor](https://www.barrons.com/articles/david-einhorn-greenlight-re-hedge-fund-a3768893?mod=article_inline) n likes to get paid while he waits for things to turn around. That’s a good idea for all investors.
 
 
 Einhorn recently told investors at November’s Delivering Alpha Conference that he had just finished buying a position in farm-equipment maker CNH Industrial. 
@@ -48,9 +46,7 @@ Einhorn recently told investors at November’s Delivering Alpha Conference that
 Things have been undeniably tougher down on the farm lately. Wall Street expects CNH to earn about \$1 a share in 2025, according to FactSet, down from the \$1.12 expected this year and \$1.70 in 2023.
 
 
-Blame falling agricultural commodity prices. U.S. net farm income hit a record \$182 billion in 2022 as benchmark corn prices averaged close to \$6 a bushel. They have averaged closer to \$4 in 2024, and the U.S. Department of Agriculture projects
-[net farm income of about \$140 billion](https://www.ers.usda.gov/topics/farm-economy/farm-sector-income-finances/farm-sector-income-forecast/#:~:text=Net farm income, a broad,4.4 percent) to \$140.0 billion)
-. Lower crop prices mean less income for farmers to spend on tractors and harvesting combines.
+Blame falling agricultural commodity prices. U.S. net farm income hit a record \$182 billion in 2022 as benchmark corn prices averaged close to \$6 a bushel. They have averaged closer to \$4 in 2024, and the U.S. Department of Agriculture projects [net farm income of about \$140 billion](https://www.ers.usda.gov/topics/farm-economy/farm-sector-income-finances/farm-sector-income-forecast/#:~:text=Net farm income, a broad,4.4 percent) to \$140.0 billion) . Lower crop prices mean less income for farmers to spend on tractors and harvesting combines.
 
 
 Farming, however, is cyclical, and pricing is expected to turn around—eventually. In the next upcycle, CNH earnings could hit \$2 a share, Einhorn said, setting up the stock to double. While he waits for that to happen, he gets a 4.1% dividend yield and large share buybacks. CNH paid out \$600 million in dividends in the first nine months of 2024. It also bought back about \$689 million worth of stock, with average shares outstanding falling about 6% over the past 12 months. 
@@ -62,14 +58,7 @@ The stock also looks cheap, which means that Einhorn is paying a low multiple fo
 It’s hard to argue with that setup. What’s more, CNH’s dividend looks secure despite the cyclical downturn. Dividends consumed about 80% of free cash flow generated over the past 12 months, and Wall Street expects free cash flow to improve in 2025. 
 
 
-Einhorn’s logic can be applied to other cyclical stocks. Shares of
-[Ford Motor](https://www.barrons.com/market-data/stocks/F)
-,
-[Whirlpool](https://www.barrons.com/market-data/stocks/WHR)
-,
-and commodity chemical maker
-[LyondellBasell](https://www.barrons.com/market-data/stocks/LYB)
-
+Einhorn’s logic can be applied to other cyclical stocks. Shares of [Ford Motor](https://www.barrons.com/market-data/stocks/F) , [Whirlpool](https://www.barrons.com/market-data/stocks/WHR) , and commodity chemical maker [LyondellBasell](https://www.barrons.com/market-data/stocks/LYB) 
 
 
 
@@ -83,9 +72,7 @@ Whirlpool has more debt, relatively speaking, than the other two or CNH. That’
 If everything works out, investors should get stock price appreciation and a healthy dividend. If things don’t turn around as fast as hoped, there should still be a healthy dividend. 
 
 
-**Write to** 
-Al Root at
-[allen.root@dowjones.com](mailto:allen.root@dowjones.com)
+**Write to**  Al Root at [allen.root@dowjones.com](mailto:allen.root@dowjones.com)
 
 
 

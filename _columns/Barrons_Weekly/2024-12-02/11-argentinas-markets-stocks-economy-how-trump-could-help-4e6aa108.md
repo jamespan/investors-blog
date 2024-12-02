@@ -39,17 +39,13 @@ Argentine President Javier Milei and U.S. President-elect Donald Trump in Novemb
 Javier Milei has done the hard part. 
 
 
-Now comes the even harder part. Investors are hitting pause on an epic rally in
-[Argentine bonds](https://www.barrons.com/articles/argentinas-bonds-climb-on-presidents-reforms-3aaeb24f?mod=Searchresults&mod=article_inline)
-while the fiery libertarian president turns to his next challenges.
+Now comes the even harder part. Investors are hitting pause on an epic rally in [Argentine bonds](https://www.barrons.com/articles/argentinas-bonds-climb-on-presidents-reforms-3aaeb24f?mod=Searchresults&mod=article_inline) while the fiery libertarian president turns to his next challenges.
 
 
 “It looks like the bonds are fairly valued now,” says Mauro Roca, who covers Latin American sovereigns at fixed-income investor TCW. 
 
 
- Since taking office last December, Milei has applied his
-[metaphorical chain saw to Argentina’s bloated budget](https://www.barrons.com/articles/argentina-is-taking-a-chain-saw-to-its-economy-investors-love-it-448487ac?mod=Searchresults&mod=article_inline)
-, shredding pensions, subsidies, and regional transfers enough to shrink inflation from 25% monthly to less than 3%. He has replenished the treasury sufficiently to service \$9 billion in loan payments next year, markets are betting. And he has done it all while maintaining broad popular support.
+ Since taking office last December, Milei has applied his [metaphorical chain saw to Argentina’s bloated budget](https://www.barrons.com/articles/argentina-is-taking-a-chain-saw-to-its-economy-investors-love-it-448487ac?mod=Searchresults&mod=article_inline) , shredding pensions, subsidies, and regional transfers enough to shrink inflation from 25% monthly to less than 3%. He has replenished the treasury sufficiently to service \$9 billion in loan payments next year, markets are betting. And he has done it all while maintaining broad popular support.
 
 
 “No one thought those kind of cuts in public spending were survivable,” says Benjamin Gedan, director of the Latin America Program at the Wilson Center. 
@@ -58,10 +54,8 @@ while the fiery libertarian president turns to his next challenges.
 Markets are banking on Milei being further bolstered by warm relations with President-elect Donald Trump. Milei was the first foreign leader welcomed at Mar-a-Lago after the U.S. election, where Trump expressed confidence that his visitor would make Argentina great again. 
 
 
-All of that has propelled prices of Argentina’s Eurobonds from about 25 cents on the dollar when Milei was elected to 65 cents now. The
-
-[Global X MSCI Argentina](https://www.barrons.com/market-data/funds/argt?mod=article_chiclet)
-exchange-traded fund for equities has doubled.
+All of that has propelled prices of Argentina’s Eurobonds from about 25 cents on the dollar when Milei was elected to 65 cents now. The 
+[Global X MSCI Argentina](https://www.barrons.com/market-data/funds/argt?mod=article_chiclet) exchange-traded fund for equities has doubled.
 
 
 Milei’s second year in power will require more finesse and less brute force. His next macroeconomic hurdle is ditching currency controls, which depress Argentina’s mostly agricultural exports with an overvalued peso, and generally create a minefield for commerce and investment. “The overvalued currency is a trap the government has got itself into,” Roca says. 

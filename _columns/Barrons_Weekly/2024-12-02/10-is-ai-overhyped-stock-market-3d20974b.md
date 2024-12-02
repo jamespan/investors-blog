@@ -62,20 +62,13 @@ It has been almost two years since generative-AI applications went mainstream. W
 We might soon fall into a phase of excessive pessimism. It has happened before with AI. People will focus on the pitfalls of the technology—the hallucinations, the risk of deepfakes and misinformation—and lose faith in its potential. Interest in AI would then cool off, and investment flows into the technology might dry up. 
 
 
-That would be a pity but also a great investment opportunity for savvy long-term investors. We have seen that before, too. Over half of the internet-related companies publicly traded at the height of the dot-com bubble subsequently went bankrupt. Others, including
-[Amazon.com](https://www.barrons.com/market-data/stocks/AMZN)
-and
-[Apple](https://www.barrons.com/market-data/stocks/AAPL)
-,
-went on to command unprecedented valuations.
+That would be a pity but also a great investment opportunity for savvy long-term investors. We have seen that before, too. Over half of the internet-related companies publicly traded at the height of the dot-com bubble subsequently went bankrupt. Others, including [Amazon.com](https://www.barrons.com/market-data/stocks/AMZN) and [Apple](https://www.barrons.com/market-data/stocks/AAPL) , went on to command unprecedented valuations.
 
 
 When the hype recedes, we should take a harder look at three areas. First, which companies are already reaping tangible benefits from AI? At the moment, they are concentrated in areas such as enterprise-workflow solutions, customer services, media, and finance. Second, which industries are probably first in line to experience transformational advances? Here, finance and healthcare look like front-runners, together with information-technology, media-creation, and customer-service industries. Third, how quickly can this new wave of innovation fuel a broader acceleration in productivity growth across our economy? This will take longer, as companies invest in new applications and adapt their processes to reap the benefits of AI. 
 
 
-The greatest value is likely to arise where business leaders can harness AI’s capabilities to develop new solutions, open up new markets, or apply new strategies to their largest revenue pools. So far, the biggest winners of the AI revolution have been the companies that provide the picks and shovels to build this new technology: chip makers like
-[Nvidia](https://www.barrons.com/market-data/stocks/NVDA) 
-and cloud storage providers. That stands to reason. But the exciting challenge now is to identify companies that can place themselves ahead of the curve in experimenting and making smart and bold bets on AI. They will emerge as the winners in their respective sectors and be the most rewarding bets for investors.
+The greatest value is likely to arise where business leaders can harness AI’s capabilities to develop new solutions, open up new markets, or apply new strategies to their largest revenue pools. So far, the biggest winners of the AI revolution have been the companies that provide the picks and shovels to build this new technology: chip makers like [Nvidia](https://www.barrons.com/market-data/stocks/NVDA)  and cloud storage providers. That stands to reason. But the exciting challenge now is to identify companies that can place themselves ahead of the curve in experimenting and making smart and bold bets on AI. They will emerge as the winners in their respective sectors and be the most rewarding bets for investors.
 
 
 AI presents enormous opportunities to asset management and the financial industry. Through improved risk assessment it will boost the optimization of portfolio management strategies and enable smarter insurance pricing. It will yield strong efficiency gains across data-intensive processes from compliance to risk management and fraud detection to credit underwriting, enabling massive cost reductions. Most important, powerful analytics and the collaboration of AI and human agents will enable the financial industry to provide more efficient and personalized investment advice and services to our customers. We are investing to ensure that our clients and investors reap these benefits.

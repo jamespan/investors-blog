@@ -163,8 +163,7 @@ It’s feasible that Republicans decide to raise the corporate tax slightly, giv
 Although the estate-tax exemption is unlikely to fall back, it could happen as lawmakers make hard choices, Stamper says. “We’ve told our clients it’s not inconceivable, and they should leverage the current high exemption while they can.”
 
 
-Write to
-[editors@barrons.com](mailto:editors@barrons.com)
+Write to [editors@barrons.com](mailto:editors@barrons.com)
 
 
 

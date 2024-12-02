@@ -34,26 +34,13 @@ Vials of Wegovy at the Novo Nordisk production facilities in Hillerod, Denmark.
 
 
 
-Stocks of anti-obesity drugmakers
-[Eli Lilly](https://www.barrons.com/market-data/stocks/LLY)
-,
-[Novo Nordisk](https://www.barrons.com/market-data/stocks/NVO)
-,
-and
-[Amgen](https://www.barrons.com/market-data/stocks/AMGN)
-have gotten hit as the market frets over what a Robert F. Kennedy Jr.-run
-[Department of Health and Human Services](https://www.barrons.com/articles/trump-nominates-rfk-jr-hhs-moderna-novavax-28e39211?mod=article_inline)
-would mean for the group. The worries are overblown, and investors should use the selloff to scoop the stocks up on the cheap.
+Stocks of anti-obesity drugmakers [Eli Lilly](https://www.barrons.com/market-data/stocks/LLY) , [Novo Nordisk](https://www.barrons.com/market-data/stocks/NVO) , and [Amgen](https://www.barrons.com/market-data/stocks/AMGN) have gotten hit as the market frets over what a Robert F. Kennedy Jr.-run [Department of Health and Human Services](https://www.barrons.com/articles/trump-nominates-rfk-jr-hhs-moderna-novavax-28e39211?mod=article_inline) would mean for the group. The worries are overblown, and investors should use the selloff to scoop the stocks up on the cheap.
 
 
- It’s been a difficult second half of the year for Amgen, Lilly, and Novo Nordisk, which have tumbled since peaking during the summer. The selling started as run-of-the-mill profit-taking, as investors locked in gains from these names. It picked up steam after the Federal Reserve
-[cut interest rates](https://www.barrons.com/livecoverage/fed-november-meeting-interest-rate-decision-today?mod=article_inline)
-and the election approached. When President-elect Donald Trump appointed RFK Jr. to lead the agency, panic selling set in—and no wonder.
+ It’s been a difficult second half of the year for Amgen, Lilly, and Novo Nordisk, which have tumbled since peaking during the summer. The selling started as run-of-the-mill profit-taking, as investors locked in gains from these names. It picked up steam after the Federal Reserve [cut interest rates](https://www.barrons.com/livecoverage/fed-november-meeting-interest-rate-decision-today?mod=article_inline) and the election approached. When President-elect Donald Trump appointed RFK Jr. to lead the agency, panic selling set in—and no wonder.
 
 
-Kennedy isn’t a fan of Novo Nordisk’s weight-loss treatment Ozempic, which costs the government
-[too much money to insure](https://www.barrons.com/articles/wegovy-ozempic-obesity-drugs-healthcare-system-20307eea?mod=article_inline)
-. Investors are concerned that he may push for less insurance coverage of the drugs or even lower GLP-1 prices. Amgen stock has dropped 9% in November, while Lilly has fallen 17% and Novo Nordisk has declined 10%.
+Kennedy isn’t a fan of Novo Nordisk’s weight-loss treatment Ozempic, which costs the government [too much money to insure](https://www.barrons.com/articles/wegovy-ozempic-obesity-drugs-healthcare-system-20307eea?mod=article_inline) . Investors are concerned that he may push for less insurance coverage of the drugs or even lower GLP-1 prices. Amgen stock has dropped 9% in November, while Lilly has fallen 17% and Novo Nordisk has declined 10%.
 
 
 Don’t expect much to come of the fears. For starters, the agency, for all its responsibilities, doesn’t have unilateral power to change the landscape of drug coverage and pricing. It would take an act of Congress to allow Medicare to pay for anti-obesity drugs.
@@ -80,8 +67,7 @@ Never let a healthy selloff go to waste.  
 
 
 
-Write to Jacob Sonenshine at
-[jacob.sonenshine@barrons.com](mailto:jacob.sonenshine@barrons.com)
+Write to Jacob Sonenshine at [jacob.sonenshine@barrons.com](mailto:jacob.sonenshine@barrons.com)
 
 
 

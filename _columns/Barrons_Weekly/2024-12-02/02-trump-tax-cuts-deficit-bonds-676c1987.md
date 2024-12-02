@@ -40,9 +40,7 @@ That could change as investors learn more about what a second Trump administrati
  Expect “growth, inflation, the Fed cutting less, and upward pressure on bond yields,” advises Gene Goldman, chief investment officer at Cetera Financial Group. “The good news is that markets have priced a lot of this in already.”
 
 
-The benchmark
-[10-year Treasury](https://www.barrons.com/market-data/futures/ty00?mod=article_chiclet)
-yield jumped from 4.3% to 4.5% in the 10 days after the election, before slipping back to the 4.3% range. It has been rising steadily from a low of 3.6% in mid-September, when the Federal Reserve slashed short-term rates by 0.5%. “There is significant demand for Treasuries at this level, so I don’t see the 10-year Treasury yield going much higher,” says Goldman. “It is likely capped at 4.5% to 5%.”
+The benchmark [10-year Treasury](https://www.barrons.com/market-data/futures/ty00?mod=article_chiclet) yield jumped from 4.3% to 4.5% in the 10 days after the election, before slipping back to the 4.3% range. It has been rising steadily from a low of 3.6% in mid-September, when the Federal Reserve slashed short-term rates by 0.5%. “There is significant demand for Treasuries at this level, so I don’t see the 10-year Treasury yield going much higher,” says Goldman. “It is likely capped at 4.5% to 5%.”
 
 
 Tax-Cut Conundrum
@@ -66,9 +64,7 @@ Higher rates would increase the nation’s interest expense, which is estimated 
 Buckle Up
 ---------
 
- If the Trump administration tries to overtly force the Fed to lower interest rates, markets can be expected to revolt because the Fed is supposed to be independent and free from political pressure. Powell, whose term ends in May 2026, has already said he will stay at the job, and Trump’s advisors have openly discussed appointing
-[a “shadow Fed chair”](https://www.barrons.com/articles/trump-fed-chair-powell-fire-4b79079f?mod=article_inline)
-ahead of that. It’s too soon to tell how pitched this battle becomes.
+ If the Trump administration tries to overtly force the Fed to lower interest rates, markets can be expected to revolt because the Fed is supposed to be independent and free from political pressure. Powell, whose term ends in May 2026, has already said he will stay at the job, and Trump’s advisors have openly discussed appointing [a “shadow Fed chair”](https://www.barrons.com/articles/trump-fed-chair-powell-fire-4b79079f?mod=article_inline) ahead of that. It’s too soon to tell how pitched this battle becomes.
 
 
 Suffice it to say, investors will have to wait and see, but should expect a fair amount of market volatility, and in that context, bonds are a great place to be. Their traditional role is serving as ballast in a portfolio, insulating investors from the wider swings of the stock market. As worrisome as U.S. budget deficits are, Treasuries are still a haven when increasing government debt and authoritarian leadership are global phenomena.
@@ -86,10 +82,8 @@ Saccocia favors high-quality corporate debt. These bonds yield on average about 
 Private credit, which is generally available only to accredited investors, is a category that offers attractive yields and can insulate investors from some of the swings of public markets. These investments are floating rate, and the pickup in yield over bank loans is meaningful, says Saccocia. The Cliffwater Direct Lending Index returned more than 9% a year in the past five years.
 
 
-Collateralized loan obligations, or CLOs, are securitized bundles of loans that can be bought at a range of credit risk (riskier ones yield more). The triple-A-rated package of CLOs in the
-
-[Janus Henderson AAA CLO](https://www.barrons.com/market-data/funds/jaaa?mod=article_chiclet)
-exchange-traded fund currently yields 6.3%.
+Collateralized loan obligations, or CLOs, are securitized bundles of loans that can be bought at a range of credit risk (riskier ones yield more). The triple-A-rated package of CLOs in the 
+[Janus Henderson AAA CLO](https://www.barrons.com/market-data/funds/jaaa?mod=article_chiclet) exchange-traded fund currently yields 6.3%.
 
 
 A Nod to Munis
@@ -104,8 +98,7 @@ A Nod to Munis
 But if muni yields rise, that would be an opportunity, McAllister says. Municipal finances are strong, and state and local governments generally can’t run deficits. “With munis, investors can get 6% or more on a tax-adjusted basis, and that’s awfully attractive in today’s world.”
 
 
-Write to Amey Stone at
-[amey.stone@barrons.com](mailto:amey.stone@barrons.com)
+Write to Amey Stone at [amey.stone@barrons.com](mailto:amey.stone@barrons.com)
 
 
 

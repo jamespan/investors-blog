@@ -34,27 +34,17 @@ Investors are worried about the near-term future of everything from vaccines to 
 
 
 
-Donald Trump’s nomination of
-[Robert F. Kennedy Jr.](https://www.barrons.com/articles/rfk-jr-obesity-drugs-lilly-novo-stock-price-17ba32fa?mod=article_inline)
-and other healthcare skeptics has caused investors to flee the sector—which means it’s time to pay close attention to the stocks.
+Donald Trump’s nomination of [Robert F. Kennedy Jr.](https://www.barrons.com/articles/rfk-jr-obesity-drugs-lilly-novo-stock-price-17ba32fa?mod=article_inline) and other healthcare skeptics has caused investors to flee the sector—which means it’s time to pay close attention to the stocks.
 
 
-The reaction to Trump’s election has been generally celebratory, with the S&P 500 up nearly 5% in November alone. Not healthcare stocks—the
-
-[Health Care Select Sector SPDR](https://www.barrons.com/market-data/funds/xlv?mod=article_chiclet)
-exchange-traded fund (ticker: XLV) has fallen about 2% this month.
+The reaction to Trump’s election has been generally celebratory, with the S&P 500 up nearly 5% in November alone. Not healthcare stocks—the 
+[Health Care Select Sector SPDR](https://www.barrons.com/market-data/funds/xlv?mod=article_chiclet) exchange-traded fund (ticker: XLV) has fallen about 2% this month.
 
 
  Those moves accurately affect where investors have been putting their money. According to BofA Securities’ latest fund flow data report released on Tuesday, its clients were net buyers of equities the previous week for the third week in a row, with inflows accelerating to their highest level since September. However, healthcare ETFs were the only sector ETFs that BofA’s clients were avoiding. Among individual companies, healthcare stocks saw their first outflows in five weeks, one of only two sectors, along with real estate, to experience net selling.  
 
 
-It’s easy to understand why investors are so jittery: The incoming Trump administration could make plenty of waves with changes in policy and various potential appointees, including Dave Weldon to lead the Centers for Disease Control and Prevention and the aforementioned RFK Jr. as secretary of Health and Human Services,
- [could be wild cards](https://www.barrons.com/articles/trump-picks-health-stocks-51da7edb?mod=article_inline)
-given their rejection of some scientifically accepted facts. Their previously disclosed stances have investors worried about the near-term future of everything from
- [vaccines](https://www.barrons.com/articles/trump-win-robert-f-kennedy-jr-healthcare-system-1b085c75?mod=article_inline)
-to formerly highflying
- [weight-loss drugs](https://www.barrons.com/articles/rfk-jr-obesity-drugs-lilly-novo-stock-price-17ba32fa?mod=article_inline)
-. And given Wall Street’s aversion to uncertainty, they may remain out of favor in the near term until there’s more clarity.
+It’s easy to understand why investors are so jittery: The incoming Trump administration could make plenty of waves with changes in policy and various potential appointees, including Dave Weldon to lead the Centers for Disease Control and Prevention and the aforementioned RFK Jr. as secretary of Health and Human Services,  [could be wild cards](https://www.barrons.com/articles/trump-picks-health-stocks-51da7edb?mod=article_inline) given their rejection of some scientifically accepted facts. Their previously disclosed stances have investors worried about the near-term future of everything from  [vaccines](https://www.barrons.com/articles/trump-win-robert-f-kennedy-jr-healthcare-system-1b085c75?mod=article_inline) to formerly highflying  [weight-loss drugs](https://www.barrons.com/articles/rfk-jr-obesity-drugs-lilly-novo-stock-price-17ba32fa?mod=article_inline) . And given Wall Street’s aversion to uncertainty, they may remain out of favor in the near term until there’s more clarity.
 
 
 But sometimes the reward more than makes up for the risks, and healthcare stocks are trading cheaply enough to start looking interesting. The Health Care ETF trades at 17.8 times earnings, down from 19.9 times at the end of August and near its cheapest level of the year. 
@@ -78,8 +68,7 @@ Moreover, many investors are betting that merger and acquisition activity will p
 Ultimately, much of what healthcare policy will look like in 2025 and beyond is still debatable, but a growing sector that is trading cheaply shouldn’t be treated as DOA.
 
 
-Write to Teresa Rivas at
-[teresa.rivas@barrons.com](mailto:teresa.rivas@barrons.com)
+Write to Teresa Rivas at [teresa.rivas@barrons.com](mailto:teresa.rivas@barrons.com)
 
 
 
