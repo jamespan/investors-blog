@@ -1,0 +1,131 @@
+---
+layout: post
+title: >-
+  Trump Is Ready to Unleash Bitcoin and Other Cryptos. Hang On to Your Wallets.
+date: 2024-12-06 03:00 -0500
+author: 
+tags: ['Cryptocurrencies', 'Up and Down Wall Street']
+description: >-
+  We are about to be governed by the nation’s first unabashedly pro-crypto administration. The consequences are far-reaching for the dollar, bonds, gold, regulation, and more.
+---
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+![](https://images.barrons.com/im-18997452?width=548&height=365)
+
+
+Bitcoin hit a record high of \$103,259 on Wednesday. Above, an image at a Coinhero store in Hong Kong.
+
+
+
+
+
+
+
+
+
+
+
+What would happen if cryptocurrency— [Bitcoin](https://www.barrons.com/market-data/cryptocurrencies/btcusd?iso=kraken&mod=article_chiclet) and its lesser cousins—were freed of onerous regulation and let loose upon the land?
+
+
+Hang on to your wallet, folks, because we may be about to find out.
+
+
+ Since Donald Trump was elected president last month, the price of Bitcoin has smashed through the [\$100,000 barrier](https://www.barrons.com/articles/bitcoin-price-hits-100k-bcdb5157?mod=article_inline) —hitting a record high of \$103,259 on Wednesday evening, a nearly 50% gain since Nov. 5—in large part because of the president-elect’s perceived cryptophilia. That’s notable enough on its own, but I think this is just the beginning of a broader, more momentous trend.
+
+
+The bigger point is that we are about to be governed by the nation’s first unabashedly pro-crypto administration. Instead of being stymied by the federal government, the crypto cosmos will soon be enabled—nay, driven—by Trump and his team, whose connections to and predilections for crypto are strong and deep. 
+
+
+“You’ve got a promise from the Trump administration to end the war on crypto, to make Bitcoin great,” says Michael Saylor, crypto-evangelist and chairman of crypto holding company [MicroStrategy](https://www.barrons.com/market-data/stocks/mstr?mod=article_chiclet) . “It’s a pretty big flip to go from digital assets having no path forward other than litigation, to having a path.”
+
+
+No doubt you’ve heard of crypto winters, dark periods such as 2019-20 and 2022-23, when Bitcoin prices fell precipitously. Call what we may be about to experience, crypto summer. 
+
+
+The underrecognized consequences are so far-reaching and potentially impactful that my little mind fairly reels. This is true not only for investors in digital currencies, crypto exchange-traded funds, and esotericisms like [Saylor’s phantasmagorical company](https://www.barrons.com/articles/microstrategy-stock-michael-saylor-bitcoin-90e4cdc7?mod=article_inline) , but also for traditional investors who may see money flowing into crypto at the expense of traditional securities and may be left wondering whether to take a flier into the digital asset void. But the unshackling of crypto has even wider implications for the dollar, taxes, federal regulation, Treasury bonds, gold, and more.
+
+
+I’m not suggesting that any of this is necessarily a good thing. In fact, I lean toward the Charlie-Munger-crypto-is-“rat-poison” school. I wouldn’t be surprised if the next crypto run-up flames out hotter than the Hindenburg at some point. What I’m saying is this next leg up could well be under way, and that point is underappreciated. 
+
+
+First, pay attention to what Trump has said. “The rules will be written by people who love your industry, not hate your industry,” he told the year’s biggest crypto conference in July. According to [The Wall Street Journal](https://www.wsj.com/politics/elections/trump-adds-crypto-to-his-america-first-agenda-71ceb046?mod=article_inline) , Trump said he would create a “strategic national Bitcoin stockpile,” appoint a crypto presidential advisory council, and fire crypto-cautious Securities and Exchange Commission Chair Gary Gensler. Mission accomplished on the last point, as Gensler tendered his resignation effective on Jan. 20. Tabbed this week to replace him is crypto-friendly, former SEC Commissioner Paul Atkins, who sits on the board of a major crypto trade association and about whom the president-elect wrote, “[Atkins] recognizes that digital assets & other innovations are crucial to Making America Greater than Ever Before.”
+
+
+
+
+
+Atkins’ presumed digital-asset purview is growing. According to TradingView, the market cap of the crypto ecosystem—the total value of the top 125 coins—now stands at \$3.6 trillion, some \$2 trillion of which is Bitcoin, just over 55%. That’s up 124% year to date and 1,720% over the past five years. (NB: Bitcoin also fell over 71% from September 2021 to November 2022.)
+
+
+Indirect investment in these coins through traditional investments is relatively small, but also rising. [J.P. Morgan](https://www.barrons.com/market-data/stocks/jpm?mod=article_chiclet) reported record inflows recently to Bitcoin and 
+[Ether](https://www.barrons.com/market-data/cryptocurrencies/ethusd?iso=kraken&mod=article_chiclet) exchange-traded funds, with total assets now at \$150 billion and \$11 billion, respectively. Offerings come from old-school names like [BlackRock](https://www.barrons.com/market-data/stocks/blk?mod=article_chiclet) , Fidelity, Franklin Resources, Invesco, and Van Eyck—as well as newer ones like Grayscale and Bitwise.
+
+
+[Crypto options](https://www.barrons.com/articles/bitcoin-price-trump-options-7982f077?mod=article_inline) are mushrooming, too. [Robinhood Markets](https://www.barrons.com/market-data/stocks/hood?mod=article_chiclet) , whose stock is up 213% year to date in part because of optimism over crypto trading, reported in November that crypto notional trading volumes were over \$30 billion, up more than 400% from October.  “It’s still very early in the technology-adoption curve of crypto,” Robinhood CEO Vlad Tenev tells me. “Crypto is going to underlie many traditional financial assets that people currently invest in. The costs are lower, and the customer experience is dramatically better.”
+
+
+There are also 14 U.S.-listed Bitcoin-mining companies, such as [MARA Holdings](https://www.barrons.com/market-data/stocks/mara?mod=article_chiclet) , [Core Scientific](https://www.barrons.com/market-data/stocks/corz?mod=article_chiclet) , and [Riot Platforms](https://www.barrons.com/market-data/stocks/riot?mod=article_chiclet) , which have an aggregate market cap of \$36.2 billion, up 52% in November. In the crypto winter of 2022-23, they were worth less than \$5 billion.
+
+
+Let’s now delve into the Trump administration’s, including *el jefe’s* himself, ties to crypto. Recall that Trump’s bromance with the Silicon Valley libertarian set—highlighted by his relationship with crypto-friendly, self-proclaimed “first buddy” Elon Musk—has been largely predicated on the president-elect’s turnabout on crypto. Trump had been a cryptophobe, but that changed when he began selling NFT trading cards in 2022, which he continues to do: “They call me the crypto President…” And, of course, Musk’s plan to slash government spending is named DOGE, after an Elon favorite,
+
+
+[Dogecoin](https://www.barrons.com/market-data/cryptocurrencies/dogeusd?iso=kraken&mod=article_chiclet)
+,
+
+ once a satirical meme coin that now sports a \$60 billion market value. 
+Trump has also owned crypto, including at least \$1 million in [Ether](https://www.barrons.com/market-data/cryptocurrencies/etcusd?iso=kraken&mod=article_chiclet) , Bloomberg reports. More exposure probably comes from his business interests, such as [Trump Media & Technology Group](https://www.barrons.com/market-data/stocks/djt?mod=article_chiclet) , owner of the social-media platform Truth Social, which filed an application last month to create a crypto payment service called TruthFi. The Financial Times reported that Trump Media was interested in buying [Bakkt Holdings](https://www.barrons.com/market-data/stocks/bkkt?mod=article_chiclet) , a crypto services firm. Bakkt’s former CEO is Kelly Loeffler, a onetime U.S. senator from Georgia picked by Trump to head the Small Business Association, and the wife of Jeffrey Sprecher, CEO of [Intercontinental Exchange](https://www.barrons.com/market-data/stocks/ice?mod=article_chiclet) , which owns the New York Stock Exchange.
+
+
+Another play is World Liberty Financial, a crypto exchange rolled out by Trump and his sons Don Jr., Eric, and Baron last summer. It’s unclear exactly what this company hopes to do—sell cryptocurrency for one thing. Its website says, “We’re leading a financial revolution by dismantling the stranglehold of traditional financial institutions and putting the power back where it belongs: in your hands. Be DeFiant.” 
+
+
+Don’t forget, too, that members of Trump’s prospective cabinet—Tulsi Gabbard, Pete Hegseth, Robert F. Kennedy Jr., and Vice President-elect J.D. Vance—have all acknowledged owning cryptocurrency. 
+
+
+Then there’s Howard Lutnick and Tether. The WSJ reported late last month that the presumptive Commerce secretary’s firm, Cantor Fitzgerald—he’s CEO—has close ties with the operator of this stablecoin, holding \$130 billion of Tether’s Treasury bonds. The WSJ previously reported that Tether was being investigated for possible violations of sanctions and money-laundering rules.
+
+
+Now let’s take a look at how this newly empowered crypto world could affect the economy, starting with taxes. Some cryptologists suggest that Trump will eliminate capital-gains taxes on cryptocurrencies issued by U.S.-registered companies. If that happens, would it draw investors from stocks? Perhaps. And Trump’s tariffs could lead to countries seeking dollar alternatives including crypto, said Saxo Bank strategist John Hardy in a note this past week. Potential market impact? “The crypto market quadruples,” he wrote. 
+
+
+As for the reasoning behind a strategic Bitcoin reserve, perhaps it resembles what Wyoming Republican Sen. Cynthia Lummis has proposed in her Bitcoin Act, under which the U.S. would buy up some 5% of the world’s supply of the cryptocurrency. That, she told CNBC, would “help shore up the U.S. dollar as the world reserve currency and act as a reserve that could be used to reduce the national debt significantly.”
+
+
+When it comes to [gold](https://www.barrons.com/market-data/futures/gc00?mod=article_chiclet) , State Street Global Advisors’ George Milling-Stanley says that Bitcoin (which for the first time is worth more than a kilo of gold, now valued at \$87,000) is crowding out demand for the yellow metal Cumulative flows into Bitcoin funds have outpaced flows into gold ETFs for the first time since 2019. Crypto bulls like to point out that the total value of all the gold in the world is some \$20 trillion, dwarfing the value of cryptocurrencies.
+
+
+As for the art market, my colleague [Randall W. Forsyth recently noted](https://www.barrons.com/articles/bitcoin-price-crypto-microstrategy-stock-banana-80d9c511?mod=article_inline) that a “so-called artwork consisting of a banana affixed to the wall with a piece of silver duct tape sold this past week for \$6.2 million. The buyer, appropriately enough, was a cryptocurrency operator.” Turns out said buyer was Justin Sun, who’s under investigation by the SEC on charges of fraud, market manipulation, and other alleged violations; he disputes the charges and is seeking to dismiss them. It also turns out that Sun recently disclosed that he invested \$30 million in—wait for it—World Liberty Financial.
+
+
+Companies are gearing up for this new world. “The anticipation of a more crypto-friendly environment under a Trump administration is driving a surge in crypto business initiatives,” J.P. Morgan analyst Ken Worthington told clients this past week. Examples: [Goldman Sachs](https://www.barrons.com/market-data/stocks/gs?mod=article_chiclet) is looking to spin out its digital asset platform, and BlackRock wants to expand its tokenized money-market fund. (BlackRock also had a recent humdinger rollout of options on its Bitcoin ETF, with nearly \$1.9 billion in notional value traded on its first day.) [Microsoft](https://www.barrons.com/market-data/stocks/msft?mod=article_chiclet) is working on a digital currency project in Brazil, while El Salvador raised \$30 million with the first issue of U.S. Treasury-bill-backed tokens known as USTBL.
+
+
+As of mid-October, the SEC had brought 233 cryptocurrency enforcement actions since 2013, the great majority over the past four years. Don’t be surprised if that activity, as well as ongoing litigation against [Coinbase Global](https://www.barrons.com/market-data/stocks/coin?mod=article_chiclet) , the U.S.’s largest crypto exchange, and a still simmering  [lawsuit against Ripple](https://www.barrons.com/articles/xrp-price-bitcoin-trump-election-6a6e565a?mod=article_inline) , are soon gone with the wind. Note that COIN is up 62% since Nov. 5, while a Ripple ETF has climbed 179%.
+
+
+After sorting through all of this, you see why I think that even as we head into winter, crypto summer is coming. Will investors get burned? Certainly some will. Indeed, how could they not? It reminds me of the line from a song Jeff Bridges sang in the movie *Crazy Heart* : “Funny how fallin’ feels like flyin’…for a little while.”
+
+
+Write to Andy Serwer at [andy.serwer@barrons.com](mailto:andy.serwer@barrons.com)
+
+
+
+
+
+
+
+
