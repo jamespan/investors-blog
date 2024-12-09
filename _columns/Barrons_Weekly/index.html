@@ -6,13 +6,15 @@ title: Barrons Weekly
 {% assign weeklys = site.documents | where_exp: "item", "item.title != page.title" | where: "barrons_weekly", true | where: "lang", "en" | group_by_exp: "item", "item.path | slice: 24, 10" | reverse %}
 <div class="post-list">
     {% for weekly in weeklys %}
-        <h2>{{ weekly.name }}</h2>
-        {% assign posts = weekly.items | sort: "slug" %}
-        {% for post in posts %}
-        <a class="post-title" href="{{site.baseurl}}{{post.url}}"><h3>{{ post.title }}</h3></a>
-        <p class="date">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} by {{ post.author }}{% endif %}</p>
-        <p>{{post.description | strip_html}}</p>
-        {% endfor %}
+        <details>
+            <summary>{{ weekly.name }}</summary>
+            {% assign posts = weekly.items | sort: "slug" %}
+            {% for post in posts %}
+            <a class="post-title" href="{{site.baseurl}}{{post.url}}"><h3>{{ post.title }}</h3></a>
+            <p class="date">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} by {{ post.author }}{% endif %}</p>
+            <p>{{post.description | strip_html}}</p>
+            {% endfor %}
+        </details>
     {% endfor %}
 </div>
 
