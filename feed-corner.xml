@@ -1,0 +1,29 @@
+---
+layout: 
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ "IBD Investor's Corner Column" | xml_escape }}</title>
+    <description>{{ "What are the best rules for investing? Where can I learn how to invest? Knowing when to buy stocks and when to sell stocks is critical. If you want to make money in stocks, the IBD Investor's Corner gives good rules for trading stocks, advice on how to read a stock chart, and how to trade for consistent profits." | xml_escape }}</description>
+    <link>https://www.investors.com/category/how-to-invest/investors-corner/</link>
+    <atom:link href="{{ "/feed-corner.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+    {% assign posts = site.documents | where: "investors_corner", true | where: "lang", "en" | where_exp: "item", "item.title != 'Investors Corner'" | sort: "date" | reverse %}
+    {% for post in posts limit: 10 %}
+      <item>
+        <title>{{ post.title | xml_escape }}</title>
+        <description>{{ post.content | split: "<p><strong>YOU " | first | xml_escape }}</description>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        {% assign origin_url = post.url | replace:'columns','how-to-invest' | prepend: "https://www.investors.com" | append: "/" %}
+        {% assign site_url = post.url | prepend: site.baseurl | prepend: site.url %}
+        <link>{{ origin_url }}</link>
+        <guid isPermaLink="true">{{ origin_url }}</guid>
+      </item>
+    {% endfor %}
+
+  </channel>
+</rss>

@@ -56,6 +56,12 @@ defaults:
       lang: zh-cn
       permalink: /columns/swing-trading/zh-cn/:name
   - scope:
+      path: "_columns/Investors_Corner"
+    values:
+      investors_corner: true
+      lang: en
+      permalink: /columns/investors-corner/:name
+  - scope:
       path: "_columns/Barrons_Weekly"
     values:
       barrons_weekly: true
