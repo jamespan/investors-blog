@@ -1,23 +1,23 @@
 ---
 layout: page
 title: >-
-  Nvidia, Apple, Palantir Reveal Investing Secrets — And This Routine
-date: 2025-01-31 16:15 -0800
+  What Nvidia, Apple And Palantir Reveal About This Stock Market
+date: 2025-02-20 16:00 -0800
 author: MATTHEW GALGANI
 ---
 
 
 
 
-Offering no shortage of lessons on how to invest, the new year has kicked off with a mix of vigor and volatility. With [earnings on tap](https://www.investors.com/research/earnings-preview/palantir-stock-pltr-earnings-google-amazon-earnings/), **Palantir Technologies** ([PLTR](https://research.investors.com/quote.aspx?symbol=PLTR)) has rocketed to record-highs while **Nvidia** ([NVDA](https://research.investors.com/quote.aspx?symbol=NVDA)) tries to recover after [DeepSeek](https://www.investors.com/news/technology/amazon-stock-deepseek-meta-open-source-ai-model-rivalry/) rattled artificial intelligence stocks. Meanwhile, Wall Street has taken a bite out of **Apple** ([AAPL](https://research.investors.com/quote.aspx?symbol=AAPL)) after it reported [declining iPhone sales](https://www.investors.com/news/technology/apple-stock-aapl-fiscal-q1-2025-earnings/).
+Offering no shortage of lessons on how to invest, the new year has kicked off with a mix of vigor and volatility. While **Apple** ([AAPL](https://research.investors.com/quote.aspx?symbol=AAPL)) sets up a fresh buy point and **Nvidia** ([NVDA](https://research.investors.com/quote.aspx?symbol=NVDA)) shows its strength and resilience in a challenging market, **Palantir Technologies** ([PLTR](https://research.investors.com/quote.aspx?symbol=PLTR)) takes a second hit after rocketing to a record high.
 
 
-Fellow market-driving [Magnificent Seven stocks](https://www.investors.com/research/magnificent-seven-stocks-latest-news-market-cap-weighting/) **Amazon.com** ([AMZN](https://research.investors.com/quote.aspx?symbol=AMZN)), **Alphabet** ([GOOGL](https://research.investors.com/quote.aspx?symbol=GOOGL)) and **Meta Platforms** ([META](https://research.investors.com/quote.aspx?symbol=META)) continue to show standout strength. **Tesla** ([TSLA](https://research.investors.com/quote.aspx?symbol=TSLA)) missed views on Q4 earnings and sales, but [investors appear unfazed](https://www.investors.com/news/tesla-stock-why-investors-dont-care-about-q4-earnings-miss/) as Tesla stock bounced back above its [50-day moving average](https://www.investors.com/how-to-invest/investors-corner/50-day-moving-average-identifies-buy-sell-signals/), although the electric vehicle maker gave back much of Friday's gains.
+As the tech-heavy Nasdaq tests resistance around the 20,000 mark, [Magnificent Seven stocks](https://www.investors.com/research/magnificent-seven-stocks-latest-news-market-cap-weighting/) **Amazon.com** ([AMZN](https://research.investors.com/quote.aspx?symbol=AMZN)), **Tesla** ([TSLA](https://research.investors.com/quote.aspx?symbol=TSLA)) and **Alphabet** ([GOOGL](https://research.investors.com/quote.aspx?symbol=GOOGL)) have retreated below their [50-day moving averages](https://www.investors.com/how-to-invest/investors-corner/50-day-moving-average-identifies-buy-sell-signals/). Meanwhile, despite pulling back this week, **Meta Platforms** ([META](https://research.investors.com/quote.aspx?symbol=META)) continues to show resilience as it holds support at its [21-day exponential moving average](https://www.investors.com/how-to-invest/investors-corner/what-is-the-21-day-exponential-moving-average/).
 
 
 
 
-The mix of breakouts — like the [new move from Amazon](https://www.investors.com/research/ibd-stock-analysis/amazon-stock-government-technology-health-care-doge-musk/) — and breakdowns — like a recent one in [Nvidia](https://www.investors.com/how-to-invest/when-to-sell-stocks-nvidia-nvda-stock/) — serve as reminders of why investors need rules for both [how to buy stocks](https://www.investors.com/how-to-invest/how-to-buy-stocks-using-stock-lists-stock-ratings-stock-screener/) and [when to sell stocks](https://www.investors.com/how-to-invest/when-to-sell-stocks/). Start with a simple [three-step investing routine](#routine).
+The mix of breakouts and breakdowns among leading growth stocks serve as reminders of why investors need rules for both [how to buy stocks](https://www.investors.com/how-to-invest/how-to-buy-stocks-using-stock-lists-stock-ratings-stock-screener/) and [when to sell stocks](https://www.investors.com/how-to-invest/when-to-sell-stocks/). Start with a simple [three-step investing routine](#routine).
 
 
 
@@ -208,13 +208,13 @@ Checking these screens *regularly* is a proven way to help improve your investin
 **YOU MAY ALSO LIKE:**
 
 
-[Nvidia Got Spanked, But This AI Big Daddy Soars 194% — And Counting](https://www.investors.com/research/breakout-stocks-technical-analysis/godaddy-stock-gddy-artificial-intelligence-nvidia/)
+[Nvidia Needs Next Growth Story To Get Stock Rising](https://www.investors.com/news/technology/nvidia-stock-blackwell-ai-chips/)
 
 
-[High-Flying Palantir Back Near Highs Ahead Of Q4 Report](https://www.investors.com/research/earnings-preview/palantir-stock-pltr-earnings-google-amazon-earnings/)
+[Palantir Falls On CEO Share Sale Plan, Possible DOD Budget Cut](https://www.investors.com/news/technology/palantir-stock-pltr-ceo-share-sale-dod-budget-cut/)
 
 
-[DeepSeek-Driven Shake-Up Continues As Nvidia Takes Aim At Microsoft](https://www.investors.com/research/magnificent-seven-stocks-latest-news-market-cap-weighting/)
+[Is Apple Stock A Buy After iPhone 16e Debut?](https://www.investors.com/news/technology/apple-stock-buy-now-aapl/)
 
 
 [Find The Next Palantir Or Hot IPO Stock With This Tool](https://www.investors.com/how-to-invest/stock-screener/)
