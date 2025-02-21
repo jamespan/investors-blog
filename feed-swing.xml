@@ -7,7 +7,7 @@ layout:
   <channel>
     <title>{{ "IBD Swing Trading Column" | xml_escape }}</title>
     <description>{{ "Swing Trading relies on short-term moves in stocks to build profits. Unlike day trading, where buys and sells occur on the same day, swing trades last for a few days or weeks. IBD teaches swing trading strategies with a new column each week including analysis and annotations on swing trade examples." | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/columns/swing-trading/</link>
+    <link>https://www.investors.com/category/research/swing-trading/</link>
     <atom:link href="{{ "/feed-swing.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
