@@ -23,49 +23,26 @@ defaults:
       path: "_columns/The_Big_Picture"
     values:
       the_big_picture: true
-      lang: en
       permalink: /columns/the-big-picture/:name
-  - scope:
-      path: "_columns/The_Big_Picture/zh-cn"
-    values:
-      the_big_picture: true
-      lang: zh-cn
-      permalink: /columns/the-big-picture/zh-cn/:name
   - scope:
       path: "_columns/Stock_Of_the_Day"
     values:
       stock_of_the_day: true
-      lang: en
       permalink: /columns/stock-of-the-day/:name
-  - scope:
-      path: "_columns/Stock_Of_the_Day/zh-cn"
-    values:
-      stock_of_the_day: true
-      lang: zh-cn
-      permalink: /columns/stock-of-the-day/zh-cn/:name
   - scope:
       path: "_columns/Swing_Trading"
     values:
       swing_trading: true
-      lang: en
       permalink: /columns/swing-trading/:name
-  - scope:
-      path: "_columns/Swing_Trading/zh-cn"
-    values:
-      swing_trading: true
-      lang: zh-cn
-      permalink: /columns/swing-trading/zh-cn/:name
   - scope:
       path: "_columns/Investors_Corner"
     values:
       investors_corner: true
-      lang: en
       permalink: /columns/investors-corner/:name
   - scope:
       path: "_columns/Barrons_Weekly"
     values:
       barrons_weekly: true
-      lang: en
       permalink: /columns/barrons-weekly/:name
 
 ### exclude the instructions / write-up in the README.md

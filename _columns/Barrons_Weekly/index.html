@@ -3,7 +3,7 @@ layout: page
 title: Barrons Weekly
 ---
 
-{% assign weeklys = site.documents | where_exp: "item", "item.title != page.title" | where: "barrons_weekly", true | where: "lang", "en" | group_by_exp: "item", "item.path | slice: 24, 10" | reverse %}
+{% assign weeklys = site.documents | where_exp: "item", "item.title != page.title" | where: "barrons_weekly", true | group_by_exp: "item", "item.path | slice: 24, 10" | reverse %}
 <div class="post-list">
     {% for weekly in weeklys %}
         <details>
