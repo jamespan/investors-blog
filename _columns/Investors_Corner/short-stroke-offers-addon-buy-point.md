@@ -4,6 +4,7 @@ title: >-
   Rare Short-Stroke Pattern Can Lead To Big Breakouts
 date: 2013-10-14 18:41 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/short-stroke-offers-addon-buy-point
 ---
 
 

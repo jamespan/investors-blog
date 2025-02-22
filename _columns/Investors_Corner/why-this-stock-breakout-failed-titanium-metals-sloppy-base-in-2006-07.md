@@ -4,6 +4,7 @@ title: >-
   Why This Stock Breakout Failed: Titanium Metals' Sloppy Base In 2006-07
 date: 2016-05-03 15:49 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-this-stock-breakout-failed-titanium-metals-sloppy-base-in-2006-07
 ---
 
 

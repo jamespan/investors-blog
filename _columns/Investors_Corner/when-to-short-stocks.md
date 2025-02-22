@@ -4,6 +4,7 @@ title: >-
   Look For Highly Liquid Stocks When Selling Short
 date: 2016-01-12 18:10 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-short-stocks
 ---
 
 

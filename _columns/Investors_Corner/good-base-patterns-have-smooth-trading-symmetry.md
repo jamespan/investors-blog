@@ -4,6 +4,7 @@ title: >-
   How To Invest: A Good Stock Base Reveals Symmetry
 date: 2011-12-22 17:20 -0800
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/good-base-patterns-have-smooth-trading-symmetry
 ---
 
 

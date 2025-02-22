@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: How To Use The Big Cap 20
 date: 2014-05-08 16:09 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-use-big-cap-20
 ---
 
 

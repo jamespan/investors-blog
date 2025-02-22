@@ -4,6 +4,7 @@ title: >-
   Don't Predict The Market: Let Distribution Guide You
 date: 2014-07-10 18:43 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-spot-a-stock-market-top
 ---
 
 

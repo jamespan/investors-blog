@@ -4,6 +4,7 @@ title: >-
   Use 200-Day Line To Spot Major Top In A Stock
 date: 2012-09-04 17:25 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-caterpillar-peaked-in-2011-the-200-day-line-curled-lower
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   When To Buy Growth Stocks: Cup Without Handle Can Pour The Gains
 date: 2024-02-26 08:00 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/corner-cup-without-handle
 ---
 
 

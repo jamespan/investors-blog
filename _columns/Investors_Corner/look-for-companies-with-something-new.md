@@ -4,6 +4,7 @@ title: >-
   IBD Resources Help You Find Firms With The "N"
 date: 2015-01-15 18:18 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/look-for-companies-with-something-new
 ---
 
 

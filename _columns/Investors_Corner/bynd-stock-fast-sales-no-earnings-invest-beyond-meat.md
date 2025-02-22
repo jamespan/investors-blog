@@ -4,6 +4,7 @@ title: >-
   BYND Stock Has Fast Sales Growth, No Earnings Yet; Should You Invest In Beyond Meat?
 date: 2019-07-30 15:00 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/bynd-stock-fast-sales-no-earnings-invest-beyond-meat
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Action Within Base Offers Clues To Strength, Weakness
 date: 2014-02-25 17:38 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-to-look-for-in-stock-chart
 ---
 
 

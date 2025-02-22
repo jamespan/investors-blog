@@ -4,6 +4,7 @@ title: >-
   Post-Analysis Can Give Valuable Feedback
 date: 2013-12-31 16:48 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learning-from-stock-trading-mistakes
 ---
 
 

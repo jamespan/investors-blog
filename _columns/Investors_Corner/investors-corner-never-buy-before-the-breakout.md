@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Never Buy Before The Breakout
 date: 2011-08-16 16:34 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-never-buy-before-the-breakout
 ---
 
 

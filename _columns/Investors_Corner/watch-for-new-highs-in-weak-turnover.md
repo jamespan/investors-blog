@@ -4,6 +4,7 @@ title: >-
   Sell Like A Pro: Watch For New Highs In Weak Volume
 date: 2012-05-29 16:05 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/watch-for-new-highs-in-weak-turnover
 ---
 
 

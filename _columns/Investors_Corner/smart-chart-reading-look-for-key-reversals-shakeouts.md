@@ -4,6 +4,7 @@ title: >-
   Smart Chart Reading: Look For Key Reversals, Shakeouts
 date: 2016-06-30 12:55 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/smart-chart-reading-look-for-key-reversals-shakeouts
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How The Stock Market Topped In 1994
 date: 2014-07-16 17:25 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-market-topped-in-1994
 ---
 
 

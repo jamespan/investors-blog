@@ -4,6 +4,7 @@ title: >-
   Stretching For A High Yield Is Inviting Trouble
 date: 2015-09-09 16:48 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/safe-dividend-investing-means-not-stretching-for-yield
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Generac Holdings And The Three-Weeks-Tight Breakout
 date: 2014-06-10 18:50 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/understanding-the-three-weeks-tight-pattern
 ---
 
 

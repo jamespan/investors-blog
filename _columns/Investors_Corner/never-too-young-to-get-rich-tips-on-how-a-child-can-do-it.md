@@ -4,6 +4,7 @@ title: >-
   Jobs For Teens Are A Good Thing; So Is Learning How To Invest And Save
 date: 2018-05-23 20:46 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/never-too-young-to-get-rich-tips-on-how-a-child-can-do-it
 ---
 
 

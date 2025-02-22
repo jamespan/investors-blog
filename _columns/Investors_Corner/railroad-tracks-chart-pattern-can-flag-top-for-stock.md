@@ -4,6 +4,7 @@ title: >-
   Watch Out For 'Railroad Tracks' Near A Stock's Top
 date: 2014-10-14 17:32 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/railroad-tracks-chart-pattern-can-flag-top-for-stock
 ---
 
 

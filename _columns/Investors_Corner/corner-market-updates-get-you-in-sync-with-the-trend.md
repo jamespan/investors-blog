@@ -4,6 +4,7 @@ title: >-
   Corner: Market Updates Get You In Sync With The Trend
 date: 2011-03-04 17:23 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/corner-market-updates-get-you-in-sync-with-the-trend
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Can You Avoid These 5 Common Mistakes In Short Selling?
 date: 2024-05-08 08:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-short-side-can-you-avoid-these-5-common-mistakes-in-short-selling
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Harness The Power Of Charts
 date: 2011-09-01 14:24 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-harness-the-power-of-charts
 ---
 
 

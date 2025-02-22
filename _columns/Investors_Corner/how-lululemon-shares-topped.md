@@ -4,6 +4,7 @@ title: >-
   How Former Market Leader Lululemon Topped
 date: 2014-04-28 17:50 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-lululemon-shares-topped
 ---
 
 

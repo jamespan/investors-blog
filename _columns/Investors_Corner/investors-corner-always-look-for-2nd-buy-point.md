@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Always Look For 2nd Buy Point
 date: 2011-06-07 15:22 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-always-look-for-2nd-buy-point
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Are Apple, Stocks 'A Random Walk'? No; Anyone Can Time The Stock Market Bottom
 date: 2019-12-16 13:30 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stocks-random-walk-time-the-stock-market-bottom
 ---
 
 

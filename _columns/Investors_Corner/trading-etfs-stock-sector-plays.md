@@ -4,6 +4,7 @@ title: >-
   How Trading ETFs Offers Ways To Invest In Sectors Lacking Leading Stocks
 date: 2024-10-10 08:00 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/trading-etfs-stock-sector-plays
 ---
 
 

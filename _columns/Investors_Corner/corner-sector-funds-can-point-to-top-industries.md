@@ -4,6 +4,7 @@ title: >-
   Corner: Sector Funds Can Point To Top Industries
 date: 2011-10-13 16:15 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/corner-sector-funds-can-point-to-top-industries
 ---
 
 

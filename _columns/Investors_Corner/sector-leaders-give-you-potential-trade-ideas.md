@@ -4,6 +4,7 @@ title: >-
   How To Invest: Seek Stock Ideas In Sector Leaders
 date: 2014-03-11 17:23 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sector-leaders-give-you-potential-trade-ideas
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   When Analyzing Stocks In An Industry Group, Focus On The RS Rating Leader
 date: 2016-08-01 15:52 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-analyzing-stocks-in-an-industry-group-focus-on-the-rs-rating-leader
 ---
 
 

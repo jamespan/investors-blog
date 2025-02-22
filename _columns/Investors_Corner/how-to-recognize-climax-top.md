@@ -4,6 +4,7 @@ title: >-
   Climax Run Is Too Good To Be True For Long
 date: 2012-05-24 17:42 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-recognize-climax-top
 ---
 
 

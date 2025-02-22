@@ -4,6 +4,7 @@ title: >-
   Nvidia, Amazon: Stock Splits, Reverse Splits Can Have Consequences
 date: 2023-10-26 08:00 -0700
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-splits-nvidia-amazon-stock-splits-benefit-or-hurt-a-stock
 ---
 
 

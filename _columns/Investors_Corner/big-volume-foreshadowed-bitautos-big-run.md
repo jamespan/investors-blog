@@ -4,6 +4,7 @@ title: >-
   Volume Is Key To Gauging Health Of A Stock, Market
 date: 2014-08-22 16:48 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/big-volume-foreshadowed-bitautos-big-run
 ---
 
 

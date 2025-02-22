@@ -4,6 +4,7 @@ title: >-
   Good Defense: Don't Be Afraid To Cut Stock Losses Early
 date: 2015-05-20 18:15 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/good-defense-dont-be-afraid-to-cut-stock-losses-early
 ---
 
 

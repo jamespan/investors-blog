@@ -4,6 +4,7 @@ title: >-
   Who Was Better For The Stock Market? Biden Or Trump?
 date: 2025-01-20 17:32 -0800
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-donald-trump-joe-biden
 ---
 
 

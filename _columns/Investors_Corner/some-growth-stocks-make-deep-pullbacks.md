@@ -4,6 +4,7 @@ title: >-
   Deep Cup Bases Can Work — Only In Certain Situations
 date: 2013-09-19 18:17 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/some-growth-stocks-make-deep-pullbacks
 ---
 
 

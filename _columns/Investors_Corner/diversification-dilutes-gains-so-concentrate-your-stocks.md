@@ -4,6 +4,7 @@ title: >-
   Why Market Diversification Can Dilute Your Returns
 date: 2012-03-27 17:40 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/diversification-dilutes-gains-so-concentrate-your-stocks
 ---
 
 

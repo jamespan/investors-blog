@@ -4,6 +4,7 @@ title: >-
   Stock Living Under 10-Week Line Is Living Dangerously
 date: 2013-05-15 17:31 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-price-sell-signals-for-investors
 ---
 
 

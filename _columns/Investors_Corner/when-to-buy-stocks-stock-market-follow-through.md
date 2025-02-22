@@ -4,6 +4,7 @@ title: >-
   When To Buy Stocks: Not Every Stock Market Follow-Through Succeeds
 date: 2018-11-13 13:58 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-buy-stocks-stock-market-follow-through
 ---
 
 

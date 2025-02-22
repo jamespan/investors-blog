@@ -4,6 +4,7 @@ title: >-
   Be Ready To Act When Investor Psychology Reaches Extreme Levels
 date: 2018-10-24 21:45 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/be-ready-to-act-when-market-sentiment-reaches-extreme-levels
 ---
 
 

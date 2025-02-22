@@ -4,6 +4,7 @@ title: >-
   Is A Weak-Volume Rebound A No-Go Buy Opportunity?
 date: 2014-03-24 17:45 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/buying-a-weak-rebound-from-support
 ---
 
 

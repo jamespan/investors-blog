@@ -4,6 +4,7 @@ title: >-
   Learn To Take Some Profit After Stock Rises 20%-25%
 date: 2013-08-02 17:59 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/take-some-profit-after-stock-rises-20
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   The Numbers That Make Company Sales Stand Out, And Where To Find Them
 date: 2019-11-22 13:05 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-analyze-stocks-sales-growth
 ---
 
 

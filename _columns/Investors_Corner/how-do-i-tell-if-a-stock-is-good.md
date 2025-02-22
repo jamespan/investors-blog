@@ -4,6 +4,7 @@ title: >-
   Six Ways To Gauge A Stock's True Supply Situation
 date: 2014-07-22 17:30 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-do-i-tell-if-a-stock-is-good
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How This Easy-To-Find Base Led To 59% Gain In Google Stock
 date: 2025-01-16 08:01 -0800
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/google-stock-rally-59-percent-gain-flat-base
 ---
 
 

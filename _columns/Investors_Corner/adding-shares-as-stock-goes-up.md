@@ -4,6 +4,7 @@ title: >-
   Use 10-Week Moving Average To Gauge New Buy Points
 date: 2014-03-25 16:37 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/adding-shares-as-stock-goes-up
 ---
 
 

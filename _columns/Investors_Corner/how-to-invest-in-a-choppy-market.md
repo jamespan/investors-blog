@@ -4,6 +4,7 @@ title: >-
   How To Invest: Trim Expectations In A Choppy Market
 date: 2013-03-05 17:23 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-in-a-choppy-market
 ---
 
 

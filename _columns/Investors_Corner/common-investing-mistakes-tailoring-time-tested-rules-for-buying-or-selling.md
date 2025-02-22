@@ -4,6 +4,7 @@ title: >-
   Common Investing Mistakes: Tailoring Time-Tested Rules For Buying Or Selling
 date: 2016-06-06 15:15 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/common-investing-mistakes-tailoring-time-tested-rules-for-buying-or-selling
 ---
 
 

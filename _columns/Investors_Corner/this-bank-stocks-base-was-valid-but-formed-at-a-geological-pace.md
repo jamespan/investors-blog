@@ -4,6 +4,7 @@ title: >-
   The Saucer Base: This Bank Stock's Base Formed At A Geological Pace
 date: 2023-03-27 08:00 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/this-bank-stocks-base-was-valid-but-formed-at-a-geological-pace
 ---
 
 

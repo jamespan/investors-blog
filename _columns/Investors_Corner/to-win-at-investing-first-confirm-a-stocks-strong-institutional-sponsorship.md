@@ -4,6 +4,7 @@ title: >-
   To Win At Investing, First Confirm A Stock's Strong Institutional Sponsorship
 date: 2016-09-07 13:02 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/to-win-at-investing-first-confirm-a-stocks-strong-institutional-sponsorship
 ---
 
 

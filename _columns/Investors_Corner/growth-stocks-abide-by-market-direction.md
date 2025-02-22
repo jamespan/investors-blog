@@ -4,6 +4,7 @@ title: >-
   Growth Stocks Feel The Impact Of Market Direction — For Better Or Worse
 date: 2024-08-07 15:38 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-abide-by-market-direction
 ---
 
 

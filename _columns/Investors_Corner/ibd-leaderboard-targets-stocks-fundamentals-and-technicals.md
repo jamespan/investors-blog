@@ -4,6 +4,7 @@ title: >-
   Human Team Element Makes Leaderboard Powerful Tool
 date: 2013-11-22 16:23 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-leaderboard-targets-stocks-fundamentals-and-technicals
 ---
 
 

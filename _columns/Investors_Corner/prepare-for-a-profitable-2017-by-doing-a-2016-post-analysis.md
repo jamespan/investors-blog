@@ -4,6 +4,7 @@ title: >-
   Prepare For A Profitable 2017 By Doing A 2016 Post-Analysis
 date: 2016-12-29 20:15 -0800
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/prepare-for-a-profitable-2017-by-doing-a-2016-post-analysis
 ---
 
 

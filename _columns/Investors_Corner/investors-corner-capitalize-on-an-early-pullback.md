@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Capitalize On An Early Pullback
 date: 2011-03-25 17:33 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-capitalize-on-an-early-pullback
 ---
 
 

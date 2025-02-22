@@ -4,6 +4,7 @@ title: >-
   Hope Will Not Bring Stock Market Profits
 date: 2015-01-22 18:32 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-take-emotions-out-of-the-stock-market
 ---
 
 

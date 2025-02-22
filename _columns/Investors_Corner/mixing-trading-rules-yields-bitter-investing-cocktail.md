@@ -4,6 +4,7 @@ title: >-
   Mixing Trading Rules Yields Bitter Investing Cocktail
 date: 2011-02-25 16:52 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/mixing-trading-rules-yields-bitter-investing-cocktail
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Keep Eye Out For Base On Base
 date: 2014-08-05 15:59 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-find-great-stocks-5
 ---
 
 

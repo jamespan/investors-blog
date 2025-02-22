@@ -4,6 +4,7 @@ title: >-
   A Stock Rises Again After Its First Breakout Fails; Should You Buy The Second Time Around?
 date: 2024-05-20 08:00 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/a-stock-rises-again-after-its-first-breakout-fails-should-you-buy-again
 ---
 
 

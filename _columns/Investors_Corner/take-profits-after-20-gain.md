@@ -4,6 +4,7 @@ title: >-
   Don't Get Too Greedy: Take Profits After A 20% Gain
 date: 2013-08-29 16:56 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/take-profits-after-20-gain
 ---
 
 

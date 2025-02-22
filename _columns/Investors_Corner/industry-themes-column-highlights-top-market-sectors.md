@@ -4,6 +4,7 @@ title: >-
   Stay Abreast Of Top Sectors With IBD Industry Themes
 date: 2012-03-20 17:22 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/industry-themes-column-highlights-top-market-sectors
 ---
 
 

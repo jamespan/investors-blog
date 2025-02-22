@@ -4,6 +4,7 @@ title: >-
   What Do Apple, Under Armour, Other Top Growth Stocks Have In Common? A Bottoming Base
 date: 2019-11-20 15:35 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investing-after-a-market-deep-freeze-how-to-spot-the-bottoming-base
 ---
 
 

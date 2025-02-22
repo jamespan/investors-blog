@@ -4,6 +4,7 @@ title: >-
   Supply-Demand Rating Gauges A Stock's Trading Intensity
 date: 2014-01-30 16:53 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/supply-demand-rating-gauges-trading-intensity
 ---
 
 

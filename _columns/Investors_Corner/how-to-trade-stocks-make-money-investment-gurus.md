@@ -4,6 +4,7 @@ title: >-
   How To Trade Growth Stocks, Make Money: Why You Shouldn't Rely On Investment Gurus
 date: 2018-08-24 19:00 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-stocks-make-money-investment-gurus
 ---
 
 

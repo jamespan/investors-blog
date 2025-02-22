@@ -4,6 +4,7 @@ title: >-
   How To Read Stock Charts: Alphabet Stock Surged More Than 63% After Breaking Out Past This Bullish Pattern
 date: 2024-10-01 08:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/alphabet-stock-this-bullish-pattern-sparked-a-huge-gain-in-2021
 ---
 
 

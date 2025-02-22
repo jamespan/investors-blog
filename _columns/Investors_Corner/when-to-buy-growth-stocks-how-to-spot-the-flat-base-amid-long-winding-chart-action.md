@@ -4,6 +4,7 @@ title: >-
   How To Spot The Flat Base In This Kind Of Chart Action By Growth Stocks
 date: 2019-11-24 20:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-buy-growth-stocks-how-to-spot-the-flat-base-amid-long-winding-chart-action
 ---
 
 

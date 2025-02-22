@@ -4,6 +4,7 @@ title: >-
   Conservative Investing Wisdom That Pays: The 20% Stock Profit Rule
 date: 2015-09-01 14:52 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-when-to-lock-in-profit
 ---
 
 

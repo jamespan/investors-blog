@@ -4,6 +4,7 @@ title: >-
   Facebook, Other Sector Leaders Buck Market Turbulence
 date: 2014-09-23 18:48 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/handful-of-top-stocks-holding-up-well
 ---
 
 

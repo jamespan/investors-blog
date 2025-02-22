@@ -4,6 +4,7 @@ title: >-
   Stock Action Intraday And At Close Offer Useful Clues
 date: 2014-10-24 14:58 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-can-a-stock-chart-tell-me
 ---
 
 

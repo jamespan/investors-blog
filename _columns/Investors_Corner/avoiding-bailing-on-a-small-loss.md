@@ -4,6 +4,7 @@ title: >-
   Don't Sell Too Early; Give Your Stock Room To Breathe
 date: 2013-07-31 16:39 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/avoiding-bailing-on-a-small-loss
 ---
 
 

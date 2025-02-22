@@ -4,6 +4,7 @@ title: >-
   How To Draw Trendlines And Find Lower Buy Points In Stock Charts
 date: 2024-09-09 08:00 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-draw-trendlines-and-find-lower-buy-points-in-stock-charts
 ---
 
 

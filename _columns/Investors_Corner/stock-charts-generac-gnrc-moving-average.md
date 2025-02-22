@@ -4,6 +4,7 @@ title: >-
   Want A Simple Tool To Sell? Straight Line On Stock Charts Is Your Ticket
 date: 2024-07-19 08:33 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-charts-generac-gnrc-moving-average
 ---
 
 

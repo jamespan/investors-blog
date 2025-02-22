@@ -4,6 +4,7 @@ title: >-
   Why Accumulation Can Tip Odds For Quality Stocks
 date: 2014-01-31 18:29 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-judge-institutional-activity-in-stock
 ---
 
 

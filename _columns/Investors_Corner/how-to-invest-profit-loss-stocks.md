@@ -4,6 +4,7 @@ title: >-
   Use This Vital Trading Tool So Profits Outweigh Losses
 date: 2019-02-15 13:57 -0800
 author: JUSTIN NIELSEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-profit-loss-stocks
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Psych 105: Don't Hope, Hang On After A Stock's Peak
 date: 2011-02-11 17:42 -0800
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/psych-105-dont-hope-hang-on-after-a-stocks-peak
 ---
 
 

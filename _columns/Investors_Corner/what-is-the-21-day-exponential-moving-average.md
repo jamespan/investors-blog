@@ -4,6 +4,7 @@ title: >-
   The 21-Day Exponential Moving Average: Why This Is Your New Edge
 date: 2024-05-25 08:15 -0700
 author: MIKE WEBSTER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-the-21-day-exponential-moving-average
 ---
 
 

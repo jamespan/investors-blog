@@ -4,6 +4,7 @@ title: >-
   How To Invest: Sticking To Rules Is True Challenge
 date: 2016-05-11 13:43 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-sticking-to-rules-is-true-challenge
 ---
 
 

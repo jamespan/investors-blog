@@ -4,6 +4,7 @@ title: >-
   P-E Expansion Rule Gives You A Useful Target Price
 date: 2012-05-29 17:23 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/pe-expansion-formula-gives-you-target-price
 ---
 
 

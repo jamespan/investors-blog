@@ -4,6 +4,7 @@ title: >-
   How To Invest: Sales Growth Crucial To Great Stocks
 date: 2013-06-12 18:18 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/look-for-outstanding-sales-growths-among-stocks
 ---
 
 

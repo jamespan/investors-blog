@@ -4,6 +4,7 @@ title: >-
   How To Invest: Don't Forget To Look At 3-Year Growth
 date: 2012-07-27 15:35 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learning-about-ibd-stock-checkup
 ---
 
 

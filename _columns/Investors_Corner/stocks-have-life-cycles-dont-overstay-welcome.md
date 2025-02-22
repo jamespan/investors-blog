@@ -4,6 +4,7 @@ title: >-
   Stocks Have Life Cycles; Don't Overstay Welcome
 date: 2016-11-23 10:17 -0800
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stocks-have-life-cycles-dont-overstay-welcome
 ---
 
 

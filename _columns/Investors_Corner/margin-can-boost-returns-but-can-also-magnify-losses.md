@@ -4,6 +4,7 @@ title: >-
   Margin Can Boost Returns, But Can Also Magnify Losses
 date: 2014-04-09 17:15 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/margin-can-boost-returns-but-can-also-magnify-losses
 ---
 
 

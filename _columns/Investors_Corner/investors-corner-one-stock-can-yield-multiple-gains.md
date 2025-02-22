@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: One Stock Can Yield Multiple Gains
 date: 2011-06-08 17:34 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-one-stock-can-yield-multiple-gains
 ---
 
 

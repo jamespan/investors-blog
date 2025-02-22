@@ -4,6 +4,7 @@ title: >-
   Enhance Stock Market Returns With Higher-Priced Stocks; Cheap Stocks Are Cheap For A Reason
 date: 2024-05-13 08:00 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-returns-enhanced-with-higher-priced-stocks
 ---
 
 

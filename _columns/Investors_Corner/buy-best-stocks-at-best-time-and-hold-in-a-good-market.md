@@ -4,6 +4,7 @@ title: >-
   Sitting Tight In Stock Is Best, If Market Allows It
 date: 2012-08-21 17:18 -0700
 author: 
+origin_url: https://www.investors.com/how-to-invest/investors-corner/buy-best-stocks-at-best-time-and-hold-in-a-good-market
 ---
 
 

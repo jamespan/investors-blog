@@ -4,6 +4,7 @@ title: >-
   The 'L' In CANSLIM Stands For Leaders, Not Laggards
 date: 2013-09-11 18:29 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/leading-stocks-produce-best-returns
 ---
 
 

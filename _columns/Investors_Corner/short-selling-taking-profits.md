@@ -4,6 +4,7 @@ title: >-
   Take Profits Judiciously When You're Short A Stock
 date: 2016-01-08 17:25 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/short-selling-taking-profits
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Build Long-Term Profits In Stocks? Take Many Gains At 20%-25%
 date: 2023-12-19 08:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-build-long-term-profits-in-stocks-take-many-gains-at-20-25
 ---
 
 

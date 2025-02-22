@@ -4,6 +4,7 @@ title: >-
   Scour Mutual Fund Special Sections For Great Ideas
 date: 2014-11-12 16:59 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/scour-mutual-fund-special-sections-for-great-ideas
 ---
 
 

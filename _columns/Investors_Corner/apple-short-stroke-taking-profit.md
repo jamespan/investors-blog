@@ -4,6 +4,7 @@ title: >-
   Apple's Short Stroke Signaled A Profitable Trade
 date: 2014-06-12 16:56 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/apple-short-stroke-taking-profit
 ---
 
 

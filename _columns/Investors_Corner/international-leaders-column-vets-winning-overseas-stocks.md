@@ -4,6 +4,7 @@ title: >-
   International Leaders: Get Insight Into Foreign Stocks
 date: 2012-03-12 18:26 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/international-leaders-column-vets-winning-overseas-stocks
 ---
 
 

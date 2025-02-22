@@ -4,6 +4,7 @@ title: >-
   Smart Chart Reading: How Properly Formed Cup-Base Patterns Should Look
 date: 2016-07-05 14:06 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/smart-chart-reading-how-a-properly-formed-cup-base-pattern-should-look
 ---
 
 

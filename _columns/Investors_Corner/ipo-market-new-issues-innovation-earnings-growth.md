@@ -4,6 +4,7 @@ title: >-
   Recent New Issues Tend To Be Hotbeds For Innovation
 date: 2015-11-27 16:12 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ipo-market-new-issues-innovation-earnings-growth
 ---
 
 

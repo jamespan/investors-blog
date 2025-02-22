@@ -4,6 +4,7 @@ title: >-
   Look At That Base: If You Can't Name It, Don't Buy It
 date: 2012-12-04 17:19 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/if-you-cant-name-it-dont-buy-it
 ---
 
 

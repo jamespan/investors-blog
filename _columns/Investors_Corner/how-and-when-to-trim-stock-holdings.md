@@ -4,6 +4,7 @@ title: >-
   A Few Lessons From 3D Systems On How To Lock In Gains
 date: 2015-02-12 17:50 -0800
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-and-when-to-trim-stock-holdings
 ---
 
 

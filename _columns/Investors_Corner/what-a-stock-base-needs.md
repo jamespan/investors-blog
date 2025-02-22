@@ -4,6 +4,7 @@ title: >-
   Upside Trade In Base Is Key Factor In Stock's Success
 date: 2013-07-09 17:01 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-a-stock-base-needs
 ---
 
 

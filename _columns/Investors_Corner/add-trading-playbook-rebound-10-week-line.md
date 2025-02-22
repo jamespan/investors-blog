@@ -4,6 +4,7 @@ title: >-
   Add This To Your Stock Trading Playbook: A Big Rebound Off The 10-Week Line
 date: 2019-11-12 18:25 -0800
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/add-trading-playbook-rebound-10-week-line
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How Much Money Do You Need To Start Investing In Stocks?
 date: 2022-08-09 08:00 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-much-money-do-you-need-to-start-investing
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Want To Smash Your Stock Picking? Copy The Best Funds. Here's How.
 date: 2024-12-31 08:00 -0800
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/before-buying-stocks-check-the-institutional-ownership
 ---
 
 

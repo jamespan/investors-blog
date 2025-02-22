@@ -4,6 +4,7 @@ title: >-
   What Made FleetCor One Of The Best Stocks Of 2013
 date: 2013-12-30 17:52 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/fleetcor-among-years-biggest-winners
 ---
 
 

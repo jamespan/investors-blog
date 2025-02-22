@@ -4,6 +4,7 @@ title: >-
   Know This Sell Signal: The Biggest Single-Day Point Loss After A Breakout
 date: 2017-06-29 09:18 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/know-this-sell-signal-the-biggest-single-day-point-loss-after-a-breakout
 ---
 
 

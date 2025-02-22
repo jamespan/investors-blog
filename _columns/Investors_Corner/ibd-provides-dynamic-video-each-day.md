@@ -4,6 +4,7 @@ title: >-
   How To Invest: Check Out IBD TV's Market Wrap Video
 date: 2012-11-08 15:04 -0800
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-provides-dynamic-video-each-day
 ---
 
 

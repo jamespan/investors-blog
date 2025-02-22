@@ -4,6 +4,7 @@ title: >-
   Recognize A Climax Top Before Losses Pile Up
 date: 2011-03-11 17:35 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/recognize-a-climax-top-before-losses-pile-up
 ---
 
 

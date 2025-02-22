@@ -4,6 +4,7 @@ title: >-
   How To Invest: Spot The Base-On-Base For Big Gains
 date: 2013-07-03 18:27 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/base-on-base-chart-pattern
 ---
 
 

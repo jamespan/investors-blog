@@ -4,6 +4,7 @@ title: >-
   Climax Top Signals When It Is Time To Sell Into Strength And Take Profits
 date: 2017-05-05 15:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/climax-top-signals-when-it-is-time-to-sell-into-strength-and-take-profits
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Cyclical Vs. Growth Stocks: Know Why They Differ
 date: 2015-05-21 16:22 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/should-i-buy-cyclical-stocks
 ---
 
 

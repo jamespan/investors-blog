@@ -4,6 +4,7 @@ title: >-
   IBD's 20 Rules: #13 Managers' Stake In Firm Is Key
 date: 2011-09-29 16:26 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibds-20-rules-13-managers-stake-in-firm-is-key
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   IBD Stock Analysis Liked Facebook Ahead Of Breakouts
 date: 2015-03-16 18:54 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-facebook-stock
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Fed Action Led To 1998 Follow-Through
 date: 2011-05-23 18:37 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-fed-action-led-to-1998-follow-through
 ---
 
 

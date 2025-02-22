@@ -4,6 +4,7 @@ title: >-
   When To Buy Stocks: Why The Put-Call Volume Ratio Can Help Spot Major Turning Points
 date: 2019-12-05 11:58 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/do-options-activity-tell-you-theres-too-much-complacency-read-this-first
 ---
 
 

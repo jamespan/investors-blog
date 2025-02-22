@@ -4,6 +4,7 @@ title: >-
   Google's IPO Base Brought About Big Gains
 date: 2014-05-30 17:49 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ipo-bases-can-produce-large-gains
 ---
 
 

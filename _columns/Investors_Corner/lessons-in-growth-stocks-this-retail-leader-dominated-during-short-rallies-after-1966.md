@@ -4,6 +4,7 @@ title: >-
   William O'Neil On Top Growth Stocks: This Retail Leader Dominated In Rallies After 1966
 date: 2019-03-14 16:30 -0700
 author: WILLIAM J. O'NEIL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/lessons-in-growth-stocks-this-retail-leader-dominated-during-short-rallies-after-1966
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Go With The Flow: Buy Stocks Only In Rising Market
 date: 2012-11-06 17:06 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-trend-is-your-friend
 ---
 
 

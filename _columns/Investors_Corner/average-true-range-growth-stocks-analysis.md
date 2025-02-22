@@ -4,6 +4,7 @@ title: >-
   Average True Range: Your New Tool To Avoid Excessive Swings In Growth Stocks
 date: 2024-12-13 08:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/average-true-range-growth-stocks-analysis
 ---
 
 

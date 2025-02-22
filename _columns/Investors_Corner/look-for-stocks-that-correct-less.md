@@ -4,6 +4,7 @@ title: >-
   Smaller Is Better When It Comes To Declines In A Base
 date: 2015-09-30 16:06 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/look-for-stocks-that-correct-less
 ---
 
 

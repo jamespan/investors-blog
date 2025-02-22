@@ -4,6 +4,7 @@ title: >-
   Starbucks' Run In 2014-2015 Shows Why Weekly, Daily Stock Charts Each Have Role
 date: 2017-11-01 15:23 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/starbucks-run-in-2014-2015-shows-why-weekly-daily-stock-charts-each-have-role
 ---
 
 

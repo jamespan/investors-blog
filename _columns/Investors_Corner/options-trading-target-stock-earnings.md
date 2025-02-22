@@ -4,6 +4,7 @@ title: >-
   How To Trade Growth Stocks: Why Options Trading Isn't As Risky As You Might Think
 date: 2018-08-23 17:15 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/options-trading-target-stock-earnings
 ---
 
 

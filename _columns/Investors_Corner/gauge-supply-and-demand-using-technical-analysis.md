@@ -4,6 +4,7 @@ title: >-
   How To Trade Stocks: Technical Tools Plentiful But Keep It Simple To Start
 date: 2019-03-14 11:45 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/gauge-supply-and-demand-using-technical-analysis
 ---
 
 

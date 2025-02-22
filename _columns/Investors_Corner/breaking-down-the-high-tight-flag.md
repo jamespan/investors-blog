@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Breaking Down The High, Tight Flag
 date: 2014-02-19 17:21 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/breaking-down-the-high-tight-flag
 ---
 
 

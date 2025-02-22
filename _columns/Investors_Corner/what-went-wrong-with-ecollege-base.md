@@ -4,6 +4,7 @@ title: >-
   What Went Wrong With eCollege's Cup-With-Handle Base?
 date: 2013-11-06 16:37 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-went-wrong-with-ecollege-base
 ---
 
 

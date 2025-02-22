@@ -4,6 +4,7 @@ title: >-
   Are Too Many Money-Losing IPO Stocks A Sign Of A Market Peak?
 date: 2017-06-15 18:31 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/are-too-many-money-losing-ipo-stocks-a-sign-of-a-market-peak
 ---
 
 

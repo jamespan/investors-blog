@@ -4,6 +4,7 @@ title: >-
   Don't Give Up Too Fast On A Stock's Very Deep Base
 date: 2012-12-20 16:55 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-deep-base-correction-lumber-liquidators-investing
 ---
 
 

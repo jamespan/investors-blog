@@ -4,6 +4,7 @@ title: >-
   OpenTable Exemplifies The Power Of The Rare Ascending Base Pattern
 date: 2018-06-15 14:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-rare-ascending-base-pattern
 ---
 
 

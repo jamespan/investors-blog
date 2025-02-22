@@ -4,6 +4,7 @@ title: >-
   The Double-Bottom Chart: Good For Bullish Breakouts
 date: 2015-09-15 17:13 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/technical-analysis-of-double-bottom-breakouts
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Look For IPO Stocks In Bases With A Strong Up/Down Volume Ratio
 date: 2016-04-07 13:48 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/look-for-ipo-stocks-with-strong-updown-volume-ratio
 ---
 
 

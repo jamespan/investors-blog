@@ -4,6 +4,7 @@ title: >-
   IBD Investing Show: 3 Reasons To Tune In Regularly
 date: 2015-10-29 18:23 -0700
 author: Adam Spreer
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-investing-show-how-to-make-money-in-stocks
 ---
 
 

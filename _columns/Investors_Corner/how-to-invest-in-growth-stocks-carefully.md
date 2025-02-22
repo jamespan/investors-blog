@@ -4,6 +4,7 @@ title: >-
   How To Invest: Even Top Growth Stocks May Show A Flaw
 date: 2013-03-21 17:19 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-in-growth-stocks-carefully
 ---
 
 

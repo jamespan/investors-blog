@@ -4,6 +4,7 @@ title: >-
   How To Invest: Learn To Read Charts, Find Top Stocks
 date: 2015-03-13 16:17 -0700
 author: Adam Spreer
+origin_url: https://www.investors.com/how-to-invest/investors-corner/find-great-stocks
 ---
 
 

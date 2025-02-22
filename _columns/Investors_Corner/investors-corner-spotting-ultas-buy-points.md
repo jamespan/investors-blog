@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Spotting Ulta's Buy Points
 date: 2011-08-03 18:23 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-spotting-ultas-buy-points
 ---
 
 

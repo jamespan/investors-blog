@@ -4,6 +4,7 @@ title: >-
   Learning To Sell Short Can Help You Spot Long Exits
 date: 2014-10-08 16:22 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/shorting-can-help-with-long-trade
 ---
 
 

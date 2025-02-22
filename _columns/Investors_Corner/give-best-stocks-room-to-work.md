@@ -4,6 +4,7 @@ title: >-
   Patience, Discipline Key For Emerging Stock Leaders
 date: 2014-04-08 16:13 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/give-best-stocks-room-to-work
 ---
 
 

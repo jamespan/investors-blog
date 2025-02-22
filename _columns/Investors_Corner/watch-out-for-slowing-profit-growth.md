@@ -4,6 +4,7 @@ title: >-
   Sharp Deceleration In Earnings Growth Points To Sell Signal
 date: 2015-07-08 17:16 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/watch-out-for-slowing-profit-growth
 ---
 
 

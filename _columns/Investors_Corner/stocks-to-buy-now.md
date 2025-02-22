@@ -4,6 +4,7 @@ title: >-
   How To Play The Deep Base? MercadoLibre Holds Answer
 date: 2015-02-19 14:07 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stocks-to-buy-now
 ---
 
 

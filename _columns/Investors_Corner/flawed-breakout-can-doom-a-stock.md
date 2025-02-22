@@ -4,6 +4,7 @@ title: >-
   Trouble At A Stock's Breakout Could Be Sell Signal
 date: 2013-03-04 17:34 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/flawed-breakout-can-doom-a-stock
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Investor's Guide To The Universe: Cup-With-Handle Base
 date: 2015-09-11 17:27 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/know-your-cup-with-handle-bases
 ---
 
 

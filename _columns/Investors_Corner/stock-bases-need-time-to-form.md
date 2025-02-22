@@ -4,6 +4,7 @@ title: >-
   How To Trade: Don't Buy A Base That's Not Complete
 date: 2013-07-11 16:44 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-bases-need-time-to-form
 ---
 
 

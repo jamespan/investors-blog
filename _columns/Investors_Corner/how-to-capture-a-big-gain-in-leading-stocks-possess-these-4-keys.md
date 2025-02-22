@@ -4,6 +4,7 @@ title: >-
   How To Get Outstanding Gains In Leading Stocks? Find These 4 Keys
 date: 2018-07-11 18:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-capture-a-big-gain-in-leading-stocks-possess-these-4-keys
 ---
 
 

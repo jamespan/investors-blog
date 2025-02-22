@@ -4,6 +4,7 @@ title: >-
   Mine "Research Table Review" Column For Great Stocks
 date: 2012-03-08 17:06 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/mine-research-table-review-column-for-winners
 ---
 
 

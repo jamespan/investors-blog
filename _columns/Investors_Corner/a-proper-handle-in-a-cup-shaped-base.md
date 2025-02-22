@@ -4,6 +4,7 @@ title: >-
   Chart-Reading Basics: Nailing Down A Proper Midpoint
 date: 2015-05-04 18:16 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/a-proper-handle-in-a-cup-shaped-base
 ---
 
 

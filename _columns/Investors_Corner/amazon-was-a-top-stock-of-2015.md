@@ -4,6 +4,7 @@ title: >-
   Amazon Doubled In 2015 As Profit, Sales Rebounded
 date: 2015-12-22 17:48 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/amazon-was-a-top-stock-of-2015
 ---
 
 

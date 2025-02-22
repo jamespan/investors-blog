@@ -4,6 +4,7 @@ title: >-
   Everything You Need To Know About Buying A Great New IPO
 date: 2016-09-30 19:29 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/everything-you-need-to-know-about-buying-an-ipo
 ---
 
 

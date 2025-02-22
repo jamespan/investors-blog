@@ -4,6 +4,7 @@ title: >-
   Could You Have Spotted Black Monday, The 1987 Stock Market Top? Yes, Here's How
 date: 2019-10-29 14:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/could-you-have-spotted-the-1987-stock-market-top-yes-heres-how
 ---
 
 

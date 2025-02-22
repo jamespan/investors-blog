@@ -4,6 +4,7 @@ title: >-
   This Early Telltale Sign Got Investors 38% Gain In Two Months On Netflix Stock
 date: 2024-06-20 08:00 -0700
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/netflix-stock-jumped-from-this-early-tell-tale-sign
 ---
 
 

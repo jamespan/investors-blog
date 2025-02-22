@@ -4,6 +4,7 @@ title: >-
   How To Invest: Use Lessons From An Awful 2022 To Win In 2023
 date: 2022-12-30 08:00 -0800
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-lessons-from-2022-can-prepare-you-for-2023
 ---
 
 

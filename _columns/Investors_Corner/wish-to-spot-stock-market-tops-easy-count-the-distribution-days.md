@@ -4,6 +4,7 @@ title: >-
   Wish To Spot Stock Market Tops? Easy: Count The Distribution Days
 date: 2016-09-06 12:30 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/wish-to-spot-stock-market-tops-easy-count-the-distribution-days
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Invest: Why Stock Checkup Is A CAN SLIM Research Trove
 date: 2017-08-15 13:12 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-why-stock-checkup-is-a-can-slim-research-trove
 ---
 
 

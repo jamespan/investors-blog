@@ -4,6 +4,7 @@ title: >-
   How To Use Stock Charts In Growth Stocks: Why Tightness Reveals Accumulation By Big Investors
 date: 2019-10-15 18:00 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/tight-action-reveals-accumulation
 ---
 
 

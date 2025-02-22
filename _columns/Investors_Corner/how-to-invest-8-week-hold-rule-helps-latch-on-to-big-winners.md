@@ -4,6 +4,7 @@ title: >-
   How To Invest: 8-Week Hold Rule Helps Latch On To Big Winners
 date: 2024-02-07 08:00 -0800
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-8-week-hold-rule-helps-latch-on-to-big-winners
 ---
 
 

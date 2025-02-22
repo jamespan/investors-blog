@@ -4,6 +4,7 @@ title: >-
   Find Trade Candidates Via Sector Leaders, Aftermarket
 date: 2013-04-19 17:34 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/finding-stock-market-winners
 ---
 
 

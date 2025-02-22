@@ -4,6 +4,7 @@ title: >-
   Don't Let Fear Freeze You At The Right Moment To Buy
 date: 2015-08-21 17:49 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/fear-makes-investors-afraid-to-buy
 ---
 
 

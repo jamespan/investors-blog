@@ -4,6 +4,7 @@ title: >-
   Use This Chart Pattern To Know When Stocks Have Topped And You Can Sell Short
 date: 2022-07-08 10:00 -0700
 author: RACHEL FOX
+origin_url: https://www.investors.com/how-to-invest/investors-corner/use-this-chart-pattern-to-know-when-stocks-have-topped-and-you-can-sell-short
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Reebok: A Lesson In Investor Patience
 date: 2014-06-04 17:12 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/reebok-formed-ipo-base-then-conventional-base
 ---
 
 

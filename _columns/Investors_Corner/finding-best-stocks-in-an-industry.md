@@ -4,6 +4,7 @@ title: >-
   How To Industriously Find An Industry's Top Stocks
 date: 2015-11-13 15:48 -0800
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/finding-best-stocks-in-an-industry
 ---
 
 

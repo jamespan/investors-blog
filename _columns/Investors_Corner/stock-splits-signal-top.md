@@ -4,6 +4,7 @@ title: >-
   Splitsville: Understanding Stock Splits As Ill Omens
 date: 2013-05-02 16:41 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-splits-signal-top
 ---
 
 

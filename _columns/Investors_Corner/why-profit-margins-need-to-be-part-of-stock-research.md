@@ -4,6 +4,7 @@ title: >-
   Why Profit Margins Need To Be Part Of Your Stock Research
 date: 2016-02-04 13:11 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-profit-margins-need-to-be-part-of-stock-research
 ---
 
 

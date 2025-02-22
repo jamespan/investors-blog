@@ -4,6 +4,7 @@ title: >-
   Growth Stocks Workday, Twilio, ServiceNow Share This In Common: Relative Strength
 date: 2019-02-23 17:55 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-workday-twilio-servicenow-relative-strength
 ---
 
 

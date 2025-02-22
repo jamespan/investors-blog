@@ -4,6 +4,7 @@ title: >-
   Great Stocks Often Have Smooth, Symmetrical Bases
 date: 2015-02-20 17:39 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/salix-broke-out-of-great-base
 ---
 
 

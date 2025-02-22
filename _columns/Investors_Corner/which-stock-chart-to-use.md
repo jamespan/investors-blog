@@ -4,6 +4,7 @@ title: >-
   In Stock Investing, Is Daily Or Weekly Chart Best?
 date: 2015-04-08 16:41 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/which-stock-chart-to-use
 ---
 
 

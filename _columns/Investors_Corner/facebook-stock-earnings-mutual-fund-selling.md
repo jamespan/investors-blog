@@ -4,6 +4,7 @@ title: >-
   Thinking Of Buying This FANG Stock? Read This First
 date: 2018-08-02 17:20 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/facebook-stock-earnings-mutual-fund-selling
 ---
 
 

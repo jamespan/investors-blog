@@ -4,6 +4,7 @@ title: >-
   How To Trade: The M in CAN SLIM Stands For Market
 date: 2013-02-26 18:10 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-m-in-can-slim
 ---
 
 

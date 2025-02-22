@@ -4,6 +4,7 @@ title: >-
   Biogen's Breach Of 50-Day Line Was Clear Sell Signal
 date: 2015-11-02 16:23 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/biogens-breach-of-50-day-line-was-clear-sell-signal
 ---
 
 

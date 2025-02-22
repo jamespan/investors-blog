@@ -4,6 +4,7 @@ title: >-
   Chasing Stock Can Tempt Investor To Break More Rules
 date: 2014-03-19 17:05 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-chasing-a-stock-is-risky
 ---
 
 

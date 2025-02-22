@@ -4,6 +4,7 @@ title: >-
   Smart Chart Reading: Know The Elements Of A Good Saucer Base
 date: 2016-06-22 13:17 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/smart-chart-reading-know-the-elements-of-a-good-saucer-base
 ---
 
 

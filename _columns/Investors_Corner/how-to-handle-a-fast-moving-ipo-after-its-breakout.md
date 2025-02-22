@@ -4,6 +4,7 @@ title: >-
   How To Handle A Fast-Moving IPO After Its Initial Breakout
 date: 2016-04-05 13:47 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-handle-a-fast-moving-ipo-after-its-breakout
 ---
 
 

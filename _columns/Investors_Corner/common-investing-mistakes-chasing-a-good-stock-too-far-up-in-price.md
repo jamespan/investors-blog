@@ -4,6 +4,7 @@ title: >-
   Common Investing Mistakes: Chasing A Good Stock Too Far Up In Price
 date: 2016-06-07 15:13 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/common-investing-mistakes-chasing-a-good-stock-too-far-up-in-price
 ---
 
 

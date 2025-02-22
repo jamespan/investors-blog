@@ -4,6 +4,7 @@ title: >-
   EBay's Breakout Proves Adage 'If You Snooze, You Lose'
 date: 2015-10-14 15:34 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/keep-track-of-market-during-bear
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   7 Reasons The Stock Market Isn't What Many Think It Is
 date: 2019-11-01 08:30 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/7-reasons-the-stock-market-isnt-what-many-think-it-is
 ---
 
 

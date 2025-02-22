@@ -4,6 +4,7 @@ title: >-
   Base-On-Base Offers Opportunity in New Bull Market
 date: 2014-02-20 16:53 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/base-on-base-offers-opportunity
 ---
 
 

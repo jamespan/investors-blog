@@ -4,6 +4,7 @@ title: >-
   How To Find Top Stocks: SMR Rating Drills Into Fundamentals
 date: 2019-11-19 14:45 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-find-top-stocks-2
 ---
 
 

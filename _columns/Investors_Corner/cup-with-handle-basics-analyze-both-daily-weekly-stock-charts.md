@@ -4,6 +4,7 @@ title: >-
   Cup-With-Handle Basics: Analyze Both Daily, Weekly Stock Charts
 date: 2017-01-31 15:54 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/cup-with-handle-basics-analyze-both-daily-weekly-stock-charts
 ---
 
 

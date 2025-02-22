@@ -4,6 +4,7 @@ title: >-
   Double-Bottom Pattern Can Yield Solid Breakouts
 date: 2014-02-11 17:00 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/double-bottom-pattern-can-yield-solid-breakouts
 ---
 
 

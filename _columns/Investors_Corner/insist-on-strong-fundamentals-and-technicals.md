@@ -4,6 +4,7 @@ title: >-
   Don't Make Mistake Of Not Consulting A Stock Chart
 date: 2014-01-10 16:44 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/insist-on-strong-fundamentals-and-technicals
 ---
 
 

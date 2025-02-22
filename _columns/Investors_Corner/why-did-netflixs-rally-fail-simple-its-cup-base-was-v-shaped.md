@@ -4,6 +4,7 @@ title: >-
   Why Did Netflix's Rally Fail? Simple: Its Cup Base Was V-Shaped
 date: 2016-08-30 11:43 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-did-netflixs-rally-fail-simple-its-cup-base-was-v-shaped
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: How To Utilize IBD's Screen Center
 date: 2011-05-11 15:54 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-how-to-utilize-ibds-screen-center
 ---
 
 

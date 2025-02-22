@@ -4,6 +4,7 @@ title: >-
   Following The Leaders Is Key To Investment Success
 date: 2014-07-23 18:02 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-l-in-canslim-stands-for-leaders
 ---
 
 

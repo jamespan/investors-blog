@@ -4,6 +4,7 @@ title: >-
   How To Invest: Handles Also Form On Flat Bases
 date: 2013-02-05 17:33 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-charts-investing-invest-handle-buy-point
 ---
 
 

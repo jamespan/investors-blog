@@ -4,6 +4,7 @@ title: >-
   Learn To Invest: Put Cash To Work At Add-On Points
 date: 2013-08-01 17:51 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-to-use-add-on-buy-points
 ---
 
 

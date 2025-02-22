@@ -4,6 +4,7 @@ title: >-
   IBD's Market Outlook: A Guide To The Different Designations
 date: 2024-02-01 08:00 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibds-market-outlook-a-guide-to-the-different-designations
 ---
 
 

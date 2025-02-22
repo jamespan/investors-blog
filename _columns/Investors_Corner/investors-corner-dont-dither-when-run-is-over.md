@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Don't Dither When Run Is Over
 date: 2011-07-28 18:15 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-dont-dither-when-run-is-over
 ---
 
 

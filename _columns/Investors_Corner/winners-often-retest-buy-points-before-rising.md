@@ -4,6 +4,7 @@ title: >-
   Winners Often Retest Buy Points Before Running Up
 date: 2012-10-26 16:37 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/winners-often-retest-buy-points-before-rising
 ---
 
 

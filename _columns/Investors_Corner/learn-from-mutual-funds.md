@@ -4,6 +4,7 @@ title: >-
   Fund, ETF Action Can Help Stock-Pickers Gauge Market
 date: 2013-04-16 16:47 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-from-mutual-funds
 ---
 
 

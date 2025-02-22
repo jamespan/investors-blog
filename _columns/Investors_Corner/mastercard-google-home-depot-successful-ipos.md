@@ -4,6 +4,7 @@ title: >-
   MasterCard's IPO Base Was Picture Perfect In 2006
 date: 2015-04-27 18:45 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/mastercard-google-home-depot-successful-ipos
 ---
 
 

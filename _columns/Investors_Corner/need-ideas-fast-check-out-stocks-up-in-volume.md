@@ -4,6 +4,7 @@ title: >-
   Need Strong Stock Ideas Fast? IBD Market Pulse Can Help
 date: 2016-03-02 18:17 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/need-ideas-fast-check-out-stocks-up-in-volume
 ---
 
 

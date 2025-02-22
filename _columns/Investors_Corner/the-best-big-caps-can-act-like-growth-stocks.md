@@ -4,6 +4,7 @@ title: >-
   Big-Cap Stocks Show Slow-And-Steady Can Win The Race
 date: 2015-11-11 18:10 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-best-big-caps-can-act-like-growth-stocks
 ---
 
 

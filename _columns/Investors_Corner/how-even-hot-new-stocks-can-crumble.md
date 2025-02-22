@@ -4,6 +4,7 @@ title: >-
   Investor, Beware: Even Hot New Stocks Can Crumble Fast
 date: 2016-03-30 13:20 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-even-hot-new-stocks-can-crumble
 ---
 
 

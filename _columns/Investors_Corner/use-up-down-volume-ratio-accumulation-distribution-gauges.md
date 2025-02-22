@@ -4,6 +4,7 @@ title: >-
   How To Invest: Up-Down Volume Ratio Tracks Big Demand
 date: 2011-12-27 18:43 -0800
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/use-up-down-volume-ratio-accumulation-distribution-gauges
 ---
 
 

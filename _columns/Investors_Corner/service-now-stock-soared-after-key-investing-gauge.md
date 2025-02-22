@@ -4,6 +4,7 @@ title: >-
   Why Earnings Growth Is Crucial Element Of Winning Stocks; ServiceNow Stock Showed How
 date: 2023-03-06 08:00 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/service-now-stock-soared-after-key-investing-gauge
 ---
 
 

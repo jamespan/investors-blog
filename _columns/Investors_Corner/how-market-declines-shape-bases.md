@@ -4,6 +4,7 @@ title: >-
   How To Invest: Market Declines Influence Stock Bases
 date: 2015-01-16 14:49 -0800
 author: Juan Carlos Arancibia
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-market-declines-shape-bases
 ---
 
 

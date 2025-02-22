@@ -4,6 +4,7 @@ title: >-
   How To Invest: Shun Stocks With Falling Profit Growth
 date: 2014-12-05 18:29 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/avoid-stocks-with-rapidly-shrinking-profit-growth
 ---
 
 

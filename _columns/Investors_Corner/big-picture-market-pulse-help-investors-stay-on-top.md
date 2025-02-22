@@ -4,6 +4,7 @@ title: >-
   Big Picture, Market Pulse Help Investors Stay On Top
 date: 2014-06-26 16:29 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/big-picture-market-pulse-help-investors-stay-on-top
 ---
 
 

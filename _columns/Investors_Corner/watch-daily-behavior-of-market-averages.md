@@ -4,6 +4,7 @@ title: >-
   How To Trade: See The Here And Now In Market Language
 date: 2012-12-19 16:39 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/watch-daily-behavior-of-market-averages
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Making Money In Growth Stocks: How To Find The Correct Buy Point
 date: 2024-05-14 22:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/chart-reading-basics-how-a-buy-point-marks-a-time-of-opportunity
 ---
 
 

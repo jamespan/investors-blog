@@ -4,6 +4,7 @@ title: >-
   Why IBD's Your Weekly Review Column Flags Big Stock Market Winners
 date: 2016-02-25 13:17 -0800
 author: PETER L. BOORN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-ibds-your-weekly-review-column-flags-big-stock-market-winners
 ---
 
 

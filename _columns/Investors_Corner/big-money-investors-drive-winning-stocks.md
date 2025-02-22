@@ -4,6 +4,7 @@ title: >-
   Smart Money, Funds And Stocks: The I In CAN SLIM
 date: 2012-10-05 17:15 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/big-money-investors-drive-winning-stocks
 ---
 
 

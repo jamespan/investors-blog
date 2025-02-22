@@ -4,6 +4,7 @@ title: >-
   Tight Trading Leads To Breakouts That Often Win
 date: 2013-01-30 16:10 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-spot-stock-winners
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How Follow-On Buy Points Gave Additional Chances To Buy PayPal During Its 100% Run
 date: 2024-03-27 08:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/paypal-stock-buy-points-how-to-trade-stocks
 ---
 
 

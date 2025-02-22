@@ -4,6 +4,7 @@ title: >-
   Shakeouts Are Unnerving But Healthy For Base-Building
 date: 2013-09-23 17:24 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/shakeouts-reward-patient-investors
 ---
 
 

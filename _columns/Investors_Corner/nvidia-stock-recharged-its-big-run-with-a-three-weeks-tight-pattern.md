@@ -4,6 +4,7 @@ title: >-
   How A Three-Weeks-Tight Pattern Recharged Nvidia's Big Run
 date: 2024-05-23 08:00 -0700
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/nvidia-stock-recharged-its-big-run-with-a-three-weeks-tight-pattern
 ---
 
 

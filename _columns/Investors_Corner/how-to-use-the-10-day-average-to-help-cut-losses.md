@@ -4,6 +4,7 @@ title: >-
   Should You Sell When A Stock Undercuts Its 10-Day Line? Sometimes, Yes
 date: 2016-08-15 16:02 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-use-the-10-day-average-to-help-cut-losses
 ---
 
 

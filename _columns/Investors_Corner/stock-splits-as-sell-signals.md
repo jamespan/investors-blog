@@ -4,6 +4,7 @@ title: >-
   When To Sell: Multiple Stock Splits Can Topple Leaders
 date: 2013-10-25 17:57 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-splits-as-sell-signals
 ---
 
 

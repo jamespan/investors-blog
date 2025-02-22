@@ -4,6 +4,7 @@ title: >-
   Don't Be Afraid To Buy When A Stock Gaps Up In Price
 date: 2015-10-27 16:28 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/gap-up-in-price-reveals-strong-demand
 ---
 
 

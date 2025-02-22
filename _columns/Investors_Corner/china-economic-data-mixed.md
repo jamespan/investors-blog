@@ -4,6 +4,7 @@ title: >-
   China: Industries Slip; Gas, Auto And Retail Sales Rise
 date: 2015-09-14 08:07 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/china-economic-data-mixed
 ---
 
 

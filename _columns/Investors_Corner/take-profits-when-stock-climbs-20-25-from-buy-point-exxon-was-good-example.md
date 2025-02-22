@@ -4,6 +4,7 @@ title: >-
   Take Profits When Stock Climbs 20%-25% From Buy Point; Exxon Was Good Example
 date: 2022-09-16 11:26 -0700
 author: MICHAEL MOLINSKI
+origin_url: https://www.investors.com/how-to-invest/investors-corner/take-profits-when-stock-climbs-20-25-from-buy-point-exxon-was-good-example
 ---
 
 

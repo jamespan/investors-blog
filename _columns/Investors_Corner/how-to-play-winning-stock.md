@@ -4,6 +4,7 @@ title: >-
   How To Invest: Playing Southwest Air Took Patience
 date: 2014-12-31 17:16 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-play-winning-stock
 ---
 
 

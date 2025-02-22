@@ -4,6 +4,7 @@ title: >-
   Take Profits Regularly, Mostly At 20%-25%
 date: 2011-01-03 18:16 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/take-profits-regularly-mostly-at-20-25
 ---
 
 

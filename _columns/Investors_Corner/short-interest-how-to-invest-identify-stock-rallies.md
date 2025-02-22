@@ -4,6 +4,7 @@ title: >-
   How To Invest: Short Interest Can Be Your Secret Weapon For Identifying Stock Rallies
 date: 2024-04-19 08:00 -0700
 author: RACHEL FOX
+origin_url: https://www.investors.com/how-to-invest/investors-corner/short-interest-how-to-invest-identify-stock-rallies
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   TransDigm Rewarded Investors Who Waited For Pullback
 date: 2012-06-07 17:07 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/transdigm-shows-leading-stocks-often-pull-back
 ---
 
 

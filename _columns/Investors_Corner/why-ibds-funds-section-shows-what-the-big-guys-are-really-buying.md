@@ -4,6 +4,7 @@ title: >-
   Why IBD's Funds Section Shows What The Big Guys Are Really Buying
 date: 2016-09-08 14:16 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-ibds-funds-section-shows-what-the-big-guys-are-really-buying
 ---
 
 

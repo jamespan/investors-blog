@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Flat Base, Square Box Are Similar
 date: 2011-07-05 17:04 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-flat-base-square-box-are-similar
 ---
 
 

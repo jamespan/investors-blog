@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Don't Confuse Flat Base As Square
 date: 2011-04-13 18:59 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-dont-confuse-flat-base-as-square
 ---
 
 

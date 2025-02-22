@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Focus On the Less Volatile Bases
 date: 2011-08-18 18:06 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-focus-on-the-less-volatile-bases
 ---
 
 

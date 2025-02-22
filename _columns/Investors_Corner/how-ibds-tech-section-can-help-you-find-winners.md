@@ -4,6 +4,7 @@ title: >-
   How IBD's Tech Section Can Help You Find Winners
 date: 2015-07-31 17:36 -0700
 author: ANDREW EDWARDS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-ibds-tech-section-can-help-you-find-winners
 ---
 
 

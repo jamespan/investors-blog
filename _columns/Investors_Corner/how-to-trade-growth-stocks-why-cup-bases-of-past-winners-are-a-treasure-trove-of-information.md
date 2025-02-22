@@ -4,6 +4,7 @@ title: >-
   How To Trade Growth Stocks: Why Cup Bases Of Past Winners Are A Treasure Trove Of Information
 date: 2019-09-24 11:45 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-growth-stocks-why-cup-bases-of-past-winners-are-a-treasure-trove-of-information
 ---
 
 

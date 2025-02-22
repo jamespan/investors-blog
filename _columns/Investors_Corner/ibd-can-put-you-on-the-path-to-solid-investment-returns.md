@@ -4,6 +4,7 @@ title: >-
   Tips On How To Learn IBD's CAN SLIM System Quickly
 date: 2012-09-19 18:53 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-can-put-you-on-the-path-to-solid-investment-returns
 ---
 
 

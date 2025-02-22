@@ -4,6 +4,7 @@ title: >-
   Excessive Splits Can Signal End Of Stock's Advance
 date: 2014-10-07 18:08 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/monsters-4for1-split-foreshadowed-selloff
 ---
 
 

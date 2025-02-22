@@ -4,6 +4,7 @@ title: >-
   Cup With Handle Works In Chinese Market Too
 date: 2013-09-27 17:19 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/changchun-high-and-new-technology-breakout
 ---
 
 

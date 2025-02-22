@@ -4,6 +4,7 @@ title: >-
   IBD's Price, Volume Bars In Color Help Identify Bases
 date: 2014-02-03 17:33 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/color-coded-price-and-volume-bars-aid-investors
 ---
 
 

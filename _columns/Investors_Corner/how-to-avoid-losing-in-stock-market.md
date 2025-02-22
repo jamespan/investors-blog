@@ -4,6 +4,7 @@ title: >-
   Too Early Or Too Late In Investing Leads To Too Bad
 date: 2014-09-16 17:54 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-avoid-losing-in-stock-market
 ---
 
 

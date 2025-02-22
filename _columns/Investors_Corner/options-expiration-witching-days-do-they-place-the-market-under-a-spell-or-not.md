@@ -4,6 +4,7 @@ title: >-
   Witching Days: Do They Place The Market Under A Spell?
 date: 2023-11-22 08:00 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/options-expiration-witching-days-do-they-place-the-market-under-a-spell-or-not
 ---
 
 

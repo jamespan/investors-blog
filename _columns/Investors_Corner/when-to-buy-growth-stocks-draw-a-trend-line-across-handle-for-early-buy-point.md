@@ -4,6 +4,7 @@ title: >-
   When To Buy Growth Stocks: Draw A Trend Line Across Handle For Early Buy Point
 date: 2018-04-16 15:26 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-buy-growth-stocks-draw-a-trend-line-across-handle-for-early-buy-point
 ---
 
 

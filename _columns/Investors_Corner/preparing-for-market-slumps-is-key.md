@@ -4,6 +4,7 @@ title: >-
   Russian Bear Struck In 1998, Sending Market Down 20%
 date: 2015-05-12 18:50 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/preparing-for-market-slumps-is-key
 ---
 
 

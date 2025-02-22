@@ -4,6 +4,7 @@ title: >-
   Bases Are CAN SLIM Investors' Bread And Butter Setups
 date: 2015-09-10 16:56 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/bases-are-just-chart-patterns
 ---
 
 

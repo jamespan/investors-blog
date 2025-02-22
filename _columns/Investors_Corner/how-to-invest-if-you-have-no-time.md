@@ -4,6 +4,7 @@ title: >-
   ETF Strategy, IBD University Are Paths For Rookies
 date: 2013-11-25 18:40 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-if-you-have-no-time
 ---
 
 

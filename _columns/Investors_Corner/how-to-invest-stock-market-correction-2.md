@@ -4,6 +4,7 @@ title: >-
   How To Invest After A Stock Market Correction: These 2 Traits Help You Win
 date: 2018-12-17 09:00 -0800
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-stock-market-correction-2
 ---
 
 

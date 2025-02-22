@@ -4,6 +4,7 @@ title: >-
   Insist On Price, Volume Minimums When You Screen Stocks
 date: 2015-11-12 17:22 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/do-not-cast-your-net-too-wide
 ---
 
 

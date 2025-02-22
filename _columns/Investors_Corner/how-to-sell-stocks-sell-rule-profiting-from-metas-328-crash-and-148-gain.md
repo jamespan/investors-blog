@@ -4,6 +4,7 @@ title: >-
   Don't Sit On Losses: How This Simple Rule Spared Investors From Meta's 77% Crash
 date: 2024-05-09 08:00 -0700
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-sell-stocks-sell-rule-profiting-from-metas-328-crash-and-148-gain
 ---
 
 

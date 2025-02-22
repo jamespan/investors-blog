@@ -4,6 +4,7 @@ title: >-
   Investing in Stocks 101: The Beginning Investor's Guide To Making More Money
 date: 2019-08-10 17:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investing-in-stocks-101
 ---
 
 

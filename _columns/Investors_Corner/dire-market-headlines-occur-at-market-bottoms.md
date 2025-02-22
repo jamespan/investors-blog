@@ -4,6 +4,7 @@ title: >-
   Ignore The Scare Headlines; Focus On The Market
 date: 2014-05-23 16:52 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dire-market-headlines-occur-at-market-bottoms
 ---
 
 

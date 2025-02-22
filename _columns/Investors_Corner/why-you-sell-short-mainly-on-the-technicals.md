@@ -4,6 +4,7 @@ title: >-
   Why You Sell Short Mainly On The Technicals
 date: 2016-01-26 12:19 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-you-sell-short-mainly-on-the-technicals
 ---
 
 

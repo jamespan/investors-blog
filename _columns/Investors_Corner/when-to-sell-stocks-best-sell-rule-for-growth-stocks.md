@@ -4,6 +4,7 @@ title: >-
   When To Sell Stocks: This Simple Strategy Could Be Best Sell Rule For Growth Stocks
 date: 2024-05-30 08:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-sell-stocks-best-sell-rule-for-growth-stocks
 ---
 
 

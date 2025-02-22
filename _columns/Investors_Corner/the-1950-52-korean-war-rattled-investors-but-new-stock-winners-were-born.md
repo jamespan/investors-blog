@@ -4,6 +4,7 @@ title: >-
   The 1950-52 Korean War Rattled Investors, But New Stock Winners Were Born
 date: 2017-05-08 14:57 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-1950-52-korean-war-rattled-investors-but-new-stock-winners-were-born
 ---
 
 

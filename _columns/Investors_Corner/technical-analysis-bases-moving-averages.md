@@ -4,6 +4,7 @@ title: >-
   Successful Bases Form Above The 50-Day Moving Average
 date: 2015-11-17 17:50 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/technical-analysis-bases-moving-averages
 ---
 
 

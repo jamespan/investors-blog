@@ -4,6 +4,7 @@ title: >-
   When All The Stock Pundits Think The Same, Get Ready For A Market Turn
 date: 2019-03-18 17:00 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-all-the-stock-pundits-think-the-same-get-ready-for-a-market-turn
 ---
 
 

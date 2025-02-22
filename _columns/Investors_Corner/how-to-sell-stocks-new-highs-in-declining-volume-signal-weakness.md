@@ -4,6 +4,7 @@ title: >-
   How To Sell Stocks: New Highs In Declining Volume Signal Weakness
 date: 2024-07-02 08:00 -0700
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-sell-stocks-new-highs-in-declining-volume-signal-weakness
 ---
 
 

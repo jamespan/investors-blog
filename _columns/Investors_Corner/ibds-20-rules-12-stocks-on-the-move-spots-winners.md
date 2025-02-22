@@ -4,6 +4,7 @@ title: >-
   IBD's 20 Rules: #12 Stocks On The Move Spots Winners
 date: 2011-09-28 17:37 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibds-20-rules-12-stocks-on-the-move-spots-winners
 ---
 
 

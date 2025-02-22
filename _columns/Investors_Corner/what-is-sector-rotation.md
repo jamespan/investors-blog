@@ -4,6 +4,7 @@ title: >-
   What Is Sector Rotation? To Profit From It, Use These 10 Tips
 date: 2022-12-05 08:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-sector-rotation
 ---
 
 

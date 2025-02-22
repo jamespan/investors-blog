@@ -4,6 +4,7 @@ title: >-
   Getting Defensive In Choppy Market Can Prevent Losses
 date: 2015-02-09 16:30 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/it-pays-to-tighten-sell-rules-in-choppy-markets
 ---
 
 

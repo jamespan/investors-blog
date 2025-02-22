@@ -4,6 +4,7 @@ title: >-
   How To Trade Stocks During Earnings Season; It Takes Special Care
 date: 2024-05-22 08:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-stocks-during-earnings-season
 ---
 
 

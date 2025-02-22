@@ -4,6 +4,7 @@ title: >-
   Defeating The Myth That You Must Win On Every Trade
 date: 2012-04-04 16:39 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/you-need-a-sound-money-management-plan
 ---
 
 

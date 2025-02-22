@@ -4,6 +4,7 @@ title: >-
   Sometimes Doing Nothing At All Is The Best Defense
 date: 2016-08-24 13:32 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sometimes-doing-nothing-at-all-is-the-best-defense
 ---
 
 

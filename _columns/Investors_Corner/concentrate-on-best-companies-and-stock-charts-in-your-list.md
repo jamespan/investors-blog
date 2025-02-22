@@ -4,6 +4,7 @@ title: >-
   Your Watch List Too Long? You Can Prune Intelligently
 date: 2012-09-20 17:31 -0700
 author: 
+origin_url: https://www.investors.com/how-to-invest/investors-corner/concentrate-on-best-companies-and-stock-charts-in-your-list
 ---
 
 

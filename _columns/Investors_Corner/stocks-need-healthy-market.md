@@ -4,6 +4,7 @@ title: >-
   Leading Growth Stocks Vulnerable During Market Downtrends
 date: 2014-01-29 17:34 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stocks-need-healthy-market
 ---
 
 

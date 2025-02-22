@@ -4,6 +4,7 @@ title: >-
   Learn To Invest: A Good Tool for Gauging Bases
 date: 2013-07-23 17:46 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/use-ibd-stock-checkup-to-find-great-stocks
 ---
 
 

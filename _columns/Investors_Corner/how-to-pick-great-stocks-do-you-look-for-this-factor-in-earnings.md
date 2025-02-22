@@ -4,6 +4,7 @@ title: >-
   How To Pick Great Stocks: Do You Look For This Factor In Earnings?
 date: 2024-04-22 08:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-pick-great-stocks-do-you-look-for-this-factor-in-earnings
 ---
 
 

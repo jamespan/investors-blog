@@ -4,6 +4,7 @@ title: >-
   Use Stock Charts To Time Buys: Try Shakeout Plus 3
 date: 2012-11-19 17:40 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/jesse-livermore-shakeout-plus-3-strategy
 ---
 
 

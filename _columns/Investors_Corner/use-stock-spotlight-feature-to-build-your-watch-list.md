@@ -4,6 +4,7 @@ title: >-
   Stock Spotlight Page Shines On Stocks Near Buy Points
 date: 2014-05-05 18:19 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/use-stock-spotlight-feature-to-build-your-watch-list
 ---
 
 

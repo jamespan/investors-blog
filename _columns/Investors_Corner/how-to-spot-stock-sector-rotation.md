@@ -4,6 +4,7 @@ title: >-
   Daily Drill Can Help You Spot Stock Sector Rotation
 date: 2013-12-05 16:56 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-spot-stock-sector-rotation
 ---
 
 

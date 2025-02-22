@@ -4,6 +4,7 @@ title: >-
   How To Interpret Reversals Inside A Stock's Base: The 60% Rule
 date: 2016-07-07 12:18 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-interpret-reversals-inside-a-stocks-base-the-60-percent-rule
 ---
 
 

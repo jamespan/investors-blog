@@ -4,6 +4,7 @@ title: >-
   Get Pertinent Information Fast With IBD Stock Checkup
 date: 2012-07-11 15:38 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-stock-checkup-gives-you-key-data-on-coinstar-and-other-leaders
 ---
 
 

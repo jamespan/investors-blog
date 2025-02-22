@@ -4,6 +4,7 @@ title: >-
   Know The Benefit Of Studying Past Market Tops
 date: 2013-05-30 17:10 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-sell-stocks-in-the-market
 ---
 
 

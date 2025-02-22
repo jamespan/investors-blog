@@ -4,6 +4,7 @@ title: >-
   A New Book To Help Accelerate The IBD Learning Curve
 date: 2013-06-20 18:18 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-make-money-in-stocks
 ---
 
 

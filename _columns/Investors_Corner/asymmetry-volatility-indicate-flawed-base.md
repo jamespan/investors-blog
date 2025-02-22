@@ -4,6 +4,7 @@ title: >-
   Cree's Flawed Double-Bottom Pattern Spelled Doom
 date: 2013-10-02 16:34 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/asymmetry-volatility-indicate-flawed-base
 ---
 
 

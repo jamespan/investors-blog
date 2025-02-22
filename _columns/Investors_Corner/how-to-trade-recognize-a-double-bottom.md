@@ -4,6 +4,7 @@ title: >-
   How To Trade: Learn To Recognize A Double-Bottom Base
 date: 2011-12-05 17:30 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-recognize-a-double-bottom
 ---
 
 

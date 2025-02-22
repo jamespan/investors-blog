@@ -4,6 +4,7 @@ title: >-
   Pres. Eisenhower's Bull Market In 1st Term Provided A Lot To Like
 date: 2016-03-11 13:46 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/eisenhowers-bull-market-in-first-term-provided-a-lot-to-like
 ---
 
 

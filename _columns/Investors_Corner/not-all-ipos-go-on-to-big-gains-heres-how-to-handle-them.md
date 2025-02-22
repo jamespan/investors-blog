@@ -4,6 +4,7 @@ title: >-
   Not All IPOs Go On To Big Gains; Here's How To Handle Them
 date: 2016-04-04 13:27 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/not-all-ipos-go-on-to-big-gains-heres-how-to-handle-them
 ---
 
 

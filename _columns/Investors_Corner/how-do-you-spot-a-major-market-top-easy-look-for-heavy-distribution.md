@@ -4,6 +4,7 @@ title: >-
   When Will The Dow Jones Or Nasdaq Show A Major Stock Market Top? Here's The Easy Way To Find Out
 date: 2019-12-03 08:25 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-do-you-spot-a-major-market-top-easy-look-for-heavy-distribution
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Avoid Flawed Chart Patterns In Growth Stocks: Why A Wildly Swinging Stock Raises Risk
 date: 2019-11-11 17:45 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/avoid-the-flawed-chart-pattern-why-a-wide-swinging-stock-raises-risk
 ---
 
 

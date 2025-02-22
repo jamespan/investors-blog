@@ -4,6 +4,7 @@ title: >-
   When To Sell A Great Stock: Using An Upper Channel For Amazon In 2003
 date: 2017-11-30 19:58 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-sell-great-stock-upper-channel-amazon
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Trade: The Pitfalls Of Lacking Discipline
 date: 2014-01-14 16:31 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/beginners-sometimes-lack-discipline-in-investing
 ---
 
 

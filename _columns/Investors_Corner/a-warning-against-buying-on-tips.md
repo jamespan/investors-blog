@@ -4,6 +4,7 @@ title: >-
   Why Buying On Stock Tips Stymies The Learning Curve
 date: 2014-01-13 16:40 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/a-warning-against-buying-on-tips
 ---
 
 

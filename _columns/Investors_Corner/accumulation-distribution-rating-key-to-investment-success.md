@@ -4,6 +4,7 @@ title: >-
   Accumulation-Distribution Rating Key To Winning Stocks
 date: 2012-02-10 17:45 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/accumulation-distribution-rating-key-to-investment-success
 ---
 
 

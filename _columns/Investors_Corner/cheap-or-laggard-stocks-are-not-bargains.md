@@ -4,6 +4,7 @@ title: >-
   Cheap, Laggard Stocks Aren't Necessarily A Bargain
 date: 2014-01-07 17:24 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/cheap-or-laggard-stocks-are-not-bargains
 ---
 
 

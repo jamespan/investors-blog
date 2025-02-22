@@ -4,6 +4,7 @@ title: >-
   Invest With Charts: Look For Accumulation In A Base
 date: 2013-01-31 17:58 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/biogen-showed-accumulation-in-stock-chart
 ---
 
 

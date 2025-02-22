@@ -4,6 +4,7 @@ title: >-
   When To Buy Growth Stocks: Why The Double-Bottom Base Still Fuels Strong Breakouts
 date: 2019-12-13 08:25 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-buy-growth-stocks-why-double-bottom-base-fuels-strong-breakouts
 ---
 
 

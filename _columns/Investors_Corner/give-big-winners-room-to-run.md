@@ -4,6 +4,7 @@ title: >-
   Key Investing Skill: Learning To Hold On To Big Winners
 date: 2015-02-04 16:33 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/give-big-winners-room-to-run
 ---
 
 

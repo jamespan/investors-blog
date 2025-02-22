@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Flawed Bases Lack Prior Uptrend
 date: 2011-08-17 16:44 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-flawed-bases-lack-prior-uptrend
 ---
 
 

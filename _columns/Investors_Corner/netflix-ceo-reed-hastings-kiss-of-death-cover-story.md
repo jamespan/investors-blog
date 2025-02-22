@@ -4,6 +4,7 @@ title: >-
   Netflix CEO Reed Hastings' Kiss-Of-Death Cover Story
 date: 2011-11-02 15:43 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/netflix-ceo-reed-hastings-kiss-of-death-cover-story
 ---
 
 

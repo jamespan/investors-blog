@@ -4,6 +4,7 @@ title: >-
   Great Expectations, Reasonable Targets: The 20% Rule
 date: 2013-04-23 17:24 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-20-percent-rule-in-stock-investing
 ---
 
 

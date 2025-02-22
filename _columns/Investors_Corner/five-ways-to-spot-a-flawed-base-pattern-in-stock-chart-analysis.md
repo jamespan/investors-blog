@@ -4,6 +4,7 @@ title: >-
   Five Ways To Spot A Flawed Base Pattern In Stock Chart Analysis
 date: 2024-11-20 08:00 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/five-ways-to-spot-a-flawed-base-pattern-in-stock-chart-analysis
 ---
 
 

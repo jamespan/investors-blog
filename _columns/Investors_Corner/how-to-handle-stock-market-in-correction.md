@@ -4,6 +4,7 @@ title: >-
   Market In Correction, Or Under Pressure? Know Your Rules
 date: 2013-06-06 17:23 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-handle-stock-market-in-correction
 ---
 
 

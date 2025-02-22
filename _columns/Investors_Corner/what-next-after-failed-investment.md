@@ -4,6 +4,7 @@ title: >-
   What Do You Do After Selling A Stock That Failed?
 date: 2013-09-20 17:28 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-next-after-failed-investment
 ---
 
 

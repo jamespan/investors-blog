@@ -4,6 +4,7 @@ title: >-
   How To Invest: Ideas For Handling A Choppy Market
 date: 2012-08-06 18:05 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-investors-corner-handling-a-choppy-market
 ---
 
 

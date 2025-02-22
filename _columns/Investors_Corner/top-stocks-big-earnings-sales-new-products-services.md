@@ -4,6 +4,7 @@ title: >-
   Best Growth Stocks Share Many Common Traits, But This One Might Be The Most Important
 date: 2019-10-02 18:45 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/top-stocks-big-earnings-sales-new-products-services
 ---
 
 

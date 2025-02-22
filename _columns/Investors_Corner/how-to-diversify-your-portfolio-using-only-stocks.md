@@ -4,6 +4,7 @@ title: >-
   How To Diversify Your Portfolio Using Only Stocks
 date: 2016-04-19 14:00 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-diversify-your-portfolio-using-only-stocks
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   As 2013 Starts, Recall O'Neil Also Emphasizes Saving
 date: 2013-01-04 17:01 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-more-money-investing-new-year
 ---
 
 

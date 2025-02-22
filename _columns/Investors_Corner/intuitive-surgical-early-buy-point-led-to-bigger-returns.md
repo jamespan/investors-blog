@@ -4,6 +4,7 @@ title: >-
   How Intuitive Surgical's Early Buy Point Shaved Risk
 date: 2012-05-11 17:24 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/intuitive-surgical-early-buy-point-led-to-bigger-returns
 ---
 
 

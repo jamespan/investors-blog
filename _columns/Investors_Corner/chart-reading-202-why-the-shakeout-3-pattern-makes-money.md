@@ -4,6 +4,7 @@ title: >-
   Growth Stocks Today: Why The Shakeout + 3 Pattern Makes Money
 date: 2024-10-22 14:15 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/chart-reading-202-why-the-shakeout-3-pattern-makes-money
 ---
 
 

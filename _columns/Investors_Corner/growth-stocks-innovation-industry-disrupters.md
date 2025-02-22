@@ -4,6 +4,7 @@ title: >-
   Industry Disrupters Make Problems For The Competition
 date: 2015-12-08 14:53 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-innovation-industry-disrupters
 ---
 
 

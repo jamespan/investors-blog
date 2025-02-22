@@ -4,6 +4,7 @@ title: >-
   How To Invest: Top Industry Groups Beget Top Stocks
 date: 2024-01-04 08:00 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/top-industry-groups-beget-top-stocks
 ---
 
 

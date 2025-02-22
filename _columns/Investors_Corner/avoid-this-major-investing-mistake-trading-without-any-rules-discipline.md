@@ -4,6 +4,7 @@ title: >-
   Avoid This Major Investing Mistake: Trading Without Any Rules, Discipline
 date: 2018-08-16 19:05 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/avoid-this-major-investing-mistake-trading-without-any-rules-discipline
 ---
 
 

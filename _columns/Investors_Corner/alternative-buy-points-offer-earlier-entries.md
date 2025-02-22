@@ -4,6 +4,7 @@ title: >-
   How Alternative Entries Get You Into Stocks Earlier
 date: 2013-10-15 17:20 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/alternative-buy-points-offer-earlier-entries
 ---
 
 

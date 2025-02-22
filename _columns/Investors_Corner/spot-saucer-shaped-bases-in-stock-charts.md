@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Learn To Spot The Saucer-Shaped Base
 date: 2013-10-07 17:02 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/spot-saucer-shaped-bases-in-stock-charts
 ---
 
 

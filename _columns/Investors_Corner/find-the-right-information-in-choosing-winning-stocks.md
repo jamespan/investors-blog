@@ -4,6 +4,7 @@ title: >-
   Treat IBD 50 Mini Charts As Gold Mines Of Information
 date: 2012-09-12 16:13 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/find-the-right-information-in-choosing-winning-stocks
 ---
 
 

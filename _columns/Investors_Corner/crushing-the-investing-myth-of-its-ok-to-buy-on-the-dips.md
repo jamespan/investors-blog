@@ -4,6 +4,7 @@ title: >-
   Crushing The Investing Myth Of "It's OK To Buy On The Dips"
 date: 2016-09-20 15:12 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/crushing-the-investing-myth-of-its-ok-to-buy-on-the-dips
 ---
 
 

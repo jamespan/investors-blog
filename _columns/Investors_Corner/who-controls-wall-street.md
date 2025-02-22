@@ -4,6 +4,7 @@ title: >-
   What Sinister Force Is Behind The Stock Market?
 date: 2015-08-14 16:40 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/who-controls-wall-street
 ---
 
 

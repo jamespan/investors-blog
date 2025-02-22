@@ -4,6 +4,7 @@ title: >-
   Use The 200-Day Line To Preserve Profits
 date: 2011-01-25 18:02 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/use-the-200-day-line-to-preserve-profits
 ---
 
 

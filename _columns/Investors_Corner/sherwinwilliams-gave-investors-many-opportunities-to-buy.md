@@ -4,6 +4,7 @@ title: >-
   Pyramiding Into A Stock Can Maximize Returns
 date: 2014-06-18 18:34 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sherwinwilliams-gave-investors-many-opportunities-to-buy
 ---
 
 

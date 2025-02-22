@@ -4,6 +4,7 @@ title: >-
   Fusion-io's V-Shaped 2011 Base Reveals A Losing Trade
 date: 2013-11-11 16:34 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/fuionio-v-shaped-base-a-loser
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How Industry Group Rankings Can Help You Invest Smart
 date: 2012-07-10 16:43 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/use-ibd-industry-group-rankings-to-invest
 ---
 
 

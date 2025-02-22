@@ -4,6 +4,7 @@ title: >-
   Best Investing Books And Why You Can Benefit From This Advice From William O'Neil
 date: 2019-08-21 16:00 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/best-investing-books-stock-market-benefit-advice-william-oneil
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   When To Sell Stocks: Using An Upper Channel Line Break To Lock In Big Gains
 date: 2024-06-04 08:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-sell-stocks-using-an-upper-channel-line-break-to-lock-in-big-gains
 ---
 
 

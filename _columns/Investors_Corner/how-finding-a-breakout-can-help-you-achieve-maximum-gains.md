@@ -4,6 +4,7 @@ title: >-
   How Finding A Breakout Can Help You Achieve Maximum Gains
 date: 2024-08-27 08:00 -0700
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-finding-a-breakout-can-help-you-achieve-maximum-gains
 ---
 
 

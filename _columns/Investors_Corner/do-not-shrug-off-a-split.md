@@ -4,6 +4,7 @@ title: >-
   How To Invest: What You Should Make Of Stock Splits
 date: 2012-03-06 14:28 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/do-not-shrug-off-a-split
 ---
 
 

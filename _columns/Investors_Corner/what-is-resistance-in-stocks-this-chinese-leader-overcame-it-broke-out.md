@@ -4,6 +4,7 @@ title: >-
   What Is The Concept Of Resistance In Growth Stocks? These Leaders Overcame It, Broke Out
 date: 2019-12-10 18:00 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-resistance-in-stocks-this-chinese-leader-overcame-it-broke-out
 ---
 
 

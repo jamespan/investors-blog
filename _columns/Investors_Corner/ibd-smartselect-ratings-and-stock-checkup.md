@@ -4,6 +4,7 @@ title: >-
   Study Stock Ratings But Adjust For Realities
 date: 2016-01-22 16:02 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-smartselect-ratings-and-stock-checkup
 ---
 
 

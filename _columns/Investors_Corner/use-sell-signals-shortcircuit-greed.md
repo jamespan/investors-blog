@@ -4,6 +4,7 @@ title: >-
   What GoPro Stock Teaches About Greed and Sell Signals
 date: 2015-01-30 18:04 -0800
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/use-sell-signals-shortcircuit-greed
 ---
 
 

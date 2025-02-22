@@ -4,6 +4,7 @@ title: >-
   What Is A Power Trend? This Stock Market Condition Is When You Really Need To Be Buying
 date: 2025-01-27 08:00 -0800
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-condition-called-power-trend-is-when-you-really-need-to-be-buying
 ---
 
 

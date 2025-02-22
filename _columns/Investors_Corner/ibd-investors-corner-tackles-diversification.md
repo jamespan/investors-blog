@@ -4,6 +4,7 @@ title: >-
   How To Invest: The Problem With Diversifying Too Much
 date: 2013-03-08 14:17 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-investors-corner-tackles-diversification
 ---
 
 

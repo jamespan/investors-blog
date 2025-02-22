@@ -4,6 +4,7 @@ title: >-
   Smart Money Management Tip: Don't Allow Slacker Stocks To Weigh Down Portfolio
 date: 2016-07-21 15:22 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/smart-money-management-tip-dont-allow-slacker-stocks-to-weigh-down-portfolio
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Why The SMR Rating Judges A Stock In Right Context
 date: 2012-07-09 18:20 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/smr-rating-helps-judge-wall-street-growth-stocks
 ---
 
 

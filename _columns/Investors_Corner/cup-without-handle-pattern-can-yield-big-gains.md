@@ -4,6 +4,7 @@ title: >-
   Cup-Without-Handle Chart Pattern Can Yield Stellar Gains
 date: 2014-02-10 17:25 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/cup-without-handle-pattern-can-yield-big-gains
 ---
 
 

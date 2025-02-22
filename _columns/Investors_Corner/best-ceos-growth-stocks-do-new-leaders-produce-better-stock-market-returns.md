@@ -4,6 +4,7 @@ title: >-
   The Best CEOs And Growth Stocks: Do New Leaders Produce Better Stock Market Returns?
 date: 2019-08-23 07:30 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/best-ceos-growth-stocks-do-new-leaders-produce-better-stock-market-returns
 ---
 
 

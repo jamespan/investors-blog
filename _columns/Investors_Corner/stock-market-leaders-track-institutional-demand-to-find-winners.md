@@ -4,6 +4,7 @@ title: >-
   Use This IBD Rating To Find Stock Market Leaders By Tracking Institutional Demand
 date: 2022-07-29 08:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-leaders-track-institutional-demand-to-find-winners
 ---
 
 

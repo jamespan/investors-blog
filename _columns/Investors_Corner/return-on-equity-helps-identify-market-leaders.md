@@ -4,6 +4,7 @@ title: >-
   Return On Equity Helps Identify Market-Leading Stocks
 date: 2012-07-12 16:56 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/return-on-equity-helps-identify-market-leaders
 ---
 
 

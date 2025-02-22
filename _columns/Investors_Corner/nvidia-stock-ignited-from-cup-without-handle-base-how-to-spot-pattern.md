@@ -4,6 +4,7 @@ title: >-
   How To Spot The Cup Without Handle, And How It Ignited Nvidia Stock
 date: 2023-09-15 08:00 -0700
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/nvidia-stock-ignited-from-cup-without-handle-base-how-to-spot-pattern
 ---
 
 

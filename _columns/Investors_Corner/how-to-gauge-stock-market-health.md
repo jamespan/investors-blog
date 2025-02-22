@@ -4,6 +4,7 @@ title: >-
   Why A Healthy Market Is Critical For A Stock's Success
 date: 2015-05-07 16:39 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-gauge-stock-market-health
 ---
 
 

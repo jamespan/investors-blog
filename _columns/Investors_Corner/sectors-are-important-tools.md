@@ -4,6 +4,7 @@ title: >-
   Don't Forget Hot Sectors When Looking For New Stocks
 date: 2015-11-25 17:33 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sectors-are-important-tools
 ---
 
 

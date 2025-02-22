@@ -4,6 +4,7 @@ title: >-
   Why Some Low-Volume Breakouts Can Still Work
 date: 2014-08-25 18:16 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/breakouts-on-weak-trade-can-work
 ---
 
 

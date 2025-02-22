@@ -4,6 +4,7 @@ title: >-
   Climax Action Can Signal Implosion Ahead
 date: 2014-09-18 18:53 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/climax-signs-can-mean-end-of-run
 ---
 
 

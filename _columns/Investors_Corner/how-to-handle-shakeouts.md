@@ -4,6 +4,7 @@ title: >-
   How To Invest: Jilted? A Buyback Is The Best Revenge
 date: 2013-03-13 17:57 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-handle-shakeouts
 ---
 
 

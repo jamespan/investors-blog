@@ -4,6 +4,7 @@ title: >-
   IBD's Stock Checkup Table Helps Evaluate Stock's Technical Health
 date: 2016-01-25 19:17 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibds-stock-checkup-table-helps-evaluate-stocks-technical-health
 ---
 
 

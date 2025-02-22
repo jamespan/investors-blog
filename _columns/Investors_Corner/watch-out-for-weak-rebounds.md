@@ -4,6 +4,7 @@ title: >-
   A Key Sell Sign: A Weak Rebound After A Big Sell-Off
 date: 2013-05-07 18:20 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/watch-out-for-weak-rebounds
 ---
 
 

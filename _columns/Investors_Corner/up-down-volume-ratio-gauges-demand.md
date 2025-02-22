@@ -4,6 +4,7 @@ title: >-
   When To Buy Growth Stocks: Use The Up/Down Ratio To Gauge Big Money's Demand
 date: 2019-12-27 20:47 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/up-down-volume-ratio-gauges-demand
 ---
 
 

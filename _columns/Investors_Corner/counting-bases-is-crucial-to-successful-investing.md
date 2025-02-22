@@ -4,6 +4,7 @@ title: >-
   Counting Bases Is Crucial To Successful Investing
 date: 2014-08-20 17:58 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/counting-bases-is-crucial-to-successful-investing
 ---
 
 

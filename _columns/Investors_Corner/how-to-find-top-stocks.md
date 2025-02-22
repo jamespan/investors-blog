@@ -4,6 +4,7 @@ title: >-
   How To Invest: Find The Best Earnings Growth Quickly
 date: 2015-01-21 17:09 -0800
 author: ANDREW EDWARDS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-find-top-stocks
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Shun The Naysayers; Some High P-E Stocks Have Big Potential
 date: 2016-04-22 10:49 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/shun-the-naysayers-some-high-p-e-stocks-have-big-potential
 ---
 
 

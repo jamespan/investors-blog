@@ -4,6 +4,7 @@ title: >-
   Why The Accumulation/Distribution Rating Is One Key To Finding Great Stocks
 date: 2019-10-16 08:25 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-the-accumulationdistribution-rating-is-one-key-to-finding-great-stocks
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Invest: The Base-On-Base Is Subtle Strength
 date: 2015-02-12 18:12 -0800
 author: ANDREW EDWARDS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-read-stock-charts
 ---
 
 

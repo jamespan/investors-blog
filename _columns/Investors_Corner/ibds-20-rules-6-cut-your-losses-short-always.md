@@ -4,6 +4,7 @@ title: >-
   IBD'S 20 Rules: #6 Cut Your Losses Short, Always
 date: 2011-09-20 15:54 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibds-20-rules-6-cut-your-losses-short-always
 ---
 
 

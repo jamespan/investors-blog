@@ -4,6 +4,7 @@ title: >-
   Know The Basics: Pay Attention To Strong, Accelerating Profit Increases
 date: 2016-12-19 19:01 -0800
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/know-the-basics-pay-attention-to-strong-accelerating-profit-increases
 ---
 
 

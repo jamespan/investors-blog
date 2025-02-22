@@ -4,6 +4,7 @@ title: >-
   IBD's 20 Rules #7 New America Keeps Tab On Innovators
 date: 2011-09-21 17:46 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibds-20-rules-7-new-america-keeps-tab-on-innovators
 ---
 
 

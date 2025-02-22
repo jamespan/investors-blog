@@ -4,6 +4,7 @@ title: >-
   How To Sell: 200-Day Line Gauges How High Is Too High
 date: 2013-10-30 18:00 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/200day-line-on-emulex-showed-top
 ---
 
 

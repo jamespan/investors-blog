@@ -4,6 +4,7 @@ title: >-
   How To Trade: Deciphering The Cup With Handle
 date: 2014-02-06 18:30 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-cup-with-handle
 ---
 
 

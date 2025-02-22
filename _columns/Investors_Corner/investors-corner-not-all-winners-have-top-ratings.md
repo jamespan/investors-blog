@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Not All Winners Have Top Ratings
 date: 2011-04-08 17:08 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-not-all-winners-have-top-ratings
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Sell Stocks Like A Pro: Watch The Sharp Cut Of The 50-Day Line
 date: 2017-07-13 19:36 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-sell-stocks-like-a-pro-watch-the-sharp-cut-of-the-50-day-line
 ---
 
 

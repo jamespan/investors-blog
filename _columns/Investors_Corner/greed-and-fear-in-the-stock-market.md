@@ -4,6 +4,7 @@ title: >-
   Keeping Emotions In Check: A Key To Investing Success
 date: 2014-05-22 17:08 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/greed-and-fear-in-the-stock-market
 ---
 
 

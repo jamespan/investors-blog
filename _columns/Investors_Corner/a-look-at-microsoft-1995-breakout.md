@@ -4,6 +4,7 @@ title: >-
   Classic Bases: Reliving Microsoft's 1995 Breakout
 date: 2015-10-16 18:11 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/a-look-at-microsoft-1995-breakout
 ---
 
 

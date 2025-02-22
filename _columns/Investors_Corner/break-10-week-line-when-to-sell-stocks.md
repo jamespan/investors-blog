@@ -4,6 +4,7 @@ title: >-
   When To Sell Stocks: Amazon, Facebook, Boeing Triggered This Key Profit-Taking Signal
 date: 2018-04-03 18:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/break-10-week-line-when-to-sell-stocks
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Investors Love Stock Splits; Too Many Can Mark A Top
 date: 2015-06-22 17:36 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/excessive-stock-splits-can-mark-a-top
 ---
 
 

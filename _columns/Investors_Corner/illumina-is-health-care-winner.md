@@ -4,6 +4,7 @@ title: >-
   2014 Stock Winners: Strong Fundamentals At Illumina
 date: 2014-12-29 16:12 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/illumina-is-health-care-winner
 ---
 
 

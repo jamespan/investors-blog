@@ -4,6 +4,7 @@ title: >-
   This IBD Rating Shows How Nvidia Trails In This Important Characteristic
 date: 2025-01-30 14:47 -0800
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-nvidia-amazon-google-stock
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Low-Volume Rebound After Violent Fall Spells Trouble
 date: 2012-09-05 18:18 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/low-volume-rebound-after-violent-fall-spells-trouble
 ---
 
 

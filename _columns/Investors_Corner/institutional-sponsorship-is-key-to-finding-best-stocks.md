@@ -4,6 +4,7 @@ title: >-
   Know How To Follow The Big Money In Stock Investing
 date: 2012-04-24 17:28 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/institutional-sponsorship-is-key-to-finding-best-stocks
 ---
 
 

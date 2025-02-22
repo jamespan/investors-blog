@@ -4,6 +4,7 @@ title: >-
   When To Sell Growth Stocks: Watch For Weak Rebound After Violating The 50-Day Line
 date: 2019-09-26 18:15 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/know-this-sell-signal-weak-rebound-action-after-violating-the-50-day-line
 ---
 
 

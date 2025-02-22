@@ -4,6 +4,7 @@ title: >-
   Income Investor Column Gives Ideas For The Long Term
 date: 2015-08-10 17:24 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/income-stocks-can-provide-growth-too
 ---
 
 

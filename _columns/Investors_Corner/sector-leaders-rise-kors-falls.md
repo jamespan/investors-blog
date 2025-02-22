@@ -4,6 +4,7 @@ title: >-
   Most Sector Leaders Advance; Michael Kors Eases
 date: 2012-03-07 18:37 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sector-leaders-rise-kors-falls
 ---
 
 

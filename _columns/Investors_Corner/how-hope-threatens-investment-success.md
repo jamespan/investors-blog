@@ -4,6 +4,7 @@ title: >-
   Emotion And Investing: Recognizing Hope As A Foe
 date: 2014-05-20 17:13 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-hope-threatens-investment-success
 ---
 
 

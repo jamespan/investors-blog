@@ -4,6 +4,7 @@ title: >-
   When To Hold Or When To Sell If A Stock Gaps Down
 date: 2013-05-21 18:20 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-deal-with-stock-gap-downs
 ---
 
 

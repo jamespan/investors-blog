@@ -4,6 +4,7 @@ title: >-
   How To Invest: Why Retailer Rue 21's Stock Breakout Failed
 date: 2016-05-02 17:43 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-why-retailer-rue-21s-stock-breakout-failed
 ---
 
 

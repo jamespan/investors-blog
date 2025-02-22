@@ -4,6 +4,7 @@ title: >-
   Broadening the Focus: Long-Term Cup-With-Handle Bases
 date: 2016-03-15 16:42 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/broadening-the-focus-long-term-cup-with-handle-bases
 ---
 
 

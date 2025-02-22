@@ -4,6 +4,7 @@ title: >-
   IBD's 20 Rules: #3 The Best Stocks Show Great Margins
 date: 2011-09-15 14:32 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibds-20-rules-3-the-best-stocks-show-great-margins
 ---
 
 

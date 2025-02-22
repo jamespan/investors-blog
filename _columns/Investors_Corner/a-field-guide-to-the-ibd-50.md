@@ -4,6 +4,7 @@ title: >-
   A Field Guide To The IBD 50
 date: 2016-03-16 14:08 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/a-field-guide-to-the-ibd-50
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Why Martin Zweig's Put/Call Ratio Is Still Useful To Investors
 date: 2016-10-14 11:09 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/zweigs-put-call-ratio-still-useful-to-investors
 ---
 
 

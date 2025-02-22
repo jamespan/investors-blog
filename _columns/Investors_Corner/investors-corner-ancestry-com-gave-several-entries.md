@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Ancestry.com Gave Several Entries
 date: 2011-06-09 17:45 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-ancestry-com-gave-several-entries
 ---
 
 

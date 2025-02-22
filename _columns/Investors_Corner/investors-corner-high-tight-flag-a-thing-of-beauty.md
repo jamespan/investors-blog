@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: High, Tight Flag A Thing Of Beauty
 date: 2011-07-07 15:46 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-high-tight-flag-a-thing-of-beauty
 ---
 
 

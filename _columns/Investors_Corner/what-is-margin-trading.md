@@ -4,6 +4,7 @@ title: >-
   What Is Margin Trading? How It Can Leverage Gains — And Worsen Losses
 date: 2024-11-19 08:00 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-margin-trading
 ---
 
 

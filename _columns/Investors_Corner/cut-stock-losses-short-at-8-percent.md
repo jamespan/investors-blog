@@ -4,6 +4,7 @@ title: >-
   Why Cut Losses Short In The Stock Market?
 date: 2014-09-10 17:10 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/cut-stock-losses-short-at-8-percent
 ---
 
 

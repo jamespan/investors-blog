@@ -4,6 +4,7 @@ title: >-
   When To Sell Growth Stocks: How To Use A Carefully Drawn Trend Line
 date: 2019-07-21 19:30 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/carefully-drawn-trend-line-can-help-you-decide-right-time-to-sell-a-winner
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Insist On Seeing Institutional Accumulation In A Base
 date: 2015-02-23 16:49 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/accumulation-is-key-in-a-base
 ---
 
 

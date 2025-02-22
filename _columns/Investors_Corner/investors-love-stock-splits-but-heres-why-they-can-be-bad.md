@@ -4,6 +4,7 @@ title: >-
   Investors Love Stock Splits, But Here's Why They Can Be Bad
 date: 2024-09-06 08:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-love-stock-splits-but-heres-why-they-can-be-bad
 ---
 
 

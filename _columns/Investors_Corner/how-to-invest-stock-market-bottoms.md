@@ -4,6 +4,7 @@ title: >-
   Spotting Market Bottoms Can Net Huge Gains. Here's How.
 date: 2024-06-07 08:00 -0700
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-stock-market-bottoms
 ---
 
 

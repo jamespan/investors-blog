@@ -4,6 +4,7 @@ title: >-
   How An Upper Channel Line Can Detect An Overheated Stock
 date: 2023-07-24 08:00 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-charts-channel-lines-for-sell-signals
 ---
 
 

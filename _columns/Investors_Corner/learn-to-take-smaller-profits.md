@@ -4,6 +4,7 @@ title: >-
   Taper Your Profit Targets In Tough Market Conditions
 date: 2015-10-22 17:44 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-to-take-smaller-profits
 ---
 
 

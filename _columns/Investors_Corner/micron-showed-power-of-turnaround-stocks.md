@@ -4,6 +4,7 @@ title: >-
   Great Stocks: Micron Technology Kept Climbing In 2014
 date: 2014-12-19 18:16 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/micron-showed-power-of-turnaround-stocks
 ---
 
 

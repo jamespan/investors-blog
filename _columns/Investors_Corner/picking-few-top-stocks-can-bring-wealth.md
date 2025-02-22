@@ -4,6 +4,7 @@ title: >-
   Following The Leaders Is Way To Reap Windfall Profits
 date: 2013-02-22 16:54 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/picking-few-top-stocks-can-bring-wealth
 ---
 
 

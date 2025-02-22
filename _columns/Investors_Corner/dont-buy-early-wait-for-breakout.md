@@ -4,6 +4,7 @@ title: >-
   Buying In Anticipation Of A Breakout Is Risky
 date: 2015-05-19 18:20 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dont-buy-early-wait-for-breakout
 ---
 
 

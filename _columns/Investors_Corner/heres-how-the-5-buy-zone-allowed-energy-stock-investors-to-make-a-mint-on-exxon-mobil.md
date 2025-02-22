@@ -4,6 +4,7 @@ title: >-
   Here's How The 5% Buy Zone Allowed Energy Stock Investors To Make A Mint On Exxon Mobil
 date: 2024-06-17 08:00 -0700
 author: MICHAEL LARKIN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/heres-how-the-5-buy-zone-allowed-energy-stock-investors-to-make-a-mint-on-exxon-mobil
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   These Days, Great New Companies Emerge From Nearly Every U.S. State
 date: 2016-02-16 12:59 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/these-days-great-new-companies-emerge-from-virtually-every-u-s-state
 ---
 
 

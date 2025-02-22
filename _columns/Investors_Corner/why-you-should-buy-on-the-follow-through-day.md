@@ -4,6 +4,7 @@ title: >-
   How To Trade Growth Stocks: Why You Should Buy On The Stock Market Follow-Through Day
 date: 2019-12-18 19:45 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-you-should-buy-on-the-follow-through-day
 ---
 
 

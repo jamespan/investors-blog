@@ -4,6 +4,7 @@ title: >-
   How To Invest: Avoid Bases Of Low-Priced Stocks
 date: 2015-02-27 17:44 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/low-priced-stocks-carry-added-risk
 ---
 
 

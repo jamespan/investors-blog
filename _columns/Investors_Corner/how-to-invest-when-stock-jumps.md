@@ -4,6 +4,7 @@ title: >-
   How To Invest: Gap-Up Gain Can Be Best Time To Buy
 date: 2012-02-06 15:54 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-when-stock-jumps
 ---
 
 

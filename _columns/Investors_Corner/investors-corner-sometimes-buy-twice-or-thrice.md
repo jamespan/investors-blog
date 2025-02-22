@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Sometimes, Buy Twice Or Thrice
 date: 2011-04-01 18:06 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-sometimes-buy-twice-or-thrice
 ---
 
 

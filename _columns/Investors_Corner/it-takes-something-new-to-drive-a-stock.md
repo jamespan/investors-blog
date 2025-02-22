@@ -4,6 +4,7 @@ title: >-
   How To Invest: Does Your Stock Have The New Factor?
 date: 2014-01-22 17:38 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/it-takes-something-new-to-drive-a-stock
 ---
 
 

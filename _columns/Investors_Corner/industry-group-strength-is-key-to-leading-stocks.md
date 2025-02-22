@@ -4,6 +4,7 @@ title: >-
   How To Invest: Regeneron Borrowed Strength From Industry Group
 date: 2015-06-09 17:32 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/industry-group-strength-is-key-to-leading-stocks
 ---
 
 

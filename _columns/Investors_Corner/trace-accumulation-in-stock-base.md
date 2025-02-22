@@ -4,6 +4,7 @@ title: >-
   How To Trade: Decipher Accumulation In A Stock's Base
 date: 2011-12-20 17:35 -0800
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/trace-accumulation-in-stock-base
 ---
 
 

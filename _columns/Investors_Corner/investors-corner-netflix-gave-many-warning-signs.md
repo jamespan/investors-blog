@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Netflix Gave Many Warning Signs
 date: 2011-10-17 18:20 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-netflix-gave-many-warning-signs
 ---
 
 

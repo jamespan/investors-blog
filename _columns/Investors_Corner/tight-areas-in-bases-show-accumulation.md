@@ -4,6 +4,7 @@ title: >-
   Tight Areas In Bases Show Accumulation
 date: 2015-03-10 18:32 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/tight-areas-in-bases-show-accumulation
 ---
 
 

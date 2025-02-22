@@ -4,6 +4,7 @@ title: >-
   The Bottoming Base, Part II: How Apple Showed Unusual Strength
 date: 2019-12-09 10:33 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-bottoming-base-part-2-how-apple-showed-unusual-strength
 ---
 
 

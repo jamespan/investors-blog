@@ -4,6 +4,7 @@ title: >-
   An Nvidia Shakeout, And The Reason For The 5% Buy Zone
 date: 2021-11-17 08:00 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/buy-zone-nvidia-stock
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How Relative Price Strength Acts As A Sell Signal
 date: 2013-05-14 17:23 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/relative-price-strength-ratings-aid-stock-investing
 ---
 
 

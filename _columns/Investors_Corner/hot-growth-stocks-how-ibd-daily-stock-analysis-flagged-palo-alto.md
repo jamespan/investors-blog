@@ -4,6 +4,7 @@ title: >-
   Hot Growth Stocks: How IBD Daily Stock Analysis Flagged Palo Alto
 date: 2015-03-17 18:25 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/hot-growth-stocks-how-ibd-daily-stock-analysis-flagged-palo-alto
 ---
 
 

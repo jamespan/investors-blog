@@ -4,6 +4,7 @@ title: >-
   Improve Your 2020 Investing Results With A 2019 Post-Analysis
 date: 2019-12-30 08:00 -0800
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-trading-2020-post-analysis
 ---
 
 

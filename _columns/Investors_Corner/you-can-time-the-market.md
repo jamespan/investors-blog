@@ -4,6 +4,7 @@ title: >-
   Follow-Through Signal Tells You That It's Time To Buy
 date: 2015-05-13 17:59 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/you-can-time-the-market
 ---
 
 

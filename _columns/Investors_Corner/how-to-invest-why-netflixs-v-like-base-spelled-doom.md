@@ -4,6 +4,7 @@ title: >-
   How To Invest: Why Netflix's V-Like Base Spelled Doom
 date: 2016-05-09 15:09 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-why-netflixs-v-like-base-spelled-doom
 ---
 
 

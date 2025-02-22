@@ -4,6 +4,7 @@ title: >-
   Let That Small Stock Grow Up Because Some Never Do
 date: 2016-04-06 15:15 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/let-that-small-stock-grow-up-because-some-never-do
 ---
 
 

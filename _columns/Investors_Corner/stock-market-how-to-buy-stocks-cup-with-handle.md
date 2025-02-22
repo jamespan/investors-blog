@@ -4,6 +4,7 @@ title: >-
   Many Stock Market Winners Emerge From This Chart Pattern
 date: 2025-02-14 08:00 -0800
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-how-to-buy-stocks-cup-with-handle
 ---
 
 

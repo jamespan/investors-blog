@@ -4,6 +4,7 @@ title: >-
   Leading Stocks Eventually Fall Apart
 date: 2012-07-02 17:52 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-time-a-leader-peaks-varies-widely
 ---
 
 

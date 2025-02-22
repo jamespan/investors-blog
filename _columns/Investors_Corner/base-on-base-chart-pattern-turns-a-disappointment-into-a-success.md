@@ -4,6 +4,7 @@ title: >-
   Base-On-Base Chart Pattern Turns A Disappointment Into A Success
 date: 2024-08-01 08:00 -0700
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/base-on-base-chart-pattern-turns-a-disappointment-into-a-success
 ---
 
 

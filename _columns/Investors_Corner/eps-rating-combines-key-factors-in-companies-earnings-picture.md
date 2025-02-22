@@ -4,6 +4,7 @@ title: >-
   EPS Rating Combines Key Factors In Companies' Earnings Picture
 date: 2017-05-23 12:42 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/eps-rating-combines-key-factors-in-companies-earnings-picture
 ---
 
 

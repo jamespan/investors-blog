@@ -4,6 +4,7 @@ title: >-
   How To Invest: How IBD Stock Screener Turbo-Charges Research For Growth Stocks
 date: 2023-07-20 08:00 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-screens-ibd-stock-research-tools-growth-stocks
 ---
 
 

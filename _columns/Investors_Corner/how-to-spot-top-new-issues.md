@@ -4,6 +4,7 @@ title: >-
   How To Find New IPO Winners Like WhiteWave, Tableau
 date: 2015-07-20 18:05 -0700
 author: ANDREW EDWARDS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-spot-top-new-issues
 ---
 
 

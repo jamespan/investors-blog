@@ -4,6 +4,7 @@ title: >-
   Why The Climax Run Is Top Gun Of A Sell Signal; Axon Triggered This Sell Rule
 date: 2023-06-21 13:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-the-climax-run-is-top-gun-of-a-sell-signal-taser-made-one-in-2004
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   When Market Conditions Are Rough, This Investing Strategy Can Be A Game Changer
 date: 2024-09-20 08:00 -0700
 author: RACHEL FOX
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-buying-stocks
 ---
 
 

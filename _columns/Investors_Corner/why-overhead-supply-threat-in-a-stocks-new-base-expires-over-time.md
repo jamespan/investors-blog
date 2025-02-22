@@ -4,6 +4,7 @@ title: >-
   Why Overhead Supply Threat In A Stock's New Base Expires Over Time
 date: 2016-08-17 11:55 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-overhead-supply-threat-in-a-stocks-new-base-expires-over-time
 ---
 
 

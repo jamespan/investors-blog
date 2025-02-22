@@ -4,6 +4,7 @@ title: >-
   Why This High Rating Cued Investors As Amazon Gained 30%
 date: 2024-10-25 08:00 -0700
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/amazon-stock-amzn-this-high-rating-cued-investors-30-gain
 ---
 
 

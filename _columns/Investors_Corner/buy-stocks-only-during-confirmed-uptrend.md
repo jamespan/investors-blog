@@ -4,6 +4,7 @@ title: >-
   Let Major Indexes Dictate Buy, Sell Decisions
 date: 2014-11-05 18:01 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/buy-stocks-only-during-confirmed-uptrend
 ---
 
 

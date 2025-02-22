@@ -4,6 +4,7 @@ title: >-
   Past Or Present, Winners Share The Same Stock Traits
 date: 2012-11-09 16:58 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/big-market-winners-have-strong-earnings-growth
 ---
 
 

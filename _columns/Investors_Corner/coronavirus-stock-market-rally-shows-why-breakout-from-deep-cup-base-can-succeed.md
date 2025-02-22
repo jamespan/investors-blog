@@ -4,6 +4,7 @@ title: >-
   Coronavirus Stock Market Rally Shows Why A Breakout From A Deep Cup Base Can Succeed
 date: 2020-05-14 17:46 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/coronavirus-stock-market-rally-shows-why-breakout-from-deep-cup-base-can-succeed
 ---
 
 

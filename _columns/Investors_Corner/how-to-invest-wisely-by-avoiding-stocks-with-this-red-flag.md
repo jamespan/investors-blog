@@ -4,6 +4,7 @@ title: >-
   How To Invest Wisely By Avoiding Stocks With This Red Flag
 date: 2023-01-30 08:00 -0800
 author: RACHEL FOX
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-wisely-by-avoiding-stocks-with-this-red-flag
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Tight Weekly Closes In a Base Show Strength, Support
 date: 2014-03-05 18:04 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/tightness-in-a-base-sign-of-strength
 ---
 
 

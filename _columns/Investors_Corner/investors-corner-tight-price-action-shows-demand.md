@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Tight Price Action Shows Demand
 date: 2011-05-02 16:52 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-tight-price-action-shows-demand
 ---
 
 

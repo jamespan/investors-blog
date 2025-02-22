@@ -4,6 +4,7 @@ title: >-
   Learn To Invest: Align Technology's Law Of Averages
 date: 2013-01-09 17:54 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/moving-average-invest-align-technology-stock-market
 ---
 
 

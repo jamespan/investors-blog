@@ -4,6 +4,7 @@ title: >-
   Understanding Stocks You Own Is One Key To Success
 date: 2015-06-10 16:12 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/understand-stocks-you-own-adds-conviction
 ---
 
 

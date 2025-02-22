@@ -4,6 +4,7 @@ title: >-
   How To Correctly Handle A Break Of The 50-Day Line
 date: 2012-08-23 17:29 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/defensive-sell-rules-are-important-part-of-investing
 ---
 
 

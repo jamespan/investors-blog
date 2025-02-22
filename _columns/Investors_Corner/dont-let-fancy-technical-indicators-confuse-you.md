@@ -4,6 +4,7 @@ title: >-
   Don't Let Fancy Technical Gauges Cloud The Picture
 date: 2012-09-21 16:40 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dont-let-fancy-technical-indicators-confuse-you
 ---
 
 

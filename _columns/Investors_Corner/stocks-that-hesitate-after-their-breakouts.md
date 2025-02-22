@@ -4,6 +4,7 @@ title: >-
   Do-Nothing Breakouts Can Have Three Causes
 date: 2014-01-06 18:15 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stocks-that-hesitate-after-their-breakouts
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Trade: Weekly Closes Reveal Stock's Character
 date: 2013-02-07 17:55 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-read-a-stock
 ---
 
 

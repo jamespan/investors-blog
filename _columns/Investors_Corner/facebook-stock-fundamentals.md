@@ -4,6 +4,7 @@ title: >-
   Facebook Stock: Is All The Bad News Priced In Ahead Of Q4 Results?
 date: 2019-01-29 14:25 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/facebook-stock-fundamentals
 ---
 
 

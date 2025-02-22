@@ -4,6 +4,7 @@ title: >-
   Accumulation In A Stock's Base Can Presage A Breakout
 date: 2015-09-25 17:29 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/institutional-buying-accumulation-in-a-base
 ---
 
 

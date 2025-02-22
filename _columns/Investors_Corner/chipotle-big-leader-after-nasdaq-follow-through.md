@@ -4,6 +4,7 @@ title: >-
   Chipotle Stock and Why You Should Target Leaders, Not Laggards During New Uptrends
 date: 2019-08-09 16:00 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/chipotle-big-leader-after-nasdaq-follow-through
 ---
 
 

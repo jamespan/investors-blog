@@ -4,6 +4,7 @@ title: >-
   When To Sell Stocks: A Way To Govern Expectations: Lock In Profits At 20% To 25%
 date: 2019-11-18 12:15 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-handle-stock-market-expectations
 ---
 
 

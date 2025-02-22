@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Don't Chase Breakouts; Buy Right
 date: 2011-06-14 18:34 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-dont-chase-breakouts-buy-right
 ---
 
 

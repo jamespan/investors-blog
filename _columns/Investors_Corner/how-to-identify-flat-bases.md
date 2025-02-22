@@ -4,6 +4,7 @@ title: >-
   How To Identify, Evaluate A Flat Base
 date: 2013-06-25 16:54 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-identify-flat-bases
 ---
 
 

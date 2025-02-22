@@ -4,6 +4,7 @@ title: >-
   Kick-Start A Healthier 2025 Portfolio With These Homework Tasks
 date: 2024-12-27 08:00 -0800
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-trading-education
 ---
 
 

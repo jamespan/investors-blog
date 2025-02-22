@@ -4,6 +4,7 @@ title: >-
   Everything You Need To Know About Handles In Bases
 date: 2022-04-14 08:00 -0700
 author: MICHAEL MOLINSKI
+origin_url: https://www.investors.com/how-to-invest/investors-corner/cup-with-handle-everything-you-need-to-know-about-handles-in-bases
 ---
 
 

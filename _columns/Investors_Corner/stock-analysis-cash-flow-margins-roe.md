@@ -4,6 +4,7 @@ title: >-
   Stock Analysis: 3 Elements That Can Reveal Much About A Company
 date: 2018-04-13 16:30 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-analysis-cash-flow-margins-roe
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Intraday Charts Can Mislead But They Have Their Uses
 date: 2013-01-11 15:07 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/intraday-stock-charts-can-mislead-traders
 ---
 
 

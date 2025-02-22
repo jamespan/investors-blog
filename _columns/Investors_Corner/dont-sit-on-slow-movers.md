@@ -4,6 +4,7 @@ title: >-
   Buying Slow Moves Can Cost You In Lost Opportunities
 date: 2014-04-02 18:11 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dont-sit-on-slow-movers
 ---
 
 

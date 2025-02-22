@@ -4,6 +4,7 @@ title: >-
   Avoid Chasing Good Stocks Too Far Up In Price
 date: 2014-01-17 15:11 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/avoid-chasing-good-stocks-too-far-up-in-price
 ---
 
 

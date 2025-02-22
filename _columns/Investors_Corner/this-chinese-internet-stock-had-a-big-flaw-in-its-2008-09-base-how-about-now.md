@@ -4,6 +4,7 @@ title: >-
   This China Internet Stock Had A Deep Flaw In Its 2008 Base; How About Now?
 date: 2017-04-27 18:38 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/this-chinese-internet-stock-had-a-big-flaw-in-its-2008-09-base-how-about-now
 ---
 
 

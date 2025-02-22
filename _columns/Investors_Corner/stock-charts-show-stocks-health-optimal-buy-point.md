@@ -4,6 +4,7 @@ title: >-
   Stock Charts Show Stocks' Health, Optimal Buy Point
 date: 2014-10-23 17:54 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-charts-show-stocks-health-optimal-buy-point
 ---
 
 

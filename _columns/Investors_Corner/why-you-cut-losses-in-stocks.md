@@ -4,6 +4,7 @@ title: >-
   How Cutting Your Losses Keeps You From Getting Hurt
 date: 2015-10-26 18:23 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-you-cut-losses-in-stocks
 ---
 
 

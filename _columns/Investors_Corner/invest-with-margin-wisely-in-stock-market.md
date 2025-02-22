@@ -4,6 +4,7 @@ title: >-
   How To Trade: Margin Accounts Amplify Gains, Losses
 date: 2013-03-20 17:58 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/invest-with-margin-wisely-in-stock-market
 ---
 
 

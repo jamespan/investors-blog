@@ -4,6 +4,7 @@ title: >-
   Why Stocks With Big Annual Profit Growth Can Soar
 date: 2016-03-04 19:18 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stocks-with-big-annual-profit-growth-can-soar
 ---
 
 

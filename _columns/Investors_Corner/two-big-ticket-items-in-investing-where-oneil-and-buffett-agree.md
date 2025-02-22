@@ -4,6 +4,7 @@ title: >-
   Slacker Stocks Seldom Win: Stay With Quality For Long-Haul Success
 date: 2016-04-18 12:40 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/two-big-ticket-items-in-investing-where-oneil-and-buffett-agree
 ---
 
 

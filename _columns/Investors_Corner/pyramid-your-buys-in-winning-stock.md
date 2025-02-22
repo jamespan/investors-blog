@@ -4,6 +4,7 @@ title: >-
   How To Invest: Pyramid Into A Winning Position
 date: 2012-01-23 17:39 -0800
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/pyramid-your-buys-in-winning-stock
 ---
 
 

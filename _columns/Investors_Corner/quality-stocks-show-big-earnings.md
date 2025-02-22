@@ -4,6 +4,7 @@ title: >-
   Quality Stocks Have History Of Big EPS Increases
 date: 2013-02-19 17:00 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/quality-stocks-show-big-earnings
 ---
 
 

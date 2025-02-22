@@ -4,6 +4,7 @@ title: >-
   Smart Chart Reading: Why Handles Form On Many Good Base Patterns
 date: 2016-07-06 11:42 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/smart-chart-reading-why-handles-form-on-many-good-base-patterns
 ---
 
 

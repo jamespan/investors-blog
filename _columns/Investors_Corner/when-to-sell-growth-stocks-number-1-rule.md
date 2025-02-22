@@ -4,6 +4,7 @@ title: >-
   When To Sell Growth Stocks: This Could Be Your No. 1 Rule
 date: 2023-05-11 20:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-sell-growth-stocks-number-1-rule
 ---
 
 

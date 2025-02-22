@@ -4,6 +4,7 @@ title: >-
   Know This Sell Rule: When Distribution Days Pile Up In The Stock Market
 date: 2016-11-08 13:35 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/know-this-sell-rule-when-distribution-days-pile-up-in-the-stock-market
 ---
 
 

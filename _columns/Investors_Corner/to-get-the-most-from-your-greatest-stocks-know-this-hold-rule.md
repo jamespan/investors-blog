@@ -4,6 +4,7 @@ title: >-
   To Get The Most From Your Greatest Stocks, Know This Hold Rule
 date: 2017-08-01 16:09 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/to-get-the-most-from-your-greatest-stocks-know-this-hold-rule
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Sell Rules Super Bowl: 11 On Offense, 11 On Defense
 date: 2011-02-03 18:01 -0800
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sell-rules-super-bowl-11-on-offense-11-on-defense
 ---
 
 

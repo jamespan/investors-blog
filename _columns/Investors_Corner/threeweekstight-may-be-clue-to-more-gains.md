@@ -4,6 +4,7 @@ title: >-
   Three-Weeks-Tight May Be Clue To Expect More Gains
 date: 2012-06-19 17:49 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/threeweekstight-may-be-clue-to-more-gains
 ---
 
 

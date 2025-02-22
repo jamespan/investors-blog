@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Don't Be Late To The Game
 date: 2011-07-12 17:20 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-dont-be-late-to-the-game
 ---
 
 

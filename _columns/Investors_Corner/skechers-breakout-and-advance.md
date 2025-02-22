@@ -4,6 +4,7 @@ title: >-
   Skechers Chart Shows A Textbook Advance
 date: 2015-12-28 16:07 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/skechers-breakout-and-advance
 ---
 
 

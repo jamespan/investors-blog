@@ -4,6 +4,7 @@ title: >-
   IPO Stocks: Big Sales Growth Common Bond Among Top-Performing New Issues
 date: 2019-07-17 08:01 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ipo-stocks-big-sales-growth-top-peforming-new-issue
 ---
 
 

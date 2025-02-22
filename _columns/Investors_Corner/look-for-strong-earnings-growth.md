@@ -4,6 +4,7 @@ title: >-
   Strong Earnings Growth Often Leads To Big Price Gains
 date: 2015-06-04 18:23 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/look-for-strong-earnings-growth
 ---
 
 

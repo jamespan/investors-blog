@@ -4,6 +4,7 @@ title: >-
   How To Invest: Failed Breakout Isn't Always A Failure
 date: 2012-01-18 17:32 -0800
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/some-failed-breakouts-can-retake-buy-points
 ---
 
 

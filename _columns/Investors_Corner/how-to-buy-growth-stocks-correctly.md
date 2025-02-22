@@ -4,6 +4,7 @@ title: >-
   Don't Pay Too Much Beyond The Buy Point
 date: 2013-08-14 17:14 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-growth-stocks-correctly
 ---
 
 

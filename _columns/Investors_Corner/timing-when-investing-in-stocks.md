@@ -4,6 +4,7 @@ title: >-
   Timing Makes A Difference When Investing In Stocks
 date: 2019-03-13 17:53 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/timing-when-investing-in-stocks
 ---
 
 

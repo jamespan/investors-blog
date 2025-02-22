@@ -4,6 +4,7 @@ title: >-
   Rare Ascending Base Can Be Powerful Pattern
 date: 2012-10-15 17:23 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-market-leader-qualcomm-built-ascending-base
 ---
 
 

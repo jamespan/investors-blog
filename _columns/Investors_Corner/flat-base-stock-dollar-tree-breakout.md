@@ -4,6 +4,7 @@ title: >-
   Pump Up Your Stock Profits With The Flat Base Breakout In Growth Stocks
 date: 2019-11-19 08:25 -0800
 author: JUSTIN NIELSEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/flat-base-stock-dollar-tree-breakout
 ---
 
 

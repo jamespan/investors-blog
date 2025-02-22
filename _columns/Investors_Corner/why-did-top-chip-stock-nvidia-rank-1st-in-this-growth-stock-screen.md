@@ -4,6 +4,7 @@ title: >-
   Why Did Top Chip Stock Nvidia Rank 1st In This Growth Stock Screen?
 date: 2018-02-16 14:30 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-did-top-chip-stock-nvidia-rank-1st-in-this-growth-stock-screen
 ---
 
 

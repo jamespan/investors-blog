@@ -4,6 +4,7 @@ title: >-
   Look For Firms With Strong Long-Term Earnings Growth
 date: 2015-08-12 17:22 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-annual-earnings-growth
 ---
 
 

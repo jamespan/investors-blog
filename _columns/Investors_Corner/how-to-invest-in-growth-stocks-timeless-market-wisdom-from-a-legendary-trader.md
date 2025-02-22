@@ -4,6 +4,7 @@ title: >-
   How To Invest In Growth Stocks: Timeless Market Wisdom From A Legendary Trader
 date: 2019-10-05 14:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-in-growth-stocks-timeless-market-wisdom-from-a-legendary-trader
 ---
 
 

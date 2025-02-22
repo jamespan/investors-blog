@@ -4,6 +4,7 @@ title: >-
   The Double-Bottom Base First Starts Out As A Cup
 date: 2017-02-15 12:34 -0800
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-double-bottom-base-first-starts-out-as-a-cup
 ---
 
 

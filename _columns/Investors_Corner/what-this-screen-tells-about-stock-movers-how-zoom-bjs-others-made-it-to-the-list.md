@@ -4,6 +4,7 @@ title: >-
   What This Screen Tells About Stock Movers; How Zoom, BJ's, Others Made It To The List
 date: 2024-03-26 08:00 -0700
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-this-screen-tells-about-stock-movers-how-zoom-bjs-others-made-it-to-the-list
 ---
 
 

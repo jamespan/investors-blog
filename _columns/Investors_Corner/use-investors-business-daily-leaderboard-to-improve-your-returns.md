@@ -4,6 +4,7 @@ title: >-
   Use Leaderboard As Your Ultimate Stock Market Coach
 date: 2012-09-13 16:52 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/use-investors-business-daily-leaderboard-to-improve-your-returns
 ---
 
 

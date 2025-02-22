@@ -4,6 +4,7 @@ title: >-
   Reading Obama Vs. Romney Via Stock Market Is Tough
 date: 2012-10-30 19:09 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/does-stock-market-predict-winner
 ---
 
 

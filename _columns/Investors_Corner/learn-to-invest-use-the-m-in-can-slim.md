@@ -4,6 +4,7 @@ title: >-
   Follow Mark Twain's Rule Of Thumb To Read The Market
 date: 2012-04-25 16:50 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-to-invest-use-the-m-in-can-slim
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Invest: Why Personal Ideas Aren't Worth Much
 date: 2014-12-08 18:18 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-best-guide-in-stock-market
 ---
 
 

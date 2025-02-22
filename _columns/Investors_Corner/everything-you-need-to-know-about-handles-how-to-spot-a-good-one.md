@@ -4,6 +4,7 @@ title: >-
   How To Buy Stocks: Everything You Need To Know About Handles In Bases
 date: 2024-01-02 08:00 -0800
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/everything-you-need-to-know-about-handles-how-to-spot-a-good-one
 ---
 
 

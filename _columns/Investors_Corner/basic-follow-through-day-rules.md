@@ -4,6 +4,7 @@ title: >-
   How To Invest: Know Your Follow-Through Days
 date: 2013-11-29 18:03 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/basic-follow-through-day-rules
 ---
 
 

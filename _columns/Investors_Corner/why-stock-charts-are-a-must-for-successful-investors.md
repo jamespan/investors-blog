@@ -4,6 +4,7 @@ title: >-
   Why Learning To Use Stock Charts Is A Must For Successful Investors
 date: 2016-12-01 17:15 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-stock-charts-are-a-must-for-successful-investors
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Trade Stocks Like Nvidia, ASML, Lululelmon During Earnings; Options Strategy Limits Risk
 date: 2019-10-10 16:05 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/new-option-strategy-limits-risk-around-earnings
 ---
 
 

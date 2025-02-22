@@ -4,6 +4,7 @@ title: >-
   Stocks On The Move List Can Point Investor Right Way
 date: 2013-11-13 17:00 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-know-stocks-next-move
 ---
 
 

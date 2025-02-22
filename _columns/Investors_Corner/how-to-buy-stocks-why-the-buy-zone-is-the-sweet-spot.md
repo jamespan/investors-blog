@@ -4,6 +4,7 @@ title: >-
   How To Buy Stocks: Why The 5% Buy Zone Is A Sweet Spot
 date: 2023-12-14 08:00 -0800
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-stocks-why-the-buy-zone-is-the-sweet-spot
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Sell New Stock IPOs Like A Pro? Use 8-Week Rule
 date: 2015-08-28 17:15 -0700
 author: 
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-sell-stocks-use-8-week-hold-rule-for-ipos
 ---
 
 

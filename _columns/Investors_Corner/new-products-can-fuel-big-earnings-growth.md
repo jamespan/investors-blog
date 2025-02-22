@@ -4,6 +4,7 @@ title: >-
   'New'Often Separates Big Market Leaders From The Pack
 date: 2013-09-09 17:32 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/new-products-can-fuel-big-earnings-growth
 ---
 
 

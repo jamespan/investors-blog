@@ -4,6 +4,7 @@ title: >-
   How To Read The Signs That A Stock Market Storm Is Brewing
 date: 2018-03-16 16:00 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-read-signs-stock-market-bear
 ---
 
 

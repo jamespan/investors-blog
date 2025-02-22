@@ -4,6 +4,7 @@ title: >-
   When To Sell A Stock: Cutting Losses Short Is The First Rule
 date: 2025-01-08 08:00 -0800
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sell-a-stock-cutting-losses-short-is-first-rule
 ---
 
 

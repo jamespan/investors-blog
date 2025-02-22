@@ -4,6 +4,7 @@ title: >-
   Finding Breakout Stocks: How To Predict A Breakout Using This Chart Pattern
 date: 2022-08-31 08:00 -0700
 author: RACHEL FOX
+origin_url: https://www.investors.com/how-to-invest/investors-corner/breakout-stocks-predict-breakout-using-flat-base-chart-pattern
 ---
 
 

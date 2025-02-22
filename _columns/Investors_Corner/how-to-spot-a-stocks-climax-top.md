@@ -4,6 +4,7 @@ title: >-
   How To Trade: How To Spot A Climax Top In Winners
 date: 2013-10-18 16:57 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-spot-a-stocks-climax-top
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Moving Averages Help You Assess A Stock's Health
 date: 2014-10-27 18:24 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/moving-averages-a-key-reference-for-investors
 ---
 
 

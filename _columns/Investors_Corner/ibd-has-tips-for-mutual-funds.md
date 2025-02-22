@@ -4,6 +4,7 @@ title: >-
   IBD Has Tips For Mutual Funds Too—Not Just Stocks
 date: 2013-03-18 16:59 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-has-tips-for-mutual-funds
 ---
 
 

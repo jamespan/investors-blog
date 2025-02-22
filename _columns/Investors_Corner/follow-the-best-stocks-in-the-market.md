@@ -4,6 +4,7 @@ title: >-
   Stick With Only The Best Stocks In A Rising Market
 date: 2013-05-31 17:37 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/follow-the-best-stocks-in-the-market
 ---
 
 

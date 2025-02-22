@@ -4,6 +4,7 @@ title: >-
   Why This Stock Breakout Failed: New Oriental Education's Jagged Base Structure
 date: 2016-05-04 17:15 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-this-stock-breakout-failed-new-oriental-educations-jagged-base-structure
 ---
 
 

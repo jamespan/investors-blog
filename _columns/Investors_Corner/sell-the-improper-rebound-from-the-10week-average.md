@@ -4,6 +4,7 @@ title: >-
   Learn To Sell The Weak Rebound From 10-Week Average
 date: 2013-10-28 14:39 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sell-the-improper-rebound-from-the-10week-average
 ---
 
 

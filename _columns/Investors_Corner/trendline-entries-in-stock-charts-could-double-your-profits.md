@@ -4,6 +4,7 @@ title: >-
   Early Trendline Entries In Stock Charts Could Double Your Profit; Here's How
 date: 2024-04-18 08:00 -0700
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/trendline-entries-in-stock-charts-could-double-your-profits
 ---
 
 

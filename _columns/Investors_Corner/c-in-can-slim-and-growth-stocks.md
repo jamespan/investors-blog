@@ -4,6 +4,7 @@ title: >-
   How To Use IBD To Find The C In The CAN SLIM System
 date: 2012-04-17 16:42 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/c-in-can-slim-and-growth-stocks
 ---
 
 

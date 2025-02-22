@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Follow Trading Rules, Not Headlines
 date: 2011-05-18 17:04 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-follow-trading-rules-not-headlines
 ---
 
 

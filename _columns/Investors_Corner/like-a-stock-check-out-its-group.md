@@ -4,6 +4,7 @@ title: >-
   Like A Stock? Check Out Its Group In IBD Checkup
 date: 2012-07-25 17:43 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/like-a-stock-check-out-its-group
 ---
 
 

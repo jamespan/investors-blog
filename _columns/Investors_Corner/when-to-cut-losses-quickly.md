@@ -4,6 +4,7 @@ title: >-
   How To Invest: When To Cut Your Loss Quickly After Breakout
 date: 2015-03-24 17:16 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-cut-losses-quickly
 ---
 
 

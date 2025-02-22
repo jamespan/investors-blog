@@ -4,6 +4,7 @@ title: >-
   Volume Is Critical To Breakouts
 date: 2011-09-16 18:38 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/volume-is-critical-to-breakouts
 ---
 
 

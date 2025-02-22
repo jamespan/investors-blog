@@ -4,6 +4,7 @@ title: >-
   What Does A Double Bottom Base Look Like? This Top Biotech Stock Formed A Great One
 date: 2024-10-10 11:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-double-bottom-base-biotech-stocks
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Use Charts To Buy Stocks: Avoid Wide And Loose Action
 date: 2012-11-28 17:27 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/research-in-motion-flashed-warning-sign-in-2008
 ---
 
 

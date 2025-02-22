@@ -4,6 +4,7 @@ title: >-
   A Key Strategy Question: How Many Stocks Should I Buy?
 date: 2015-03-20 17:34 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/concentrate-your-stock-portfolio
 ---
 
 

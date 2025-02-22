@@ -4,6 +4,7 @@ title: >-
   Top Stocks Often Give Investors A Second Chance
 date: 2014-05-29 17:18 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dont-give-up-too-soon-on-a-strong-stock
 ---
 
 

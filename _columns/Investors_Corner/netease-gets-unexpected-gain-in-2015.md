@@ -4,6 +4,7 @@ title: >-
   NetEase Snubs China Sell-Off To Advance Big In 2015
 date: 2015-12-24 17:30 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/netease-gets-unexpected-gain-in-2015
 ---
 
 

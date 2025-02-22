@@ -4,6 +4,7 @@ title: >-
   Lyft IPO: See Lessons From Facebook, Alibaba, Snap, Cronos Before Investing
 date: 2019-04-09 21:15 -0700
 author: MATTHEW GALGANI
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ipo-stocks-levi-strauss-tencent-music-facebook-alibaba-snap-square-how-to-invest
 ---
 
 

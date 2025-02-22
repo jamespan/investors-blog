@@ -4,6 +4,7 @@ title: >-
   The Main Problem With Penny Stocks: You Get What You Pay For
 date: 2016-07-26 13:22 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-main-problem-with-penny-stocks-you-get-what-you-pay-for
 ---
 
 

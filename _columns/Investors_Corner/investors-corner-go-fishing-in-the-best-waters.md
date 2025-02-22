@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Go Fishing In The Best Waters
 date: 2011-07-27 18:34 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-go-fishing-in-the-best-waters
 ---
 
 

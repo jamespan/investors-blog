@@ -4,6 +4,7 @@ title: >-
   Understanding The CBOE VIX, An Investor Fear Gauge
 date: 2013-12-10 17:21 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-use-the-vix-index
 ---
 
 

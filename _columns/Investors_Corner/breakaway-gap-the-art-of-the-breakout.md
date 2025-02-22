@@ -4,6 +4,7 @@ title: >-
   When To Buy Growth Stocks: Breakaway Gaps And The Art Of The Breakout
 date: 2025-01-22 08:00 -0800
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/breakaway-gap-the-art-of-the-breakout
 ---
 
 

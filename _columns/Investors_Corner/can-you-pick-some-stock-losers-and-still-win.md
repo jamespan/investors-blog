@@ -4,6 +4,7 @@ title: >-
   Can You Pick More Stock Losers Than Winners And Still Win?
 date: 2016-04-26 13:16 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/can-you-pick-some-stock-losers-and-still-win
 ---
 
 

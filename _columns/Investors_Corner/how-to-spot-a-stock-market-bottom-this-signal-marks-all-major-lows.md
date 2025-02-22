@@ -4,6 +4,7 @@ title: >-
   How To Spot A Stock Market Bottom: This Signal Marks All Major Lows
 date: 2024-05-21 08:00 -0700
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-spot-a-stock-market-bottom-this-signal-marks-all-major-lows
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Too Much Trading Can Make You Miss The Big Winners
 date: 2011-11-11 17:25 -0800
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/too-much-trading-can-make-you-miss-the-big-winners
 ---
 
 

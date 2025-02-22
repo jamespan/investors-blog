@@ -4,6 +4,7 @@ title: >-
   How To Invest: Chasing A Stock Raises Risk
 date: 2014-12-18 18:09 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/chasing-stock-raises-risk
 ---
 
 

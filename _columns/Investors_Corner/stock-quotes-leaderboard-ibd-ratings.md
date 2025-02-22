@@ -4,6 +4,7 @@ title: >-
   IBD's Enhanced Quotes Give Investors More Facts
 date: 2014-08-29 18:49 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-quotes-leaderboard-ibd-ratings
 ---
 
 

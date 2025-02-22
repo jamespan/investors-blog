@@ -4,6 +4,7 @@ title: >-
   How To Invest After A Follow-Through Day, As The Coronavirus Stock Market Rally Continues Higher
 date: 2020-04-17 11:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-coronavirus-stock-market-rally-breakouts-amazon-stock-netflix-stock
 ---
 
 

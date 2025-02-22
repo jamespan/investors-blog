@@ -4,6 +4,7 @@ title: >-
   How To Invest: Find Market Champs With Screen Center
 date: 2012-01-04 17:31 -0800
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/use-screen-center-to-get-investment-ideas-fast
 ---
 
 

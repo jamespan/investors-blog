@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Focus Only On The Best Companies
 date: 2011-07-19 17:27 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-focus-only-on-the-best-companies
 ---
 
 

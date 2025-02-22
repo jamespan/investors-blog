@@ -4,6 +4,7 @@ title: >-
   How To Invest: An Outlandish, 1-Day Gain Can Spell Trouble During A Bear Market
 date: 2018-12-29 09:00 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/bear-market-stocks-big-one-day-gain
 ---
 
 

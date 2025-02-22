@@ -4,6 +4,7 @@ title: >-
   How The EPS Rating Homes In On Superior Profits In The Stock Market
 date: 2016-07-28 13:25 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-the-eps-rating-homes-in-on-superior-profits-in-the-stock-market
 ---
 
 

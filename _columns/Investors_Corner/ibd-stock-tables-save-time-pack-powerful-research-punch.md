@@ -4,6 +4,7 @@ title: >-
   IBD Stock Tables Save Time, Pack Powerful Research Punch
 date: 2016-02-19 11:31 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-stock-tables-save-time-pack-powerful-research-punch
 ---
 
 

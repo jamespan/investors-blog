@@ -4,6 +4,7 @@ title: >-
   Why The Dow In 2014 Isn't 1929 In Charts
 date: 2014-02-12 18:03 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/1929-crash-not-in-the-offing-in-2014
 ---
 
 

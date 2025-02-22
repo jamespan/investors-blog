@@ -4,6 +4,7 @@ title: >-
   This IBD Rating Helped Investors Judge Palantir's Mettle
 date: 2025-02-06 13:34 -0800
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-fundamental-analysis-sales-margins
 ---
 
 

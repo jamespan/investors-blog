@@ -4,6 +4,7 @@ title: >-
   Bolster Your Basic Research Via Investors.com
 date: 2013-08-22 16:44 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/using-investorscom-as-a-research-tool
 ---
 
 

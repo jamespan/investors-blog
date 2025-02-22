@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Using Indexes To Tend The Flock
 date: 2013-06-03 17:11 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-use-stock-indexes
 ---
 
 

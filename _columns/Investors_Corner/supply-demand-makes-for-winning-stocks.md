@@ -4,6 +4,7 @@ title: >-
   Supply, Demand Crucial To Stock Market's Big Winners
 date: 2012-04-20 18:00 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/supply-demand-makes-for-winning-stocks
 ---
 
 

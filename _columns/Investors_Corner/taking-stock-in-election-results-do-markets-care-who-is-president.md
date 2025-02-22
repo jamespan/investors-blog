@@ -4,6 +4,7 @@ title: >-
   Taking Stock in Election Results: Do Markets Care Who Is President?
 date: 2016-11-04 13:39 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/taking-stock-in-election-results-do-markets-care-who-is-president
 ---
 
 

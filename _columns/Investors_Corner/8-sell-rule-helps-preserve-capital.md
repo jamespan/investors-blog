@@ -4,6 +4,7 @@ title: >-
   The 8% Sell Rule Keeps Losses Small, Shields Capital
 date: 2012-11-02 16:58 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/8-sell-rule-helps-preserve-capital
 ---
 
 

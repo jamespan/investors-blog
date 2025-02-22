@@ -4,6 +4,7 @@ title: >-
   Three-Weeks-Tight Pattern Gives New Life To Hot Stock
 date: 2015-04-09 18:00 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/is-gilead-a-great-stock
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   What To Do When Growth Stocks Backtrack To Test Buy Points
 date: 2022-08-30 08:00 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-and-breakouts-backtrack-to-retest-buy-points
 ---
 
 

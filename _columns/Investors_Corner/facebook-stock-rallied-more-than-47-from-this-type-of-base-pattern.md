@@ -4,6 +4,7 @@ title: >-
   How To Trade Stocks: This Type Of Chart Pattern Took Facebook Stock On 47% Run
 date: 2024-04-29 08:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/facebook-stock-rallied-more-than-47-from-this-type-of-base-pattern
 ---
 
 

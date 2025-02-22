@@ -4,6 +4,7 @@ title: >-
   Use Downtime On Weekend To Build A Great Watch List
 date: 2012-09-18 16:44 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/spend-time-on-weekend-sharpening-your-stock-watch-list
 ---
 
 

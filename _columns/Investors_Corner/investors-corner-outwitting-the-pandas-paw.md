@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Outwitting The Panda's Paw
 date: 2011-06-06 17:49 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-outwitting-the-pandas-paw
 ---
 
 

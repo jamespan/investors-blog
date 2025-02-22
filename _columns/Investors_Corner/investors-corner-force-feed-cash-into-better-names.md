@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Force-Feed Cash Into Better Names
 date: 2011-07-22 17:48 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-force-feed-cash-into-better-names
 ---
 
 

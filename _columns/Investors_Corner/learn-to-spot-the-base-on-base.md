@@ -4,6 +4,7 @@ title: >-
   Base-On-Base Can Lead To Powerful Gains
 date: 2012-08-10 18:06 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-to-spot-the-base-on-base
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How Netflix Became One Of The Best Stocks Of 2013
 date: 2013-12-24 14:24 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/netflix-a-winner-in-2013
 ---
 
 

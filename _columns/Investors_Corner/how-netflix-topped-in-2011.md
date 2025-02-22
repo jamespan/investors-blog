@@ -4,6 +4,7 @@ title: >-
   Selling At Record Highs: How Netflix Topped In 2011
 date: 2015-06-18 19:27 -0700
 author: ANDREW EDWARDS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-netflix-topped-in-2011
 ---
 
 

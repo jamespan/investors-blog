@@ -4,6 +4,7 @@ title: >-
   Before You Find Growth Stocks To Buy, First Assess These Flaws In Bases
 date: 2019-09-06 11:56 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-to-buy-assess-flaws-bases
 ---
 
 

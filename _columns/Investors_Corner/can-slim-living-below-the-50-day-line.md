@@ -4,6 +4,7 @@ title: >-
   Apple's Time Below The Line Signaled Weakness
 date: 2014-09-22 17:43 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/can-slim-living-below-the-50-day-line
 ---
 
 

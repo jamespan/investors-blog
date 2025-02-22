@@ -4,6 +4,7 @@ title: >-
   Profit Margins Are Key Barometer Of Company's Health
 date: 2015-05-22 18:55 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/look-for-high-and-rising-profit-margins
 ---
 
 

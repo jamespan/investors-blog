@@ -4,6 +4,7 @@ title: >-
   Check Market Pulse For Potential Watch-List Stocks
 date: 2014-05-01 17:32 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/check-market-pulse-for-potential-watch-list-stocks
 ---
 
 

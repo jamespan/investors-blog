@@ -4,6 +4,7 @@ title: >-
   Base-On-Base Patterns: Stocks Adopt Different Strokes In Choppy Markets
 date: 2016-05-06 19:19 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/reading-the-different-strokes-stocks-adopt-in-choppy-markets
 ---
 
 

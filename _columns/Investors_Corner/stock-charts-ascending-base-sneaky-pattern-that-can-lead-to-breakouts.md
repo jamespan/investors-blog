@@ -4,6 +4,7 @@ title: >-
   Ascending Base A Sneaky Stock Chart Pattern That Can Lead To Successful Breakouts
 date: 2024-05-14 08:00 -0700
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-charts-ascending-base-sneaky-pattern-that-can-lead-to-breakouts
 ---
 
 

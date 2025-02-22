@@ -4,6 +4,7 @@ title: >-
   Use IBD Resources To Speed Up Your Stock Chart Skills
 date: 2013-07-22 17:11 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/successful-investors-use-stock-charts-for-analysis
 ---
 
 

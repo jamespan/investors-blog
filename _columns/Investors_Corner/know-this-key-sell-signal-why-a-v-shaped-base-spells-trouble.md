@@ -4,6 +4,7 @@ title: >-
   When To Sell Top Stocks: Why A V-Shaped Base Spells "Trouble"
 date: 2019-12-01 16:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/know-this-key-sell-signal-why-a-v-shaped-base-spells-trouble
 ---
 
 

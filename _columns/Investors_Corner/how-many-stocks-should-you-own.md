@@ -4,6 +4,7 @@ title: >-
   How To Invest: What's The Right Number Of Stocks?
 date: 2013-08-05 17:39 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-many-stocks-should-you-own
 ---
 
 

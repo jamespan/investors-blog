@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Industry Groups Evolve, Expand
 date: 2011-05-17 15:08 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-industry-groups-evolve-expand
 ---
 
 

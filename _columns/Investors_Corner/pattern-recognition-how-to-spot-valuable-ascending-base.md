@@ -4,6 +4,7 @@ title: >-
   Can IBD's Pattern Recognition Feature Help You Spot Alibaba's New Buy Point?
 date: 2017-09-08 14:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/pattern-recognition-how-to-spot-valuable-ascending-base
 ---
 
 

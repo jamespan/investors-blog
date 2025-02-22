@@ -4,6 +4,7 @@ title: >-
   Failed Breakout Can Give Insight Into A Base's Flaws
 date: 2016-08-22 15:52 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/failed-breakout-can-give-insight-into-a-bases-flaws
 ---
 
 

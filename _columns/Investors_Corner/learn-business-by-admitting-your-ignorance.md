@@ -4,6 +4,7 @@ title: >-
   Express Ignorance And Willingness To Learn
 date: 2013-07-17 13:46 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-business-by-admitting-your-ignorance
 ---
 
 

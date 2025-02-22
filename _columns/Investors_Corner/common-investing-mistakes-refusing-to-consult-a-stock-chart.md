@@ -4,6 +4,7 @@ title: >-
   Common Investing Mistakes: Refusing To Consult A Stock Chart
 date: 2016-05-26 16:17 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/common-investing-mistakes-refusing-to-consult-a-stock-chart
 ---
 
 

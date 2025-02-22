@@ -4,6 +4,7 @@ title: >-
   Return On Equity Is A Key Measure For Investors
 date: 2015-05-26 17:56 -0700
 author: KIRA BRECHT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/roe-measures-financial-efficiency
 ---
 
 

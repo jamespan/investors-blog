@@ -4,6 +4,7 @@ title: >-
   When A Breakout Falls Flat, Opt To Cut Bait Sooner
 date: 2013-08-06 18:09 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/failed-breakouts-are-not-time-for-patience
 ---
 
 

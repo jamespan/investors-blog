@@ -4,6 +4,7 @@ title: >-
   Big Profit Gain Is Good; Steady Growth Is Even Better
 date: 2015-09-08 18:41 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/look-for-steady-profit-growth
 ---
 
 

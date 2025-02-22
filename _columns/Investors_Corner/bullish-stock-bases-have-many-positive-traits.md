@@ -4,6 +4,7 @@ title: >-
   How To Invest: Several Elements Make Up A Great Base
 date: 2015-03-12 14:08 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/bullish-stock-bases-have-many-positive-traits
 ---
 
 

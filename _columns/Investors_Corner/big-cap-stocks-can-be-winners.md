@@ -4,6 +4,7 @@ title: >-
   They Tend To Rise Slowly, But Big Cap Stocks Can Be Winners
 date: 2019-02-14 17:00 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/big-cap-stocks-can-be-winners
 ---
 
 

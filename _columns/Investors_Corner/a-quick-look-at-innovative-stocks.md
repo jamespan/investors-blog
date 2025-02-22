@@ -4,6 +4,7 @@ title: >-
   How To Find Big Growth Stocks: The GoPro—GE Divide
 date: 2014-11-18 18:43 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/a-quick-look-at-innovative-stocks
 ---
 
 

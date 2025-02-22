@@ -4,6 +4,7 @@ title: >-
   Scout Annual Earnings Estimates For Potential Winners
 date: 2013-03-28 17:14 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/earnings-estimates-are-important
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: The Cup Without Handle
 date: 2014-08-06 18:27 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-cup-without-handle-base
 ---
 
 

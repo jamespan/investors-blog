@@ -4,6 +4,7 @@ title: >-
   Don't Let A Double-Digit Gain Cycle Into A Loss
 date: 2014-09-15 18:09 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/do-not-let-double-digit-gain-cycle-into-loss
 ---
 
 

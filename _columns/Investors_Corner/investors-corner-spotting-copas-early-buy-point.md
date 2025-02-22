@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Spotting Copa's Early Buy Point
 date: 2011-08-01 17:29 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-spotting-copas-early-buy-point
 ---
 
 

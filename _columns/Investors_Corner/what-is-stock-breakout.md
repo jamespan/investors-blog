@@ -4,6 +4,7 @@ title: >-
   Why A Breakout Is Like A 'Get Out Of Jail' Card For Leading Stocks
 date: 2024-11-27 08:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-stock-breakout
 ---
 
 

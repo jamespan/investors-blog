@@ -4,6 +4,7 @@ title: >-
   When To Sell Stocks: Get Ready For An Exit When The Group's Leaders Crumble
 date: 2019-11-27 10:35 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/know-this-sell-rule-get-ready-for-an-exit-when-the-groups-leaders-crumble
 ---
 
 

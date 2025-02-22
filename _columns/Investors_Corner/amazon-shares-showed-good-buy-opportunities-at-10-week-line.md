@@ -4,6 +4,7 @@ title: >-
   Add To A Successful Stock Stake Only At Right Time
 date: 2012-10-19 18:12 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/amazon-shares-showed-good-buy-opportunities-at-10-week-line
 ---
 
 

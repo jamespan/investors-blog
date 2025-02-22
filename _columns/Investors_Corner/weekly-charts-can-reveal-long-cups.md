@@ -4,6 +4,7 @@ title: >-
   Learn To Use Weekly Charts To Spot Long Bases
 date: 2012-10-10 18:47 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/weekly-charts-can-reveal-long-cups
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Improve Your Chart-Reading Skills With Leaderboard
 date: 2015-08-05 17:20 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/improve-chart-reading-skills-with-leaderboard
 ---
 
 

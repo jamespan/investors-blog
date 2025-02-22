@@ -4,6 +4,7 @@ title: >-
   Buy Only The Market's Very Best Companies When You Invest
 date: 2012-09-26 17:11 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/apple-has-stellar-growth-and-hit-products
 ---
 
 

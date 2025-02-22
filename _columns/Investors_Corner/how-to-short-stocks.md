@@ -4,6 +4,7 @@ title: >-
   A Little Knowledge Can Make A Mess Of A Short Sale
 date: 2016-01-04 17:56 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-short-stocks
 ---
 
 

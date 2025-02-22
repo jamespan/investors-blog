@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Citigroup Recovery Key To 2009 FTD
 date: 2011-05-25 16:17 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-citigroup-recovery-key-to-2009-ftd
 ---
 
 

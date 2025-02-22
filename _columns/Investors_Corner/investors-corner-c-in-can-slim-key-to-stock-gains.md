@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: 'C' In CAN SLIM Key To Stock Gains
 date: 2011-04-21 18:42 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-c-in-can-slim-key-to-stock-gains
 ---
 
 

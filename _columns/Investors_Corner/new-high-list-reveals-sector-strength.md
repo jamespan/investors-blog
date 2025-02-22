@@ -4,6 +4,7 @@ title: >-
   New High List Gives Buy Points, Market Health Clues
 date: 2014-03-14 15:56 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/new-high-list-reveals-sector-strength
 ---
 
 

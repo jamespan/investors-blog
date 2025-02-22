@@ -4,6 +4,7 @@ title: >-
   Use IBD Stock Checkup To Gauge Stocks' Overall Health
 date: 2015-07-14 18:51 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/use-ibd-stock-checkup-to-check-health
 ---
 
 

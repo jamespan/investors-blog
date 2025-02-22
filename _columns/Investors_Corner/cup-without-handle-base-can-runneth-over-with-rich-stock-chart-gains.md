@@ -4,6 +4,7 @@ title: >-
   Cup-Without-Handle Base Can Runneth Over With Rich Stock Gains
 date: 2024-07-16 08:01 -0700
 author: MICHAEL LARKIN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/cup-without-handle-base-can-runneth-over-with-rich-stock-chart-gains
 ---
 
 

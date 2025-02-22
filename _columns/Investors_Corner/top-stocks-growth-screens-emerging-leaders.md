@@ -4,6 +4,7 @@ title: >-
   Top Stocks: IBD Screens Uncover Emerging Leaders Before Big Moves
 date: 2018-11-16 13:45 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/top-stocks-growth-screens-emerging-leaders
 ---
 
 

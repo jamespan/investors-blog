@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Trash Talkers Don't Rule Markets
 date: 2011-04-15 17:02 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-trash-talkers-dont-rule-markets
 ---
 
 

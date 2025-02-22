@@ -4,6 +4,7 @@ title: >-
   Use Composite Rating To Help Narrow Stock Field
 date: 2016-01-21 16:33 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/use-composite-rating-to-help-narrow-stock-field
 ---
 
 

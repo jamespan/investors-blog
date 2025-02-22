@@ -4,6 +4,7 @@ title: >-
   How To Time The Stock Market: Why Increasing Distribution Days Can Warn Of Danger Ahead
 date: 2019-08-11 11:00 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/institutional-selling-flags-stock-market-tops
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Monthly Charts Can Clarify Stock Trends
 date: 2014-07-31 18:07 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-good-are-monthly-stock-charts
 ---
 
 

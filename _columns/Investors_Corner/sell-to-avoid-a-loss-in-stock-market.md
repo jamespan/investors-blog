@@ -4,6 +4,7 @@ title: >-
   Learn To Sell To Avoid Letting Gain Turn Into A Loss
 date: 2013-05-23 17:26 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sell-to-avoid-a-loss-in-stock-market
 ---
 
 

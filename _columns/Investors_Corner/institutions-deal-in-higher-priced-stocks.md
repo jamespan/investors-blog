@@ -4,6 +4,7 @@ title: >-
   Higher-Priced Issues Can Move Even Higher
 date: 2012-08-15 16:34 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/institutions-deal-in-higher-priced-stocks
 ---
 
 

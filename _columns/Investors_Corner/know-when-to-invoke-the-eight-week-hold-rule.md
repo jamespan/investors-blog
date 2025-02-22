@@ -4,6 +4,7 @@ title: >-
   Know When To Invoke The Eight-Week Hold Rule
 date: 2013-03-06 16:58 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/know-when-to-invoke-the-eight-week-hold-rule
 ---
 
 

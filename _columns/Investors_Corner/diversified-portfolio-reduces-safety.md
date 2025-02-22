@@ -4,6 +4,7 @@ title: >-
   Too Much Diversification Not As Safe As You Think
 date: 2015-02-05 17:33 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/diversified-portfolio-reduces-safety
 ---
 
 

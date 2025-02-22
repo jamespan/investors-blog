@@ -4,6 +4,7 @@ title: >-
   The Basics: Why The Best Offense Is A Good Defense By Cutting Losses Quickly
 date: 2016-12-20 16:46 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-basics-why-the-best-offense-is-a-good-defense-by-cutting-losses-quickly
 ---
 
 

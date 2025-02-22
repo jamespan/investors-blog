@@ -4,6 +4,7 @@ title: >-
   Why Chasing Hot Tips Doesn't Pay In The Stock Market
 date: 2015-08-20 17:28 -0700
 author: ANDREW EDWARDS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-tips-dont-pay
 ---
 
 

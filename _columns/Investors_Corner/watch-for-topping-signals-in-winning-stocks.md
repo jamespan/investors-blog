@@ -4,6 +4,7 @@ title: >-
   Sell Winning Stocks After Weak Rebound From Big Drop
 date: 2014-09-26 17:12 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/watch-for-topping-signals-in-winning-stocks
 ---
 
 

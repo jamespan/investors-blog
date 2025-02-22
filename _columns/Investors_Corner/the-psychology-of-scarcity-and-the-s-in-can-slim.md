@@ -4,6 +4,7 @@ title: >-
   The Psychology of Scarcity, And Why The S In CAN SLIM Matters In Stock Trading
 date: 2016-03-08 14:44 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-psychology-of-scarcity-and-the-s-in-can-slim
 ---
 
 

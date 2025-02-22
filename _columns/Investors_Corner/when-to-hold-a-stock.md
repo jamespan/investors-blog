@@ -4,6 +4,7 @@ title: >-
   RS Line Can Help Investor Decide When To Hold Stock
 date: 2013-05-20 18:11 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-hold-a-stock
 ---
 
 

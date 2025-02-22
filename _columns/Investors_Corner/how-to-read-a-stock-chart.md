@@ -4,6 +4,7 @@ title: >-
   Pay Attention To What's Happening Within Stock's Base
 date: 2012-12-05 18:14 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-read-a-stock-chart
 ---
 
 

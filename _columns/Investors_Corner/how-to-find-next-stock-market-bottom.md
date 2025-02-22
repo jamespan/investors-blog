@@ -4,6 +4,7 @@ title: >-
   How To Find The Next Stock Market Bottom: Why Stocks Turned In 1990
 date: 2019-10-25 16:00 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-find-next-stock-market-bottom
 ---
 
 

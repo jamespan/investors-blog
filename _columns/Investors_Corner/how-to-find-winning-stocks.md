@@ -4,6 +4,7 @@ title: >-
   Good Stocks Differ, So Know What You're Looking At
 date: 2015-08-06 17:13 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-find-winning-stocks
 ---
 
 

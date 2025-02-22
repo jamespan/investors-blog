@@ -4,6 +4,7 @@ title: >-
   How To Invest: Learn To Analyze Return On Equity
 date: 2013-06-13 14:38 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/understanding-return-on-equity
 ---
 
 

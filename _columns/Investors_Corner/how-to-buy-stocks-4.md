@@ -4,6 +4,7 @@ title: >-
   When To Add A New Full Position In A Good Stock
 date: 2013-03-11 18:01 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-stocks-4
 ---
 
 

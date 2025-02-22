@@ -4,6 +4,7 @@ title: >-
   Review Your 2012 Trades; Reveal Your Recurring Errors
 date: 2012-12-31 16:57 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/review-stock-trades-investment-recurring-errors
 ---
 
 

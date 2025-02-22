@@ -4,6 +4,7 @@ title: >-
   When To Sell Growth Stocks: Why The Relative Strength Line Can Flash Weakening Health
 date: 2019-11-20 14:05 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-sell-rs-line-gives-clues-about-a-stocks-weakening-health
 ---
 
 

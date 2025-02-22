@@ -4,6 +4,7 @@ title: >-
   Vipshop Holdings: China Stock, Market-Leading Rally
 date: 2014-12-23 17:32 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-history-of-vipshop-holdings
 ---
 
 

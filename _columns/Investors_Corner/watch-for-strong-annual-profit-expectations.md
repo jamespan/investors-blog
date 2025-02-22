@@ -4,6 +4,7 @@ title: >-
   Watch For Strong Annual Profit Expectations
 date: 2017-08-28 15:50 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/watch-for-strong-annual-profit-expectations
 ---
 
 

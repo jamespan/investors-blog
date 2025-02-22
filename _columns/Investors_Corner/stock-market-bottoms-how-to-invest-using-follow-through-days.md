@@ -4,6 +4,7 @@ title: >-
   Safely Timing Stock Market Bottoms: How To Spot Follow-Through Days
 date: 2024-09-23 08:00 -0700
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-bottoms-how-to-invest-using-follow-through-days
 ---
 
 

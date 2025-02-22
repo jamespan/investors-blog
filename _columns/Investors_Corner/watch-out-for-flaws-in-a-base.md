@@ -4,6 +4,7 @@ title: >-
   Why InfoSonics' Sharp Breakout Eventually Failed
 date: 2013-11-05 18:24 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/watch-out-for-flaws-in-a-base
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Adopt A Sound Strategy For Secondary Buy Points
 date: 2012-04-05 18:34 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/secondary-buy-points-give-investors-chance-to-add-shares
 ---
 
 

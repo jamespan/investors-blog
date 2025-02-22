@@ -4,6 +4,7 @@ title: >-
   The L In CAN SLIM: Why Leading Stocks Tend To Maintain Their High Performance
 date: 2023-04-13 08:00 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/leading-stocks-tend-to-maintain-high-performance-canslim-investing
 ---
 
 

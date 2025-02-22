@@ -4,6 +4,7 @@ title: >-
   Don't Judge Sales In A Vacuum; Use The SMR Rating To Assess Growth
 date: 2016-08-02 15:53 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dont-judge-a-companys-sales-in-a-vacuum-use-the-smr-rating-to-judge-growth
 ---
 
 

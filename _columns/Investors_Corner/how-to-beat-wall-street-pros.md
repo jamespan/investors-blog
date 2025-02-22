@@ -4,6 +4,7 @@ title: >-
   Respect Cash As A Position If You Hope To Beat Market
 date: 2012-11-16 16:35 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-beat-wall-street-pros
 ---
 
 

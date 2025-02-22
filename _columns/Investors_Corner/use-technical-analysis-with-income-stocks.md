@@ -4,6 +4,7 @@ title: >-
   Even With Income Stocks, It's Smart To Time Moves
 date: 2012-12-14 16:54 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/use-technical-analysis-with-income-stocks
 ---
 
 

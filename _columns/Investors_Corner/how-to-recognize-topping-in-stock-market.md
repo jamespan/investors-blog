@@ -4,6 +4,7 @@ title: >-
   To Recognize A Topping Market, Watch For Stall Days
 date: 2012-03-05 16:46 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-recognize-topping-in-stock-market
 ---
 
 

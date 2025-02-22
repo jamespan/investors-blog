@@ -4,6 +4,7 @@ title: >-
   IBD's 20 Rules #10 Keep Eye Out For New Management
 date: 2011-09-26 15:45 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibds-20-rules-10-keep-eye-out-for-new-management
 ---
 
 

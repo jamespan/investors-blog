@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: How To Use IBD Screens
 date: 2011-05-12 15:48 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-how-to-use-ibd-screens
 ---
 
 

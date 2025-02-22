@@ -4,6 +4,7 @@ title: >-
   Sell Good Stock When There's Too Much Media Attention
 date: 2013-10-24 17:17 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/be-wary-of-stocks-getting-too-much-attention
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Smart Stock Chart Reading: How To Locate The Flat Base
 date: 2016-06-15 12:49 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/smart-stock-chart-reading-how-to-locate-the-flat-base
 ---
 
 

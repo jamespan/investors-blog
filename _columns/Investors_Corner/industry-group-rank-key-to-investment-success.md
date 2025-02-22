@@ -4,6 +4,7 @@ title: >-
   How To Invest: A Strong Industry Group Rank Is Vital
 date: 2012-01-05 17:27 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/industry-group-rank-key-to-investment-success
 ---
 
 

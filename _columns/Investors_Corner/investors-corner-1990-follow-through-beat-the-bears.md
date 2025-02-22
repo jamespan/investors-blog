@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: 1990 Follow-Through Beat The Bears
 date: 2011-05-19 16:05 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-1990-follow-through-beat-the-bears
 ---
 
 

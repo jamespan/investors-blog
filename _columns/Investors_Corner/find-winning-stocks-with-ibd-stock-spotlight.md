@@ -4,6 +4,7 @@ title: >-
   Stock Spotlight Shines Light Early On Big Movers
 date: 2012-03-09 16:15 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/find-winning-stocks-with-ibd-stock-spotlight
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Psych 108: Don't Get Stuck On Old Dogs; Keep Learning
 date: 2011-02-16 16:50 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/psych-108-dont-get-stuck-on-old-dogs-keep-learning
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Tracing The Lines Of Aruba's Goodbye Look
 date: 2011-10-25 17:33 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/tracing-the-lines-of-arubas-goodbye-look
 ---
 
 

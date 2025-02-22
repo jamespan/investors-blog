@@ -4,6 +4,7 @@ title: >-
   How To Invest: Insist On Strong Quarterly Profits
 date: 2015-01-05 17:37 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-in-winning-stocks
 ---
 
 

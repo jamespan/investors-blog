@@ -4,6 +4,7 @@ title: >-
   How To Trade: Take Gains Once They Amount To 20%, 25%
 date: 2013-03-01 17:45 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-sell-stocks-successfully
 ---
 
 

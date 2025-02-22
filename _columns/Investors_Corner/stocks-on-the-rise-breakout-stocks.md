@@ -4,6 +4,7 @@ title: >-
   When To Buy Growth Stocks: Why Breakouts Identify Leaders With Huge Potential
 date: 2019-10-21 13:25 -0700
 author: JUSTIN NIELSEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stocks-on-the-rise-breakout-stocks
 ---
 
 

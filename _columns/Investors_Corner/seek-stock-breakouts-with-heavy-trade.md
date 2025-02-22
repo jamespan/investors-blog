@@ -4,6 +4,7 @@ title: >-
   How To Invest: Look For A Breakout With Big Turnover
 date: 2012-05-09 17:40 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/seek-stock-breakouts-with-heavy-trade
 ---
 
 

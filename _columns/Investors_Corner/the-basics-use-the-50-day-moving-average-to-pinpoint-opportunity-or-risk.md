@@ -4,6 +4,7 @@ title: >-
   How To Use The 50-Day Moving Average Like A Pro; Pinpoint Opportunity Or Risk
 date: 2019-11-14 08:25 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-basics-use-the-50-day-moving-average-to-pinpoint-opportunity-or-risk
 ---
 
 

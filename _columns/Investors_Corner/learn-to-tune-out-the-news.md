@@ -4,6 +4,7 @@ title: >-
   Too Much Attention To News Can Harm Your Portfolio
 date: 2013-08-20 17:43 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-to-tune-out-the-news
 ---
 
 

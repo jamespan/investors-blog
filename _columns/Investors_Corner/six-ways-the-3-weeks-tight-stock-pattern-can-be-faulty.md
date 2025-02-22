@@ -4,6 +4,7 @@ title: >-
   How To Use Stock Charts: 6 Ways The 3-Weeks-Tight Stock Pattern Can Be Faulty
 date: 2019-03-19 14:55 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/six-ways-the-3-weeks-tight-stock-pattern-can-be-faulty
 ---
 
 

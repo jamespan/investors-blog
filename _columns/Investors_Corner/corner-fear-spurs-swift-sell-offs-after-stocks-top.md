@@ -4,6 +4,7 @@ title: >-
   Corner: Fear Spurs Swift Sell-Offs After Stocks Top
 date: 2011-03-01 17:50 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/corner-fear-spurs-swift-sell-offs-after-stocks-top
 ---
 
 

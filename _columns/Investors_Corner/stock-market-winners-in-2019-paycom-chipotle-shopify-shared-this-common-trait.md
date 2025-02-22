@@ -4,6 +4,7 @@ title: >-
   2019 Stock Market Winners: Paycom, Chipotle, Shopify Shared This Common Trait
 date: 2019-12-12 18:55 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-winners-in-2019-paycom-chipotle-shopify-shared-this-common-trait
 ---
 
 

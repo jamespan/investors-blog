@@ -4,6 +4,7 @@ title: >-
   How To Invest: 10-Day Moving Average Offers Early Exit Signal
 date: 2024-06-28 08:00 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-10-day-moving-average-2
 ---
 
 

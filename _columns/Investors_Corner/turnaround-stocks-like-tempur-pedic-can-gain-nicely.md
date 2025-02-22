@@ -4,6 +4,7 @@ title: >-
   How To Trade: Turnarounds Can Soar Like Tempur-Pedic
 date: 2012-01-30 17:36 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/turnaround-stocks-like-tempur-pedic-can-gain-nicely
 ---
 
 

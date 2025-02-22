@@ -4,6 +4,7 @@ title: >-
   Smith & Wesson: Fundamentals Fuel Turnaround In 2015
 date: 2015-12-29 15:49 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/smith-wesson-gun-control-turnaround-story
 ---
 
 

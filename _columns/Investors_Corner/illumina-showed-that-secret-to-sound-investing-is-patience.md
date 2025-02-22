@@ -4,6 +4,7 @@ title: >-
   Be Patient As Market Identifies Winners And Losers
 date: 2012-05-16 16:45 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/illumina-showed-that-secret-to-sound-investing-is-patience
 ---
 
 

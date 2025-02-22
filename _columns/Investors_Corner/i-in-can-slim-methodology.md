@@ -4,6 +4,7 @@ title: >-
   The I In CAN SLIM Means Institutional Sponsorship
 date: 2014-01-28 17:01 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/i-in-can-slim-methodology
 ---
 
 

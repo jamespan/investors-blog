@@ -4,6 +4,7 @@ title: >-
   How A Short But Bullish Chart Pattern Extended Meta's Run
 date: 2024-06-21 08:00 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/meta-stock-charts
 ---
 
 

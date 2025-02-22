@@ -4,6 +4,7 @@ title: >-
   Rising Profit And Stock Price: Nike Keeps Doing It
 date: 2015-12-18 15:47 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/nike-grows-profit-stock-price
 ---
 
 

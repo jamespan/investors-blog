@@ -4,6 +4,7 @@ title: >-
   Here's How The Laws Of Supply And Demand Lead To Major Moves For Growth Stocks
 date: 2024-12-26 08:00 -0800
 author: MICHAEL LARKIN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/heres-how-the-laws-of-supply-and-demand-lead-to-major-moves-for-growth-stocks
 ---
 
 

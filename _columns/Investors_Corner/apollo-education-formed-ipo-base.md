@@ -4,6 +4,7 @@ title: >-
   This Apollo Launched Into Orbit From Tight IPO Base
 date: 2015-04-24 15:50 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/apollo-education-formed-ipo-base
 ---
 
 

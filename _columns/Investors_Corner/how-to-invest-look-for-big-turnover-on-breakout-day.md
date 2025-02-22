@@ -4,6 +4,7 @@ title: >-
   How To Invest: Look For Big Turnover On Breakout Day
 date: 2016-05-12 11:03 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-look-for-big-turnover-on-breakout-day
 ---
 
 

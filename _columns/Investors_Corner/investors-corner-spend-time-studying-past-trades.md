@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Spend Time Studying Past Trades
 date: 2011-07-20 16:18 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-spend-time-studying-past-trades
 ---
 
 

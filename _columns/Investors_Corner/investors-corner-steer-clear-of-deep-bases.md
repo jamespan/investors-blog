@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Steer Clear Of Deep Bases
 date: 2011-08-09 18:22 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-steer-clear-of-deep-bases
 ---
 
 

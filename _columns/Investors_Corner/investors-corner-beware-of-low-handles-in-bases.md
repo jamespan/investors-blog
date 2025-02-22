@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Beware Of Low Handles In Bases
 date: 2011-08-19 17:48 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-beware-of-low-handles-in-bases
 ---
 
 

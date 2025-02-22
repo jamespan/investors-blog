@@ -4,6 +4,7 @@ title: >-
   Buying IPO Stocks Can Be Tricky, So Do Your Homework
 date: 2015-12-01 17:26 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ipo-bases-can-produce-big-winners
 ---
 
 

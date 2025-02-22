@@ -4,6 +4,7 @@ title: >-
   This Chart Pattern Lit Up Meta Stock's 2023 Run
 date: 2024-08-22 08:00 -0700
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/this-chart-pattern-lit-up-meta-stocks-2023-run
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   When To Buy Growth Stocks: Big Winners Show This: If Prices Aren't Tight, They Aren't Right
 date: 2019-08-25 07:30 -0700
 author: TERRY JONES
+origin_url: https://www.investors.com/how-to-invest/investors-corner/winning-stocks-show-tight-closing-prices
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Use Distribution Days To Assess Underlying Stock Market Health
 date: 2019-12-05 08:25 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-tops-distribution-days
 ---
 
 

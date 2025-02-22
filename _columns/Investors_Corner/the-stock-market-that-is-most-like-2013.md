@@ -4,6 +4,7 @@ title: >-
   Which Stock Market In History Is Most Like 2013?
 date: 2013-08-28 17:01 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-stock-market-that-is-most-like-2013
 ---
 
 

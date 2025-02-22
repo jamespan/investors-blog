@@ -4,6 +4,7 @@ title: >-
   Looking Outside U.S. For Great Stocks? IBD Can Help
 date: 2015-11-20 17:18 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/global-leaders-section-reveals-best-foreign-stocks
 ---
 
 

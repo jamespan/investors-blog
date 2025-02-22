@@ -4,6 +4,7 @@ title: >-
   The Art Of Portfolio Management: Fewer Growth Stocks Are The Best Path To A Big Return
 date: 2019-11-11 08:20 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-art-of-portfolio-management-fewer-stocks-the-best-way-to-a-big-return
 ---
 
 

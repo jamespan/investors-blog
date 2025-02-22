@@ -4,6 +4,7 @@ title: >-
   Strong Accumulation In Base Flashes A Bullish Sign
 date: 2014-02-24 15:52 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/strong-accumulation-in-base-flashes-bullish-sign
 ---
 
 

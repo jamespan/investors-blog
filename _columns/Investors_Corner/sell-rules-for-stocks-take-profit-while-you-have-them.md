@@ -4,6 +4,7 @@ title: >-
   Take Your Profits While You Have Them: Sell At 20%
 date: 2015-06-30 18:08 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sell-rules-for-stocks-take-profit-while-you-have-them
 ---
 
 

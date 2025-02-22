@@ -4,6 +4,7 @@ title: >-
   Stocks That Resist Downturns Are The Ones To Watch
 date: 2014-03-04 16:10 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-that-go-down-the-list-could-be-best
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Trade Growth Stocks: Before You Buy, Check This Key Rating
 date: 2017-10-06 12:00 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-growth-stocks-before-you-buy-check-this-key-rating
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Synopsys Blasted From This Bullish Pattern Found In Many Market Winners
 date: 2024-04-02 08:00 -0700
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stock-synopsys-blasted-from-this-bullish-pattern-found-in-many-market-winners
 ---
 
 

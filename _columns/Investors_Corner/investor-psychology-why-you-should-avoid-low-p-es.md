@@ -4,6 +4,7 @@ title: >-
   Investor Psychology - Why You Should Avoid Low P-Es
 date: 2011-11-04 17:33 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investor-psychology-why-you-should-avoid-low-p-es
 ---
 
 

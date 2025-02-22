@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: RS Line Can Point To Winner Or Dud
 date: 2011-04-06 18:05 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-rs-line-can-point-to-winner-or-dud
 ---
 
 

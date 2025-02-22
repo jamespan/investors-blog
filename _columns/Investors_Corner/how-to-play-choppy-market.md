@@ -4,6 +4,7 @@ title: >-
   A Choppy Stock Market Is Like Endless Speed Bumps
 date: 2015-02-06 17:36 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-play-choppy-market
 ---
 
 

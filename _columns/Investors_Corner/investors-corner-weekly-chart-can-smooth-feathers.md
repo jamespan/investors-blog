@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Weekly Chart Can Smooth Feathers
 date: 2011-06-21 14:53 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-weekly-chart-can-smooth-feathers
 ---
 
 

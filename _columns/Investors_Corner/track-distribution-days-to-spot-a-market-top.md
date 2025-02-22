@@ -4,6 +4,7 @@ title: >-
   Track Distribution Days To Spot A Market Top
 date: 2012-03-02 16:54 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/track-distribution-days-to-spot-a-market-top
 ---
 
 

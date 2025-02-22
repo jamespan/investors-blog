@@ -4,6 +4,7 @@ title: >-
   Fast Start From Breakout Often Signals Huge Winner. How It Happened For Crocs.
 date: 2025-01-29 08:00 -0800
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/fast-start-from-breakout-often-signals-huge-winner-how-it-happened-for-crocs
 ---
 
 

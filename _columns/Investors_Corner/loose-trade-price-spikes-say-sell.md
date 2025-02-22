@@ -4,6 +4,7 @@ title: >-
   Loose Trade, Big Spikes Come Near The End Of Big Run
 date: 2012-09-06 16:09 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/loose-trade-price-spikes-say-sell
 ---
 
 

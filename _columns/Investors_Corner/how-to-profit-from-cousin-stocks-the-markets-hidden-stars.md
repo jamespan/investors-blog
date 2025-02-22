@@ -4,6 +4,7 @@ title: >-
   How To Profit From 'Cousin' Stocks, The Market's Hidden Stars
 date: 2016-07-20 14:20 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-profit-from-cousin-stocks-the-markets-hidden-stars
 ---
 
 

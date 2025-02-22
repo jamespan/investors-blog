@@ -4,6 +4,7 @@ title: >-
   Who Says History Doesn't Repeat Itself? Look At These Bases
 date: 2016-04-13 15:13 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/who-says-history-doesnt-repeat-itself-look-at-these-bases
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How You Can Generate Income From Investing Purely In Growth Stocks
 date: 2016-04-22 12:43 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stringing-together-moderate-gains-can-add-up-to-a-big-year
 ---
 
 

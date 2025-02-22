@@ -4,6 +4,7 @@ title: >-
   After Lengthy Run, Is It Time To Take Profits In This FANG Stock?
 date: 2018-09-21 12:00 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/amazon-stock-time-to-take-profit
 ---
 
 

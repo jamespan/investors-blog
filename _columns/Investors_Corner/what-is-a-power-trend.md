@@ -4,6 +4,7 @@ title: >-
   How To Spot A Power Trend And Make More Money In Growth Stocks
 date: 2024-10-30 08:00 -0700
 author: MIKE WEBSTER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-a-power-trend
 ---
 
 

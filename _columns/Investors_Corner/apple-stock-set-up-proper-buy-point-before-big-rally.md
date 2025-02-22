@@ -4,6 +4,7 @@ title: >-
   What Is A Buy Point, And How Apple Set One Up Before A Big Rally
 date: 2023-03-22 08:00 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/apple-stock-set-up-proper-buy-point-before-big-rally
 ---
 
 

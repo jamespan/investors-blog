@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Study Double-Bottom Bases Closely
 date: 2011-06-30 17:23 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-study-double-bottom-bases-closely
 ---
 
 

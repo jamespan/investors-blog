@@ -4,6 +4,7 @@ title: >-
   William O'Neil On Growth Stocks: Why Chrysler Was A Huge Stock Market Winner
 date: 2022-09-22 18:25 -0700
 author: WILLIAM J. O'NEIL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/william-oneil-on-growth-stocks-why-chrysler-was-a-huge-stock-market-winner
 ---
 
 

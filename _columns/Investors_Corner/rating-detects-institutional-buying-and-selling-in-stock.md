@@ -4,6 +4,7 @@ title: >-
   Accumulation/Distribution Rating Gauges Stock Demand
 date: 2014-06-25 17:40 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/rating-detects-institutional-buying-and-selling-in-stock
 ---
 
 

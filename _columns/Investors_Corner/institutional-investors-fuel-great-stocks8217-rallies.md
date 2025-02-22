@@ -4,6 +4,7 @@ title: >-
   How To Invest: Great Stocks Draw Institutional Buying
 date: 2011-11-29 17:18 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/institutional-investors-fuel-great-stocks8217-rallies
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Too Many Stock Splits Can Signal A Share-Price Peak
 date: 2012-05-30 17:08 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-splits-can-signal-a-peak-in-share-prices
 ---
 
 

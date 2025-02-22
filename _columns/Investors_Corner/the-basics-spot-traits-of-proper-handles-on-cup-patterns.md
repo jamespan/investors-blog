@@ -4,6 +4,7 @@ title: >-
   How To Trade Top Stocks: Spot These 5 Traits Of Proper Handles In Good Bases
 date: 2019-10-31 13:03 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-basics-spot-traits-of-proper-handles-on-cup-patterns
 ---
 
 

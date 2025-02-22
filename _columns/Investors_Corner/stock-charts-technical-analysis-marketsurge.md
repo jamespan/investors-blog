@@ -4,6 +4,7 @@ title: >-
   MarketSurge Blue Dot, Pattern Recognition Among Its Cool Tools
 date: 2024-04-12 08:00 -0700
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-charts-technical-analysis-marketsurge
 ---
 
 

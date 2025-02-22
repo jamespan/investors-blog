@@ -4,6 +4,7 @@ title: >-
   Picking Great Stocks: Why A High Return On Equity Marks Earnings Excellence
 date: 2019-05-02 16:00 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-a-high-return-on-equity-marks-earnings-excellence
 ---
 
 

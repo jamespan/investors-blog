@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Supply/Demand Ratio Shows Intensity
 date: 2011-05-31 14:54 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-supply-demand-ratio-shows-intensity
 ---
 
 

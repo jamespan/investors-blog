@@ -4,6 +4,7 @@ title: >-
   What Is Short Interest, And How It Can Help Growth Stocks When They Break Out
 date: 2020-07-01 20:15 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-short-interest
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Google And The 10-Week Moving Average: How To Buy On Stock Chart Pullbacks
 date: 2025-02-04 08:01 -0800
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-chart-googl-meta-and-the-10-week-moving-average-how-to-buy-on-pullbacks-and-rebounds
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Want Comprehensive Stock Research In A Snap? Meet The IBD Composite Rating
 date: 2024-08-09 08:00 -0700
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-stocks-to-buy-composite-rating
 ---
 
 

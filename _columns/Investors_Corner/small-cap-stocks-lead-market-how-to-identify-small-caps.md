@@ -4,6 +4,7 @@ title: >-
   Why Are Volatile Small-Cap Stocks Leading The Market?
 date: 2021-03-19 08:00 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/small-cap-stocks-lead-market-how-to-identify-small-caps
 ---
 
 

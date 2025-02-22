@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Avoid Analyst Oversaturation
 date: 2011-07-15 17:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-avoid-analyst-oversaturation
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Invest: Did Avago Help Your Portfolio In 2014?
 date: 2014-12-24 16:56 -0800
 author: ANDREW EDWARDS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/top-stocks-of-2014
 ---
 
 

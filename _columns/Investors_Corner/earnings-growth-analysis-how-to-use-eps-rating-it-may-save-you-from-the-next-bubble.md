@@ -4,6 +4,7 @@ title: >-
   How To Use EPS Rating; It May Save You From The Next Bubble
 date: 2024-08-29 08:00 -0700
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/earnings-growth-analysis-how-to-use-eps-rating-it-may-save-you-from-the-next-bubble
 ---
 
 

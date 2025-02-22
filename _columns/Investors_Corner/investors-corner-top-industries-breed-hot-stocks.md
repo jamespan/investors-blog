@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Top Industries Breed Hot Stocks
 date: 2011-08-25 18:01 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-top-industries-breed-hot-stocks
 ---
 
 

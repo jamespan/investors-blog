@@ -4,6 +4,7 @@ title: >-
   Starbucks' Run Shows How To Stretch Out Profits
 date: 2015-09-02 16:24 -0700
 author: ANDREW EDWARDS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-lock-down-big-profits
 ---
 
 

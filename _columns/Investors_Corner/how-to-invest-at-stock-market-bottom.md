@@ -4,6 +4,7 @@ title: >-
   How To Invest: Nix Fear On Stock Market Buy Signal
 date: 2011-11-18 16:16 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-at-stock-market-bottom
 ---
 
 

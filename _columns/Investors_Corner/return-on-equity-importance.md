@@ -4,6 +4,7 @@ title: >-
   Return On Equity, Margins Clarify Financial Picture
 date: 2013-04-02 18:25 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/return-on-equity-importance
 ---
 
 

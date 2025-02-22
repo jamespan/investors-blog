@@ -4,6 +4,7 @@ title: >-
   How To Invest: Recognize A Flat Base On Stock Charts
 date: 2012-10-12 17:50 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/herbalife-provided-example-of-flat-base
 ---
 
 

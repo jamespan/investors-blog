@@ -4,6 +4,7 @@ title: >-
   Memo To Investors: Avoid Tailoring Time-Tested Rules
 date: 2014-01-16 16:02 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/follow-strict-rules-to-outperform-the-market
 ---
 
 

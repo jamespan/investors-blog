@@ -4,6 +4,7 @@ title: >-
   Vetting Executives: Marissa Mayer, Steve Easterbrook
 date: 2015-05-27 18:12 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-research-company-executives
 ---
 
 

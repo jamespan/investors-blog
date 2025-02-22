@@ -4,6 +4,7 @@ title: >-
   How To Trade Growth Stocks: This Should Happen In Every Great Breakout
 date: 2018-09-12 19:30 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-growth-stocks-this-should-happen-in-every-great-breakout
 ---
 
 

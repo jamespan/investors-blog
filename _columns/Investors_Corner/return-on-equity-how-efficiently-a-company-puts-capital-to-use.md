@@ -4,6 +4,7 @@ title: >-
   Return On Equity Measures A Company's Profit-Making Efficiency
 date: 2016-02-05 16:03 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/return-on-equity-how-efficiently-a-company-puts-capital-to-use
 ---
 
 

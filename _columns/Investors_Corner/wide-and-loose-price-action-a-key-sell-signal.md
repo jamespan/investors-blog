@@ -4,6 +4,7 @@ title: >-
   Avoid Or Sell Stocks With Wide-And-Loose Price Action
 date: 2014-04-23 18:38 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/wide-and-loose-price-action-a-key-sell-signal
 ---
 
 

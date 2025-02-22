@@ -4,6 +4,7 @@ title: >-
   How To Invest: Five Ways To Gauge The Stock Market
 date: 2015-01-13 18:01 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-read-stock-market
 ---
 
 

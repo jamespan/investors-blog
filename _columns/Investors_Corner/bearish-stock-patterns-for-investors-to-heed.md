@@ -4,6 +4,7 @@ title: >-
   Railroad-Tracks Pattern Spells Trouble For Stocks
 date: 2013-10-22 14:49 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/bearish-stock-patterns-for-investors-to-heed
 ---
 
 

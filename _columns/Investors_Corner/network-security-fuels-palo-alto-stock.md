@@ -4,6 +4,7 @@ title: >-
   2014 Stock Winners: Network Security Fuels Palo Alto
 date: 2014-12-30 17:44 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/network-security-fuels-palo-alto-stock
 ---
 
 

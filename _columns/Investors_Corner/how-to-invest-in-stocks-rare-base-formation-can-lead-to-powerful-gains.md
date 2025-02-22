@@ -4,6 +4,7 @@ title: >-
   Rare Ascending Base During Choppy Markets Can Lead To Powerful Gains
 date: 2024-07-29 08:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-in-stocks-rare-base-formation-can-lead-to-powerful-gains
 ---
 
 

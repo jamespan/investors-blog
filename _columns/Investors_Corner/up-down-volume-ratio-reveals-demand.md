@@ -4,6 +4,7 @@ title: >-
   Up-Down Volume Ratio Reveals Stocks Wanted By Funds
 date: 2013-04-04 16:42 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/up-down-volume-ratio-reveals-demand
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Take Profits When Your Stock Rises 20% To 25%
 date: 2013-10-17 18:11 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/take-profits-when-stock-rises-20
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Rare Ascending Base Can Be Powerful Pattern
 date: 2014-08-14 18:36 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ascending-bases-are-seldom-seen
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   The 'Consolidation' Pattern And How It Led To Shopify's Huge Run
 date: 2025-02-13 08:00 -0800
 author: MICHAEL LARKIN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/shopify-stock-consolidation-pattern-led-to-beautiful-gains
 ---
 
 

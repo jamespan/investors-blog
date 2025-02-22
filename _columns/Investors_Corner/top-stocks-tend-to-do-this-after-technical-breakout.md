@@ -4,6 +4,7 @@ title: >-
   Chart Reading 101: Top Stocks Tend To Do This After A Breakout
 date: 2023-12-21 08:00 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/top-stocks-tend-to-do-this-after-technical-breakout
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Investing Basics: How To Sell A Stock
 date: 2012-01-19 18:40 -0800
 author: 
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-sell-stock-using-market-limit-stop-orders
 ---
 
 

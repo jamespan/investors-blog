@@ -4,6 +4,7 @@ title: >-
   How To Use Stock Charts: Why Patience Is Required To Play The Saucer Base
 date: 2024-10-21 19:00 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/chart-reading-basics-patience-is-required-to-play-the-saucer
 ---
 
 

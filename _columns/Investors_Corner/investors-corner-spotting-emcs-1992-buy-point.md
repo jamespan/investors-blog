@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Spotting EMC's 1992 Buy Point
 date: 2011-08-02 17:22 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-spotting-emcs-1992-buy-point
 ---
 
 

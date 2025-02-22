@@ -4,6 +4,7 @@ title: >-
   Long, Shallow Saucer Bases Reward Patient Investors
 date: 2013-06-28 16:57 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/saucer-bases-are-long-and-shallow
 ---
 
 

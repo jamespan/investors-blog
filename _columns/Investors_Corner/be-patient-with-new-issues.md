@@ -4,6 +4,7 @@ title: >-
   Juniper's IPO Base Overcame Volatility
 date: 2015-04-22 16:35 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/be-patient-with-new-issues
 ---
 
 

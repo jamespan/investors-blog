@@ -4,6 +4,7 @@ title: >-
   When It Comes To Profit Margins, The Wider The Better
 date: 2014-09-03 18:31 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/wider-profit-margins-better
 ---
 
 

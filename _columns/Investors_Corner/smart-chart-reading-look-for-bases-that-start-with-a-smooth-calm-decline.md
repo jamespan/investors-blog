@@ -4,6 +4,7 @@ title: >-
   Smart Chart Reading: Look For Bases That Start With A Smooth, Calm Decline
 date: 2016-06-27 17:31 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/smart-chart-reading-look-for-bases-that-start-with-a-smooth-calm-decline
 ---
 
 

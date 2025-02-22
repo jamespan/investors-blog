@@ -4,6 +4,7 @@ title: >-
   Internet & Technology Page Highlights Stocks On Rise
 date: 2013-11-26 16:48 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/internet-technology-highlights-stocks-on-rise
 ---
 
 

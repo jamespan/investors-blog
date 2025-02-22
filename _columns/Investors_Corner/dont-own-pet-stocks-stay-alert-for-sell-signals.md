@@ -4,6 +4,7 @@ title: >-
   Don't Own Pet Stocks; Stay Alert For Sell Signals
 date: 2011-02-28 18:01 -0800
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dont-own-pet-stocks-stay-alert-for-sell-signals
 ---
 
 

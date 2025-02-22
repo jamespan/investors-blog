@@ -4,6 +4,7 @@ title: >-
   How To Invest: Use Both Daily, Weekly Charts To Reveal Key Buy Areas
 date: 2016-12-05 15:39 -0800
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-use-both-daily-weekly-charts-to-reveal-key-buy-areas
 ---
 
 

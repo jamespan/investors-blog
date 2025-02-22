@@ -4,6 +4,7 @@ title: >-
   Alexion Starts Strong, But Fizzles
 date: 2011-10-20 18:21 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/alexion-starts-strong-but-fizzles
 ---
 
 

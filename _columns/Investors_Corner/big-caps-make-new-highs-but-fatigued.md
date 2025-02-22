@@ -4,6 +4,7 @@ title: >-
   How To Trade: Top Big Cap Stocks Can't Gain Traction
 date: 2011-12-05 18:37 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/big-caps-make-new-highs-but-fatigued
 ---
 
 

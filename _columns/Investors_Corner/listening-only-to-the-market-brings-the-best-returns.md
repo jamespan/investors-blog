@@ -4,6 +4,7 @@ title: >-
   Listen To The Market For Peace Of Mind, Best Returns
 date: 2012-12-18 16:58 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/listening-only-to-the-market-brings-the-best-returns
 ---
 
 

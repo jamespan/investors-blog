@@ -4,6 +4,7 @@ title: >-
   Winning Stocks Share This Financial Ratio At This Exact Level
 date: 2024-03-15 08:00 -0700
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-stocks-return-on-equity
 ---
 
 

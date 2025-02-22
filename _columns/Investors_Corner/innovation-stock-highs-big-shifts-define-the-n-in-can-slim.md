@@ -4,6 +4,7 @@ title: >-
   Innovation, Stock Highs, Big Shifts Define The 'N' In CAN SLIM
 date: 2023-03-03 19:00 -0800
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/innovation-stock-highs-big-shifts-define-the-n-in-can-slim
 ---
 
 

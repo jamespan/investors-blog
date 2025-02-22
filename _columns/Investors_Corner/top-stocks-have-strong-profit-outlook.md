@@ -4,6 +4,7 @@ title: >-
   Stocks With Most Potential Have Strong Profit Outlook
 date: 2015-07-28 18:46 -0700
 author: PAUL DRIESSEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/top-stocks-have-strong-profit-outlook
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   IBD's 20 Rules: #14 Cheaper Isn't Better
 date: 2011-09-30 17:32 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibds-20-rules-14-cheaper-isnt-better
 ---
 
 

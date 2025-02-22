@@ -4,6 +4,7 @@ title: >-
   How To Invest: Learn To Spot The Double-Bottom Base
 date: 2013-06-24 16:32 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/double-bottom-base
 ---
 
 

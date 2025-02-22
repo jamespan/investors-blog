@@ -4,6 +4,7 @@ title: >-
   When To Sell Stocks: Amazon Stock Triggered This Key Profit-Taking Rule
 date: 2021-11-03 08:02 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/amazon-stock-amzn-triggered-key-profit-taking-rule-before-flashing-sell-signals
 ---
 
 

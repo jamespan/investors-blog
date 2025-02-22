@@ -4,6 +4,7 @@ title: >-
   Fund Sponsorship Crucial For A Stock To Find Success
 date: 2012-02-09 18:06 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/institutional-buyers-key-to-successful-stocks
 ---
 
 

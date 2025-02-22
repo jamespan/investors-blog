@@ -4,6 +4,7 @@ title: >-
   Follow-Through Day Of 1903 Was Much Like Any Other
 date: 2014-06-27 17:17 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-identify-the-start-of-an-uptrend
 ---
 
 

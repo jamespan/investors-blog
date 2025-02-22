@@ -4,6 +4,7 @@ title: >-
   The M In CAN SLIM: Why Stock Market Direction Is Key To Winning In Growth Stocks
 date: 2019-11-26 08:25 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-m-in-can-slim-why-market-direction-is-key-to-winning-in-stocks
 ---
 
 

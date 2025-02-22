@@ -4,6 +4,7 @@ title: >-
   Common Investor Mistakes: Buying On The Way Down
 date: 2014-01-02 17:39 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/some-common-stock-market-investment-pitfalls
 ---
 
 

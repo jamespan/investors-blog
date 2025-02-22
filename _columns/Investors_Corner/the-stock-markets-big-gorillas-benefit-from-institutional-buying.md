@@ -4,6 +4,7 @@ title: >-
   The Stock Market's Big Gorillas Benefit From Institutional Buying
 date: 2016-09-12 13:22 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-stock-markets-big-gorillas-benefit-from-institutional-buying
 ---
 
 

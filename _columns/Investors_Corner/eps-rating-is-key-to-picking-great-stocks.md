@@ -4,6 +4,7 @@ title: >-
   Why The EPS Rating Is One Key To Picking The Best Stocks
 date: 2024-06-13 08:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/eps-rating-is-key-to-picking-great-stocks
 ---
 
 

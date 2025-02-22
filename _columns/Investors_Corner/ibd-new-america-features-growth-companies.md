@@ -4,6 +4,7 @@ title: >-
   New America Helps You Understand Growth Companies
 date: 2013-11-21 16:32 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-new-america-features-growth-companies
 ---
 
 

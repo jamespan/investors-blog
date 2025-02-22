@@ -4,6 +4,7 @@ title: >-
   Know This Sell Signal: Effusive Optimism, Media Buzz May Sink A Great Stock
 date: 2016-11-01 12:06 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/know-this-sell-signal-blanket-media-buzz-may-signal-a-stock-has-peaked
 ---
 
 

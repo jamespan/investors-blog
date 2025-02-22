@@ -4,6 +4,7 @@ title: >-
   What Is A Support Week? Understand This Concept To Spot Big Stock Market Winners
 date: 2024-05-02 08:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-a-support-week-stock-market-winners
 ---
 
 

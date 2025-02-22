@@ -4,6 +4,7 @@ title: >-
   How To Invest: Shun Stock Bases Showing Jagged Moves
 date: 2012-11-29 16:32 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/new-oriental-education-base-in-2008-had-flaws
 ---
 
 

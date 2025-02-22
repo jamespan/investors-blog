@@ -4,6 +4,7 @@ title: >-
   How To Invest: What To Do When Your Stock Stalls
 date: 2015-03-23 17:45 -0700
 author: ANDREW EDWARDS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-hold-growth-stocks
 ---
 
 

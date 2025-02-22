@@ -4,6 +4,7 @@ title: >-
   Psych 109: Industry Bias Can Stunt Your Profit Gains
 date: 2011-02-17 17:01 -0800
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/psych-109-industry-bias-can-stunt-your-profit-gains
 ---
 
 

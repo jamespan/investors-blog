@@ -4,6 +4,7 @@ title: >-
   Does Small-Ball Trading Work Well?
 date: 2011-10-27 16:13 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/can-choppy-market-uptrends-be-profitable
 ---
 
 

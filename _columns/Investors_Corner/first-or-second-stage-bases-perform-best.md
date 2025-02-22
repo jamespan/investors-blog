@@ -4,6 +4,7 @@ title: >-
   How To Trade: Seek Early-Stage Bases For Best Gains
 date: 2011-12-28 17:56 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/first-or-second-stage-bases-perform-best
 ---
 
 

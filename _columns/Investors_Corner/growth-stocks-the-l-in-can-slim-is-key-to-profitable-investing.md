@@ -4,6 +4,7 @@ title: >-
   The L in CAN SLIM: Why Industry-Leading Growth Stocks Are Key To Profitable Investing
 date: 2019-11-29 09:45 -0800
 author: RACHEL FOX
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-the-l-in-can-slim-is-key-to-profitable-investing
 ---
 
 

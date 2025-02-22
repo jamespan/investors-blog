@@ -4,6 +4,7 @@ title: >-
   Google's 37% Growth Off Flat Base Bears This Lesson About Growth Stocks
 date: 2024-12-02 08:00 -0800
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stock-google-surge-from-flat-base-offers-lessons
 ---
 
 

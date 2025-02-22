@@ -4,6 +4,7 @@ title: >-
   A Chinese Educator Imparts Wisdom, As Well As Profit
 date: 2017-03-31 12:52 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/a-chinese-educator-imparts-wisdom-as-well-as-profit
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Invest: The Difference Between Fundamental And Technical Analysis
 date: 2019-10-02 08:25 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/technical-analysis
 ---
 
 

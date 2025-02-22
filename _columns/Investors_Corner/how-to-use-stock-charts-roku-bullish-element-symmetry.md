@@ -4,6 +4,7 @@ title: >-
   How To Use Stock Charts: Roku Showed The Bullish Element Of Symmetry Before Its Breakout
 date: 2019-09-30 14:15 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-use-stock-charts-roku-bullish-element-symmetry
 ---
 
 

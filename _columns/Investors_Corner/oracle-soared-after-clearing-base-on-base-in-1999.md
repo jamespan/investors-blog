@@ -4,6 +4,7 @@ title: >-
   Oracle Showed Strength Of Flat Base-On-Base Pattern
 date: 2014-08-13 17:57 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/oracle-soared-after-clearing-base-on-base-in-1999
 ---
 
 

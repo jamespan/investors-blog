@@ -4,6 +4,7 @@ title: >-
   How To Analyze Growth Stocks: Will This Earnings Measure Cool In 2019?
 date: 2019-10-18 10:35 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-analyze-growth-stocks-earnings-2019
 ---
 
 

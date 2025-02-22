@@ -4,6 +4,7 @@ title: >-
   IBD's 20 Rules: #11 High IBD Ratings Ensure Quality
 date: 2011-09-27 17:45 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibds-20-rules-11-high-ibd-ratings-ensure-quality
 ---
 
 

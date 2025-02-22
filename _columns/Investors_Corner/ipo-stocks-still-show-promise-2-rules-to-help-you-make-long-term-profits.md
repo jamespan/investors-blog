@@ -4,6 +4,7 @@ title: >-
   Two Rules To Help You Make Long-Term Profits With IPO Stocks
 date: 2024-11-26 08:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ipo-stocks-still-show-promise-2-rules-to-help-you-make-long-term-profits
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Listening To Market Noise Can Do You Harm
 date: 2012-02-15 16:32 -0800
 author: 
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-ignore-stock-chatter
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Learning The Ups And Downs Of Contrarian Indicators
 date: 2012-12-11 17:47 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/a-quick-scan-of-contrarian-indicator-gauges
 ---
 
 

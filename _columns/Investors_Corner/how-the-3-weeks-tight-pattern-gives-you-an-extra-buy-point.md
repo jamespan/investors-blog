@@ -4,6 +4,7 @@ title: >-
   When To Buy Growth Stocks: How A Three-Weeks-Tight Pattern Gives You An Extra Buy Point
 date: 2022-10-18 08:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-the-3-weeks-tight-pattern-gives-you-an-extra-buy-point
 ---
 
 

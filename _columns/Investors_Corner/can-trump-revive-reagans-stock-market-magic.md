@@ -4,6 +4,7 @@ title: >-
   Can Trump Revive Reagan's Stock-Market Magic?
 date: 2016-12-27 19:40 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/can-trump-revive-reagans-stock-market-magic
 ---
 
 

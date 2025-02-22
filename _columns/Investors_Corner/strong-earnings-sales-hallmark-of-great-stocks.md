@@ -4,6 +4,7 @@ title: >-
   How To Invest: Don't Buy Stocks With Sloppy Profits
 date: 2014-12-04 18:20 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/strong-earnings-sales-hallmark-of-great-stocks
 ---
 
 

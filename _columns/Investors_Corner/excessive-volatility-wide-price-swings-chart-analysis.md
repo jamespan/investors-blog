@@ -4,6 +4,7 @@ title: >-
   Erratic Price Action In A Base Is A Key Sell Signal
 date: 2015-07-01 15:54 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/excessive-volatility-wide-price-swings-chart-analysis
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   After Earnings, These Three Financials Matter Most In Picking Great Stocks
 date: 2024-03-06 08:00 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/selecting-the-best-stocks-why-sales-profit-margins-return-on-equity-matter
 ---
 
 

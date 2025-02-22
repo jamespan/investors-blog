@@ -4,6 +4,7 @@ title: >-
   A Connoisseur's Base: The High, Tight Flag
 date: 2011-04-12 17:59 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/a-connoisseurs-base-the-high-tight-flag
 ---
 
 

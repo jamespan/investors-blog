@@ -4,6 +4,7 @@ title: >-
   IBD's Earnings Change Arrows Point Way To Growth
 date: 2014-02-04 18:33 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-track-earnings-changes
 ---
 
 

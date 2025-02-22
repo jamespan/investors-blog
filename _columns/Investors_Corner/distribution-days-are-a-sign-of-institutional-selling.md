@@ -4,6 +4,7 @@ title: >-
   A Flurry Of Distribution Days Can Stop An Uptrend Fast
 date: 2014-04-21 17:31 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/distribution-days-are-a-sign-of-institutional-selling
 ---
 
 

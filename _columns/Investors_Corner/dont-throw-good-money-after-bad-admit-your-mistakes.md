@@ -4,6 +4,7 @@ title: >-
   Don't Throw Good Money After Bad: Admit Your Mistakes
 date: 2014-05-27 17:29 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dont-throw-good-money-after-bad-admit-your-mistakes
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Growth Stocks Offer Volatility, Potential For Reward
 date: 2014-04-01 16:54 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/highbeta-stocks-bring-risks-and-rewards
 ---
 
 

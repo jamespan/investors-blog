@@ -4,6 +4,7 @@ title: >-
   How To Tell If A Growth Stock's Run Is Getting Too Old
 date: 2024-09-25 08:00 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-tell-if-a-growth-stocks-run-is-getting-too-old
 ---
 
 

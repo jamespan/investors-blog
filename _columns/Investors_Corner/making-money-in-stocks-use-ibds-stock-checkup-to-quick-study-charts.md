@@ -4,6 +4,7 @@ title: >-
   Making Money In Stocks: Use IBD's Stock Checkup To Quick-Study Charts
 date: 2017-09-28 09:05 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/making-money-in-stocks-use-ibds-stock-checkup-to-quick-study-charts
 ---
 
 

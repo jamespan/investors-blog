@@ -4,6 +4,7 @@ title: >-
   Tap IBD's Smart Tables To Spruce Up Your Watch List Of Great Stocks
 date: 2016-06-10 13:41 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/tap-smart-tables-to-spruce-up-your-watch-list
 ---
 
 

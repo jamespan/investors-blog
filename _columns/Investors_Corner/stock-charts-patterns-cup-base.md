@@ -4,6 +4,7 @@ title: >-
   Market Winners Often Form This Stock Chart Pattern Before Major Gains
 date: 2024-07-26 08:00 -0700
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-charts-patterns-cup-base
 ---
 
 

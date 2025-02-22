@@ -4,6 +4,7 @@ title: >-
   New Products, Management Can Lift Stocks To New Highs
 date: 2014-07-21 18:17 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/new-products-management-can-lift-stocks-to-new-highs
 ---
 
 

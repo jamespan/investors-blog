@@ -4,6 +4,7 @@ title: >-
   Why Cisco, Google And Apple All Became Big Winners
 date: 2012-09-28 16:10 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-the-c-in-can-slim-it-stands-for-outstanding-profit-growth
 ---
 
 

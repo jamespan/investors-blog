@@ -4,6 +4,7 @@ title: >-
   How To Invest: Don't Average Down And Toss Money Away
 date: 2014-12-12 17:28 -0800
 author: ANDREW EDWARDS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/never-add-money-to-losing-trade
 ---
 
 

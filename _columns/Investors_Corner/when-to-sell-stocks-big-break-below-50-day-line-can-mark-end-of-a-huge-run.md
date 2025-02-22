@@ -4,6 +4,7 @@ title: >-
   When To Sell Stocks: Big Break Below 50-Day Line Can Mark End Of A Huge Run
 date: 2023-10-18 08:00 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-sell-stocks-big-break-below-50-day-line-can-mark-end-of-a-huge-run
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   A Cup's Left Side Should Show Calm Action
 date: 2013-09-24 17:44 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/pay-attention-to-what-happens-on-the-left
 ---
 
 

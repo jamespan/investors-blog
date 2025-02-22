@@ -4,6 +4,7 @@ title: >-
   Corner: How Do You Tell If Stock Has A Tail Wind?
 date: 2011-10-18 14:23 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/corner-how-do-you-tell-if-stock-has-a-tail-wind
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Be Wary Of V-Shaped Bases
 date: 2011-08-10 17:22 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-be-wary-of-v-shaped-bases
 ---
 
 

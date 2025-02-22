@@ -4,6 +4,7 @@ title: >-
   Investing To Win: How To Use IBD's EPS, RS Ratings Correctly
 date: 2016-12-07 13:56 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investing-to-win-how-to-use-ibds-eps-rs-ratings-correctly
 ---
 
 

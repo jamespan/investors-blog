@@ -4,6 +4,7 @@ title: >-
   When Analyzing A Stock's Base, Prefer To See Multiple Up Weeks In A Row
 date: 2016-07-12 13:15 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-analyzing-a-stocks-base-prefer-to-see-multiple-up-weeks-in-a-row
 ---
 
 

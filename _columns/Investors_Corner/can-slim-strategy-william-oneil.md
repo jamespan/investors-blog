@@ -4,6 +4,7 @@ title: >-
   It Takes Conviction To Hold Onto A Big Stock Winner
 date: 2014-10-21 17:32 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/can-slim-strategy-william-oneil
 ---
 
 

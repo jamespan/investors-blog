@@ -4,6 +4,7 @@ title: >-
   How IBD's Stock Charts Offer Variety Of Perspectives
 date: 2013-01-10 18:05 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-to-use-different-stock-charts
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   This Bullish Chart Pattern Led To Nvidia's 43% Surge
 date: 2024-11-08 08:00 -0800
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/nvidia-stock-nvda-stock-charts
 ---
 
 

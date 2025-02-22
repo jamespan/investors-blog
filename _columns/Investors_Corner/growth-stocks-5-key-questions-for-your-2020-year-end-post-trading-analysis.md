@@ -4,6 +4,7 @@ title: >-
   5 Key Questions For Your 2020 Year-End Post-Trading Analysis
 date: 2020-12-31 08:00 -0800
 author: RACHEL FOX
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-5-key-questions-for-your-2020-year-end-post-trading-analysis
 ---
 
 

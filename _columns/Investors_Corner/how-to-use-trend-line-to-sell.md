@@ -4,6 +4,7 @@ title: >-
   When To Sell A Winning Stock? A Trend Lines Can Help
 date: 2013-04-30 18:28 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-use-trend-line-to-sell
 ---
 
 

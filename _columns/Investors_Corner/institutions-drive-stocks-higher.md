@@ -4,6 +4,7 @@ title: >-
   Investment Research: Understanding The I In CAN SLIM
 date: 2013-02-25 16:40 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/institutions-drive-stocks-higher
 ---
 
 

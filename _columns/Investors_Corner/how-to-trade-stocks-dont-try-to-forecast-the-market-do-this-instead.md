@@ -4,6 +4,7 @@ title: >-
   How To Trade Stocks: Don't Try To Forecast The Market; Do This Instead
 date: 2018-11-12 14:30 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-stocks-dont-try-to-forecast-the-market-do-this-instead
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Trade Growth Stocks Like Apple, Alibaba, Zoom Video: Don't Dismiss All Deep Cup Bases
 date: 2020-03-31 13:10 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investing-basics-dont-dismiss-all-deep-cup-with-handle-bases
 ---
 
 

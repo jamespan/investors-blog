@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Legendary Traders Cut Losses Short
 date: 2011-07-13 14:14 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-legendary-traders-cut-losses-short
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   When To Buy Growth Stocks: Pulling The Trigger On A Stock Too Soon Can Lead To Big Losses
 date: 2019-09-09 17:00 -0700
 author: TERRY JONES
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-pulling-trigger-too-soon-losses
 ---
 
 

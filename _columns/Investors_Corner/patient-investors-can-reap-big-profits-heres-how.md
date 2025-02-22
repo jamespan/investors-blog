@@ -4,6 +4,7 @@ title: >-
   Patient Investors Can Reap Big Profits By Finding The Saucer Base
 date: 2016-03-24 15:54 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/patient-investors-can-reap-big-profits-heres-how
 ---
 
 

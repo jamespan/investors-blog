@@ -4,6 +4,7 @@ title: >-
   When To Buy Growth Stocks: Why Too Much Distribution In A Base Can Hurt A Stock
 date: 2019-11-04 13:00 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/too-much-distribution-in-a-base-can-hurt-a-breakouts-chances
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   When To Buy The Best Growth Stocks: How To Analyze A Stock's Cup With Handle
 date: 2022-05-31 08:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-basics-how-to-analyze-a-stocks-cup-with-handle
 ---
 
 

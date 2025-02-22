@@ -4,6 +4,7 @@ title: >-
   How To Invest: How Top Stocks Can Give Second Chance To Buy
 date: 2016-06-08 15:56 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-how-top-stocks-can-give-2nd-chance-to-buy
 ---
 
 

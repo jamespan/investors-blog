@@ -4,6 +4,7 @@ title: >-
   Late-Stage-Base Breakout Is Time To Sell, Not Buy
 date: 2012-06-01 17:58 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/latestagebase-breakout-is-time-to-sell
 ---
 
 

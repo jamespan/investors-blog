@@ -4,6 +4,7 @@ title: >-
   The Cup Without Handle Can Also Yield Bullish Breakouts In Growth Stocks
 date: 2019-12-05 14:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investing-202-why-some-great-cup-bases-dont-form-a-handle
 ---
 
 

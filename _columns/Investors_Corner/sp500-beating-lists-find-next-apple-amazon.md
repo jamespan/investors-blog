@@ -4,6 +4,7 @@ title: >-
   This Stock List Has Trounced The S&P 19.8% To 1.5% YTD; Here's Why
 date: 2021-03-03 16:00 -0800
 author: MATTHEW GALGANI
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sp500-beating-lists-find-next-apple-amazon
 ---
 
 

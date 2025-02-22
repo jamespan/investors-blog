@@ -4,6 +4,7 @@ title: >-
   Want Big Potential Gains? Check This Key Trait Shared By Most Winning Stocks
 date: 2017-04-21 11:15 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/want-big-potential-gains-first-check-for-this-key-trait-shared-by-most-winning-stocks
 ---
 
 

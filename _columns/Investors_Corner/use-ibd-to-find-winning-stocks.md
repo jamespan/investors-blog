@@ -4,6 +4,7 @@ title: >-
   Use IBD's Industry Coverage To Pinpoint Leaders
 date: 2013-11-18 17:08 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/use-ibd-to-find-winning-stocks
 ---
 
 

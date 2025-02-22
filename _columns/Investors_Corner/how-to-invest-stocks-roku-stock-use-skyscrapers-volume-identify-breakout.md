@@ -4,6 +4,7 @@ title: >-
   Roku, One Of The Top Stocks Of 2019, Built 'Skyscrapers' Of Accumulation Before A Breakout
 date: 2019-12-04 10:59 -0800
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-stocks-roku-stock-use-skyscrapers-volume-identify-breakout
 ---
 
 

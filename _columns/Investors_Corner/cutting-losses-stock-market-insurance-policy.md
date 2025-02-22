@@ -4,6 +4,7 @@ title: >-
   Protect Your Stock Portfolio: Always Cut Losses Short
 date: 2015-06-11 16:32 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/cutting-losses-stock-market-insurance-policy
 ---
 
 

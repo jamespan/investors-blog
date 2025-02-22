@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Distribution Is Danger For Stocks
 date: 2013-12-02 18:27 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-distribution-in-the-stock-market
 ---
 
 

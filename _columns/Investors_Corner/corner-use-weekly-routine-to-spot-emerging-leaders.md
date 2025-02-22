@@ -4,6 +4,7 @@ title: >-
   Corner: Use Weekly Routine To Spot Emerging Leaders
 date: 2011-03-03 16:57 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/corner-use-weekly-routine-to-spot-emerging-leaders
 ---
 
 

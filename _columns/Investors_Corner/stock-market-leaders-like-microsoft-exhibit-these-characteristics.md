@@ -4,6 +4,7 @@ title: >-
   Stock Market Leaders, Like Microsoft Stock, Exhibit These Characteristics
 date: 2024-12-04 08:00 -0800
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-leaders-like-microsoft-exhibit-these-characteristics
 ---
 
 

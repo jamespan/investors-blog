@@ -4,6 +4,7 @@ title: >-
   Before Top Stocks Usher In The Golden Sell Rule, Here's When To Cut Losses Faster
 date: 2024-07-18 08:01 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/top-growth-stock-golden-sell-rule-when-take-losses-fast
 ---
 
 

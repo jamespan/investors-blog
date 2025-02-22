@@ -4,6 +4,7 @@ title: >-
   The 3-Weeks-Tight Can Boost Your Portfolio's Returns
 date: 2012-10-18 18:11 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/3-weeks-tight-can-bolster-your-returns
 ---
 
 

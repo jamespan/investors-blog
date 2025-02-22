@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Check Demand With Up/Down Ratio
 date: 2011-04-07 16:07 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-check-demand-with-up-down-ratio
 ---
 
 

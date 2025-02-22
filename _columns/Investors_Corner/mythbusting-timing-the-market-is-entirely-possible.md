@@ -4,6 +4,7 @@ title: >-
   Time For Myth Busting: Timing The Stock Market Is Entirely Possible
 date: 2016-04-21 17:25 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/mythbusting-timing-the-market-is-entirely-possible
 ---
 
 

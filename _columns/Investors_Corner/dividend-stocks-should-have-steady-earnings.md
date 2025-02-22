@@ -4,6 +4,7 @@ title: >-
   Look For Stable Earnings When Scouting Dividend Stocks
 date: 2013-06-19 17:41 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dividend-stocks-should-have-steady-earnings
 ---
 
 

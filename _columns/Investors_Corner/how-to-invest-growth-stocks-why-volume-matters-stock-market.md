@@ -4,6 +4,7 @@ title: >-
   How To Invest In Growth Stocks: Why Volume Matters In The Stock Market
 date: 2019-06-17 10:45 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-growth-stocks-why-volume-matters-stock-market
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Always Know The Market's Trend
 date: 2011-04-29 16:18 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-always-know-the-markets-trend
 ---
 
 

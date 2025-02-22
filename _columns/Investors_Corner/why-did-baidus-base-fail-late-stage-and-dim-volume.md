@@ -4,6 +4,7 @@ title: >-
   Why Did Baidu's Base Fail? Late Stage And Dim Volume
 date: 2016-08-23 12:38 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-did-baidus-base-fail-late-stage-and-dim-volume
 ---
 
 

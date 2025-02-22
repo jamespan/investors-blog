@@ -4,6 +4,7 @@ title: >-
   If You Follow Rules, A Choppy Market Won't Kill You
 date: 2012-08-13 16:35 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/choppy-stock-market-can-be-managed
 ---
 
 

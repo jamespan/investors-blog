@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Poor Bases Form Amid Distribution
 date: 2011-08-11 16:37 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-poor-bases-form-amid-distribution
 ---
 
 

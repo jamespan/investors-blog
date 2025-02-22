@@ -4,6 +4,7 @@ title: >-
   How To Flag Stocks Forming Rare, Profitable Pattern
 date: 2015-03-26 18:01 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/flag-stocks-shaping-high-tight-flag
 ---
 
 

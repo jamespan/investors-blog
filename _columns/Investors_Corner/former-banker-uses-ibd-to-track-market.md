@@ -4,6 +4,7 @@ title: >-
   The Smart Investor: From Banker To Market Expert
 date: 2012-04-16 16:52 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/former-banker-uses-ibd-to-track-market
 ---
 
 

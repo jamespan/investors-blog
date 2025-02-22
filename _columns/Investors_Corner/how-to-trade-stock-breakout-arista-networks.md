@@ -4,6 +4,7 @@ title: >-
   5 Things You Can Learn From The Stock Breakout Of Arista Networks
 date: 2017-12-22 10:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-stock-breakout-arista-networks
 ---
 
 

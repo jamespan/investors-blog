@@ -4,6 +4,7 @@ title: >-
   Don't Let Greed Put Your Investment Profits At Risk
 date: 2012-05-21 17:41 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dont-led-greed-dictate-investment-decisions
 ---
 
 

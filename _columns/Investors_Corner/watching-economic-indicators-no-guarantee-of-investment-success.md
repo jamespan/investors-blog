@@ -4,6 +4,7 @@ title: >-
   Let The Market, Not Economy, Guide Your Investments
 date: 2012-02-29 16:54 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/watching-economic-indicators-no-guarantee-of-investment-success
 ---
 
 

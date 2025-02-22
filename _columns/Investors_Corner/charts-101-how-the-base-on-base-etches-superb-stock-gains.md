@@ -4,6 +4,7 @@ title: >-
   How To Buy Growth Stocks: Why Big Stock Market Winners Build The Base On Base
 date: 2019-11-04 12:15 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/charts-101-how-the-base-on-base-etches-superb-stock-gains
 ---
 
 

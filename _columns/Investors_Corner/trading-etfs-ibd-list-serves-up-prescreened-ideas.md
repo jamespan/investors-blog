@@ -4,6 +4,7 @@ title: >-
   How To Make Money Trading ETFs: Use IBD's Screen For Ideas
 date: 2016-11-11 13:09 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/trading-etfs-ibd-list-serves-up-prescreened-ideas
 ---
 
 

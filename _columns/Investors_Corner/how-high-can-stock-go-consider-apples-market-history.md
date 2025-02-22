@@ -4,6 +4,7 @@ title: >-
   Stock's Distance Above 200-Day Line Shows Froth Level
 date: 2012-06-04 17:40 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-high-can-stock-go-consider-apples-market-history
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Dissecting The 2013 Leg Of Lumber Liquidators' Rally
 date: 2013-12-20 17:16 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/lumber-liquidators-winning-rally
 ---
 
 

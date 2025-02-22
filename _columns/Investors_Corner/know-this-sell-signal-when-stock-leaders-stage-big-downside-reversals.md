@@ -4,6 +4,7 @@ title: >-
   When To Sell Top Stocks: Take Profits When True Market Leaders Stage Big Downside Reversals
 date: 2019-09-10 14:15 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/know-this-sell-signal-when-stock-leaders-stage-big-downside-reversals
 ---
 
 

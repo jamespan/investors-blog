@@ -4,6 +4,7 @@ title: >-
   When To Buy Growth Stocks: Micron, Salesforce Formed This Pattern For Big Profits
 date: 2019-11-21 19:15 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/smart-chart-reading-use-the-base-on-base-pattern-as-springboard-for-big-profits
 ---
 
 

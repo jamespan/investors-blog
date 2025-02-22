@@ -4,6 +4,7 @@ title: >-
   How To Invest: Find Stocks That Defy Market Slides
 date: 2011-12-29 18:14 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/seek-stocks-that-defy-poor-market
 ---
 
 

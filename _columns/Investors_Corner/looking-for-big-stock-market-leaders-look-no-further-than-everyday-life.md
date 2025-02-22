@@ -4,6 +4,7 @@ title: >-
   Looking For Big Stock Market Leaders? Look No Further Than Everyday Life
 date: 2018-09-13 21:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/looking-for-big-stock-market-leaders-look-no-further-than-everyday-life
 ---
 
 

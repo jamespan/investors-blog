@@ -4,6 +4,7 @@ title: >-
   Stock Trading: Know These 3 Basics About A Stock's Trading Volume
 date: 2019-12-06 11:34 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-trading-know-these-3-basics-about-a-stocks-trading-volume
 ---
 
 

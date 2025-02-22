@@ -4,6 +4,7 @@ title: >-
   Setting The Stage: A Stock Chart's Critical Juncture
 date: 2015-09-23 17:44 -0700
 author: ANDREW EDWARDS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-linkedin-started-a-big-move
 ---
 
 

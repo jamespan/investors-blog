@@ -4,6 +4,7 @@ title: >-
   Many Leading Stocks Carry Little Long-Term Debt Vs. Their Equity
 date: 2016-02-10 15:37 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/many-leading-stocks-carry-little-long-term-debt
 ---
 
 

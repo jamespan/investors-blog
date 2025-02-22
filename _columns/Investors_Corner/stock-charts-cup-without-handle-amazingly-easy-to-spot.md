@@ -4,6 +4,7 @@ title: >-
   Seeking Bullish Stock Charts? Cup Without Handle Amazingly Easy To Spot
 date: 2024-04-03 08:00 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-charts-cup-without-handle-amazingly-easy-to-spot
 ---
 
 

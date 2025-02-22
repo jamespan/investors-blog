@@ -4,6 +4,7 @@ title: >-
   This Israeli Tech Stock May Break Out Again
 date: 2015-06-18 17:57 -0700
 author: 
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-growth-stocks
 ---
 
 

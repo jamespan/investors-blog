@@ -4,6 +4,7 @@ title: >-
   Accelerating Earnings Mark The Move Of Big Stock Market Winners
 date: 2016-02-08 15:54 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/accelerating-earnings-is-a-mark-of-big-stock-market-winners
 ---
 
 

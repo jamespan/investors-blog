@@ -4,6 +4,7 @@ title: >-
   Sina Flashed Multiple Sell Signals At Its Top In 2011
 date: 2014-04-30 17:23 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sina-topped-in-2011-amid-several-sell-signals
 ---
 
 

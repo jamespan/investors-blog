@@ -4,6 +4,7 @@ title: >-
   How To Buy A Rising Market Leader On A Pullback
 date: 2015-04-14 17:03 -0700
 author: ANDREW EDWARDS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-a-pullback
 ---
 
 

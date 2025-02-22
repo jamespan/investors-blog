@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Buy When You're Frightened
 date: 2011-06-23 14:05 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-buy-when-youre-frightened
 ---
 
 

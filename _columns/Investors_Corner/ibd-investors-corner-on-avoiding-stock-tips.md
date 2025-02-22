@@ -4,6 +4,7 @@ title: >-
   How To Invest: Do It Yourself; Don't Rely On Tips
 date: 2012-09-25 16:48 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-investors-corner-on-avoiding-stock-tips
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   When A Winning Growth Stock Plummets, Do This Instead Of Panicking
 date: 2024-09-24 08:00 -0700
 author: RACHEL FOX
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-winning-stock-plummets-round-trip-sell-rule
 ---
 
 

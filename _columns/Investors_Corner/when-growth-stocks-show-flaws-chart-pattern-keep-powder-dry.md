@@ -4,6 +4,7 @@ title: >-
   When Growth Stocks Show These Flaws In The Chart Pattern, Keep Your Powder Dry
 date: 2019-04-07 13:30 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-growth-stocks-show-flaws-chart-pattern-keep-powder-dry
 ---
 
 

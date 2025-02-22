@@ -4,6 +4,7 @@ title: >-
   Industry Snapshot: Dig Deep Into Hottest Industries
 date: 2015-07-21 19:05 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/industry-snapshot-dig-deep-into-hottest-industries
 ---
 
 

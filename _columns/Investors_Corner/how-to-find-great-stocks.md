@@ -4,6 +4,7 @@ title: >-
   Stock Screen Results Can Say A Lot About The Market
 date: 2015-11-10 17:27 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-find-great-stocks
 ---
 
 

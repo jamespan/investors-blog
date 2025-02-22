@@ -4,6 +4,7 @@ title: >-
   Six Steps To Lessen The Emotions Tied To Investing
 date: 2013-05-24 16:32 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-stay-calm-when-investing
 ---
 
 

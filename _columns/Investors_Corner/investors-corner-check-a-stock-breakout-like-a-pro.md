@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Check A Stock Breakout Like A Pro
 date: 2011-09-09 17:14 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-check-a-stock-breakout-like-a-pro
 ---
 
 

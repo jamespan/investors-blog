@@ -4,6 +4,7 @@ title: >-
   Growth Stocks And Chart Analysis: Why A Wedging Handle Is Bad News For Investors
 date: 2019-07-24 18:45 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/flawed-chart-patterns-why-a-wedging-handle-is-bad-news-for-investors
 ---
 
 

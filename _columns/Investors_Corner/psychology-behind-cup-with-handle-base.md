@@ -4,6 +4,7 @@ title: >-
   Appreciation For An Old Pal: The Cup-With-Handle Base
 date: 2013-06-21 17:06 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/psychology-behind-cup-with-handle-base
 ---
 
 

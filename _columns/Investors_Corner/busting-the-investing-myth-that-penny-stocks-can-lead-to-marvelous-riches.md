@@ -4,6 +4,7 @@ title: >-
   Busting The Investing Myth That Penny Stocks Can Lead To Marvelous Riches
 date: 2016-09-26 15:30 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/busting-the-investing-myth-that-penny-stocks-can-lead-to-marvelous-riches
 ---
 
 

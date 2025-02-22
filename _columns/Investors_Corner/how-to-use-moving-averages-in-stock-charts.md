@@ -4,6 +4,7 @@ title: >-
   How To Invest: Moving Averages Smooth A Rough Picture
 date: 2013-07-24 17:41 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-use-moving-averages-in-stock-charts
 ---
 
 

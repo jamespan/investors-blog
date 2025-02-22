@@ -4,6 +4,7 @@ title: >-
   How 1987 Crash Foiled Microsoft's Advance
 date: 2014-10-10 17:38 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/microsoft-fell-during-black-monday-stock-market-crash
 ---
 
 

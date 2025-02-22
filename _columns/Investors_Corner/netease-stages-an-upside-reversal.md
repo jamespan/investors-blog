@@ -4,6 +4,7 @@ title: >-
   Most Sector Leaders Take Heat
 date: 2012-05-30 17:45 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/netease-stages-an-upside-reversal
 ---
 
 

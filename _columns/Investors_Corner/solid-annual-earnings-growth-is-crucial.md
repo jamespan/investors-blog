@@ -4,6 +4,7 @@ title: >-
   Look For Long String Of Solid Annual Earnings Growth
 date: 2012-10-01 15:42 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/solid-annual-earnings-growth-is-crucial
 ---
 
 

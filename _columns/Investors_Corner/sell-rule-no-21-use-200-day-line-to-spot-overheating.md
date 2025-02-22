@@ -4,6 +4,7 @@ title: >-
   When To Sell Stocks: How To Use The 200-Day Moving Average To Spot Overheating
 date: 2019-05-22 16:45 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sell-rule-no-21-use-200-day-line-to-spot-overheating
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Impatient Investors Likely Missed Nike's Big Run-Up
 date: 2015-08-25 17:10 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/impatient-investors-missed-nike-rally
 ---
 
 

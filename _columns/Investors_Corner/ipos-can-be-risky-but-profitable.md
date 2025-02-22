@@ -4,6 +4,7 @@ title: >-
   New Issues Can Bring Joy, Pain For Stock Investors
 date: 2015-11-23 16:31 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ipos-can-be-risky-but-profitable
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Invest In Growth Stocks: Know The C And The A In CAN SLIM
 date: 2019-10-25 12:34 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-can-slim-earnings-acceleration
 ---
 
 

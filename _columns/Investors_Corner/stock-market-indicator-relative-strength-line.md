@@ -4,6 +4,7 @@ title: >-
   How This Simple Indicator Revealed True Strength In Amazon Stock
 date: 2024-04-26 08:00 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-indicator-relative-strength-line
 ---
 
 

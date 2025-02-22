@@ -4,6 +4,7 @@ title: >-
   Winning Stock Trades of 2014: Skyworks Solutions
 date: 2014-12-26 17:37 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/skyworks-solutions-made-big-2014-advance
 ---
 
 

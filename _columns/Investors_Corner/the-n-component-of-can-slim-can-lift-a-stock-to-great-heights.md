@@ -4,6 +4,7 @@ title: >-
   The N Component Of CAN SLIM Can Lift A Stock To Great Heights
 date: 2015-08-13 15:55 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-n-component-of-can-slim-can-lift-a-stock-to-great-heights
 ---
 
 

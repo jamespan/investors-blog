@@ -4,6 +4,7 @@ title: >-
   How To Invest: Look For Tight Trading Ranges In Base
 date: 2011-12-16 17:15 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-tighter-trading-better
 ---
 
 

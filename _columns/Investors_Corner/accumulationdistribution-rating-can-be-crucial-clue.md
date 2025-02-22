@@ -4,6 +4,7 @@ title: >-
   Accumulation-Distribution Rating Can Be Crucial Clue
 date: 2012-07-06 18:16 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/accumulationdistribution-rating-can-be-crucial-clue
 ---
 
 

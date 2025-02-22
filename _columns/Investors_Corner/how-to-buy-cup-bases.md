@@ -4,6 +4,7 @@ title: >-
   Loews Stock Shows You Can't Ignore The Cup-No-Handle
 date: 2015-04-02 18:27 -0700
 author: ANDREW EDWARDS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-cup-bases
 ---
 
 

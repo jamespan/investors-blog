@@ -4,6 +4,7 @@ title: >-
   Portfolio Management: How Many Stocks Should I Own?
 date: 2014-04-03 17:12 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-keep-your-stock-portfolio-in-check
 ---
 
 

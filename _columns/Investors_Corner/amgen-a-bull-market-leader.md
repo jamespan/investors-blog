@@ -4,6 +4,7 @@ title: >-
   Amgen's 1990 Base Breakout Launched Major Price Move
 date: 2015-10-07 16:46 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/amgen-a-bull-market-leader
 ---
 
 

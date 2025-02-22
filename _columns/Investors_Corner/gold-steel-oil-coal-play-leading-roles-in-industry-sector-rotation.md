@@ -4,6 +4,7 @@ title: >-
   Sector Rotation In 2016: Why Gold, Steel, Oil, Coal Played Leading Roles
 date: 2016-12-16 12:54 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/gold-steel-oil-coal-play-leading-roles-in-industry-sector-rotation
 ---
 
 

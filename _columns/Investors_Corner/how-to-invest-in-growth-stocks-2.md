@@ -4,6 +4,7 @@ title: >-
   Why You Should Stay Away From Cheap Stocks
 date: 2013-08-13 16:41 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-in-growth-stocks-2
 ---
 
 

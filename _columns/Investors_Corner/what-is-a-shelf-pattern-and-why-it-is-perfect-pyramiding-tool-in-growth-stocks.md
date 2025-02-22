@@ -4,6 +4,7 @@ title: >-
   Why The Shelf Pattern Is The Perfect Pyramiding Tool In Growth Stocks
 date: 2024-03-25 08:00 -0700
 author: MIKE WEBSTER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-a-shelf-pattern-and-why-it-is-perfect-pyramiding-tool-in-growth-stocks
 ---
 
 

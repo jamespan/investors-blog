@@ -4,6 +4,7 @@ title: >-
   Want To Spot Sector Rotation In The Market? Employ Multichannel Thinking
 date: 2016-10-21 13:13 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/want-to-spot-sector-rotation-in-the-market-employ-multi-channel-thinking
 ---
 
 

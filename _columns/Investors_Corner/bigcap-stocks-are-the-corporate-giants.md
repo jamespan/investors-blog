@@ -4,6 +4,7 @@ title: >-
   Know What Capitalization Size The Market Favors
 date: 2012-07-30 16:20 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/bigcap-stocks-are-the-corporate-giants
 ---
 
 

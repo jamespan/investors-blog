@@ -4,6 +4,7 @@ title: >-
   Ready To Start A Position In A Stock? Read This First
 date: 2015-03-25 17:45 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/average-up-in-price-with-winning-stocks
 ---
 
 

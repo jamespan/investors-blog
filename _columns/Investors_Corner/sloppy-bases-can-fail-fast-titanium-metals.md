@@ -4,6 +4,7 @@ title: >-
   How To Invest: Why Titanium Metals' 2007 Base Flopped
 date: 2012-01-11 17:38 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sloppy-bases-can-fail-fast-titanium-metals
 ---
 
 

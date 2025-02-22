@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Base On Base, Or Within A Base?
 date: 2011-03-24 16:42 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-base-on-base-or-within-a-base
 ---
 
 

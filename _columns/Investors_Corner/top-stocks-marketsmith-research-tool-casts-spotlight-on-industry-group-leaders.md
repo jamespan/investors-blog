@@ -4,6 +4,7 @@ title: >-
   How A MarketSurge Research Tool Casts Spotlight On Industry Group Leaders
 date: 2024-08-12 08:00 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/top-stocks-marketsmith-research-tool-casts-spotlight-on-industry-group-leaders
 ---
 
 

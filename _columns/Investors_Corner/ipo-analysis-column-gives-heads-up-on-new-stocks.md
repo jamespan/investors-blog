@@ -4,6 +4,7 @@ title: >-
   IPO Analysis Column Identifies Promising New Stocks
 date: 2014-03-10 18:24 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ipo-analysis-column-gives-heads-up-on-new-stocks
 ---
 
 

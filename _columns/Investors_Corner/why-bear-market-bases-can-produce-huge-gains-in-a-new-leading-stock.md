@@ -4,6 +4,7 @@ title: >-
   Why Bear Market Bases Can Produce Huge Gains In New Leading Stocks
 date: 2016-07-13 18:17 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-bear-market-bases-can-produce-huge-gains-in-a-new-leading-stock
 ---
 
 

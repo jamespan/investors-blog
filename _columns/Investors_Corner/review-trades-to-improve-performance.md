@@ -4,6 +4,7 @@ title: >-
   Trading Journal: Benefit From Reviewing Past Trades
 date: 2014-09-09 18:16 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/review-trades-to-improve-performance
 ---
 
 

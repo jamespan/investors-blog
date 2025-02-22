@@ -4,6 +4,7 @@ title: >-
   If The Base Is Too Deep A Big Loss You May Reap
 date: 2012-11-26 16:34 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/deep-bases-may-mean-trouble
 ---
 
 

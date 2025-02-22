@@ -4,6 +4,7 @@ title: >-
   Keeping Losses Smaller Than 8% Is Path To Stability
 date: 2012-09-24 15:50 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/limit-volatility-by-keeping-stock-losses-small
 ---
 
 

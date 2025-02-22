@@ -4,6 +4,7 @@ title: >-
   How To Buy Growth Stocks: Why 3 Mild Retreats May Yield The Bullish Ascending Base
 date: 2024-05-28 08:01 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/chart-reading-202-how-3-retreats-may-yield-an-ascending-base
 ---
 
 

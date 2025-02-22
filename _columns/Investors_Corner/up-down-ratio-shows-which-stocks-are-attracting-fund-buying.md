@@ -4,6 +4,7 @@ title: >-
   Up-Down Volume Ratio Shows Where Funds Are Investing
 date: 2012-07-31 16:05 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/up-down-ratio-shows-which-stocks-are-attracting-fund-buying
 ---
 
 

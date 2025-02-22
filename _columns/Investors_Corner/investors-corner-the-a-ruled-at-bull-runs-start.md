@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: The 'A' Ruled At Bull Run's Start
 date: 2011-04-25 16:50 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-the-a-ruled-at-bull-runs-start
 ---
 
 

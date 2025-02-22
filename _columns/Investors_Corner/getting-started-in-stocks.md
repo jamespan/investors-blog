@@ -4,6 +4,7 @@ title: >-
   Here's A Quick And Easy Stock Market Starter Kit
 date: 2015-11-24 17:21 -0800
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/getting-started-in-stocks
 ---
 
 

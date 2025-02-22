@@ -4,6 +4,7 @@ title: >-
   How To Use IBD To Reveal Biggest EPS-Growth Stocks
 date: 2013-02-15 18:09 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/find-fast-growing-profits
 ---
 
 

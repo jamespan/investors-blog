@@ -4,6 +4,7 @@ title: >-
   Growth Stocks And How To Analyze Earnings Growth: Using IBD's EPS Rating
 date: 2022-12-14 08:00 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-and-how-to-analyze-earnings-growth-using-ibd-eps-rating
 ---
 
 

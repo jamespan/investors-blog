@@ -4,6 +4,7 @@ title: >-
   How To Trade Top Stocks: Why Apple, Nvidia Breakouts Still Worked Despite 'Light Volume'
 date: 2019-11-21 08:25 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-apple-nvidia-breakouts-still-worked-despite-light-volume
 ---
 
 

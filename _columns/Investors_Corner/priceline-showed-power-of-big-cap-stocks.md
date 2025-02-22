@@ -4,6 +4,7 @@ title: >-
   IBD's Big Cap 20 Stocks Offer Refuge In Choppy Market
 date: 2015-08-07 18:21 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/priceline-showed-power-of-big-cap-stocks
 ---
 
 

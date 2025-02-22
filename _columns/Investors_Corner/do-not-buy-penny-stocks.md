@@ -4,6 +4,7 @@ title: >-
   Investors Should Not Buy Penny Stocks
 date: 2014-11-28 17:20 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/do-not-buy-penny-stocks
 ---
 
 

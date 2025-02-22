@@ -4,6 +4,7 @@ title: >-
   How To Trade: Flat Base Can Spur Huge Gains
 date: 2011-12-06 17:26 -0800
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/flat-base-can-form-by-great-stocks
 ---
 
 

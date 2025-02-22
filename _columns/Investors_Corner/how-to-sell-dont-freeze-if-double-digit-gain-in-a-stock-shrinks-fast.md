@@ -4,6 +4,7 @@ title: >-
   When To Sell Growth Stocks: Don't Freeze If A Double-Digit Gain Shrinks Fast
 date: 2019-12-03 12:00 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-sell-dont-freeze-if-double-digit-gain-in-a-stock-shrinks-fast
 ---
 
 

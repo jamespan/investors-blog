@@ -4,6 +4,7 @@ title: >-
   How To Invest: Check This Rating Before Buying Your Next Stock
 date: 2024-05-24 08:00 -0700
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-earnings-growth
 ---
 
 

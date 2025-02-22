@@ -4,6 +4,7 @@ title: >-
   Stock Chart Analysis: Saucer With Handle Base Less Common, But Packs A Punch
 date: 2024-06-25 08:02 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-charts-saucer-base-less-common-but-packs-punch
 ---
 
 

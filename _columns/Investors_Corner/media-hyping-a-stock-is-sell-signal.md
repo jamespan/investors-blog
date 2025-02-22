@@ -4,6 +4,7 @@ title: >-
   Wide Media Coverage May Signal Your Stock Has Peaked
 date: 2013-05-16 16:48 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/media-hyping-a-stock-is-sell-signal
 ---
 
 

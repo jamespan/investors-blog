@@ -4,6 +4,7 @@ title: >-
   Stop, Smell The Roses And Study Monthly Stock Charts
 date: 2015-05-05 18:08 -0700
 author: ANDREW EDWARDS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-use-monthly-charts
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Sector Tables Track Group Strength
 date: 2011-06-01 14:41 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-sector-tables-track-group-strength
 ---
 
 

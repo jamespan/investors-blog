@@ -4,6 +4,7 @@ title: >-
   Base Your Buys On Bases And Things Will Work Better
 date: 2014-11-04 17:17 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-should-i-buy-a-stock
 ---
 
 

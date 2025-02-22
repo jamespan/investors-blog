@@ -4,6 +4,7 @@ title: >-
   How To Invest: Charts Help Stock Selection, Timing
 date: 2013-01-07 17:11 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investor-stock-market-performance-chart-investing
 ---
 
 

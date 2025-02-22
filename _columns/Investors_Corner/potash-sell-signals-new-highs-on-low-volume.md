@@ -4,6 +4,7 @@ title: >-
   Potash Gave Multiple Sell Signals As It Topped
 date: 2014-04-29 17:06 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/potash-sell-signals-new-highs-on-low-volume
 ---
 
 

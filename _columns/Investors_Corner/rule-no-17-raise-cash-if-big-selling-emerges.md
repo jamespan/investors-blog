@@ -4,6 +4,7 @@ title: >-
   Rule No. 17: Raise Cash If Big Selling Emerges
 date: 2011-10-05 17:15 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/rule-no-17-raise-cash-if-big-selling-emerges
 ---
 
 

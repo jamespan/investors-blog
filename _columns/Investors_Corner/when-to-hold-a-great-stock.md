@@ -4,6 +4,7 @@ title: >-
   Hold Rule For Fast Riser Will Keep You In Great Stock
 date: 2012-10-29 18:04 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-hold-a-great-stock
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Use The New America Section To Find Potential Winners
 date: 2012-09-07 17:04 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-use-ibd-new-america-section
 ---
 
 

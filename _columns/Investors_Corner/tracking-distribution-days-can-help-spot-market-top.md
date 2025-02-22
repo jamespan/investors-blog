@@ -4,6 +4,7 @@ title: >-
   Tracking Distribution Days Can Help Spot Market Top
 date: 2014-07-09 18:07 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/tracking-distribution-days-can-help-spot-market-top
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Aggressive Shakeout + 3 Buy Point Offers Rare Cushion
 date: 2015-12-04 16:05 -0800
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/finding-early-buy-points
 ---
 
 

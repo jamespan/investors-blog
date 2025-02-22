@@ -4,6 +4,7 @@ title: >-
   Ignore P-E Ratios When Evaluating High-Growth Stocks
 date: 2013-04-01 16:34 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ignore-pe-ratios-in-stock-investing
 ---
 
 

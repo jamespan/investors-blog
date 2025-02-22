@@ -4,6 +4,7 @@ title: >-
   How To Trade: Know The Square-Box Base
 date: 2011-12-13 17:42 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/some-great-stocks-form-square-box-base
 ---
 
 

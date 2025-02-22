@@ -4,6 +4,7 @@ title: >-
   How To Trade The Stock Market: Why A Stalling Day Can Signal Heavy Institutional Selling
 date: 2019-10-02 10:15 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-a-stalling-day-provides-a-sign-of-distribution-on-up-day
 ---
 
 

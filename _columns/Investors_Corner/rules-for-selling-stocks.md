@@ -4,6 +4,7 @@ title: >-
   Hold Or Take Profits? Here Are Six Guidelines To Heed
 date: 2013-05-06 17:49 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/rules-for-selling-stocks
 ---
 
 

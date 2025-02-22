@@ -4,6 +4,7 @@ title: >-
   High, Tight Flag Can Deliver Unbelievable Profits
 date: 2015-09-17 16:46 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-patterns-that-work
 ---
 
 

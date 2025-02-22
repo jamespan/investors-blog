@@ -4,6 +4,7 @@ title: >-
   How You Hunt For Stocks Matters In A New Market Uptrend
 date: 2016-02-23 16:38 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-you-hunt-matters-in-a-new-stock-market-uptrend
 ---
 
 

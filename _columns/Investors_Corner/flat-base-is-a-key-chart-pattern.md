@@ -4,6 +4,7 @@ title: >-
   How To Invest: Flat Base Is Launching Pad To Winners
 date: 2015-03-31 17:35 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/flat-base-is-a-key-chart-pattern
 ---
 
 

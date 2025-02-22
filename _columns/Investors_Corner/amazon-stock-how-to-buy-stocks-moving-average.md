@@ -4,6 +4,7 @@ title: >-
   This Second-Chance Stock Pattern Gave Amazon A 29% Boost
 date: 2024-11-15 08:00 -0800
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/amazon-stock-how-to-buy-stocks-moving-average
 ---
 
 

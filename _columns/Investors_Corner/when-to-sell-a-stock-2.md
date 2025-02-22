@@ -4,6 +4,7 @@ title: >-
   Heeding Sell Rules Is Crucial In Weak Stock Market
 date: 2013-08-19 17:23 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-sell-a-stock-2
 ---
 
 

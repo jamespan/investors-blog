@@ -4,6 +4,7 @@ title: >-
   How To Find The Leaders Of The Next Stock Market Upswing; This MarketSmith, IBD Indicator Works Wonders
 date: 2022-09-08 13:46 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-find-the-leaders-of-the-next-stock-market-upswing-this-marketsmith-ibd-indicator-works-wonders
 ---
 
 

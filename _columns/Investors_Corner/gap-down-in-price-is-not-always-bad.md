@@ -4,6 +4,7 @@ title: >-
   ConocoPhillips Proves Why A Gap Down In Price Is Not Always Bad
 date: 2024-07-03 08:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/gap-down-in-price-is-not-always-bad
 ---
 
 

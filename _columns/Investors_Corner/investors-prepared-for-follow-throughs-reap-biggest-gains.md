@@ -4,6 +4,7 @@ title: >-
   Market Uptrends In '90, '98 And '10 Led To Big Gains
 date: 2014-06-30 17:14 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-prepared-for-follow-throughs-reap-biggest-gains
 ---
 
 

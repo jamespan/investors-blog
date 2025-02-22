@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: How To Tap Into High-Growth IPOs
 date: 2011-09-08 17:13 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-how-to-tap-into-high-growth-ipos
 ---
 
 

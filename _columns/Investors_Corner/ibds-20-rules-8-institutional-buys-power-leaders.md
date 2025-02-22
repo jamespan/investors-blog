@@ -4,6 +4,7 @@ title: >-
   IBD's 20 Rules: #8 Institutional Buys Power Leaders
 date: 2011-09-22 15:52 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibds-20-rules-8-institutional-buys-power-leaders
 ---
 
 

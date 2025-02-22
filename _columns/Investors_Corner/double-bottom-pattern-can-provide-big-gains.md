@@ -4,6 +4,7 @@ title: >-
   What's A Double Bottom? Ulta Serves As An Example
 date: 2012-06-13 15:59 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/double-bottom-pattern-can-provide-big-gains
 ---
 
 

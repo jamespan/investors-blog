@@ -4,6 +4,7 @@ title: >-
   How To Trade: Base-On-Base Pattern Can Power Big Run
 date: 2011-12-08 17:18 -0800
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-in-stocks-using-baseonbase-pattern
 ---
 
 

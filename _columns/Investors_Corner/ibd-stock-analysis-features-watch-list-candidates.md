@@ -4,6 +4,7 @@ title: >-
   IBD Stock Analysis Features Watch List Candidates
 date: 2014-05-13 16:45 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-stock-analysis-features-watch-list-candidates
 ---
 
 

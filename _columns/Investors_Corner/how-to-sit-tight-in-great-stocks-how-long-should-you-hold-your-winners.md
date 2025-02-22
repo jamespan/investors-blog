@@ -4,6 +4,7 @@ title: >-
   When To Sell Stocks: How To Sit Tight In Big Winners Such As Chipotle, Microsoft, Cisco Systems
 date: 2019-11-05 17:59 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-sit-tight-in-great-stocks-how-long-should-you-hold-your-winners
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Supply Is Key To Chart Ups and Downs Of Stock Price
 date: 2014-01-24 17:32 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-s-in-can-slim
 ---
 
 

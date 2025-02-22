@@ -4,6 +4,7 @@ title: >-
   Cup-With-Handle Base Harbors Many Winners Before Big Price Runs
 date: 2024-06-18 08:00 -0700
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/cup-with-handle-base-harbors-many-winners-before-big-price-runs
 ---
 
 

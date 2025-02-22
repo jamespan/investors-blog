@@ -4,6 +4,7 @@ title: >-
   SMR Rating Uncovers Stocks With Top Sales, Margins
 date: 2016-01-20 16:50 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-4
 ---
 
 

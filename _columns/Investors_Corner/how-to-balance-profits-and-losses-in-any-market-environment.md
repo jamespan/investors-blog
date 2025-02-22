@@ -4,6 +4,7 @@ title: >-
   When To Sell Stocks: How To Balance Profits And Losses In Any Market Environment
 date: 2024-04-11 08:00 -0700
 author: JUSTIN NIELSEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-balance-profits-and-losses-in-any-market-environment
 ---
 
 

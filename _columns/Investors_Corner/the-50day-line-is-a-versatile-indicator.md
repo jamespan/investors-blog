@@ -4,6 +4,7 @@ title: >-
   O'Reilly Automotive: A Lesson In Etiquette
 date: 2015-05-14 17:20 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-50day-line-is-a-versatile-indicator
 ---
 
 

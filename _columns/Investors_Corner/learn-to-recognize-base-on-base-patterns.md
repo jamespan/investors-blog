@@ -4,6 +4,7 @@ title: >-
   What LinkedIn, Facebook And Tableau Have In Common
 date: 2015-04-01 17:15 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-to-recognize-base-on-base-patterns
 ---
 
 

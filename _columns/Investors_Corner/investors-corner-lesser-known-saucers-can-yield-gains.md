@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Lesser-Known Saucers Can Yield Gains
 date: 2011-07-06 18:34 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-lesser-known-saucers-can-yield-gains
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Monthly Stock Chart Put Acme Packet In Perspective
 date: 2012-07-20 15:34 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/monthly-charts-put-stocks-in-perspective
 ---
 
 

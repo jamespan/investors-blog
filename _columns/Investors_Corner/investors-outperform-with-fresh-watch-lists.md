@@ -4,6 +4,7 @@ title: >-
   Want An Edge In The Market? Keep A Fresh Watch List
 date: 2015-08-24 16:26 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-outperform-with-fresh-watch-lists
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Chuy's Stock: High Stock Volatility Should Be Avoided
 date: 2014-12-02 17:24 -0800
 author: ANDREW EDWARDS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/avoid-excessive-volatility-in-a-stock
 ---
 
 

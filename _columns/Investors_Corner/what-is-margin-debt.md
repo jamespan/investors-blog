@@ -4,6 +4,7 @@ title: >-
   What Is Margin Debt? And Do High Levels Today Point To A Stock Market Top?
 date: 2021-04-29 19:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-margin-debt
 ---
 
 

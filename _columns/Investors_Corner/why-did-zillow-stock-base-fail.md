@@ -4,6 +4,7 @@ title: >-
   How To Invest: Why Did Zillow's Cup Base Fail?
 date: 2013-11-08 17:46 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-did-zillow-stock-base-fail
 ---
 
 

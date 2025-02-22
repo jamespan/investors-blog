@@ -4,6 +4,7 @@ title: >-
   Intraday Charts Can Help At Times, Distract At Others
 date: 2014-10-30 17:35 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/intraday-stock-charts-can-slim-investing
 ---
 
 

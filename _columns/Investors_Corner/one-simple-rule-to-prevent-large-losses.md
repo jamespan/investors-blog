@@ -4,6 +4,7 @@ title: >-
   Cut Losses Short: No. 1 Among Stock Investing Rules
 date: 2014-11-19 18:14 -0800
 author: ANDREW EDWARDS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/one-simple-rule-to-prevent-large-losses
 ---
 
 

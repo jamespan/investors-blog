@@ -4,6 +4,7 @@ title: >-
   What Is Return On Equity, And Why It Can Help You Find Winning Growth Stocks
 date: 2023-05-11 08:00 -0700
 author: RACHEL FOX
+origin_url: https://www.investors.com/how-to-invest/investors-corner/return-on-equity-can-help-find-winning-growth-stocks
 ---
 
 

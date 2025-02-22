@@ -4,6 +4,7 @@ title: >-
   Head-And-Shoulders Pattern Spots Short-Sale Entries, But Beware Of Potential Headaches
 date: 2024-07-17 08:00 -0700
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/head-and-shoulders-pattern-spots-short-sale-entries-but-beware-of-patterns-headaches
 ---
 
 

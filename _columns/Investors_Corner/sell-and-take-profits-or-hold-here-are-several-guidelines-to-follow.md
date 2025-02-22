@@ -4,6 +4,7 @@ title: >-
   Sell And Take Profits In Top Growth Stocks, Or Hold? Several Guidelines To Follow
 date: 2019-09-05 08:00 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sell-and-take-profits-or-hold-here-are-several-guidelines-to-follow
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Breakout Stocks Sometimes Bypass Buy Points; Why It's Not Too Late To Buy Them
 date: 2023-02-15 08:00 -0800
 author: RACHEL FOX
+origin_url: https://www.investors.com/how-to-invest/investors-corner/breakout-stocks-ripping-higher-breakaway-gap-entries
 ---
 
 

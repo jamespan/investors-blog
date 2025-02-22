@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Future Leaders Defy A Weak Market
 date: 2011-05-04 17:51 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-future-leaders-defy-a-weak-market
 ---
 
 

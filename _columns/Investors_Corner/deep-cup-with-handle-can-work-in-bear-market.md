@@ -4,6 +4,7 @@ title: >-
   Why Flawed, Deep Bases Worked In Covid Bear Market
 date: 2024-07-30 08:01 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/deep-cup-with-handle-can-work-in-bear-market
 ---
 
 

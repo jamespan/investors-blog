@@ -4,6 +4,7 @@ title: >-
   How To Invest In Stocks: Count Bases To Determine A Stock's Upside Potential
 date: 2024-10-08 08:01 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-in-stocks-count-bases-to-determine-a-stocks-upside-potential
 ---
 
 

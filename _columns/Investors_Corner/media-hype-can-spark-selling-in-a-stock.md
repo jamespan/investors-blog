@@ -4,6 +4,7 @@ title: >-
   Media Hype, Magazine Covers Can Spark Selling In A Stock
 date: 2014-09-23 17:29 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/media-hype-can-spark-selling-in-a-stock
 ---
 
 

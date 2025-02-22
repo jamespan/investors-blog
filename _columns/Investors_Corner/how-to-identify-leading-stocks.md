@@ -4,6 +4,7 @@ title: >-
   How To Find, Buy Leading Stocks, Not Laggards
 date: 2014-01-27 17:02 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-identify-leading-stocks
 ---
 
 

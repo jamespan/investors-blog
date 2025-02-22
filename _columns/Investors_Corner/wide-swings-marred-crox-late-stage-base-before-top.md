@@ -4,6 +4,7 @@ title: >-
   Wide Swings Marred Crocs' Late-Stage Base Before Top
 date: 2014-10-13 14:26 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/wide-swings-marred-crox-late-stage-base-before-top
 ---
 
 

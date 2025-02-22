@@ -4,6 +4,7 @@ title: >-
   Why MercadoLibre's Solid Base Still Failed
 date: 2011-10-24 17:42 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-mercadolibres-solid-base-still-failed
 ---
 
 

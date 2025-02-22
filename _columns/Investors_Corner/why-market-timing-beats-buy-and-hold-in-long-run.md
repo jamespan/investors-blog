@@ -4,6 +4,7 @@ title: >-
   Why Market Timing Beats Buy And Hold In Long Run
 date: 2016-09-21 14:09 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-market-timing-beats-buy-and-hold-in-long-run
 ---
 
 

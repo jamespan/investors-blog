@@ -4,6 +4,7 @@ title: >-
   How To Invest: Don't Assume Big Means Less Volatile
 date: 2012-08-14 15:48 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-investors-corner-handling-choppy-uptrend
 ---
 
 

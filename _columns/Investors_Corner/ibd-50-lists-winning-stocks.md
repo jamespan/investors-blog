@@ -4,6 +4,7 @@ title: >-
   A Brief History Of 21st Century Stock Leadership
 date: 2014-03-12 18:24 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-50-lists-winning-stocks
 ---
 
 

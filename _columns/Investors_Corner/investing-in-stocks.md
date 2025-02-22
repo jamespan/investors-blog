@@ -4,6 +4,7 @@ title: >-
   How To Get Started In Investing In Stocks
 date: 2018-11-23 10:45 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investing-in-stocks
 ---
 
 

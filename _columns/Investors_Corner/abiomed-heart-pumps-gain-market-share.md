@@ -4,6 +4,7 @@ title: >-
   Top Stock Of 2015: Abiomed Proved Itself A Big Winner
 date: 2015-12-17 13:52 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/abiomed-heart-pumps-gain-market-share
 ---
 
 

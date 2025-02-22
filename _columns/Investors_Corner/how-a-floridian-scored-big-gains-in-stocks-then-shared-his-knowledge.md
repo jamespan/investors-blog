@@ -4,6 +4,7 @@ title: >-
   How A Floridian Scored Big Gains In Stocks, Then Shared His Knowledge
 date: 2016-07-18 12:36 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-a-floridian-scored-big-gains-in-stocks-then-shared-his-knowledge
 ---
 
 

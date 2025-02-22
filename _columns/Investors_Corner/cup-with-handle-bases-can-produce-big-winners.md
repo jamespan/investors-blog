@@ -4,6 +4,7 @@ title: >-
   Cup-With-Handle Bases Can Produce Big Winners
 date: 2016-03-14 14:11 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/cup-with-handle-bases-can-produce-big-winners
 ---
 
 

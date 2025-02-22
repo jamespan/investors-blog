@@ -4,6 +4,7 @@ title: >-
   How To Invest: Double-Bottom Bases Produce Big Winners
 date: 2015-03-30 17:30 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/doublebottom-bases-worth-looking-for
 ---
 
 

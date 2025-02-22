@@ -4,6 +4,7 @@ title: >-
   What Is The Flat Base? It's Power Waiting To Erupt
 date: 2016-03-17 15:17 -0700
 author: JUSTIN NIELSEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-flat-base-power-waiting-to-erupt
 ---
 
 

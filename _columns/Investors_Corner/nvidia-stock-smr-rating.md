@@ -4,6 +4,7 @@ title: >-
   Use SMR Rating To Identify Stock Market Leaders, Like Nvidia
 date: 2024-08-23 08:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/nvidia-stock-smr-rating
 ---
 
 

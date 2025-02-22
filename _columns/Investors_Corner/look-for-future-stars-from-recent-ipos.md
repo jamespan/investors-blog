@@ -4,6 +4,7 @@ title: >-
   Expect Big Things From Younger Growth Companies
 date: 2012-08-20 18:09 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/look-for-future-stars-from-recent-ipos
 ---
 
 

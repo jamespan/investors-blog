@@ -4,6 +4,7 @@ title: >-
   Investor Psych -- How Sentiment Gauges Help
 date: 2011-11-01 17:23 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investor-psych-how-sentiment-gauges-help
 ---
 
 

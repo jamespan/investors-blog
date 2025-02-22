@@ -4,6 +4,7 @@ title: >-
   Why Using Stock Tips Can Endanger Your Portfolio
 date: 2012-06-22 16:21 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stocks-tips-can-burn-you
 ---
 
 

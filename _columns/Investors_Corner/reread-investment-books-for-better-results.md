@@ -4,6 +4,7 @@ title: >-
   Investment Results Stuck In A Rut? Pick Up A Good Book
 date: 2015-12-10 17:13 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/reread-investment-books-for-better-results
 ---
 
 

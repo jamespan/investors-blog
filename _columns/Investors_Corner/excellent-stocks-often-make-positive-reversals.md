@@ -4,6 +4,7 @@ title: >-
   How To Invest: Look For Positive Reversals, Shakeouts
 date: 2011-12-19 17:41 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/excellent-stocks-often-make-positive-reversals
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Learn To Step Back From The Market After Big Profits
 date: 2015-09-04 16:26 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/greed-and-overconfidence-can-spark-bad-trades
 ---
 
 

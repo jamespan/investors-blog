@@ -4,6 +4,7 @@ title: >-
   Growth Stocks And The I In CAN SLIM: Are Top Fund Managers Backing Your Stock Picks?
 date: 2019-07-04 16:00 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-i-in-can-slim-make-sure-top-fund-managers-are-backing-your-stock-picks
 ---
 
 

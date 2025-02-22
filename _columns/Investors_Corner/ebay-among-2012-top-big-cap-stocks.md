@@ -4,6 +4,7 @@ title: >-
   EBay Outshined Big Cap Stocks In 2012 With A 75% Gain
 date: 2012-12-27 18:13 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ebay-among-2012-top-big-cap-stocks
 ---
 
 

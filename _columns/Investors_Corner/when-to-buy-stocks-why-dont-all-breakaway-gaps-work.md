@@ -4,6 +4,7 @@ title: >-
   When To Buy Stocks: Why Don't All Breakaway Gaps Work?
 date: 2017-10-27 08:45 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-buy-stocks-why-dont-all-breakaway-gaps-work
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Watch Out For Downside Reversals With Poor Closes
 date: 2013-05-08 17:29 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/downside-reversals-are-red-flags
 ---
 
 

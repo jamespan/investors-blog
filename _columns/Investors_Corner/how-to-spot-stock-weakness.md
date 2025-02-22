@@ -4,6 +4,7 @@ title: >-
   Negative Reversals Are Bad Omens
 date: 2014-04-16 17:46 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-spot-stock-weakness
 ---
 
 

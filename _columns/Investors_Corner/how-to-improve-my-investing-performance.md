@@ -4,6 +4,7 @@ title: >-
   Three Words That Could Improve Your Investing Results
 date: 2014-03-31 18:26 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-improve-my-investing-performance
 ---
 
 

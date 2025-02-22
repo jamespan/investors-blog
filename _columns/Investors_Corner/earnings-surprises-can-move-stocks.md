@@ -4,6 +4,7 @@ title: >-
   Positive Earnings Surprise Can Fan A Breakout's Fire
 date: 2015-07-29 17:16 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/earnings-surprises-can-move-stocks
 ---
 
 

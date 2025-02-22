@@ -4,6 +4,7 @@ title: >-
   Strong Annual Profit Growth A Hallmark Of Big Winners
 date: 2014-01-23 17:33 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/a-in-can-slim-is-annual-earnings
 ---
 
 

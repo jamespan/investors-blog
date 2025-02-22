@@ -4,6 +4,7 @@ title: >-
   Options Strategy Reduces Risk During Earnings Season
 date: 2015-07-24 18:43 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/using-options-to-minimize-earnings-risk
 ---
 
 

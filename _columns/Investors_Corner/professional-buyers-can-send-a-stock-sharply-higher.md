@@ -4,6 +4,7 @@ title: >-
   Make Sure Your Stock Has Professional Support
 date: 2014-07-24 18:03 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/professional-buyers-can-send-a-stock-sharply-higher
 ---
 
 

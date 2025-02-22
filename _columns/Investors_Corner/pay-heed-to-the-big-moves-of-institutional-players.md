@@ -4,6 +4,7 @@ title: >-
   Pay Heed To The Big Moves Of Institutional Players
 date: 2016-09-13 12:31 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/pay-heed-to-the-big-moves-of-institutional-players
 ---
 
 

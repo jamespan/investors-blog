@@ -4,6 +4,7 @@ title: >-
   How To Invest: Use Stock Screener To Dig Deep Into IBD's Database
 date: 2024-05-10 08:00 -0700
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-use-stock-screener-to-dig-deep
 ---
 
 

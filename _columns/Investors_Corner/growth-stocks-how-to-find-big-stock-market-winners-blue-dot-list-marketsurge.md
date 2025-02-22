@@ -4,6 +4,7 @@ title: >-
   Growth Stocks And How To Find Big Stock Market Winners: Try The Blue Dot List In MarketSurge
 date: 2024-12-18 08:00 -0800
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-how-to-find-big-stock-market-winners-blue-dot-list-marketsurge
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Make Sure Your Stock Has Good Institutional Sponsors
 date: 2013-09-12 17:11 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/leading-funds-should-own-your-stock
 ---
 
 

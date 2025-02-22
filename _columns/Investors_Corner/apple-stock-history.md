@@ -4,6 +4,7 @@ title: >-
   Apple's 1980 IPO Offers A Lesson: Hype Seldom Helps
 date: 2015-04-20 18:06 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/apple-stock-history
 ---
 
 

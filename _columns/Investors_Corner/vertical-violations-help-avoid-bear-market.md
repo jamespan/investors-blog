@@ -4,6 +4,7 @@ title: >-
   Vertical Violations Can Help Avoid Bear Market
 date: 2024-08-06 08:00 -0700
 author: JUSTIN NIELSEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/vertical-violations-help-avoid-bear-market
 ---
 
 

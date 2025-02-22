@@ -4,6 +4,7 @@ title: >-
   Feeling Skittish About A Stock? Watch The 10-Day Line
 date: 2015-10-21 17:26 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/use-the-10day-line-to-take-profits
 ---
 
 

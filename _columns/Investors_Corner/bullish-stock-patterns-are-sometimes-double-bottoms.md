@@ -4,6 +4,7 @@ title: >-
   Don't Let Double Bottom's Sloppy Ways Turn You Away
 date: 2013-10-01 17:29 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/bullish-stock-patterns-are-sometimes-double-bottoms
 ---
 
 

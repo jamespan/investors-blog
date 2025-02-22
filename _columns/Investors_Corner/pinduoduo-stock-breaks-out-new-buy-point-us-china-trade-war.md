@@ -4,6 +4,7 @@ title: >-
   How Pinduoduo Stock Showed Power Off The Lows Of A Base Amid The Trade War
 date: 2019-11-15 13:44 -0800
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/pinduoduo-stock-breaks-out-new-buy-point-us-china-trade-war
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Research Growth Stocks: How This IBD Tool Simplifies The Search For Top Stocks
 date: 2024-04-24 08:00 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-research-growth-stocks
 ---
 
 

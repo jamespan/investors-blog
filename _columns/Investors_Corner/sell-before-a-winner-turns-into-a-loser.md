@@ -4,6 +4,7 @@ title: >-
   Don't Allow A Healthy Winner To Turn Into A Loser
 date: 2015-11-03 16:41 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sell-before-a-winner-turns-into-a-loser
 ---
 
 

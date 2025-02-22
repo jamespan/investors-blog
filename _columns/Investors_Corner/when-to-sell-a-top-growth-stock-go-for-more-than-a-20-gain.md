@@ -4,6 +4,7 @@ title: >-
   When To Sell A Top Growth Stock: Go For More Than A 20% Gain?
 date: 2018-02-02 15:45 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-sell-a-top-growth-stock-go-for-more-than-a-20-gain
 ---
 
 

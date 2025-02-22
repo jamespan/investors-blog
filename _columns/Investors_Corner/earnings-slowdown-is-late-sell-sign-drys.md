@@ -4,6 +4,7 @@ title: >-
   Earnings Deceleration Is Sell Signal But Often Late
 date: 2012-08-28 17:12 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/earnings-slowdown-is-late-sell-sign-drys
 ---
 
 

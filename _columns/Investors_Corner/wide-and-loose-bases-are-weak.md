@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Wide And Loose Bases Are Weak
 date: 2013-07-08 17:35 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/wide-and-loose-bases-are-weak
 ---
 
 

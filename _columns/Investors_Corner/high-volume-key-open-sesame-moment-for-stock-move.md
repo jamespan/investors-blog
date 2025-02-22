@@ -4,6 +4,7 @@ title: >-
   The Importance Of Volume: How Heavy Trade Sparked An 'Open Sesame' Moment For Alibaba
 date: 2024-11-13 08:00 -0800
 author: MICHAEL LARKIN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/high-volume-key-open-sesame-moment-for-stock-move
 ---
 
 

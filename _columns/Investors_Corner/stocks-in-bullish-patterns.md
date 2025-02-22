@@ -4,6 +4,7 @@ title: >-
   Some Leaders Show Good Action But Watch Base Count
 date: 2013-07-22 18:46 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stocks-in-bullish-patterns
 ---
 
 

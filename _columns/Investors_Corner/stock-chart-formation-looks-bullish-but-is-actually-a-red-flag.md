@@ -4,6 +4,7 @@ title: >-
   Rare Stock Chart Characteristic Looks Bullish, But Is Actually A Red Flag
 date: 2024-11-07 08:33 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-chart-formation-looks-bullish-but-is-actually-a-red-flag
 ---
 
 

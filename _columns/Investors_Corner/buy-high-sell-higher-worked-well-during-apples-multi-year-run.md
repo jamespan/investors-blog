@@ -4,6 +4,7 @@ title: >-
   Blast Conventional Wisdom: Buy High, Sell Higher Worked With Apple
 date: 2016-04-14 12:54 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/buy-high-sell-higher-worked-well-during-apples-multi-year-run
 ---
 
 

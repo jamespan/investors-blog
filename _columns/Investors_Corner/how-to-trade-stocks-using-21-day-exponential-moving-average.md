@@ -4,6 +4,7 @@ title: >-
   How To Trade Stocks: Using The 21-Day Exponential Moving Average
 date: 2024-09-19 08:01 -0700
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-stocks-using-21-day-exponential-moving-average
 ---
 
 

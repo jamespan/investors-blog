@@ -4,6 +4,7 @@ title: >-
   How To Invest: Gauge A  Stock's Supply Vs. Demand
 date: 2011-11-25 17:12 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-gauge-a-stocks-supply-vs-demand
 ---
 
 

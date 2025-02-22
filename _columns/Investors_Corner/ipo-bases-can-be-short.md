@@ -4,6 +4,7 @@ title: >-
   IPO Bases Can Be Brief But Profitable
 date: 2015-09-21 18:48 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ipo-bases-can-be-short
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Trade Stocks: Breakout From Bottoming Base Yielded Ideal Entry For This FANG Stock
 date: 2024-08-12 16:08 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/google-stock-breakout-from-bottoming-base-in-2009-yielded-perfect-entry
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Smart Chart Reading: Look For Solid Accumulation In A Base
 date: 2016-06-28 13:35 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/smart-chart-reading-look-for-solid-accumulation-in-a-base
 ---
 
 

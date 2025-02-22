@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: How To Use IBD's Stock Tables
 date: 2013-11-20 17:36 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-use-ibd-stock-tables
 ---
 
 

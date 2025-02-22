@@ -4,6 +4,7 @@ title: >-
   High-Volume Declines Marked End Of 2003 Bull Market
 date: 2014-07-11 18:12 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/distribution-key-to-recognizing-market-tops
 ---
 
 

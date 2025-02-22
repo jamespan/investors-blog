@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: The Cup With Handle Base
 date: 2011-06-29 16:54 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-the-cup-with-handle-base
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Charlottesville Meetup 'Popps' With Enthusiasm, Analysis
 date: 2013-07-17 17:58 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/virginia-meetup-thrives-in-uncertain-market
 ---
 
 

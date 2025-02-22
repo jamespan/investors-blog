@@ -4,6 +4,7 @@ title: >-
   Earnings Season: How Should You Play The Uncertainty?
 date: 2012-07-17 17:26 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-play-growth-stocks-during-earnings-season
 ---
 
 

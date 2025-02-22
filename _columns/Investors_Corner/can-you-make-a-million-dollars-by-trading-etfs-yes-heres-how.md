@@ -4,6 +4,7 @@ title: >-
   Can You Make A Million Dollars By Trading ETFs? Yes, Here's How
 date: 2017-12-06 18:48 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/can-you-make-a-million-dollars-by-trading-etfs-yes-heres-how
 ---
 
 

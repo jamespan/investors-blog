@@ -4,6 +4,7 @@ title: >-
   When To Buy Stocks: Here Are 4 Places To Add Shares After A Big Winner Breaks Out
 date: 2019-11-29 11:54 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-buy-stocks-here-are-4-places-to-add-shares-after-big-winner-breaks-out
 ---
 
 

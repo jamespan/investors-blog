@@ -4,6 +4,7 @@ title: >-
   IBD's Special 8-Week Hold Rule Has Faced Tough 2014
 date: 2014-08-21 17:34 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-long-should-i-hold-a-stock
 ---
 
 

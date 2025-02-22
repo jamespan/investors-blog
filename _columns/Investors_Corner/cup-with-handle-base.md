@@ -4,6 +4,7 @@ title: >-
   Recognize The Proper—And Improper—Cup With Handle
 date: 2013-09-13 18:25 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/cup-with-handle-base
 ---
 
 

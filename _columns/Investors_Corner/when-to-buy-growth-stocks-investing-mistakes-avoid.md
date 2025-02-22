@@ -4,6 +4,7 @@ title: >-
   How To Buy Growth Stocks: One Of The Biggest Investing Mistakes To Avoid
 date: 2018-08-17 10:15 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-buy-growth-stocks-investing-mistakes-avoid
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Spot The Buy Point: Texas Capital's December Breakout
 date: 2012-06-29 16:33 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/spotting-the-buy-point-texas-capital
 ---
 
 

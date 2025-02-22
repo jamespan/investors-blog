@@ -4,6 +4,7 @@ title: >-
   A Stock's Biggest One-Day Drop Signals Time To Exit
 date: 2012-08-24 17:31 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ebix-one-day-plunge-signaled-time-to-bail-out
 ---
 
 

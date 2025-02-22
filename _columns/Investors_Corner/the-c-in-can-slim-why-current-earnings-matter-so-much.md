@@ -4,6 +4,7 @@ title: >-
   The C In CAN SLIM: Why Current Earnings Matter So Much
 date: 2017-08-22 10:28 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-c-in-can-slim-why-current-earnings-matter-so-much
 ---
 
 

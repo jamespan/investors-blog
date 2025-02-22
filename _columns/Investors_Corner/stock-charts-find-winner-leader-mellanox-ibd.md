@@ -4,6 +4,7 @@ title: >-
   Mellanox Showed Light Trading Action In Key Pullback
 date: 2012-12-28 16:41 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-charts-find-winner-leader-mellanox-ibd
 ---
 
 

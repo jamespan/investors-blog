@@ -4,6 +4,7 @@ title: >-
   Short Selling To Win: What Should An L-Shape Pattern Look Like?
 date: 2019-08-08 11:55 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/short-selling-to-win-what-should-an-l-shape-pattern-look-like
 ---
 
 

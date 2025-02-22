@@ -4,6 +4,7 @@ title: >-
   Learn How To Use And Benefit From IBD's RS Rating
 date: 2014-06-23 18:41 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-find-great-stocks-7
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Sharp Drop In Profit Growth Can Mark A Stock's Peak
 date: 2011-01-27 17:49 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sharp-drop-in-profit-growth-can-mark-a-stocks-peak
 ---
 
 

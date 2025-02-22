@@ -4,6 +4,7 @@ title: >-
   How To Trade Growth Stocks: Why A Follow-Through Sparked A Market Bottom 115 Years Ago
 date: 2019-10-26 11:15 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-a-follow-through-day-sparked-a-market-bottom-one-century-ago
 ---
 
 

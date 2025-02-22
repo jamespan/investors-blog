@@ -4,6 +4,7 @@ title: >-
   Psych 104: Follow The Market, Not Your Own Thinking
 date: 2011-02-10 17:23 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/psych-104-follow-the-market-not-your-own-thinking
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Know The Numbers Via An IBD Chart
 date: 2011-05-26 17:30 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-know-the-numbers-via-an-ibd-chart
 ---
 
 

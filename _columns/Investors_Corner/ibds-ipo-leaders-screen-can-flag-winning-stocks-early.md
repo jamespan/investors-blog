@@ -4,6 +4,7 @@ title: >-
   IBD's IPO Leaders Screen Can Flag Winning Stocks Early
 date: 2016-02-24 12:57 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibds-ipo-leaders-screen-can-flag-winning-stocks-early
 ---
 
 

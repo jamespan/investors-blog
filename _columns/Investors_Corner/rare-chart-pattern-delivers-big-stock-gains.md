@@ -4,6 +4,7 @@ title: >-
   High Tight Flag Can Deliver Skyscraper-Sized Gains
 date: 2013-01-22 17:10 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/rare-chart-pattern-delivers-big-stock-gains
 ---
 
 

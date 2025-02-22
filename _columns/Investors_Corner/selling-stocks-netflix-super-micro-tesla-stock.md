@@ -4,6 +4,7 @@ title: >-
   This Trading Rule Helped Investors Avoid Big Declines In Netflix, Super Micro, Tesla
 date: 2024-07-05 08:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/selling-stocks-netflix-super-micro-tesla-stock
 ---
 
 

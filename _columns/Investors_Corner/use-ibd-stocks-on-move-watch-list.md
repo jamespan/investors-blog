@@ -4,6 +4,7 @@ title: >-
   How To Trade: Always Work On Your Stock Watch List
 date: 2012-01-03 17:31 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/use-ibd-stocks-on-move-watch-list
 ---
 
 

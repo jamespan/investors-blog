@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Gain Skills With Chart Arcade
 date: 2011-06-03 18:17 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-gain-skills-with-chart-arcade
 ---
 
 

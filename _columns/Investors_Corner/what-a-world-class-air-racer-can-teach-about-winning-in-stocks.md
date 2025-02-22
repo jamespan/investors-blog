@@ -4,6 +4,7 @@ title: >-
   What A Red Bull Air Race Champion Can Teach About Winning In Stocks
 date: 2019-11-20 18:50 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-a-world-class-air-racer-can-teach-about-winning-in-stocks
 ---
 
 

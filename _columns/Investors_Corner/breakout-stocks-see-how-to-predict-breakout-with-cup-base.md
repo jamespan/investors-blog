@@ -4,6 +4,7 @@ title: >-
   Breakout Stocks: See How To Predict A Breakout With This VIP Chart Pattern
 date: 2022-11-03 08:00 -0700
 author: RACHEL FOX
+origin_url: https://www.investors.com/how-to-invest/investors-corner/breakout-stocks-see-how-to-predict-breakout-with-cup-base
 ---
 
 

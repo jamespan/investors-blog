@@ -4,6 +4,7 @@ title: >-
   Focus On Fundamentals: Why Cash Flow May Matter More Than Profits, Sales
 date: 2016-07-15 16:37 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-cash-flow-may-matter-more-than-profits-sales
 ---
 
 

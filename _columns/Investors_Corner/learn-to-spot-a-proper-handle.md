@@ -4,6 +4,7 @@ title: >-
   Learn How To Spot The Proper Handle In Any Base
 date: 2012-05-07 17:07 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-to-spot-a-proper-handle
 ---
 
 

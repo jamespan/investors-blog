@@ -4,6 +4,7 @@ title: >-
   Searching For A New Buy Point? Find Tests Of The 10-Week Moving Average
 date: 2018-02-14 22:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/searching-for-a-new-buy-point-watch-tests-of-the-10-week-moving-average
 ---
 
 

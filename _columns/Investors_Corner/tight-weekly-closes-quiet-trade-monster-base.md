@@ -4,6 +4,7 @@ title: >-
   Tight Weekly Closes, Quiet Trade Prefaced Monster Run
 date: 2015-09-28 17:48 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/tight-weekly-closes-quiet-trade-monster-base
 ---
 
 

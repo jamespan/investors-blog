@@ -4,6 +4,7 @@ title: >-
   Smart Chart Reading: High Tight Flag Can Deliver Skyscraper-Sized Gains
 date: 2019-10-30 11:15 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/smart-chart-reading-high-tight-flag-can-deliver-skyscraper-sized-gains
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Use This Chart Tool To Know When To Buy Or Sell Growth Stocks
 date: 2023-08-16 08:00 -0700
 author: RACHEL FOX
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-the-50-day-moving-average-when-to-buy-or-sell-growth-stocks
 ---
 
 

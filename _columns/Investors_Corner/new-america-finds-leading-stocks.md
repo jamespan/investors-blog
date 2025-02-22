@@ -4,6 +4,7 @@ title: >-
   New America: A Savvy Approach To Stock Research
 date: 2015-07-30 17:56 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/new-america-finds-leading-stocks
 ---
 
 

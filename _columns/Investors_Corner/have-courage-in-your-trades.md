@@ -4,6 +4,7 @@ title: >-
   Don't Let Fear Stop You From Trading Stocks
 date: 2015-03-19 18:00 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/have-courage-in-your-trades
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Invest In A Stock Market Correction: Focus On Relative Strength
 date: 2018-11-06 19:30 -0800
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-stock-market-correction
 ---
 
 

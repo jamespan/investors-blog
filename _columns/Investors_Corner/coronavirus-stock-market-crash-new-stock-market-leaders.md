@@ -4,6 +4,7 @@ title: >-
   Coronavirus Stock Market Crash: New Stock Market Leaders Will Share This Common Trait
 date: 2020-03-27 11:04 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/coronavirus-stock-market-crash-new-stock-market-leaders
 ---
 
 

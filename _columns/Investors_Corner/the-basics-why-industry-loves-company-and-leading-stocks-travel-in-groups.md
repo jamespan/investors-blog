@@ -4,6 +4,7 @@ title: >-
   The Basics: Why Industry Loves Company, And Leading Stocks Travel In Groups
 date: 2016-12-13 14:34 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-basics-why-industry-loves-company-and-leading-stocks-travel-in-groups
 ---
 
 

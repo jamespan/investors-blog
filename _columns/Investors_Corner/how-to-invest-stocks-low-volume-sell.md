@@ -4,6 +4,7 @@ title: >-
   After A Big Sell-Off, A Low-Volume Rebound Means It's Time To Sell Stocks
 date: 2019-09-25 12:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-stocks-low-volume-sell
 ---
 
 

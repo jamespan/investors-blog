@@ -4,6 +4,7 @@ title: >-
   How To Invest In Stocks: Minding The 'I' In CAN SLIM
 date: 2019-07-12 15:55 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-in-stocks-minding-i-in-can-slim
 ---
 
 

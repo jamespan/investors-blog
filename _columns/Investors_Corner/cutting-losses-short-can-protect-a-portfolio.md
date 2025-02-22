@@ -4,6 +4,7 @@ title: >-
   Cut Losses Short To Prevent Big Damage To A Portfolio
 date: 2013-04-22 14:21 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/cutting-losses-short-can-protect-a-portfolio
 ---
 
 

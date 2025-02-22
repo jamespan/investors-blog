@@ -4,6 +4,7 @@ title: >-
   When To Sell A Winning Stock? Spot A Big Breach Of The 200-Day Line
 date: 2022-01-05 08:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-sell-a-winning-stock-spot-a-breach-of-200-day-line
 ---
 
 

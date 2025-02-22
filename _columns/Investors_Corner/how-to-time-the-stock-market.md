@@ -4,6 +4,7 @@ title: >-
   How The Stock Market Bottomed In 1974 Amid Oil Crisis
 date: 2014-07-03 16:31 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-time-the-stock-market
 ---
 
 

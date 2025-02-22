@@ -4,6 +4,7 @@ title: >-
   How To Buy Stocks: Find Leading Stocks In Leading Industries
 date: 2025-01-07 08:00 -0800
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-stocks-find-leading-stocks-in-leading-industries
 ---
 
 

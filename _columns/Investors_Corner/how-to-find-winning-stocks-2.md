@@ -4,6 +4,7 @@ title: >-
   Find A Great Stock Like Spirit Airlines With IBD
 date: 2014-12-22 17:47 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-find-winning-stocks-2
 ---
 
 

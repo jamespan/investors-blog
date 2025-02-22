@@ -4,6 +4,7 @@ title: >-
   How To Buy A Stock
 date: 2012-01-18 16:04 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-stock-using-market-limit-buy-stop-orders
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   You Can Time The Market; Keep Alert For Breakouts
 date: 2012-12-07 17:06 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/chipotle-broke-out-on-follow-through
 ---
 
 

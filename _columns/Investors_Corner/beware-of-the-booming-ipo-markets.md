@@ -4,6 +4,7 @@ title: >-
   Boom In Stock Listings Could Signal Overheated Market
 date: 2013-12-18 15:55 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/beware-of-the-booming-ipo-markets
 ---
 
 

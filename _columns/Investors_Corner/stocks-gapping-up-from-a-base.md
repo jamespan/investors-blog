@@ -4,6 +4,7 @@ title: >-
   Gaps Can Be Frightening But Also Profitable
 date: 2015-04-15 18:12 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stocks-gapping-up-from-a-base
 ---
 
 

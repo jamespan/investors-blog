@@ -4,6 +4,7 @@ title: >-
   Stocks At New Highs: This Market Indicator Can Act Like A Canary In The Coal Mine
 date: 2019-08-26 15:12 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-indicator
 ---
 
 

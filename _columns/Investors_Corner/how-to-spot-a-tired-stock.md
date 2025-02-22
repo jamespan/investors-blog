@@ -4,6 +4,7 @@ title: >-
   How Relative Strength Line Can Help You Judge A Stock
 date: 2015-07-06 18:53 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-spot-a-tired-stock
 ---
 
 

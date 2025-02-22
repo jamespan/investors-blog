@@ -4,6 +4,7 @@ title: >-
   Here's How The Flat Base Helped Google Find A 20% Gain
 date: 2024-06-06 08:00 -0700
 author: MICHAEL LARKIN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/google-stock-heres-how-the-flat-base-helped-search-engine-play-power-to-a-20-gain
 ---
 
 

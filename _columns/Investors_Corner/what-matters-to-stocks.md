@@ -4,6 +4,7 @@ title: >-
   Wal-Mart Found Its Stock Stride In 1980s Market
 date: 2015-10-09 14:06 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-matters-to-stocks
 ---
 
 

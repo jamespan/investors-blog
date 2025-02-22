@@ -4,6 +4,7 @@ title: >-
   Spot Trends And Sell Signals With 200-Day Line
 date: 2014-10-28 17:54 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/spot-support-and-resistance-levels-with-200-day-line
 ---
 
 

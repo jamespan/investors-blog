@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Spot Ascending Base's Subtle Clues
 date: 2011-07-01 15:03 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-spot-ascending-bases-subtle-clues
 ---
 
 

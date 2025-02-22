@@ -4,6 +4,7 @@ title: >-
   How To Invest: Flat Base Sparks Exciting Returns
 date: 2013-01-17 17:56 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/tjx-stock-investment-flat-base-pattern
 ---
 
 

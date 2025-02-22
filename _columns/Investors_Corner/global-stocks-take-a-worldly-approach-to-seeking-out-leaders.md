@@ -4,6 +4,7 @@ title: >-
   Global Stocks: Take A Worldly Approach To Seeking Out Leaders
 date: 2016-02-17 13:24 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/global-stocks-take-a-worldly-approach-to-seeking-out-leaders
 ---
 
 

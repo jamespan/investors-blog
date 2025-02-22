@@ -4,6 +4,7 @@ title: >-
   How The RSI Momentum Tool Helped Confirm Microsoft's 2021 Top
 date: 2025-01-28 08:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/microsoft-stock-today-how-the-rsi-momentum-tool-helped-confirm-top
 ---
 
 

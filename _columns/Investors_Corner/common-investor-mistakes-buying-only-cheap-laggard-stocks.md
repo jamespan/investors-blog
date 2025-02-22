@@ -4,6 +4,7 @@ title: >-
   Common Investor Mistakes: Buying Only Cheap, Laggard Stocks
 date: 2016-05-23 16:23 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/common-investor-mistakes-buying-only-cheap-laggard-stocks
 ---
 
 

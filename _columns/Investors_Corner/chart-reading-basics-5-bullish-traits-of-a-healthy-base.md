@@ -4,6 +4,7 @@ title: >-
   Chart Reading Basics: 5 Bullish Traits Of A Healthy Base
 date: 2019-04-17 18:00 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/chart-reading-basics-5-bullish-traits-of-a-healthy-base
 ---
 
 

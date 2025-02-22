@@ -4,6 +4,7 @@ title: >-
   Watch For Stocks Showing Strength In Down Market
 date: 2014-10-17 18:36 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-the-market-is-down-look-for-stocks-that-rise
 ---
 
 

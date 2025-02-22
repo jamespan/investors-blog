@@ -4,6 +4,7 @@ title: >-
   An Upward-Wedging Handle Spells Trouble For Breakout
 date: 2013-10-31 15:07 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/look-for-shakeout-in-cup-with-handle
 ---
 
 

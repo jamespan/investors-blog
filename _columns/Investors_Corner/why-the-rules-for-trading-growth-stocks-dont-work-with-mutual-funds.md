@@ -4,6 +4,7 @@ title: >-
   Why The Rules For Trading Growth Stocks Don't Work With Mutual Funds
 date: 2016-11-29 10:01 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-the-rules-for-trading-growth-stocks-dont-work-with-mutual-funds
 ---
 
 

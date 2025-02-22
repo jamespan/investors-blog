@@ -4,6 +4,7 @@ title: >-
   Flat Base Can Offer Early Buy Point, As B&G Showed
 date: 2012-11-21 16:44 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/flat-bases-can-offer-early-buy-points
 ---
 
 

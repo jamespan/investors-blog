@@ -4,6 +4,7 @@ title: >-
   What Is Relative Strength?
 date: 2022-07-22 14:25 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-relative-strength
 ---
 
 

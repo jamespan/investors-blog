@@ -4,6 +4,7 @@ title: >-
   What Can Stocks Really Teach Teens? How The Economy And Companies Grow
 date: 2016-08-05 14:59 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-can-stocks-really-teach-teens-how-the-economy-and-companies-grow
 ---
 
 

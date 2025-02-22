@@ -4,6 +4,7 @@ title: >-
   Novo Nordisk Shows Saucer Bases Reward Patient Investors
 date: 2012-10-16 17:54 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/slowmoving-saucer-bases-can-bring-strong-returns
 ---
 
 

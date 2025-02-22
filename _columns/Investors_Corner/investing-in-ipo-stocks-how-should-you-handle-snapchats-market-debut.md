@@ -4,6 +4,7 @@ title: >-
   Investing In IPO Stocks: Know The Risk With Lyft, Snap, Other Tech Unicorns
 date: 2019-04-19 19:45 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investing-in-ipo-stocks-how-should-you-handle-snapchats-market-debut
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Make More Money By Trading ETFs? Use This Savvy Technique
 date: 2017-08-10 15:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-make-more-money-by-trading-etfs-use-this-savvy-technique
 ---
 
 

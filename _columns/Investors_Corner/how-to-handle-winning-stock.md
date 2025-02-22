@@ -4,6 +4,7 @@ title: >-
   Four Steps To Help Keep An Investor In A Great Stock
 date: 2015-01-27 17:10 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-handle-winning-stock
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Deckers: Many Sell Signals In '07
 date: 2011-09-06 17:34 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-deckers-many-sell-signals-in-07
 ---
 
 

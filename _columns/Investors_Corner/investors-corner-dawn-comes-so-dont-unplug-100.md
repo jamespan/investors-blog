@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Dawn Comes, So Don't Unplug 100%
 date: 2011-07-29 16:13 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-dawn-comes-so-dont-unplug-100
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Google Stock And A Strong Up/Down Volume Ratio: Why It's Key To Success For Stocks — Even IPOs
 date: 2019-10-16 16:45 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-a-strong-updown-volume-ratio-is-key-to-success-for-stocks-even-ipos
 ---
 
 

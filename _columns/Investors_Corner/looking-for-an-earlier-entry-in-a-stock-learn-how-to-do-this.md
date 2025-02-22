@@ -4,6 +4,7 @@ title: >-
   Looking For An Earlier Entry In Growth Stocks? Try This
 date: 2024-04-01 08:00 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/looking-for-an-earlier-entry-in-a-stock-learn-how-to-do-this
 ---
 
 

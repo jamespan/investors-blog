@@ -4,6 +4,7 @@ title: >-
   The Shakeout + 3: Jesse Livermore Was Big Fan Of This Chart Pattern
 date: 2016-03-21 15:40 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/jesse-livermore-was-a-big-fan-of-this-chart-pattern
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Floridian Builds A Solid Meetup
 date: 2011-06-02 19:03 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-floridian-builds-a-solid-meetup
 ---
 
 

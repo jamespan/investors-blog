@@ -4,6 +4,7 @@ title: >-
   Common And Deadly Investing Mistakes: Buys On The Way Down
 date: 2016-05-17 17:07 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/common-and-deadly-investing-mistakes-buys-on-the-way-down
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Research Can Be Key To Success For Tech Companies
 date: 2015-05-29 16:53 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/research-and-development-key-to-success-for-tech-stocks
 ---
 
 

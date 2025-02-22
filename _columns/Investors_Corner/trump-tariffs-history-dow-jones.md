@@ -4,6 +4,7 @@ title: >-
   Stock Market Reaction To Tariffs: Wall Street Has Seen This Before; The End Is Not Good
 date: 2019-12-02 16:25 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/trump-tariffs-history-dow-jones
 ---
 
 

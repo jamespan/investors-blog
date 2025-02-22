@@ -4,6 +4,7 @@ title: >-
   The Art Of Portfolio Management: Avoid The Mistake Of Averaging Down
 date: 2016-11-17 13:39 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-art-of-portfolio-management-avoid-the-mistake-of-averaging-down
 ---
 
 

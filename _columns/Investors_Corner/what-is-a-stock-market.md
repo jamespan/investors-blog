@@ -4,6 +4,7 @@ title: >-
   What Is A Stock Market?
 date: 2011-11-25 16:01 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-a-stock-market
 ---
 
 

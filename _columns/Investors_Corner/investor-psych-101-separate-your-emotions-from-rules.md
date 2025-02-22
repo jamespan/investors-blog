@@ -4,6 +4,7 @@ title: >-
   Investor Psych 101: Separate Your Emotions From Rules
 date: 2011-10-31 17:46 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investor-psych-101-separate-your-emotions-from-rules
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Why You Should Add The 10-Week-Line Pullback To Your Trading Playbook
 date: 2017-03-24 13:44 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-you-should-add-the-10-week-pullback-to-your-playbook
 ---
 
 

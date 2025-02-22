@@ -4,6 +4,7 @@ title: >-
   This Rare Base Pattern Launched Two Tesla Price Runs
 date: 2020-02-03 08:00 -0800
 author: RACHEL FOX
+origin_url: https://www.investors.com/how-to-invest/investors-corner/breakout-stocks-tesla-stock-rally-high-tight-flag-base
 ---
 
 

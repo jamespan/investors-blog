@@ -4,6 +4,7 @@ title: >-
   Win In Growth Stocks: Lessons From The 1957 Breakout of Aerospace Play Thiokol Chemical
 date: 2018-12-13 17:00 -0800
 author: WILLIAM J. O'NEIL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-stocks-breakout-thiokol-chemical
 ---
 
 

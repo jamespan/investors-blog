@@ -4,6 +4,7 @@ title: >-
   What Goes Down Must Come Up? Not With Stock Market
 date: 2013-07-18 18:03 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-that-peak-almost-never-recover
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Invest: Sticking To Rules Is True Challenge
 date: 2012-01-19 16:33 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-by-following-sound-rules
 ---
 
 

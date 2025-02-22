@@ -4,6 +4,7 @@ title: >-
   Did You Lock In Your Big GoPro Stock Gains In Time?
 date: 2015-06-23 16:05 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/do-not-let-double-digit-stock-gains-disappear
 ---
 
 

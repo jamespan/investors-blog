@@ -4,6 +4,7 @@ title: >-
   How To Invest In Growth Stocks: Know The Three-Waves Rule In Bear Market Declines
 date: 2019-05-14 13:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/know-the-three-waves-rule-in-bear-market-declines
 ---
 
 

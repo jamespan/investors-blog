@@ -4,6 +4,7 @@ title: >-
   Watch Out For Fast Recoveries To New Highs
 date: 2013-04-29 17:29 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/bad-stock-chart-action-for-investors
 ---
 
 

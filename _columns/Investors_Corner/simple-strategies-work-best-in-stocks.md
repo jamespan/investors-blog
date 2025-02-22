@@ -4,6 +4,7 @@ title: >-
   To Win In The Stock Market, Keep Your Strategy Simple
 date: 2012-06-20 15:19 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/simple-strategies-work-best-in-stocks
 ---
 
 

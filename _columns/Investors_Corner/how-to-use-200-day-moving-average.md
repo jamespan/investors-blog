@@ -4,6 +4,7 @@ title: >-
   200-Day Line Can Sometimes Offer Support
 date: 2015-05-18 17:29 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-use-200-day-moving-average
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Dr. Stock Guides You Right, Fast
 date: 2011-08-26 16:42 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-dr-stock-guides-you-right-fast
 ---
 
 

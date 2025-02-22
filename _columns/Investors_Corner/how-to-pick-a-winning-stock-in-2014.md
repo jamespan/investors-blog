@@ -4,6 +4,7 @@ title: >-
   Winners In 2013 Showed Fast Recent EPS Growth
 date: 2014-01-21 17:18 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-pick-a-winning-stock-in-2014
 ---
 
 

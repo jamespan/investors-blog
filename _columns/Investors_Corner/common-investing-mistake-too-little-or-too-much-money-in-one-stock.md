@@ -4,6 +4,7 @@ title: >-
   Common Investing Mistake: Too Little Or Too Much Money In One Stock
 date: 2016-05-18 13:49 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/common-investing-mistake-too-little-or-too-much-money-in-one-stock
 ---
 
 

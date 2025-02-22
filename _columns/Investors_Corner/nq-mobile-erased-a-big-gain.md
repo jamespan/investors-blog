@@ -4,6 +4,7 @@ title: >-
   Pride Goes Before A Fall: Lessons For Stock Traders
 date: 2015-08-26 17:51 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/nq-mobile-erased-a-big-gain
 ---
 
 

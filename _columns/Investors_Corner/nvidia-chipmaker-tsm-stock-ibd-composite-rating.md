@@ -4,6 +4,7 @@ title: >-
   How This IBD Rating Clued Investors To Nvidia Chipmaker's Prowess
 date: 2024-12-20 08:00 -0800
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/nvidia-chipmaker-tsm-stock-ibd-composite-rating
 ---
 
 

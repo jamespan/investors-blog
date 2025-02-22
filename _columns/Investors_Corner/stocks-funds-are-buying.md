@@ -4,6 +4,7 @@ title: >-
   How To Trade Growth Stocks: This IBD Rating Tells You What Stocks The Funds Are Buying Heavily
 date: 2023-02-22 08:00 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stocks-funds-are-buying
 ---
 
 

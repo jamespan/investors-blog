@@ -4,6 +4,7 @@ title: >-
   Sell Rules For Growth Stocks: Use A Climax Top To Convert Paper Gains Into Real Profits
 date: 2019-09-04 20:15 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sell-rules-using-climax-top-convert-paper-gains-real-profits
 ---
 
 

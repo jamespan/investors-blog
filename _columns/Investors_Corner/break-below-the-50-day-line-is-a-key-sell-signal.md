@@ -4,6 +4,7 @@ title: >-
   Sell Stocks That Pierce 50-Day Lines In Heavy Volume
 date: 2014-04-11 14:41 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/break-below-the-50-day-line-is-a-key-sell-signal
 ---
 
 

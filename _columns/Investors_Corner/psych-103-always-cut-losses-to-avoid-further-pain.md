@@ -4,6 +4,7 @@ title: >-
   Psych 103: Always Cut Losses To Avoid Further Pain
 date: 2011-02-09 17:08 -0800
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/psych-103-always-cut-losses-to-avoid-further-pain
 ---
 
 

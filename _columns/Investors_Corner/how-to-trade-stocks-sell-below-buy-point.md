@@ -4,6 +4,7 @@ title: >-
   How To Trade Growth Stocks: Why Biogen Fell Below Its Buy Point On Breakout Day But Still Won Big
 date: 2018-11-29 11:45 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-stocks-sell-below-buy-point
 ---
 
 

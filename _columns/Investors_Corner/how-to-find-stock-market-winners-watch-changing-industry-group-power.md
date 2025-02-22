@@ -4,6 +4,7 @@ title: >-
   How To Find Stock Market Winners: Watch For Changing Industry Group Power
 date: 2019-11-04 14:00 -0800
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-find-stock-market-winners-watch-changing-industry-group-power
 ---
 
 

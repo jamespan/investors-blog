@@ -4,6 +4,7 @@ title: >-
   Concentrating Money In Fewer Stocks Is Key To Success
 date: 2012-09-27 16:40 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/concentration-is-key-to-investment-success
 ---
 
 

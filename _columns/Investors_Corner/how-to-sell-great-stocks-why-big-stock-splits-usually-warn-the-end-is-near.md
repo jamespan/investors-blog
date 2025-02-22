@@ -4,6 +4,7 @@ title: >-
   How To Sell Great Stocks: Why Big Stock Splits Usually Warn The End Is Near
 date: 2016-10-11 15:08 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-sell-great-stocks-why-big-stock-splits-usually-warn-the-end-is-near
 ---
 
 

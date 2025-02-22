@@ -4,6 +4,7 @@ title: >-
   Savvy Investors Make Humility Part Of The Process
 date: 2013-02-27 16:16 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-reduce-investment-risk
 ---
 
 

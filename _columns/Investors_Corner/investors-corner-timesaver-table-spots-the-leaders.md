@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Timesaver Table Spots The Leaders
 date: 2011-09-02 16:58 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-timesaver-table-spots-the-leaders
 ---
 
 

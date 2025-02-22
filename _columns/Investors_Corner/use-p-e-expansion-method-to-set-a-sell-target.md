@@ -4,6 +4,7 @@ title: >-
   Use P-E Expansion Method To Set A Sell Target
 date: 2011-01-18 17:59 -0800
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/use-p-e-expansion-method-to-set-a-sell-target
 ---
 
 

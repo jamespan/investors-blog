@@ -4,6 +4,7 @@ title: >-
   In A Good Base, Gap-Ups In Price Signal Strong Demand
 date: 2015-10-02 16:23 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/gap-up-moves-are-positive
 ---
 
 

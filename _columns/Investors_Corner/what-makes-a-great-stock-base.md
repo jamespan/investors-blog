@@ -4,6 +4,7 @@ title: >-
   How To Invest: What Constitutes A Great Stock Base?
 date: 2015-02-18 17:47 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-makes-a-great-stock-base
 ---
 
 

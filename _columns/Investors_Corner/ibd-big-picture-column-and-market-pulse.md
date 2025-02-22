@@ -4,6 +4,7 @@ title: >-
   How To Use IBD's Big Picture Column And Market Pulse
 date: 2013-04-17 16:54 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-big-picture-column-and-market-pulse
 ---
 
 

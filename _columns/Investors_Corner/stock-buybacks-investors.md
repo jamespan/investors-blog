@@ -4,6 +4,7 @@ title: >-
   Stock Buybacks May Reveal Positive Clues About Firm
 date: 2019-09-11 16:00 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-buybacks-investors
 ---
 
 

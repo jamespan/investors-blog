@@ -4,6 +4,7 @@ title: >-
   How To Invest: Long Cup Bases Can Lead To Big Gains
 date: 2011-12-02 18:15 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-why-long-bases-work
 ---
 
 

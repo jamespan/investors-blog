@@ -4,6 +4,7 @@ title: >-
   Torching Conventional Wisdom: High-Priced Stocks Look Scarier Than They Are
 date: 2016-04-27 14:28 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/high-priced-stocks-look-scarier-than-they-are
 ---
 
 

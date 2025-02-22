@@ -4,6 +4,7 @@ title: >-
   From Apple To Zynga: How To Keep Up With Technology
 date: 2013-04-12 16:45 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-internet-technology-section
 ---
 
 

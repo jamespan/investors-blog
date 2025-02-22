@@ -4,6 +4,7 @@ title: >-
   Great Stocks Have This Key Element In Earnings
 date: 2024-01-03 08:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/great-stocks-have-key-element-in-earnings-a-in-can-slim
 ---
 
 

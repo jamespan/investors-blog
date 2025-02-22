@@ -4,6 +4,7 @@ title: >-
   Demand Peak Profit Margin When Evaluating A Stock
 date: 2013-06-14 16:41 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/well-managed-firms-show-healthy-profit-margin
 ---
 
 

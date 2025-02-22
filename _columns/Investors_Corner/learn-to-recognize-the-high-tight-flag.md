@@ -4,6 +4,7 @@ title: >-
   The High, Tight Flag: A Rare Base With Big Potential
 date: 2014-08-15 18:37 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-to-recognize-the-high-tight-flag
 ---
 
 

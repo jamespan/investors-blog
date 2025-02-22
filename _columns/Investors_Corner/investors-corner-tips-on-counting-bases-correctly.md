@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Tips On Counting Bases Correctly
 date: 2011-04-18 18:27 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-tips-on-counting-bases-correctly
 ---
 
 

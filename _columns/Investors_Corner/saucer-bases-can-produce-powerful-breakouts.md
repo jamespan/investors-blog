@@ -4,6 +4,7 @@ title: >-
   Saucer Bases Take Time, But Often Worth Waiting For
 date: 2015-09-18 16:33 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/saucer-bases-can-produce-powerful-breakouts
 ---
 
 

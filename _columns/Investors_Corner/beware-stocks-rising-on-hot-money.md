@@ -4,6 +4,7 @@ title: >-
   Stocks That Run Up Fast Could Give Unpleasant Ride
 date: 2012-11-12 17:24 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/beware-stocks-rising-on-hot-money
 ---
 
 

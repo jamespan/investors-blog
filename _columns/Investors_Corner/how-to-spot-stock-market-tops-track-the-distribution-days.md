@@ -4,6 +4,7 @@ title: >-
   How To Spot Major Stock Market Tops: Track The Distribution Days
 date: 2023-11-08 08:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-spot-stock-market-tops-track-the-distribution-days
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Don't Let Ego Paint You Into A Dead-Money Corner
 date: 2011-11-15 13:52 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dont-let-ego-paint-you-into-a-dead-money-corner
 ---
 
 

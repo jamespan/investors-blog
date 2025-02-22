@@ -4,6 +4,7 @@ title: >-
   How To Trade Stocks: Shaken Out? You Can Get Back In
 date: 2015-01-29 17:43 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/look-for-a-second-entry
 ---
 
 

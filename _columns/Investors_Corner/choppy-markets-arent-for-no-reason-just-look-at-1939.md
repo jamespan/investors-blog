@@ -4,6 +4,7 @@ title: >-
   Choppy Stock Markets Aren't For No Reason: Just Look At 1939
 date: 2016-02-02 13:49 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/choppy-markets-arent-for-no-reason-just-look-at-1939
 ---
 
 

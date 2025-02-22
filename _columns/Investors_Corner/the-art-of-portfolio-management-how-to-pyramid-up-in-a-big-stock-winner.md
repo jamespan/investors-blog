@@ -4,6 +4,7 @@ title: >-
   The Art Of Portfolio Management: How To Pyramid Up In A Big Stock Winner
 date: 2016-11-21 13:32 -0800
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-art-of-portfolio-management-how-to-pyramid-up-in-a-big-stock-winner
 ---
 
 

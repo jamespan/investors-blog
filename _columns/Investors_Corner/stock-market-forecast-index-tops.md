@@ -4,6 +4,7 @@ title: >-
   Stock Market Forecast: Is It Possible To Tell The Market's Top?
 date: 2025-02-06 08:00 -0800
 author: RACHEL FOX
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-forecast-index-tops
 ---
 
 

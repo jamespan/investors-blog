@@ -4,6 +4,7 @@ title: >-
   Use Pyramiding Into A Full Position To Reduce Risk
 date: 2014-03-21 14:28 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/pyramiding-involves-making-a-series-of-buys
 ---
 
 

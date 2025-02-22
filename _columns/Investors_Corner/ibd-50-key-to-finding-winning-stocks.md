@@ -4,6 +4,7 @@ title: >-
   Following The IBD 50, Minis Can Lead To Big Winners
 date: 2013-11-14 16:55 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-50-key-to-finding-winning-stocks
 ---
 
 

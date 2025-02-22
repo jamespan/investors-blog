@@ -4,6 +4,7 @@ title: >-
   Break Of Trend Line A Key Sell Signal For Big Winners
 date: 2014-09-17 17:47 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/quality-systems-gave-clear-sell-signal
 ---
 
 

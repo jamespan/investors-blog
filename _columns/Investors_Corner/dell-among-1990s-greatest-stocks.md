@@ -4,6 +4,7 @@ title: >-
   Why Dell Is One Of The Greatest Stocks Of The '90s
 date: 2015-10-08 16:52 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dell-among-1990s-greatest-stocks
 ---
 
 

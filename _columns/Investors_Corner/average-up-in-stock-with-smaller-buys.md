@@ -4,6 +4,7 @@ title: >-
   Keep Cost Basis In Check To Avoid Top-Heavy Position
 date: 2013-08-16 18:06 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/average-up-in-stock-with-smaller-buys
 ---
 
 

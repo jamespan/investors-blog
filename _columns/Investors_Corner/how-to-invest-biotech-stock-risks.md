@@ -4,6 +4,7 @@ title: >-
   How To Invest: Biotechs Can Make Huge Gains But Have Unique Risks
 date: 2024-10-11 08:00 -0700
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-biotech-stock-risks
 ---
 
 

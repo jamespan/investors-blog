@@ -4,6 +4,7 @@ title: >-
   Use P-E Expansion Formula To Set Stock Price Target
 date: 2024-07-09 08:00 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/pe-expansion-can-help-set-a-price-target
 ---
 
 

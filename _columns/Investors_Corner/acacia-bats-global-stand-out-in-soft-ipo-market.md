@@ -4,6 +4,7 @@ title: >-
   Acacia, Bats Global Stand Out In Soft IPO Market
 date: 2016-05-27 16:41 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/acacia-bats-global-stand-out-in-soft-ipo-market
 ---
 
 

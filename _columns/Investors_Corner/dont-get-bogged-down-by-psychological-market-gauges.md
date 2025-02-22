@@ -4,6 +4,7 @@ title: >-
   Don't Get Bogged Down By Psychological Market Gauges
 date: 2011-02-24 16:33 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dont-get-bogged-down-by-psychological-market-gauges
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Stick With Pure CAN SLIM; Don't Mix Strategies
 date: 2011-11-16 14:30 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stick-with-pure-can-slim-dont-mix-strategies
 ---
 
 

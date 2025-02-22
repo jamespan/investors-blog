@@ -4,6 +4,7 @@ title: >-
   Put-Call Volume Ratio Measures Fear Level In Market
 date: 2013-12-13 17:51 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/put-call-ratio-measures-market-fear
 ---
 
 

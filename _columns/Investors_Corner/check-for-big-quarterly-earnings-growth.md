@@ -4,6 +4,7 @@ title: >-
   Keep Focus On Big, Accelerating Quarterly EPS Growth
 date: 2014-02-05 17:09 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/check-for-big-quarterly-earnings-growth
 ---
 
 

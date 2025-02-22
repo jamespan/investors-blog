@@ -4,6 +4,7 @@ title: >-
   Sell-Stop Orders Can Help Keep Gains, Curb Losses
 date: 2013-03-12 16:41 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/using-sell-stop-orders
 ---
 
 

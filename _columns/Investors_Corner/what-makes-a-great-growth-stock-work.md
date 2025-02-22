@@ -4,6 +4,7 @@ title: >-
   Several Factors Are Important To Successful Breakouts
 date: 2013-07-29 18:09 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-makes-a-great-growth-stock-work
 ---
 
 

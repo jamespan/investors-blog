@@ -4,6 +4,7 @@ title: >-
   Witching Days On The Stock Market, A Spooky Yet Avoidable Trap
 date: 2024-09-12 16:46 -0700
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/witching-days-stock-market
 ---
 
 

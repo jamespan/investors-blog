@@ -4,6 +4,7 @@ title: >-
   Aggressive Defense: Auto Parts And Dollar Stores
 date: 2012-08-09 17:15 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/a-dual-take-on-defensive-strategies
 ---
 
 

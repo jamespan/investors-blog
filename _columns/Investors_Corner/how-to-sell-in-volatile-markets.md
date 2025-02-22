@@ -4,6 +4,7 @@ title: >-
   Aim For Profits 3 Times Bigger Than Losses
 date: 2014-10-01 18:10 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-sell-in-volatile-markets
 ---
 
 

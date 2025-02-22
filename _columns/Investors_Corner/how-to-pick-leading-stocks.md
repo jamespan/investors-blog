@@ -4,6 +4,7 @@ title: >-
   How To Invest: Focus On Market Leaders, Not Laggards
 date: 2015-01-09 18:11 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-pick-leading-stocks
 ---
 
 

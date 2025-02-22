@@ -4,6 +4,7 @@ title: >-
   When To Buy Growth Stocks: Some Leaders Can Still Run After Forming Late Stage Bases
 date: 2019-11-27 10:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/this-medical-hot-rod-peaked-in-2008-after-5-bases-can-it-lead-stocks-again
 ---
 
 

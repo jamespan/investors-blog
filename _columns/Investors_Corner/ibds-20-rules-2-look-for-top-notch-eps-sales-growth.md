@@ -4,6 +4,7 @@ title: >-
   IBD's 20 Rules: #2 Look For Top-Notch EPS, Sales Growth
 date: 2011-09-14 17:44 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibds-20-rules-2-look-for-top-notch-eps-sales-growth
 ---
 
 

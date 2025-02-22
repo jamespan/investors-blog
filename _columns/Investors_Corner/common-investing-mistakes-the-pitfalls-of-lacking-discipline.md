@@ -4,6 +4,7 @@ title: >-
   Common Investing Mistakes: The Pitfalls Of Lacking Discipline
 date: 2016-06-01 13:12 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/common-investing-mistakes-the-pitfalls-of-lacking-discipline
 ---
 
 

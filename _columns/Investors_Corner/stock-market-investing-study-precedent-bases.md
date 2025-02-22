@@ -4,6 +4,7 @@ title: >-
   Learn To Invest: Build A Base List To Study Winners
 date: 2013-01-28 17:48 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-investing-study-precedent-bases
 ---
 
 

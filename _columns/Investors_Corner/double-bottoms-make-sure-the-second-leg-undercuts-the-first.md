@@ -4,6 +4,7 @@ title: >-
   Spotting Top Stocks: In A Double Bottom Base, The Second Leg Undercuts The First
 date: 2019-04-29 11:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/double-bottoms-make-sure-the-second-leg-undercuts-the-first
 ---
 
 

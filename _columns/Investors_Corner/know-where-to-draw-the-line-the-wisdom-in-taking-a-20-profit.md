@@ -4,6 +4,7 @@ title: >-
   Know Where To Draw The Line: The Wisdom In Taking A 20%-25% Profit
 date: 2016-09-28 12:46 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/know-where-to-draw-the-line-the-wisdom-in-taking-a-20-profit
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   'Stocks Just Out Of Bases' Highlights Breakouts
 date: 2012-03-15 15:34 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/watch-stocks-moving-just-out-of-bases
 ---
 
 

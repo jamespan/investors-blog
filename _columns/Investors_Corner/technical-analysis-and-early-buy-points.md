@@ -4,6 +4,7 @@ title: >-
   Early Bird Gets Worm With Shakeout Plus Three Pattern
 date: 2015-04-16 15:52 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/technical-analysis-and-early-buy-points
 ---
 
 

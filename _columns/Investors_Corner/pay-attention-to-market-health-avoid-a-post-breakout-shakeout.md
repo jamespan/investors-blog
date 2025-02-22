@@ -4,6 +4,7 @@ title: >-
   How To Trade Growth Stocks: How Stock Market Health Causes A Post-Breakout Shakeout
 date: 2018-08-21 13:09 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/pay-attention-to-market-health-avoid-a-post-breakout-shakeout
 ---
 
 

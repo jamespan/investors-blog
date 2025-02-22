@@ -4,6 +4,7 @@ title: >-
   Expectation Breakers: What To Do When the Stock Market And Growth Stocks Throw You A Curveball
 date: 2025-01-13 08:00 -0800
 author: MIKE WEBSTER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-expectation-breakers-what-to-do-when-stock-market-throws-you-curveball
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   The Market's Just Not Into You, So Don't Average Down
 date: 2012-06-28 17:02 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-averaging-down-in-stocks-is-bad-strategy
 ---
 
 

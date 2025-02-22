@@ -4,6 +4,7 @@ title: >-
   How To Invest: 3-Month Relative Strength Rating Reacts Faster To Stock Moves
 date: 2024-06-14 08:28 -0700
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-in-stocks-relative-strength
 ---
 
 

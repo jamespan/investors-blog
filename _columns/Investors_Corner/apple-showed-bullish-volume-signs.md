@@ -4,6 +4,7 @@ title: >-
   Apple Stock Showed Bullish Volume Signs Before Rally
 date: 2015-03-02 17:20 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/apple-showed-bullish-volume-signs
 ---
 
 

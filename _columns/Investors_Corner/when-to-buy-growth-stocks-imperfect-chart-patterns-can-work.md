@@ -4,6 +4,7 @@ title: >-
   When To Buy Growth Stocks: Why This Chart Pattern Wasn't Perfect But Worked
 date: 2018-11-28 12:15 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-buy-growth-stocks-imperfect-chart-patterns-can-work
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Tips On Holding A Big Winner
 date: 2011-07-25 18:07 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-tips-on-holding-a-big-winner
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Late 1940s Market Slump Still Drove Big Winners, Set Up Postwar Bull
 date: 2016-02-03 16:02 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/late-1940s-slump-set-stage-for-postwar-bull-market
 ---
 
 

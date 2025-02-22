@@ -4,6 +4,7 @@ title: >-
   Sailing the Maelstrom: Tighten Rules In Dicey Markets
 date: 2012-06-26 17:33 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/prudent-investors-tighten-rules-in-a-choppy-market
 ---
 
 

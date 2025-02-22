@@ -4,6 +4,7 @@ title: >-
   Which Industry Groups Could Get Trump Bump From Rule Delay?
 date: 2017-02-16 19:45 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/which-industry-groups-could-get-trump-bump-from-dol-rule-delay
 ---
 
 

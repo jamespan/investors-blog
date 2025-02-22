@@ -4,6 +4,7 @@ title: >-
   Overtrading Stocks Can Cost Investors Potential Gains
 date: 2015-01-26 17:24 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/overtrading-stocks-can-cost-investors-gains
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Eye Best Mutual Funds Like Magellan For Great Stocks
 date: 2014-11-14 17:50 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/top-mutual-funds-offer-investment-clues
 ---
 
 

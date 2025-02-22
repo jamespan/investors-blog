@@ -4,6 +4,7 @@ title: >-
   Keep Calm And Get Ready: Here's What To Do During A Stock Market Correction
 date: 2024-04-17 08:00 -0700
 author: MICHAEL LARKIN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-correction-what-to-do-to-protect-portfolio
 ---
 
 

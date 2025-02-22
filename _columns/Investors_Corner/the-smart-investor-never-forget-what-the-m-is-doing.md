@@ -4,6 +4,7 @@ title: >-
   The Smart Investor: Never Forget What The 'M' Is Doing
 date: 2016-10-10 11:52 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-smart-investor-never-forget-what-the-m-is-doing
 ---
 
 

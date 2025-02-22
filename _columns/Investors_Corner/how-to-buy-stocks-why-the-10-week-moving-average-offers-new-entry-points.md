@@ -4,6 +4,7 @@ title: >-
   How To Buy Growth Stocks: Why The 10-Week Moving Average Offers New Entry Points
 date: 2023-08-07 08:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-stocks-why-the-10-week-moving-average-offers-new-entry-points
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Focus On A Stock's Price And Volume, Not Analysts
 date: 2013-08-21 17:22 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/pay-no-mind-to-analysts-ratings
 ---
 
 

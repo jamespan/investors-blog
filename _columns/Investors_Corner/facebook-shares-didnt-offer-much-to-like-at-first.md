@@ -4,6 +4,7 @@ title: >-
   Facebook Shares Didn't Offer Much To Like, At First
 date: 2014-06-06 17:20 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/facebook-shares-didnt-offer-much-to-like-at-first
 ---
 
 

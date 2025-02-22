@@ -4,6 +4,7 @@ title: >-
   Investors Should Treat Excessive Stock Splits Warily
 date: 2011-01-13 17:31 -0800
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-should-treat-excessive-stock-splits-warily
 ---
 
 

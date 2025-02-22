@@ -4,6 +4,7 @@ title: >-
   Korean War Tripped Up Investors; How The Stock Market Recovered
 date: 2016-03-31 15:33 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/korean-war-tripped-up-investors-but-market-recovered
 ---
 
 

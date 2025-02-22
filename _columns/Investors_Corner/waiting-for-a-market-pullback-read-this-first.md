@@ -4,6 +4,7 @@ title: >-
   Waiting For A Big Stock Market Pullback? Read This First
 date: 2017-06-02 12:15 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/waiting-for-a-market-pullback-read-this-first
 ---
 
 

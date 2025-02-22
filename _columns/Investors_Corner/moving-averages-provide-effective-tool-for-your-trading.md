@@ -4,6 +4,7 @@ title: >-
   Buy, Hold, Sell: How This Moving Average Improves Your Trading Every Time
 date: 2024-06-05 08:00 -0700
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/moving-averages-provide-effective-tool-for-your-trading
 ---
 
 

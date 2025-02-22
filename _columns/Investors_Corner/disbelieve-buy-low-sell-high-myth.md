@@ -4,6 +4,7 @@ title: >-
   How To Invest: Buy High, Not Low, Then Sell Higher
 date: 2012-03-22 16:59 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/disbelieve-buy-low-sell-high-myth
 ---
 
 

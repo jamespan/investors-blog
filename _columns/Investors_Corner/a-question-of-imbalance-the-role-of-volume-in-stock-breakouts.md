@@ -4,6 +4,7 @@ title: >-
   How To Trade Growth Stocks: The Role Of Volume In Big Stock Breakouts
 date: 2018-06-21 20:00 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/a-question-of-imbalance-the-role-of-volume-in-stock-breakouts
 ---
 
 

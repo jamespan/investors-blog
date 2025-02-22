@@ -4,6 +4,7 @@ title: >-
   How To Trade: Hold Time For Winners Depends On Market
 date: 2013-03-19 17:14 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/holding-for-big-stock-market-winners
 ---
 
 

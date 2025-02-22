@@ -4,6 +4,7 @@ title: >-
   Buy When There's Blood In The Streets? Well, Not So Fast
 date: 2013-08-27 17:04 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-contrarian-investors-go-against-the-crowd
 ---
 
 

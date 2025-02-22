@@ -4,6 +4,7 @@ title: >-
   How To Invest: Don't Mix CAN SLIM With Other Systems
 date: 2014-12-10 18:09 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/do-not-mix-investment-systems
 ---
 
 

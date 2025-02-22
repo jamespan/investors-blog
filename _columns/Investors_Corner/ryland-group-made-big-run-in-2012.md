@@ -4,6 +4,7 @@ title: >-
   How To Trade: Learn From Ryland, A Turnaround Winner
 date: 2012-12-24 17:23 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ryland-group-made-big-run-in-2012
 ---
 
 

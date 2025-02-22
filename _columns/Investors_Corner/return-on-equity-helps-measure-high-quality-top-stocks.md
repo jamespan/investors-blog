@@ -4,6 +4,7 @@ title: >-
   Use Return On Equity As Gauge For Profit Efficiency
 date: 2012-04-09 18:15 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/return-on-equity-helps-measure-high-quality-top-stocks
 ---
 
 

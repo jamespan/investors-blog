@@ -4,6 +4,7 @@ title: >-
   How To Analyze A Stock's Annual Earnings With Stock Checkup
 date: 2016-01-29 13:38 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-analyze-a-stocks-annual-earnings-with-stock-checkup
 ---
 
 

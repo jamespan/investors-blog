@@ -4,6 +4,7 @@ title: >-
   Watch Out For Too Many Stock Splits
 date: 2014-04-24 15:47 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/too-many-stock-splits-can-be-sell-signal
 ---
 
 

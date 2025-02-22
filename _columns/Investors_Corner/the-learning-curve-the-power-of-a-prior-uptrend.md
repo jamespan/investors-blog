@@ -4,6 +4,7 @@ title: >-
   The Learning Curve: The Power Of A Prior Uptrend
 date: 2016-07-08 14:50 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-learning-curve-the-power-of-a-prior-uptrend
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Buybacks Might Be Sign Of Caution, Not Confidence
 date: 2012-02-24 16:16 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-buybacks-usually-good-sign
 ---
 
 

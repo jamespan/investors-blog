@@ -4,6 +4,7 @@ title: >-
   How To Buy Stocks: IBD Rating Reveals What Stocks Big Money Funds Are Buying
 date: 2024-10-16 08:00 -0700
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-stocks-ibd-rating-reveals-what-stocks-big-money-funds-are-buying
 ---
 
 

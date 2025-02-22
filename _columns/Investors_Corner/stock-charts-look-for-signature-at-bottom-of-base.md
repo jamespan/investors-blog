@@ -4,6 +4,7 @@ title: >-
   Stock Charts: Look For Signature At Bottom Of Base
 date: 2015-09-29 16:49 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-charts-look-for-signature-at-bottom-of-base
 ---
 
 

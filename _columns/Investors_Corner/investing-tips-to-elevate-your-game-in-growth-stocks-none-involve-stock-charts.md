@@ -4,6 +4,7 @@ title: >-
   Investing Tips To Elevate Your Game In Growth Stocks; None Involves Stock Charts
 date: 2021-12-02 12:30 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investing-tips-to-elevate-your-game-in-growth-stocks-none-involve-stock-charts
 ---
 
 

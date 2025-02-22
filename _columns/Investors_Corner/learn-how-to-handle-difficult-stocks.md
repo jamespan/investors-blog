@@ -4,6 +4,7 @@ title: >-
   Learning How To Play Hard Cases Is Crucial To Success
 date: 2012-12-21 17:11 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-how-to-handle-difficult-stocks
 ---
 
 

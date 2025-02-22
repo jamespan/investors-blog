@@ -4,6 +4,7 @@ title: >-
   How To Select Growth Stocks: Look For Leaders That Do Not Have A Growing Debt Ratio
 date: 2019-08-16 14:00 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-debt-ratio
 ---
 
 

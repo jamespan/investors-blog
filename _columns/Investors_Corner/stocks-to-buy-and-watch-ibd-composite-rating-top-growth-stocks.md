@@ -4,6 +4,7 @@ title: >-
   Stocks To Buy And Watch: Use The IBD Composite Rating To Find Stock Market's Best Stocks
 date: 2023-10-03 08:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stocks-to-buy-and-watch-ibd-composite-rating-top-growth-stocks
 ---
 
 

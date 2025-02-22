@@ -4,6 +4,7 @@ title: >-
   Biggest One-Day Point Loss Is Sell Signal For Growth Stocks
 date: 2015-06-15 18:03 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/biggest-oneday-point-drop-a-red-flag
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Common Investor Mistakes: Treating Your Stocks Like Pets
 date: 2016-05-24 17:46 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/common-investor-mistakes-treating-your-stocks-like-pets
 ---
 
 

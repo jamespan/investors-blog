@@ -4,6 +4,7 @@ title: >-
   Strong Stocks That Falter Can Be Bought Back Later
 date: 2013-08-08 16:44 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stocks-can-be-bought-back-after-a-failure
 ---
 
 

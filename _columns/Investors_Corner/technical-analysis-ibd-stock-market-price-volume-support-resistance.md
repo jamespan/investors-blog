@@ -4,6 +4,7 @@ title: >-
   What Is Technical Analysis? Price And Volume Patterns In The Stock Market
 date: 2012-01-24 17:27 -0800
 author: 
+origin_url: https://www.investors.com/how-to-invest/investors-corner/technical-analysis-ibd-stock-market-price-volume-support-resistance
 ---
 
 

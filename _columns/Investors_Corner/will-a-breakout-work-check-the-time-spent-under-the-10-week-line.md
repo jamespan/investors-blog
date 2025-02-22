@@ -4,6 +4,7 @@ title: >-
   Will A Breakout Work? Check The Time Spent Under The 10-Week Line
 date: 2017-01-27 14:00 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/will-a-breakout-work-check-the-time-spent-under-the-10-week-line
 ---
 
 

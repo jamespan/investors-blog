@@ -4,6 +4,7 @@ title: >-
   S Factor In CAN SLIM Can Keep Investor In Sync
 date: 2013-09-10 14:50 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/s-factor-in-can-slim
 ---
 
 

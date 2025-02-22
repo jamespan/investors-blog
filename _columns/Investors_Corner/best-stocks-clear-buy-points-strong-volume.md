@@ -4,6 +4,7 @@ title: >-
   High Volume On Breakout Key To Biggest Stock Winners
 date: 2013-02-12 17:23 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/best-stocks-clear-buy-points-strong-volume
 ---
 
 

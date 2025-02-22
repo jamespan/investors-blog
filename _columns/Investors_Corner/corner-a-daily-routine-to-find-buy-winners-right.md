@@ -4,6 +4,7 @@ title: >-
   Corner: A Daily Routine To Find, Buy Winners Right
 date: 2011-03-02 17:28 -0800
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/corner-a-daily-routine-to-find-buy-winners-right
 ---
 
 

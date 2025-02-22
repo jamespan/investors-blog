@@ -4,6 +4,7 @@ title: >-
   When To Buy IPO Stocks: Why A Mastercard Stock Breakout In 2006 Was Picture Perfect
 date: 2019-12-11 12:59 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/mastercard-2006-ipo-was-smashing-success
 ---
 
 

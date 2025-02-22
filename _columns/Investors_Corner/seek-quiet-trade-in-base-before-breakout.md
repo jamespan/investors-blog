@@ -4,6 +4,7 @@ title: >-
   Quiet Trade In A Base Could Lead To Powerful Breakout
 date: 2015-11-18 16:43 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/seek-quiet-trade-in-base-before-breakout
 ---
 
 

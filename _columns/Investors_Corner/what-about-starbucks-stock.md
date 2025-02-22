@@ -4,6 +4,7 @@ title: >-
   Starbucks' 7-Month Run Had No Spills Under 50-Day
 date: 2015-12-21 17:59 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-about-starbucks-stock
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   CBRE Group: A Quick Study In New Highs In Weak Trade
 date: 2014-09-19 18:19 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/new-high-in-weak-trade-is-a-sell-signal
 ---
 
 

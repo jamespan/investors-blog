@@ -4,6 +4,7 @@ title: >-
   How To Invest: Why Top-Notch Earnings Growth Is Key
 date: 2013-06-11 17:51 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/earnings-growth-reveals-leaders
 ---
 
 

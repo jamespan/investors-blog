@@ -4,6 +4,7 @@ title: >-
   Profiting In Choppy Markets Requires Adjusting Strategy
 date: 2014-04-07 17:07 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/profiting-in-choppy-markets-requires-adjusting-strategy
 ---
 
 

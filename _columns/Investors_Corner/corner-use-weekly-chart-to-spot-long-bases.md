@@ -4,6 +4,7 @@ title: >-
   Corner: Use Weekly Chart To Spot Long Bases
 date: 2011-03-16 17:26 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/corner-use-weekly-chart-to-spot-long-bases
 ---
 
 

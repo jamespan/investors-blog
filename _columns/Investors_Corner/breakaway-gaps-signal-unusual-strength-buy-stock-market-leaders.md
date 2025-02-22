@@ -4,6 +4,7 @@ title: >-
   How To Use Powerful Breakaway Gaps To Buy Potentially Big Stock Market Leaders
 date: 2024-12-09 08:00 -0800
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/breakaway-gaps-signal-unusual-strength-buy-stock-market-leaders
 ---
 
 

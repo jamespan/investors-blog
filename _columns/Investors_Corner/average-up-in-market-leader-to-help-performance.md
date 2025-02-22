@@ -4,6 +4,7 @@ title: >-
   Outperform Market By Adding To Winning Positions
 date: 2014-03-27 17:38 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/average-up-in-market-leader-to-help-performance
 ---
 
 

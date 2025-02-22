@@ -4,6 +4,7 @@ title: >-
   Big-Game Hunting: Use Stock Checkup To Track Funds
 date: 2012-08-01 17:00 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/use-the-stock-checkup-to-track-fund-behavior
 ---
 
 

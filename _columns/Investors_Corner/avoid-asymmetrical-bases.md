@@ -4,6 +4,7 @@ title: >-
   Beware Asymmetrical Bases: They're Often Money-Losers
 date: 2013-07-10 16:43 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/avoid-asymmetrical-bases
 ---
 
 

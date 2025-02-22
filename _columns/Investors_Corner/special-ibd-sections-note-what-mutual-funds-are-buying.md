@@ -4,6 +4,7 @@ title: >-
   Follow The Big Guns With Mutual Fund Special Reports
 date: 2012-02-17 18:03 -0800
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/special-ibd-sections-note-what-mutual-funds-are-buying
 ---
 
 

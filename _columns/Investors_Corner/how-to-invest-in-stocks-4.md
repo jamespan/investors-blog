@@ -4,6 +4,7 @@ title: >-
   Don't Stray From Any CAN SLIM Investing Rules
 date: 2013-08-12 17:13 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-in-stocks-4
 ---
 
 

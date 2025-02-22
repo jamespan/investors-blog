@@ -4,6 +4,7 @@ title: >-
   How To Invest: Plotting Buy Points In Maybe Bases
 date: 2013-07-02 19:01 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-to-analyze-undefined-bases
 ---
 
 

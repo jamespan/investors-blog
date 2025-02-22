@@ -4,6 +4,7 @@ title: >-
   Sell Stocks When They Hit New Highs? Sometimes Charts Say It May Be The Right Choice
 date: 2022-10-06 14:34 -0700
 author: MICHAEL MOLINSKI
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sell-stocks-when-they-hit-new-highs-these-charts-say-it-may-be-the-right-choice
 ---
 
 

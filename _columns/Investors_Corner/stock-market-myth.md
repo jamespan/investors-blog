@@ -4,6 +4,7 @@ title: >-
   The Stock Market Myth That Too Many Investors Believe: Why P-E Ratios Matter Little For Growth Stocks
 date: 2018-08-27 09:15 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-myth
 ---
 
 

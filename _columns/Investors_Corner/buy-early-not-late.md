@@ -4,6 +4,7 @@ title: >-
   Be Wary Of Buying Stocks In Late-Stage Bases, Get Ready To Sell
 date: 2015-06-16 17:58 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/buy-early-not-late
 ---
 
 

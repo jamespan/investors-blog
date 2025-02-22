@@ -4,6 +4,7 @@ title: >-
   GE Stock And How To Trade: Why Past Big Winners Rarely Lead The Next Bull Market Cycle
 date: 2019-10-08 14:30 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/bull-market-leaders
 ---
 
 

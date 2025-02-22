@@ -4,6 +4,7 @@ title: >-
   Gauging Group Strength Is A Key Part Of Successful Stock Selection
 date: 2016-03-01 14:36 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/gauging-group-strength-key-part-of-successful-stock-selection
 ---
 
 

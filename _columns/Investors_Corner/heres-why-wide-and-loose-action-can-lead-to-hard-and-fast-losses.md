@@ -4,6 +4,7 @@ title: >-
   Here's Why Wide And Loose Action Can Lead To Hard And Fast Losses
 date: 2024-04-09 08:00 -0700
 author: MICHAEL LARKIN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/heres-why-wide-and-loose-action-can-lead-to-hard-and-fast-losses
 ---
 
 

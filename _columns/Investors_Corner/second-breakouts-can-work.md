@@ -4,6 +4,7 @@ title: >-
   If A Stock's First Breakout Doesn't Work, Try Again
 date: 2015-04-10 17:31 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/second-breakouts-can-work
 ---
 
 

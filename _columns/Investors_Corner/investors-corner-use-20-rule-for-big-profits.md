@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Use 20% Rule For Big Profits
 date: 2011-03-31 15:55 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-use-20-rule-for-big-profits
 ---
 
 

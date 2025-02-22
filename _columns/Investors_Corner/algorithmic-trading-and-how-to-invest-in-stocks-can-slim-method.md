@@ -4,6 +4,7 @@ title: >-
   Can The CAN SLIM Investing Method Succeed In Algorithmic Trading?
 date: 2020-06-29 17:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/algorithmic-trading-and-how-to-invest-in-stocks-can-slim-method
 ---
 
 

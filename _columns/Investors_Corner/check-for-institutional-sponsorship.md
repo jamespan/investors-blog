@@ -4,6 +4,7 @@ title: >-
   Smart Investing: Check For Institutional Sponsorship
 date: 2015-01-12 18:13 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/check-for-institutional-sponsorship
 ---
 
 

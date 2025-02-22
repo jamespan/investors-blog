@@ -4,6 +4,7 @@ title: >-
   Use The Relative Strength Line To Qualify A Breakout
 date: 2014-10-29 18:40 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/understanding-the-relative-strength-line
 ---
 
 

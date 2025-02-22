@@ -4,6 +4,7 @@ title: >-
   Why Management Helps Some Market Winners Thrive
 date: 2013-08-09 16:44 -0700
 author: 
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-in-great-stocks
 ---
 
 

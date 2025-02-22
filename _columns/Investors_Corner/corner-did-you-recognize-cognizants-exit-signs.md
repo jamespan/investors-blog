@@ -4,6 +4,7 @@ title: >-
   Corner: Did You Recognize Cognizant's Exit Signs?
 date: 2011-10-19 17:16 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/corner-did-you-recognize-cognizants-exit-signs
 ---
 
 

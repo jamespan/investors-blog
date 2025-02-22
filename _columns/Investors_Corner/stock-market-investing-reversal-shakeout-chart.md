@@ -4,6 +4,7 @@ title: >-
   Art Of The Chart: Look For Key Reversals, Shakeouts
 date: 2013-02-01 16:45 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-investing-reversal-shakeout-chart
 ---
 
 

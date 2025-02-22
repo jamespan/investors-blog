@@ -4,6 +4,7 @@ title: >-
   How To Use The EPS Rating To Evaluate Stocks
 date: 2018-10-18 12:18 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-use-the-eps-rating
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Knowing The Market's Present State Beats Guessing
 date: 2012-03-14 16:41 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stay-aware-of-stock-markets-current-condition
 ---
 
 

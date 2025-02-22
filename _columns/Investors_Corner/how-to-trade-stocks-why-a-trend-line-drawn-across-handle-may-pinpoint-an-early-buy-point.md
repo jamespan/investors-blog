@@ -4,6 +4,7 @@ title: >-
   How To Trade Top Stocks: Why A Trend Line May Pinpoint An Early Buy Point
 date: 2019-04-23 08:15 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-stocks-why-a-trend-line-drawn-across-handle-may-pinpoint-an-early-buy-point
 ---
 
 

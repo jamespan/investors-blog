@@ -4,6 +4,7 @@ title: >-
   Note To Short-Sellers: Short Only Big Market Winners
 date: 2016-01-11 18:19 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stratasys-eventually-paid-off-for-shortsellers-2
 ---
 
 

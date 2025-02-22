@@ -4,6 +4,7 @@ title: >-
   Breakaway Gaps By Stocks Can Be Scary But Profitable
 date: 2015-12-03 17:58 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/breakaway-gaps-signal-strength
 ---
 
 

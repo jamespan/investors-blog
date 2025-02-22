@@ -4,6 +4,7 @@ title: >-
   Get Ahead Of Stock Market Tops With This Historic Signal
 date: 2024-08-16 08:41 -0700
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-top-signals-distribution-days
 ---
 
 

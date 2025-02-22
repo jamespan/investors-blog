@@ -4,6 +4,7 @@ title: >-
   Sina Told Investors When To Sell If They Would Listen
 date: 2015-11-05 16:52 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-you-should-have-sold-that-stock
 ---
 
 

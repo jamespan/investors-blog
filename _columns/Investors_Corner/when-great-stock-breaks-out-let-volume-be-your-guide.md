@@ -4,6 +4,7 @@ title: >-
   How To Invest: Seek Above-Average Trade At Key Points
 date: 2012-07-18 17:34 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-great-stock-breaks-out-let-volume-be-your-guide
 ---
 
 

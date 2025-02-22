@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Not All Flat Bases Are The Same
 date: 2011-09-12 17:54 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-not-all-flat-bases-are-the-same
 ---
 
 

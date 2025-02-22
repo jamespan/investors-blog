@@ -4,6 +4,7 @@ title: >-
   Top Stock Trading Rules: The Eight-Week Hold Rule And Its Wrinkles
 date: 2022-06-16 08:00 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/top-stock-trading-rules-the-eight-week-hold-rule-and-its-wrinkles
 ---
 
 

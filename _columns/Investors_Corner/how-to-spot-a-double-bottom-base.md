@@ -4,6 +4,7 @@ title: >-
   Here's How Facebook, Alexion Teach Lessons In Tenacity
 date: 2014-08-07 18:02 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-spot-a-double-bottom-base
 ---
 
 

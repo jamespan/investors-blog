@@ -4,6 +4,7 @@ title: >-
   In Praise Of Great CEOs: A Requiem For Aubrey McClendon And Andy Grove
 date: 2016-03-28 13:21 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/in-praise-of-great-ceos-a-requiem-for-aubrey-mcclendon-andy-grove
 ---
 
 

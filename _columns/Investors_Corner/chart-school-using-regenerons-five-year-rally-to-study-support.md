@@ -4,6 +4,7 @@ title: >-
   How To Trade Growth Stocks: The Easy Way To Check And Confirm Institutional Support
 date: 2019-08-30 06:30 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/chart-school-using-regenerons-five-year-rally-to-study-support
 ---
 
 

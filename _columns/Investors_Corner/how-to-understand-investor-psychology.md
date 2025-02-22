@@ -4,6 +4,7 @@ title: >-
   How Psychology Affects Trading In Some Sectors
 date: 2014-05-19 18:35 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-understand-investor-psychology
 ---
 
 

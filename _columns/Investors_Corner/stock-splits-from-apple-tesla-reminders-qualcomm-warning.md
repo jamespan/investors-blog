@@ -4,6 +4,7 @@ title: >-
   Stock Splits From Apple, Tesla: Reminders Of Qualcomm Warning
 date: 2021-03-31 08:00 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-splits-from-apple-tesla-reminders-qualcomm-warning
 ---
 
 

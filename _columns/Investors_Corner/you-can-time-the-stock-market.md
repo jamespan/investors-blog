@@ -4,6 +4,7 @@ title: >-
   IBD's Take On Timing The Market: Part One Of A Series
 date: 2012-12-06 17:30 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/you-can-time-the-stock-market
 ---
 
 

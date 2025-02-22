@@ -4,6 +4,7 @@ title: >-
   Criteo Gave Clear Signals On When To Take Profits
 date: 2015-10-30 16:59 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-sell-stock-and-take-profits
 ---
 
 

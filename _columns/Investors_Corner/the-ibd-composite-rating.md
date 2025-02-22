@@ -4,6 +4,7 @@ title: >-
   How To Research Growth Stocks: Using The Composite Rating As a Guide
 date: 2022-11-09 08:00 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-ibd-composite-rating
 ---
 
 

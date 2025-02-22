@@ -4,6 +4,7 @@ title: >-
   Rise In Distribution Days Points To Market Correction
 date: 2015-06-24 17:19 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-should-worry-when-distribution-piles-up
 ---
 
 

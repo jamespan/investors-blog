@@ -4,6 +4,7 @@ title: >-
   Investing In New IPOs: How JA Solar Shined On its 2007 Breakout
 date: 2017-03-03 13:26 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investing-in-new-ipos-how-ja-solar-shined-on-its-2007-breakout
 ---
 
 

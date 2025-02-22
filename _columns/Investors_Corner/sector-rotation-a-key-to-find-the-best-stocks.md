@@ -4,6 +4,7 @@ title: >-
   Use Sector Rotation To Find Emerging Leading Stocks
 date: 2024-08-05 08:00 -0700
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sector-rotation-a-key-to-find-the-best-stocks
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Why New Highs In Low Volume Are A Great Time To Sell Your Biggest Winners
 date: 2016-09-29 13:24 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-new-highs-in-low-volume-are-a-great-time-to-sell-your-winners
 ---
 
 

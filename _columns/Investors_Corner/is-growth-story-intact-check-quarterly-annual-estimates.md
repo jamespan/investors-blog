@@ -4,6 +4,7 @@ title: >-
   Is Growth Story Intact? Check Quarterly, Annual Earnings Estimates
 date: 2016-02-09 13:53 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/is-growth-story-intact-check-quarterly-annual-estimates
 ---
 
 

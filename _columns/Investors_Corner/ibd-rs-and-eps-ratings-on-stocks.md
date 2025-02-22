@@ -4,6 +4,7 @@ title: >-
   IBD's RS, EPS Ratings Are Start, Not End, Of Search
 date: 2013-03-25 17:58 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-rs-and-eps-ratings-on-stocks
 ---
 
 

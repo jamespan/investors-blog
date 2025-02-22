@@ -4,6 +4,7 @@ title: >-
   Flat Bases Offer Second-Chance Entry Points
 date: 2013-10-09 17:07 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/flat-base-offers-solid-entry-point
 ---
 
 

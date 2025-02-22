@@ -4,6 +4,7 @@ title: >-
   Burned By A Good Stock? Why It's Critical To Be Ready To Buy Again
 date: 2017-06-16 08:15 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-rebuy-stock-breakout-facebook-alibaba-alphabet
 ---
 
 

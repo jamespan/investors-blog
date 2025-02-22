@@ -4,6 +4,7 @@ title: >-
   Concentrate On Winners: Sell Stock From The Bottom Up
 date: 2013-05-22 18:36 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sell-weaker-stocks-first-in-the-market
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Bear-Market Breakouts Fail Quickly
 date: 2011-08-23 17:10 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-bear-market-breakouts-fail-quickly
 ---
 
 

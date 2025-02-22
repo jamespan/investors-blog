@@ -4,6 +4,7 @@ title: >-
   Apple Set Up Short-Stroke Entry In Midst Of Big Run
 date: 2015-12-09 16:27 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/short-stroke-offers-secondary-buy-point
 ---
 
 

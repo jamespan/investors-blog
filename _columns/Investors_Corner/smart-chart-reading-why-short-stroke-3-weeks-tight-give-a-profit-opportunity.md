@@ -4,6 +4,7 @@ title: >-
   When To Buy Stocks: Why The Short Stroke, 3-Weeks-Tight Patterns Fuel New Buy Points
 date: 2024-09-03 08:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/smart-chart-reading-why-short-stroke-3-weeks-tight-give-a-profit-opportunity
 ---
 
 

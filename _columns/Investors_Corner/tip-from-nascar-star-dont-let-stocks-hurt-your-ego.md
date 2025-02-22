@@ -4,6 +4,7 @@ title: >-
   Tip From NASCAR Star: Don't Let Stocks Hurt Your Ego
 date: 2011-11-03 16:20 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/tip-from-nascar-star-dont-let-stocks-hurt-your-ego
 ---
 
 

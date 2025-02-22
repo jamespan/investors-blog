@@ -4,6 +4,7 @@ title: >-
   How To Invest: Learn To Look Past The Day's Headlines
 date: 2013-08-23 18:46 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/look-past-the-headlines
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Deteriorating Acc-Dis Rating Is Grave Warning Sign
 date: 2012-08-27 18:37 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/deteriorating-accdis-rating-is-warning-sign
 ---
 
 

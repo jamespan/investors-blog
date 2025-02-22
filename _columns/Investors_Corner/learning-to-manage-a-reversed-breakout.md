@@ -4,6 +4,7 @@ title: >-
   How To Handle The Unruly Stock Breakout
 date: 2014-08-27 18:12 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learning-to-manage-a-reversed-breakout
 ---
 
 

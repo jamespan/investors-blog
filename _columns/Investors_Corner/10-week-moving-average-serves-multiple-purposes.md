@@ -4,6 +4,8 @@ title: >-
   A Chart Reader's Swiss Army Knife: The 10-Week Line
 date: 2012-03-01 18:33 -0800
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/10-week-moving-average-serves-multiple-purposes
+origin_url: https://www.investors.com/how-to-invest/investors-corner/10-week-moving-average-serves-multiple-purposes
 ---
 
 

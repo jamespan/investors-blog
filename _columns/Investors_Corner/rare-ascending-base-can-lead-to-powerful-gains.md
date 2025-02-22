@@ -4,6 +4,7 @@ title: >-
   Rare Ascending Base Can Lead To Powerful Gains
 date: 2022-01-06 08:00 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/rare-ascending-base-can-lead-to-powerful-gains
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Base Count Technique Can Help Establish Sell Zones
 date: 2013-08-07 18:16 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-sell-a-stock-3
 ---
 
 

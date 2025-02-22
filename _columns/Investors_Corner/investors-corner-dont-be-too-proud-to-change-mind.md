@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Don't Be Too Proud To Change Mind
 date: 2011-09-07 14:39 -0700
 author: 
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-dont-be-too-proud-to-change-mind
 ---
 
 

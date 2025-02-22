@@ -4,6 +4,7 @@ title: >-
   When To Sell Stocks: How The Relative Strength Line Gives Clues About A Stock's Health
 date: 2019-10-28 12:00 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/relative-strength-line-identifies-strong-stocks
 ---
 
 

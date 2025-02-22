@@ -4,6 +4,7 @@ title: >-
   Here's How This Key Sell Signal Saved Investors From Big Losses
 date: 2024-04-23 08:00 -0700
 author: MICHAEL LARKIN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/key-sell-signal-saved-stamps-com-stock-investors-from-posting-big-losses
 ---
 
 

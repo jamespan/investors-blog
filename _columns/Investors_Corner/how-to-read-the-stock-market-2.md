@@ -4,6 +4,7 @@ title: >-
   The M is for Market Direction, Key To Sound Trading
 date: 2014-07-25 17:23 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-read-the-stock-market-2
 ---
 
 

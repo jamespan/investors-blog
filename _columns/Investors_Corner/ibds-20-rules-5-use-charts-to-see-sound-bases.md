@@ -4,6 +4,7 @@ title: >-
   IBD's 20 Rules: #5 Use Charts To See Sound Bases
 date: 2011-09-19 17:32 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibds-20-rules-5-use-charts-to-see-sound-bases
 ---
 
 

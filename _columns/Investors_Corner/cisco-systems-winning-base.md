@@ -4,6 +4,7 @@ title: >-
   Cisco's Base Had All The Right Characteristics
 date: 2015-10-06 16:59 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/cisco-systems-winning-base
 ---
 
 

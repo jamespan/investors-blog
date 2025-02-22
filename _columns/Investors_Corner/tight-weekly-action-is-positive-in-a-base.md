@@ -4,6 +4,7 @@ title: >-
   Tight Weekly Action Signals Big Fund Buying
 date: 2014-02-28 16:53 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/tight-weekly-action-is-positive-in-a-base
 ---
 
 

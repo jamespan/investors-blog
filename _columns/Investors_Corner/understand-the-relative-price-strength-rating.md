@@ -4,6 +4,7 @@ title: >-
   Comparing Price Performance: Apple vs. Priceline.com
 date: 2012-07-05 17:45 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/understand-the-relative-price-strength-rating
 ---
 
 

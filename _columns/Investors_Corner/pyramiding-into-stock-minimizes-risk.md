@@ -4,6 +4,7 @@ title: >-
   Pyramiding Into A Stock Helps Minimize Buying Risk
 date: 2015-10-28 15:34 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/pyramiding-into-stock-minimizes-risk
 ---
 
 

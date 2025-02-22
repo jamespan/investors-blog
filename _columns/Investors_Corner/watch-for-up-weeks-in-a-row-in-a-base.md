@@ -4,6 +4,7 @@ title: >-
   How To Invest: Seek Base With 4, 5, 6 Up Weeks In Row
 date: 2013-02-08 16:37 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/watch-for-up-weeks-in-a-row-in-a-base
 ---
 
 

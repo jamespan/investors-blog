@@ -4,6 +4,7 @@ title: >-
   Knowing Market's Direction Is Key To Investing Success
 date: 2012-10-08 16:01 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/grasping-the-markets-direction-is-key-to-investing-success
 ---
 
 

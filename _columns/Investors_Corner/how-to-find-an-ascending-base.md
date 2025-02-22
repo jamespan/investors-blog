@@ -4,6 +4,7 @@ title: >-
   The Ascending Base: A Tip-Off To Fast-Climbing Stocks
 date: 2015-09-22 17:48 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-find-an-ascending-base
 ---
 
 

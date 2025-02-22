@@ -4,6 +4,7 @@ title: >-
   Masters Of Investing Never Let A Loss Run Unchecked
 date: 2013-01-03 16:40 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-investment-experts-cut-losses
 ---
 
 

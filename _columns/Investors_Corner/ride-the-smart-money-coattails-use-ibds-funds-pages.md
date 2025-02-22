@@ -4,6 +4,7 @@ title: >-
   Ride The Smart-Money Coattails: Use IBD's Funds Pages
 date: 2014-11-17 16:10 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ride-the-smart-money-coattails-use-ibds-funds-pages
 ---
 
 

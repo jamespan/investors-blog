@@ -4,6 +4,7 @@ title: >-
   Corrections Give Market, Stocks Time To Digest Gains
 date: 2014-11-03 17:58 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/corrections-give-market-stocks-time-to-digest-gains
 ---
 
 

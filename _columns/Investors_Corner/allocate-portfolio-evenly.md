@@ -4,6 +4,7 @@ title: >-
   How To Allocate Your Stock Portfolio
 date: 2014-01-03 17:15 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/allocate-portfolio-evenly
 ---
 
 

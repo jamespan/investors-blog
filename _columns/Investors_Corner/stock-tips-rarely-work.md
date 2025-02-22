@@ -4,6 +4,7 @@ title: >-
   How To Invest: Taking Stock Tips Can Mean Disaster
 date: 2014-12-15 18:08 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-tips-rarely-work
 ---
 
 

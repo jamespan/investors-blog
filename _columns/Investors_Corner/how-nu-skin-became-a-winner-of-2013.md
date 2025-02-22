@@ -4,6 +4,7 @@ title: >-
   How Nu Skin Became A Market Winner Of 2013
 date: 2013-12-27 14:53 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-nu-skin-became-a-winner-of-2013
 ---
 
 

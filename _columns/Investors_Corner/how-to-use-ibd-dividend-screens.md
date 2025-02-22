@@ -4,6 +4,7 @@ title: >-
   How To Understand And Use IBD's Dividend Screens
 date: 2014-03-13 16:01 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-use-ibd-dividend-screens
 ---
 
 

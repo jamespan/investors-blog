@@ -4,6 +4,7 @@ title: >-
   How To Invest: Don't Buy A Stock If Big Money Snubs It
 date: 2016-12-02 10:00 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dont-buy-a-stock-if-big-money-snubs-it
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Invest In Top Stocks: What Is A Stock Shakeout?
 date: 2019-04-18 16:00 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-top-stocks-what-is-stock-shakeout
 ---
 
 

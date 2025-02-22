@@ -4,6 +4,7 @@ title: >-
   Technicals At IBD Stock Checkup Can Guide Investors
 date: 2015-07-15 15:52 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-pick-a-stock
 ---
 
 

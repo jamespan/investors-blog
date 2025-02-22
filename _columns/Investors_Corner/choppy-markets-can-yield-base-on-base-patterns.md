@@ -4,6 +4,7 @@ title: >-
   How To Invest: The Ins And Outs Of Base Counting
 date: 2015-02-17 16:52 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/choppy-markets-can-yield-base-on-base-patterns
 ---
 
 

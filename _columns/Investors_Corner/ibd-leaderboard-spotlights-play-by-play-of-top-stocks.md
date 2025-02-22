@@ -4,6 +4,7 @@ title: >-
   IBD Leaderboard Spotlights Play-By-Play Of Top Stocks
 date: 2011-10-29 14:40 -0700
 author: Juan Carlos Arancibia
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-leaderboard-spotlights-play-by-play-of-top-stocks
 ---
 
 

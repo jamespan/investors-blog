@@ -4,6 +4,7 @@ title: >-
   Stock Market History: How President Dwight 'Ike' Eisenhower Unleashed A Two-Year Bull Market
 date: 2019-09-12 08:15 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-history-ike-bull-market
 ---
 
 

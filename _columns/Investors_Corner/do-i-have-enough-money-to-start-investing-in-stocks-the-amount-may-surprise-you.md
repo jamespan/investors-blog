@@ -4,6 +4,7 @@ title: >-
   Do I Have Enough Money To Start Investing In Stocks? The Amount May Surprise You
 date: 2023-06-23 08:00 -0700
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/do-i-have-enough-money-to-start-investing-in-stocks-the-amount-may-surprise-you
 ---
 
 

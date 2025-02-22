@@ -4,6 +4,7 @@ title: >-
   See A "W" In The Chart? Look For A Double-Bottom Base
 date: 2013-01-15 18:04 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/mdc-holdings-was-2012-big-stock-winner
 ---
 
 

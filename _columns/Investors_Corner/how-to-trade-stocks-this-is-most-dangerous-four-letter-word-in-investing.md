@@ -4,6 +4,7 @@ title: >-
   This Is The Most Dangerous Four-Letter Word In Investing
 date: 2024-08-19 08:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-stocks-this-is-most-dangerous-four-letter-word-in-investing
 ---
 
 

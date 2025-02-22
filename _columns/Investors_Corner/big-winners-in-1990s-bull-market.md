@@ -4,6 +4,7 @@ title: >-
   IGT's 1990s Base On Base Led To A Big Stock Advance
 date: 2015-10-12 16:20 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/big-winners-in-1990s-bull-market
 ---
 
 

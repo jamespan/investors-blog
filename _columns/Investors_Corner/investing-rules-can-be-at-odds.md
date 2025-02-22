@@ -4,6 +4,7 @@ title: >-
   What Should Investors Do When Two Rules Are At Odds?
 date: 2012-04-11 18:17 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investing-rules-can-be-at-odds
 ---
 
 

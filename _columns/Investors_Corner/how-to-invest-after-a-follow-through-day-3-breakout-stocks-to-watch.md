@@ -4,6 +4,7 @@ title: >-
   How To Invest After A Follow-Through Day
 date: 2024-06-21 16:54 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-after-a-follow-through-day-3-breakout-stocks-to-watch
 ---
 
 

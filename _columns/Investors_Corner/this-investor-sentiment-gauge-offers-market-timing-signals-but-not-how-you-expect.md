@@ -4,6 +4,7 @@ title: >-
   This Investor Sentiment Gauge Offers Market-Timing Signals, But Not How You Expect
 date: 2024-04-16 10:50 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/this-investor-sentiment-gauge-offers-market-timing-signals-but-not-how-you-expect
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Your Stock Goes Nowhere After A Breakout: How Long Should You Wait?
 date: 2017-10-13 12:15 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/your-stock-goes-nowhere-after-a-breakout-how-long-should-you-wait
 ---
 
 

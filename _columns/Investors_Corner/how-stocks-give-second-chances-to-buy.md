@@ -4,6 +4,7 @@ title: >-
   Pullbacks To Buy Points Give Investors Second Chance
 date: 2015-10-15 17:34 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-stocks-give-second-chances-to-buy
 ---
 
 

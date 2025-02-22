@@ -4,6 +4,7 @@ title: >-
   Buying Stocks Using Pyramid Method Reduces Risk
 date: 2013-07-30 18:01 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/pyramiding-into-stocks-reduces-risk
 ---
 
 

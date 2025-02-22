@@ -4,6 +4,7 @@ title: >-
   Dissecting Nike's March 2013 Saucer Base Breakout
 date: 2014-02-18 17:25 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/a-look-at-saucer-bases
 ---
 
 

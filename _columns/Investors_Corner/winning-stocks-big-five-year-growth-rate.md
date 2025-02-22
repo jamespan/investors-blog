@@ -4,6 +4,7 @@ title: >-
   The 'A' In CAN SLIM Stands For Big Annual Growth
 date: 2013-09-06 17:02 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/winning-stocks-big-five-year-growth-rate
 ---
 
 

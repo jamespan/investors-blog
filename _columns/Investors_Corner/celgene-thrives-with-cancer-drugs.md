@@ -4,6 +4,7 @@ title: >-
   Celgene Had Top Fundamentals; Bullish In Early 2013
 date: 2013-12-26 16:33 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/celgene-thrives-with-cancer-drugs
 ---
 
 

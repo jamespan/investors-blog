@@ -4,6 +4,7 @@ title: >-
   Jagged Cup Base May Be Sign Stock Is About To Crack
 date: 2013-11-04 17:59 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/faulty-cup-bases-lead-to-failed-breakouts
 ---
 
 

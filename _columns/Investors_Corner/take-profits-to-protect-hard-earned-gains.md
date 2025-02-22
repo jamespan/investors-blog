@@ -4,6 +4,7 @@ title: >-
   Learn To Take Profits In Any Type Of Market Environment
 date: 2014-01-06 17:42 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/take-profits-to-protect-hard-earned-gains
 ---
 
 

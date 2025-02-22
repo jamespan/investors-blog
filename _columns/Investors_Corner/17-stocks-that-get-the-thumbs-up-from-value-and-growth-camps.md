@@ -4,6 +4,7 @@ title: >-
   17 Stocks That Get The Thumbs Up From Value And Growth Camps
 date: 2017-07-21 10:45 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/17-stocks-that-get-the-thumbs-up-from-value-and-growth-camps
 ---
 
 

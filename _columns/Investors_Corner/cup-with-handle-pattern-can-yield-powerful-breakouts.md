@@ -4,6 +4,7 @@ title: >-
   Cup-With-Handle Pattern Can Yield Powerful Breakouts
 date: 2014-07-30 17:33 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/cup-with-handle-pattern-can-yield-powerful-breakouts
 ---
 
 

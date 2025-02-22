@@ -4,6 +4,7 @@ title: >-
   Hard-To-Spot Ascending Bases Can Yield Big Returns
 date: 2012-06-15 17:26 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/titanium-metals-formed-a-hard-to-spot-ascending-base-in-2006
 ---
 
 

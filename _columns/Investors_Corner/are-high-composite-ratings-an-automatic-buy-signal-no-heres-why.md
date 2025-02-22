@@ -4,6 +4,7 @@ title: >-
   Are High Composite Ratings An Automatic 'Buy' Signal? No. Here's Why
 date: 2016-08-10 12:41 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/are-high-composite-ratings-an-automatic-buy-signal-no-heres-why
 ---
 
 

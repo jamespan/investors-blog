@@ -4,6 +4,7 @@ title: >-
   How Psychological Indicators Help You Time The Market
 date: 2024-12-16 08:01 -0800
 author: JUSTIN NIELSEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-psychological-market-indicators-help-timing
 ---
 
 

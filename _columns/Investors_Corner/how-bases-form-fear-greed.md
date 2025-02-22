@@ -4,6 +4,7 @@ title: >-
   How To Trade: Why Do We care About Bases?
 date: 2011-12-09 17:58 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-bases-form-fear-greed
 ---
 
 

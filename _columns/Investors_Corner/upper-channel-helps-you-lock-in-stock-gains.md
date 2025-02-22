@@ -4,6 +4,7 @@ title: >-
   Upper Channel Helps You Lock In Stock Gains
 date: 2011-01-20 15:54 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/upper-channel-helps-you-lock-in-stock-gains
 ---
 
 

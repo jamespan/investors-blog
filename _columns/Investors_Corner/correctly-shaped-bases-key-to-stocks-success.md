@@ -4,6 +4,7 @@ title: >-
   Properly Formed Bases Offer Best Chance Of Success
 date: 2013-02-04 16:59 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/correctly-shaped-bases-key-to-stocks-success
 ---
 
 

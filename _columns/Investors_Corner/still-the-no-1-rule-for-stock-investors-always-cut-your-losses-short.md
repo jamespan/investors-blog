@@ -4,6 +4,7 @@ title: >-
   Still The No. 1 Rule For Stock Market Investors: Always Cut Your Losses Short
 date: 2022-09-15 08:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/still-the-no-1-rule-for-stock-investors-always-cut-your-losses-short
 ---
 
 

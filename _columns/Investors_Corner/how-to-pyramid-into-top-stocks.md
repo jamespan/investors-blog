@@ -4,6 +4,7 @@ title: >-
   How To Invest In Growth Stocks: Use A Pyramid Approach To Limit Risk
 date: 2019-06-25 08:00 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-pyramid-into-top-stocks
 ---
 
 

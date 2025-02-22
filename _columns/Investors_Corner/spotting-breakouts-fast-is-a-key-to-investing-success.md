@@ -4,6 +4,7 @@ title: >-
   Spotting Breakouts Fast Is A Key To Investing Success
 date: 2016-07-22 17:44 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/spotting-breakouts-fast-is-a-key-to-investing-success
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Use This Special New Hold Rule For IPO Stock Breakouts
 date: 2016-04-01 14:08 -0700
 author: JUSTIN NIELSEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-catch-an-ipo-winner-by-sitting-tight
 ---
 
 

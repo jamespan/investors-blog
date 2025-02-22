@@ -4,6 +4,7 @@ title: >-
   Get Trade Ideas, Spot Trends With Your Weekly Review
 date: 2012-09-10 18:05 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/your-weekly-review-can-unveil-trends
 ---
 
 

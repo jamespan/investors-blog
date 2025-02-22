@@ -4,6 +4,7 @@ title: >-
   Investing Mistake No. 5: Turning A Stock Into A Pet
 date: 2014-01-08 16:45 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/common-mistakes-made-in-stock-investing
 ---
 
 

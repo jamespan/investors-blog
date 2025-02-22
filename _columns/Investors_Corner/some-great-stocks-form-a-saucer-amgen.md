@@ -4,6 +4,7 @@ title: >-
   How To Trade: Saucer Base Tests Investors' Patience
 date: 2011-12-14 17:25 -0800
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/some-great-stocks-form-a-saucer-amgen
 ---
 
 

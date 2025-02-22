@@ -4,6 +4,7 @@ title: >-
   'Buy Low, Sell High' Mantra Can Get You In Big Trouble
 date: 2016-09-19 13:51 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/buy-low-sell-high-mantra-can-get-you-in-big-trouble
 ---
 
 

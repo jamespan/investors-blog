@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Why The 20% Sell Rule Works
 date: 2011-06-28 17:37 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-why-the-20-sell-rule-works
 ---
 
 

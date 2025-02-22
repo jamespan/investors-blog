@@ -4,6 +4,7 @@ title: >-
   Find Trade Candidates With Screen Of The Day
 date: 2013-11-27 19:15 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/screen-of-the-day-helps-find-stocks
 ---
 
 

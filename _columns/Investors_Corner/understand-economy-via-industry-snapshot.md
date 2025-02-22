@@ -4,6 +4,7 @@ title: >-
   Use A Bottom-Up Approach To Studying The Economy
 date: 2013-04-11 16:52 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/understand-economy-via-industry-snapshot
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Invest In Top Stocks: Why Not All Big Market Winners Have The Highest EPS Ratings
 date: 2019-11-15 10:45 -0800
 author: TERRY JONES
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-eps-rating
 ---
 
 

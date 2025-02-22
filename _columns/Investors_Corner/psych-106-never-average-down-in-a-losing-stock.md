@@ -4,6 +4,7 @@ title: >-
   Psych 106: Never Average Down In A Losing Stock
 date: 2011-02-14 17:20 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/psych-106-never-average-down-in-a-losing-stock
 ---
 
 

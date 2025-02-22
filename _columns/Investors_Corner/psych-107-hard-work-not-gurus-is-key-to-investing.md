@@ -4,6 +4,7 @@ title: >-
   Psych 107: Hard Work, Not Gurus, Is Key To Investing
 date: 2011-02-15 16:21 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/psych-107-hard-work-not-gurus-is-key-to-investing
 ---
 
 

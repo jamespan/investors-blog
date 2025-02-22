@@ -4,6 +4,7 @@ title: >-
   Use Investors.com To Tap Big Annual Earnings Growth
 date: 2012-04-18 17:30 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/find-annual-earnings-growth-data-at-investorscom
 ---
 
 

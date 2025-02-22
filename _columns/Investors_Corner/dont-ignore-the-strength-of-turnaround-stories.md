@@ -4,6 +4,7 @@ title: >-
   Can Turnaround Stories Outmuscle Startups And IPOs?
 date: 2012-08-17 17:19 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dont-ignore-the-strength-of-turnaround-stories
 ---
 
 

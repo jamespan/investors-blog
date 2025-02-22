@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Pass Long Test Of 10-Week Average
 date: 2011-08-04 17:23 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-pass-long-test-of-10-week-average
 ---
 
 

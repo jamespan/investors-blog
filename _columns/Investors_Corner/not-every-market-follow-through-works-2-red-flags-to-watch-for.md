@@ -4,6 +4,7 @@ title: >-
   Not Every Stock Market Follow-Through Works: 2 Red Flags To Watch For
 date: 2019-08-14 12:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/not-every-market-follow-through-works-2-red-flags-to-watch-for
 ---
 
 

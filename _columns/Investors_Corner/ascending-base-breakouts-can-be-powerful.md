@@ -4,6 +4,7 @@ title: >-
   Ascending Bases Are Rare, But Can Spark Big Gains
 date: 2014-02-21 14:40 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ascending-base-breakouts-can-be-powerful
 ---
 
 

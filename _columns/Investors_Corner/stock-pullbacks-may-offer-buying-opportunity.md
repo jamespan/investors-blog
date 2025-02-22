@@ -4,6 +4,7 @@ title: >-
   How To Invest: Top Stocks Can Give 2nd Chance To Buy
 date: 2012-01-24 17:30 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-pullbacks-may-offer-buying-opportunity
 ---
 
 

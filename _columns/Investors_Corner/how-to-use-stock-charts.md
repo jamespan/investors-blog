@@ -4,6 +4,7 @@ title: >-
   Poor Base Shows Stock Living Below 10-Week Line
 date: 2013-07-05 16:36 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-use-stock-charts
 ---
 
 

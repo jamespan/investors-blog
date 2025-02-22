@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Why Short Selling Is Challenging
 date: 2011-08-05 18:30 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-why-short-selling-is-challenging
 ---
 
 

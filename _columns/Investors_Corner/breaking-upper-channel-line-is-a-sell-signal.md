@@ -4,6 +4,7 @@ title: >-
   How The Upper Channel Line Helps You Sell Correctly
 date: 2012-05-22 16:17 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/breaking-upper-channel-line-is-a-sell-signal
 ---
 
 

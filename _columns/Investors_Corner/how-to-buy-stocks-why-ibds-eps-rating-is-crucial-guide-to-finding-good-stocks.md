@@ -4,6 +4,7 @@ title: >-
   How To Buy Stocks: Why IBD's EPS Rating Is Crucial Guide To Finding Good Stocks
 date: 2024-04-08 08:00 -0700
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-stocks-why-ibds-eps-rating-is-crucial-guide-to-finding-good-stocks
 ---
 
 

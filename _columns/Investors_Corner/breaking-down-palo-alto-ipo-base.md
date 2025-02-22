@@ -4,6 +4,7 @@ title: >-
   Palo Alto Networks' IPO Base Faltered
 date: 2015-04-23 17:44 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/breaking-down-palo-alto-ipo-base
 ---
 
 

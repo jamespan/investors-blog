@@ -4,6 +4,7 @@ title: >-
   IBD's 20 Rules: #4 Don't Be Fooled By A 'High' P-E Ratio
 date: 2011-09-16 14:09 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibds-20-rules-4-dont-be-fooled-by-a-high-p-e-ratio
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   The Smart Investor: Kevin Dai's Passion For CAN SLIM
 date: 2013-05-28 17:50 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/kevin-dai-has-passion-for-investing
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Lose Money In Stocks: Be Blind To Distribution
 date: 2012-12-13 17:10 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-lose-money-in-stocks
 ---
 
 

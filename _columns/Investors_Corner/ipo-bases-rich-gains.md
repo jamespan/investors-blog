@@ -4,6 +4,7 @@ title: >-
   How To Trade IPO Stocks: IPO Bases Are Unusual But Can Result In Rich Gains
 date: 2024-10-02 08:00 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ipo-bases-rich-gains
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Investor Psychology: Don't Hold An Industry Bias
 date: 2011-11-07 18:20 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investor-psychology-dont-hold-an-industry-bias
 ---
 
 

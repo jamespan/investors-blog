@@ -4,6 +4,7 @@ title: >-
   IPOs Based In Texas Offer Big Profit Possibilities
 date: 2016-02-11 14:19 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ipos-based-in-texas-offer-big-profit-possibilities
 ---
 
 

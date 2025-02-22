@@ -4,6 +4,7 @@ title: >-
   The C In CAN SLIM Stands For Current Earnings Growth
 date: 2014-07-17 18:28 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/in-can-slim-quarterly-earnings-are-most-important
 ---
 
 

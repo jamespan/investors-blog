@@ -4,6 +4,7 @@ title: >-
   How To Buy Stocks: Profit Margins Hold Key To Profitability
 date: 2024-10-29 08:00 -0700
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/profit-margins
 ---
 
 

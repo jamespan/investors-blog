@@ -4,6 +4,7 @@ title: >-
   How To Trade: Know Dangers Of Upward Wedging Handle
 date: 2012-12-03 17:07 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/wedging-handles-signal-a-weak-breakout
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   To Meet Your Investing Goals In The Best Growth Stocks, Always Review Your Trades
 date: 2019-08-22 12:00 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-goals-investing-2019
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Watch Out For Biggest One-Day Point Losses
 date: 2014-04-14 17:32 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/biggest-single-day-loss-is-a-sell-signal
 ---
 
 

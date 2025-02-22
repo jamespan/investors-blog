@@ -4,6 +4,7 @@ title: >-
   Coronavirus Stock Market ETF Strategy And How To Handle A Follow-Through Day
 date: 2020-04-08 21:09 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/coronavirus-stock-market-etf-strategy-qqq-potential-uptrend
 ---
 
 

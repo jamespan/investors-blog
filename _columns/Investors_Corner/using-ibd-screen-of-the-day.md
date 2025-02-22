@@ -4,6 +4,7 @@ title: >-
   Pro's Tool Kit: Screen Of The Day At Investors.com
 date: 2014-05-07 18:28 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/using-ibd-screen-of-the-day
 ---
 
 

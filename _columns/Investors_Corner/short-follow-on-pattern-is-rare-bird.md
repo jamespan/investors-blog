@@ -4,6 +4,7 @@ title: >-
   Ultra Rare Short Stroke Can Yield Big Gains
 date: 2012-10-23 17:18 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/short-follow-on-pattern-is-rare-bird
 ---
 
 

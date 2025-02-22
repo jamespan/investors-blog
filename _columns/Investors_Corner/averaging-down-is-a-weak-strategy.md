@@ -4,6 +4,7 @@ title: >-
   Investing Myth 3: It Pays To Average Down In Stocks
 date: 2012-03-26 17:55 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/averaging-down-is-a-weak-strategy
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Learn And Master The Cup-With-Handle Chart Pattern
 date: 2012-10-09 16:32 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/many-great-stocks-first-form-a-cup-base-pattern
 ---
 
 

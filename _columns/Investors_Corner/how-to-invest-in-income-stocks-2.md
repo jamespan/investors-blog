@@ -4,6 +4,7 @@ title: >-
   Best Dividend Stocks: How To Pick Among Utility, REIT and Other Industries With Big Dividends
 date: 2019-09-29 19:00 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-in-income-stocks-2
 ---
 
 

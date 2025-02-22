@@ -4,6 +4,7 @@ title: >-
   Dark Pools: Do Private Markets Hurt Small Investors?
 date: 2014-09-05 18:45 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/trading-in-dark-pools-on-rise
 ---
 
 

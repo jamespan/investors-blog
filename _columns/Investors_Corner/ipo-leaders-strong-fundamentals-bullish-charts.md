@@ -4,6 +4,7 @@ title: >-
   Watch IPO Leaders Screen For Next Big Market Winner
 date: 2015-08-04 17:27 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ipo-leaders-strong-fundamentals-bullish-charts
 ---
 
 

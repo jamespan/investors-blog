@@ -4,6 +4,7 @@ title: >-
   IBD Mutual Fund Index Can Signal When It's A Stock Pickers' Market
 date: 2016-09-14 13:22 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-mutual-fund-index-can-signal-when-its-a-stock-pickers-market
 ---
 
 

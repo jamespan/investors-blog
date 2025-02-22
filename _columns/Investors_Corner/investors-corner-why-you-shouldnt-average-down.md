@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Why You Shouldn't Average Down
 date: 2011-07-21 17:19 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-why-you-shouldnt-average-down
 ---
 
 

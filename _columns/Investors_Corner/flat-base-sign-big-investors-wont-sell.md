@@ -4,6 +4,7 @@ title: >-
   A Flat Base Is A Sign Big Players Won't Sell
 date: 2015-09-14 17:54 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/flat-base-sign-big-investors-wont-sell
 ---
 
 

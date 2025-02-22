@@ -4,6 +4,7 @@ title: >-
   Pyramiding: Good Enough For Pros, Good Enough For You
 date: 2012-06-27 17:54 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-to-pyramid-in-a-market-winner-for-big-profits
 ---
 
 

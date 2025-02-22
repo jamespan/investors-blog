@@ -4,6 +4,7 @@ title: >-
   Great Stocks Have This In Common: Innovation
 date: 2022-04-27 08:00 -0700
 author: MICHAEL MOLINSKI
+origin_url: https://www.investors.com/how-to-invest/investors-corner/great-stocks-have-one-thing-common-innovation
 ---
 
 

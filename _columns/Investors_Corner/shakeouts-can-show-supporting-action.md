@@ -4,6 +4,7 @@ title: >-
   Why Stock Shakeouts Can Be Scary, Yet Constructive
 date: 2014-02-27 19:41 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/shakeouts-can-show-supporting-action
 ---
 
 

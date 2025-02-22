@@ -4,6 +4,7 @@ title: >-
   Penny Stocks Are Not A Ticket To Quick Riches
 date: 2012-03-28 18:18 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/penny-stocks-no-pass-to-quick-riches
 ---
 
 

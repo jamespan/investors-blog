@@ -4,6 +4,7 @@ title: >-
   Learn To Appreciate Tight Trading Within A Cup Base
 date: 2013-09-26 17:57 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/seek-tight-weekly-closes-when-stock-investing
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Why You Should Sell If A Stock Breaks 50-Day Support
 date: 2015-06-12 18:10 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-to-do-if-stock-breaks-50-day-line
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Growth Or Value? Why Warren Buffett's Berkshire Hathaway Doesn't Pay Dividends But Holds Dividend Stocks
 date: 2023-02-10 09:00 -0800
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dividend-stocks-why-warren-buffetts-berkshire-hathaway-holds-dividend-stocks-but-does-not-pay-dividends
 ---
 
 

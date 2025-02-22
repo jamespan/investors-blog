@@ -4,6 +4,7 @@ title: >-
   How To Trade Stocks: Why Counting Bases Is A Crucial Skill In Playing Long Stock Rallies
 date: 2019-12-02 14:15 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/counting-bases-is-a-crucial-skill-in-playing-long-winning-stock-rallys
 ---
 
 

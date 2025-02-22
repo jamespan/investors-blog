@@ -4,6 +4,7 @@ title: >-
   A Gorilla Tracker's Guide To Spotting Top Stocks
 date: 2012-02-14 17:40 -0800
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/invest-in-stocks-by-tracking-fund-behavior
 ---
 
 

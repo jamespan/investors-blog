@@ -4,6 +4,7 @@ title: >-
   How To Trade Growth Stocks: Here's A Position-Holding Rule For IPO Stocks
 date: 2019-09-05 16:15 -0700
 author: JUSTIN NIELSEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/big-winner-stock-ground-floor-ipo
 ---
 
 

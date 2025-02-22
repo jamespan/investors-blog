@@ -4,6 +4,7 @@ title: >-
   How To Buy Stocks: Alibaba And Why The Cup With Handle Spurs Big Stock Market Profits
 date: 2019-12-11 15:05 -0800
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-stocks-cup-with-handle-base-alibaba-stock-buy-point
 ---
 
 

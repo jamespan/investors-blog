@@ -4,6 +4,7 @@ title: >-
   How To Invest: Know When A Stock Has Run Its Course
 date: 2014-12-03 18:41 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/watch-out-for-late-stage-bases
 ---
 
 

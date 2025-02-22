@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Focus On A Few Winners And On Timing
 date: 2011-06-13 17:21 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-focus-on-a-few-winners-and-on-timing
 ---
 
 

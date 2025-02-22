@@ -4,6 +4,7 @@ title: >-
   To Find Big-Hit Stocks, Always Seek The A In CAN SLIM
 date: 2017-04-25 17:16 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/to-find-big-hit-stocks-always-search-out-the-a-in-can-slim
 ---
 
 

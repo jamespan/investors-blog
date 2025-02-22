@@ -4,6 +4,7 @@ title: >-
   IBD's International Leaders Section Point To Winners
 date: 2013-11-19 17:30 -0800
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-to-analyze-international-stock-leaders
 ---
 
 

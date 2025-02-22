@@ -4,6 +4,7 @@ title: >-
   If Shaken Out Of Your Stock, Consider Buying It Back
 date: 2014-03-26 17:56 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/if-stock-shakes-you-out-buy-it-back
 ---
 
 

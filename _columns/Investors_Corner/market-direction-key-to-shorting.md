@@ -4,6 +4,7 @@ title: >-
   Trying To Short Stocks? Check This Key Gauge First
 date: 2016-01-13 18:04 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/market-direction-key-to-shorting
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Using Margin At The Wrong Time Can Be Disastrous
 date: 2014-01-15 18:28 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/margin-can-supercharge-gains-and-magnify-losses
 ---
 
 

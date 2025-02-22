@@ -4,6 +4,7 @@ title: >-
   SMR Rating Helps Key In On Great Fundamentals
 date: 2014-06-24 16:57 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/basics-of-the-ibd-smr-rating
 ---
 
 

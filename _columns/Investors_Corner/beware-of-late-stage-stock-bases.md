@@ -4,6 +4,7 @@ title: >-
   Sell Stock Quickly When Late-Stage Breakout Goes Awry
 date: 2013-10-23 17:52 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/beware-of-late-stage-stock-bases
 ---
 
 

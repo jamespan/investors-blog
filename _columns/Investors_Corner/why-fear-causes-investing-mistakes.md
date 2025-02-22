@@ -4,6 +4,7 @@ title: >-
   How To Trade: Why Fear Causes Investing Mistakes
 date: 2014-05-21 17:03 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-fear-causes-investing-mistakes
 ---
 
 

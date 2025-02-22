@@ -4,6 +4,7 @@ title: >-
   Spirit Airlines Had A Long Runway For Takeoff
 date: 2014-02-07 18:04 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/spirit-airlines-built-long-base
 ---
 
 

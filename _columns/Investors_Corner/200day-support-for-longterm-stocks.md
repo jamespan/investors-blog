@@ -4,6 +4,7 @@ title: >-
   200-Day Moving Average Is A Long-Term Support Line
 date: 2014-04-17 18:13 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/200day-support-for-longterm-stocks
 ---
 
 

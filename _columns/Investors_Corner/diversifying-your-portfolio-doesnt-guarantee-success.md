@@ -4,6 +4,7 @@ title: >-
   Diversifying Your Portfolio Doesn't Guarantee Success
 date: 2016-09-22 15:36 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/diversifying-your-portfolio-doesnt-guarantee-success
 ---
 
 

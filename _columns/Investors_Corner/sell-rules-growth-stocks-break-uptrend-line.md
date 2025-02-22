@@ -4,6 +4,7 @@ title: >-
   Sell Rules For Growth Stocks: Watch For A Big Break Of An Uptrend Line
 date: 2019-10-01 11:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sell-rules-growth-stocks-break-uptrend-line
 ---
 
 

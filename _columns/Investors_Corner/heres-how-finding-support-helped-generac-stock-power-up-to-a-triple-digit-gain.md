@@ -4,6 +4,7 @@ title: >-
   Here's How Finding Support Helped Generac Stock Power Up To A Triple-Digit Gain
 date: 2024-09-16 08:00 -0700
 author: MICHAEL LARKIN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/heres-how-finding-support-helped-generac-stock-power-up-to-a-triple-digit-gain
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Things To Keep In Mind For ETFs And CAN SLIM
 date: 2012-06-21 16:21 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/take-care-with-etfs
 ---
 
 

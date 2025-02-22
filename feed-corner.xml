@@ -18,8 +18,8 @@ layout:
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | split: "<p><strong>YOU " | first | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        {% assign origin_url = post.url | replace:'columns','how-to-invest' | prepend: "https://www.investors.com" | append: "/" %}
         {% assign site_url = post.url | prepend: site.baseurl | prepend: site.url %}
+        {% assign origin_url = post.origin_url | default: site_url %}
         <link>{{ origin_url }}</link>
         <guid isPermaLink="true">{{ origin_url }}</guid>
       </item>

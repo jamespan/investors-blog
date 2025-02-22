@@ -4,6 +4,7 @@ title: >-
   5 Ways To Get Ready For The Market's Next Turn
 date: 2017-06-09 17:00 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/5-ways-to-get-ready-for-the-markets-next-turn
 ---
 
 

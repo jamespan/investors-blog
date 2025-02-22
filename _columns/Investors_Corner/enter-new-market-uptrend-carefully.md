@@ -4,6 +4,7 @@ title: >-
   How To Invest: Enter A New Market Uptrend Carefully
 date: 2013-08-15 18:12 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/enter-new-market-uptrend-carefully
 ---
 
 

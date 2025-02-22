@@ -4,6 +4,7 @@ title: >-
   Hedging Isn't Necessary If Investor Heeds Sound Rules
 date: 2013-03-15 17:18 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/using-hedges-unnecessary-when-investing-prudently
 ---
 
 

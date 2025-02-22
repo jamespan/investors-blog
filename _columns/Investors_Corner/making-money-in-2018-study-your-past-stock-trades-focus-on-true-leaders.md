@@ -4,6 +4,7 @@ title: >-
   Lessons From PayPal Stock, And 4 Keys To Make Money In 2018
 date: 2018-05-08 21:30 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/making-money-in-2018-study-your-past-stock-trades-focus-on-true-leaders
 ---
 
 

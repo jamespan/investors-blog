@@ -4,6 +4,7 @@ title: >-
   This Chart Signal Triggered A Sell Rule That Ended Apple's Big Run
 date: 2024-08-30 08:41 -0700
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/apple-stock-moving-average-sell-signal
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Peak Performance: How To Sell A Stock In A Climax Run
 date: 2015-06-17 17:59 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-read-climax-top-sell-signals
 ---
 
 

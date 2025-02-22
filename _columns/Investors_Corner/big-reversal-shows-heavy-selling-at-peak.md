@@ -4,6 +4,7 @@ title: >-
   Big Reversal Shows Heavy Selling At Peak
 date: 2011-01-04 18:30 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/big-reversal-shows-heavy-selling-at-peak
 ---
 
 

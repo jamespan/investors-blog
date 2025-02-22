@@ -4,6 +4,7 @@ title: >-
   Understand Risks, Rewards Of Options Before Diving In
 date: 2012-04-13 17:53 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-options-are-derivative-financial-products
 ---
 
 

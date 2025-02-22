@@ -4,6 +4,7 @@ title: >-
   Savvy Chart Reading: The Features Of A Rare Beauty, The Ascending Base
 date: 2016-06-16 17:30 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/savvy-chart-reading-the-features-of-a-rare-beauty-the-ascending-base
 ---
 
 

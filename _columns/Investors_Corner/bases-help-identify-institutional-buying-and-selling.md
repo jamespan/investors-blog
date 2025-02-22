@@ -4,6 +4,7 @@ title: >-
   Bases Have Different Looks But Share Many Similarities
 date: 2014-08-19 17:25 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/bases-help-identify-institutional-buying-and-selling
 ---
 
 

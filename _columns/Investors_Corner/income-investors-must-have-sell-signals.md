@@ -4,6 +4,7 @@ title: >-
   Strayer Education Provides A Cautionary Tale Of Yield
 date: 2012-11-14 17:50 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/income-investors-must-have-sell-signals
 ---
 
 

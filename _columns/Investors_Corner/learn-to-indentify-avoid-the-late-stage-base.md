@@ -4,6 +4,7 @@ title: >-
   Learn To Indentify And Avoid The Late-Stage Base
 date: 2012-11-15 16:40 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-to-indentify-avoid-the-late-stage-base
 ---
 
 

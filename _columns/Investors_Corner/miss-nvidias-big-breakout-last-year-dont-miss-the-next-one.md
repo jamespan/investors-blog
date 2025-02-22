@@ -4,6 +4,7 @@ title: >-
   How To Buy Growth Stocks: Miss Nvidia In 2016 And 2017? How To Buy The Next Big Breakout
 date: 2019-01-15 20:15 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/miss-nvidias-big-breakout-last-year-dont-miss-the-next-one
 ---
 
 

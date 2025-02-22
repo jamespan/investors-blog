@@ -4,6 +4,7 @@ title: >-
   Find The Best Tech Stocks With Powerful IBD Growth Screens
 date: 2019-05-08 08:00 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/find-the-best-tech-stocks-with-powerful-ibd-growth-screens
 ---
 
 

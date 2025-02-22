@@ -4,6 +4,7 @@ title: >-
   What Is A Setup Day? How To Find Them In Great Stocks Like Peloton
 date: 2020-11-20 16:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-a-setup-day-in-growth-stocks
 ---
 
 

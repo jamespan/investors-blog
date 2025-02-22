@@ -4,6 +4,7 @@ title: >-
   How To Invest: Use Sell Rules To Protect Your Cash
 date: 2013-10-16 16:21 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-sell-rules-preserve-investor-capital
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Baidu's Tale: A Profit Cushion Softens Sell Rules
 date: 2014-10-20 18:27 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learning-to-gauge-sell-rules
 ---
 
 

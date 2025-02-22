@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Why Little Investor Has An Edge
 date: 2011-06-22 16:57 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-why-little-investor-has-an-edge
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Trade: How A Strong Bull Market Can Trample A Bearish Signal
 date: 2019-11-13 12:45 -0800
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/bulls-will-sometimes-trample-a-bearish-signal-are-we-there-now
 ---
 
 

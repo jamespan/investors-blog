@@ -4,6 +4,7 @@ title: >-
   Look Out Below When Industry Leaders Start To Stumble
 date: 2013-05-20 18:32 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/industry-group-sell-signal
 ---
 
 

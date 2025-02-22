@@ -4,6 +4,7 @@ title: >-
   To Win At Stocks, Go Beyond IBD Stock Checkup
 date: 2012-08-02 16:36 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/charts-and-articles-complement-stock-market-analysis
 ---
 
 

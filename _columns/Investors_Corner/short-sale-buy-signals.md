@@ -4,6 +4,7 @@ title: >-
   Short Selling: Why Torpedoes Signal Institutional Selling
 date: 2016-01-06 18:05 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/short-sale-buy-signals
 ---
 
 

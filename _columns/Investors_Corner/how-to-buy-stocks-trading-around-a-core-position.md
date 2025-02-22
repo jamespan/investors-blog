@@ -4,6 +4,7 @@ title: >-
   How To Buy Stocks: Trading Around A Core Position
 date: 2024-12-11 08:00 -0800
 author: RACHEL FOX
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-stocks-trading-around-a-core-position
 ---
 
 

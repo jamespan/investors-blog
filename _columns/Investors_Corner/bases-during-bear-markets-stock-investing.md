@@ -4,6 +4,7 @@ title: >-
   How To Invest: Bear Market Bases Produce Huge Gains
 date: 2013-02-11 17:23 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/bases-during-bear-markets-stock-investing
 ---
 
 

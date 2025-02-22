@@ -4,6 +4,7 @@ title: >-
   How To Invest: Use Trend Line For A Lower Entry Point
 date: 2012-11-20 17:21 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/fertilizer-maker-mosaic-was-a-hot-stock
 ---
 
 

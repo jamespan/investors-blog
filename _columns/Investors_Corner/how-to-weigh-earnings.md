@@ -4,6 +4,7 @@ title: >-
   6 Things To Consider About A Stock's Earnings
 date: 2015-07-27 18:00 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-weigh-earnings
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   The Kid's Road To Wealth: Get A Job, Save And Invest
 date: 2015-11-19 17:15 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-get-rich
 ---
 
 

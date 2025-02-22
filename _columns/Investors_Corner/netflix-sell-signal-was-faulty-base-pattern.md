@@ -4,6 +4,7 @@ title: >-
   How To Invest: Why Netflix's V-Like Base Spelled Doom
 date: 2012-01-13 17:52 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/netflix-sell-signal-was-faulty-base-pattern
 ---
 
 

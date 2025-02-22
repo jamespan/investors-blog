@@ -4,6 +4,7 @@ title: >-
   How To Use Volume To Tell It's Time To Dump A Stock
 date: 2014-10-06 16:01 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-should-i-sell-a-stock
 ---
 
 

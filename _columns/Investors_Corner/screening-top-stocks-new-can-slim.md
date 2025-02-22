@@ -4,6 +4,7 @@ title: >-
   Top Growth Stocks Apple, Walmart, Match And Planet Fitness: Don't Forget The 'New' In CAN SLIM
 date: 2019-09-23 22:00 -0700
 author: TERRY JONES
+origin_url: https://www.investors.com/how-to-invest/investors-corner/screening-top-stocks-new-can-slim
 ---
 
 

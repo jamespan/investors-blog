@@ -4,6 +4,7 @@ title: >-
   Are You White? Black? Brown? Rich? Not So Rich? Take Note: The Stock Market Doesn't Care
 date: 2016-11-10 15:32 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/are-you-white-black-brown-rich-not-so-rich-take-note-the-stock-market-doesnt-care
 ---
 
 

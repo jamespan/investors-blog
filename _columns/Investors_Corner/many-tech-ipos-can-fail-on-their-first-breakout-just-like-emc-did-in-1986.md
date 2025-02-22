@@ -4,6 +4,7 @@ title: >-
   How To Trade IPO Stocks: A Big Breakout May Need More Than One Try
 date: 2019-10-21 10:45 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/many-tech-ipos-can-fail-on-their-first-breakout-just-like-emc-did-in-1986
 ---
 
 

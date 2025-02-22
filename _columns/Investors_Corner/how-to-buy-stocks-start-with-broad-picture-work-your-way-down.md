@@ -4,6 +4,7 @@ title: >-
   How To Buy Stocks: Start With Sectors, Work Your Way Down
 date: 2024-07-22 08:00 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-stocks-start-with-broad-picture-work-your-way-down
 ---
 
 

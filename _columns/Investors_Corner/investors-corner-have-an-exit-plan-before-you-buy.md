@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Have An Exit Plan Before You Buy
 date: 2011-07-14 16:27 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-have-an-exit-plan-before-you-buy
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Why IBD's Daily, Weekly Stock Charts Offer True Wealth Of Information
 date: 2016-06-24 13:45 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-charts-offer-wealth-of-information-for-investors
 ---
 
 

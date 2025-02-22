@@ -4,6 +4,7 @@ title: >-
   Norwegian, Macom Sponsorship Rising; A Winning Trait
 date: 2015-06-08 18:22 -0700
 author: ANDREW EDWARDS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/find-stocks-with-growing-sponsorship
 ---
 
 

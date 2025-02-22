@@ -4,6 +4,7 @@ title: >-
   Ascend's Nicely Shaped Cup Base Produced Big Profits
 date: 2014-08-01 16:53 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sound-bases-are-a-prerequisite-for-winning-stocks
 ---
 
 

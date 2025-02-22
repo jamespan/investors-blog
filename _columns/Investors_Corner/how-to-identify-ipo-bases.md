@@ -4,6 +4,7 @@ title: >-
   A Hot IPO Can Be Too Hot To Handle At First
 date: 2015-04-17 16:14 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-identify-ipo-bases
 ---
 
 

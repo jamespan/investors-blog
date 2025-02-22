@@ -4,6 +4,7 @@ title: >-
   These 7 IBD Stock Indexes Are Beating The Nasdaq Year-To-Date
 date: 2017-11-29 17:00 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/these-7-ibd-stock-indexes-are-beating-the-nasdaq-year-to-date
 ---
 
 

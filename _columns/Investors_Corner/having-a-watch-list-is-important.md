@@ -4,6 +4,7 @@ title: >-
   Want To Catch The Best Stocks? Build Your Watch List
 date: 2013-08-30 18:25 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/having-a-watch-list-is-important
 ---
 
 

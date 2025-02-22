@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: How To Spot A Flat Base
 date: 2011-03-22 20:26 -0700
 author: Juan Carlos Arancibia
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-how-to-spot-a-flat-base
 ---
 
 

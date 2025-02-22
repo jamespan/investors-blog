@@ -4,6 +4,7 @@ title: >-
   Investor's Acrophobia: Don't Be Afraid To Average Up In Good Stock
 date: 2016-04-20 12:41 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-acrophobia-dont-be-afraid-to-average-up
 ---
 
 

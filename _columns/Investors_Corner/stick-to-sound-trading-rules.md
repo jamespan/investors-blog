@@ -4,6 +4,7 @@ title: >-
   Don't Monkey Around With CAN SLIM Rules
 date: 2012-04-10 17:37 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stick-to-sound-trading-rules
 ---
 
 

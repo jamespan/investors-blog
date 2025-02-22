@@ -4,6 +4,7 @@ title: >-
   Income Investor Gives Growth, Income Opportunities
 date: 2013-11-15 16:05 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/some-growth-stocks-pay-dividends
 ---
 
 

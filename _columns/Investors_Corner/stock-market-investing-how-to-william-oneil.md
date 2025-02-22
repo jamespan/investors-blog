@@ -4,6 +4,7 @@ title: >-
   New Book Shows Anyone Can Win With IBD Rules
 date: 2013-01-24 16:11 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-investing-how-to-william-oneil
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Fresh Viewpoints On Understanding Charts
 date: 2013-07-25 16:32 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-books-on-studying-charts
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Here's How To Spot A Market Bottom
 date: 2022-10-13 08:00 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/coronavirus-stock-market-crash-how-to-spot-a-stock-market-bottom
 ---
 
 

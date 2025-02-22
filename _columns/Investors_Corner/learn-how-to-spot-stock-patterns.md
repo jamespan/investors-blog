@@ -4,6 +4,7 @@ title: >-
   Growth Investors Should Know How To Spot Base Patterns
 date: 2012-06-05 16:32 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-how-to-spot-stock-patterns
 ---
 
 

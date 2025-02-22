@@ -4,6 +4,7 @@ title: >-
   Biggest Single-Day Point Loss May Signal Time To Sell
 date: 2014-10-03 18:22 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/biggest-single-day-point-loss-may-signal-time-to-sell
 ---
 
 

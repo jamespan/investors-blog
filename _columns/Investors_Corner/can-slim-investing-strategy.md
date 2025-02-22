@@ -4,6 +4,7 @@ title: >-
   How To Invest: Watch For New Products, New Management
 date: 2013-02-20 17:12 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/can-slim-investing-strategy
 ---
 
 

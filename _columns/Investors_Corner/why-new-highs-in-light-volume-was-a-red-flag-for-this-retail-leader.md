@@ -4,6 +4,7 @@ title: >-
   When To Sell Stocks: Why New Highs In Light Volume Were A Red Flag For This Retail Leader
 date: 2019-06-25 17:30 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-new-highs-in-light-volume-was-a-red-flag-for-this-retail-leader
 ---
 
 

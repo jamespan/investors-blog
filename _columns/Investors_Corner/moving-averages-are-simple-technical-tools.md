@@ -4,6 +4,7 @@ title: >-
   200-Day Moving Average Captures The Long-Term Trend
 date: 2012-07-19 16:20 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/moving-averages-are-simple-technical-tools
 ---
 
 

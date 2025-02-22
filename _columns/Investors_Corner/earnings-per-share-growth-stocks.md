@@ -4,6 +4,7 @@ title: >-
   Earnings Per Share: The Number One Influencer On Growth Stocks
 date: 2018-10-05 22:00 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/earnings-per-share-growth-stocks
 ---
 
 

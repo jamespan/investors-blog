@@ -4,6 +4,7 @@ title: >-
   This Chart Signal Predicted Nvidia's 200% Run In 2024
 date: 2025-01-03 08:35 -0800
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/nvidia-stock-portfolio-management
 ---
 
 

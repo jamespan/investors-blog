@@ -4,6 +4,7 @@ title: >-
   Flat Base Can Offer Earlier Alternative Buy Points
 date: 2014-08-12 18:55 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/flat-base-can-offer-earlier-alternative-buy-points
 ---
 
 

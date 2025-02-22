@@ -4,6 +4,7 @@ title: >-
   When Scouting For Stock Trades, Focus Only On Leaders
 date: 2012-10-04 16:38 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/leaders-have-top-fundamental-technicals-cmg-bjri
 ---
 
 

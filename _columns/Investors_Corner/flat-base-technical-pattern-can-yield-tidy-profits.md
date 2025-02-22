@@ -4,6 +4,7 @@ title: >-
   After A Breakout, A Flat Base Can Yield New Entry
 date: 2014-08-11 18:18 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/flat-base-technical-pattern-can-yield-tidy-profits
 ---
 
 

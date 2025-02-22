@@ -4,6 +4,7 @@ title: >-
   Check These IBD Stock Screens Daily To Land Breakouts
 date: 2015-11-09 17:10 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/daily-features-help-spot-breakouts
 ---
 
 

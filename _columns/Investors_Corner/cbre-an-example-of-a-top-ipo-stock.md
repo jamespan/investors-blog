@@ -4,6 +4,7 @@ title: >-
   CBRE's IPO Base Breakout In 2004 Led To 631% Gain
 date: 2015-04-21 17:41 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/cbre-an-example-of-a-top-ipo-stock
 ---
 
 

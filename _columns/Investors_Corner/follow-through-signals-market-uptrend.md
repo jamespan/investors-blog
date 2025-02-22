@@ -4,6 +4,7 @@ title: >-
   Stock Market Crash Always Precedes This Signal Of A New Market Bottom
 date: 2020-03-17 18:15 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/follow-through-signals-market-uptrend
 ---
 
 

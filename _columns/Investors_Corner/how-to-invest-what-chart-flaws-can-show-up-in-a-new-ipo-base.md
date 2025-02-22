@@ -4,6 +4,7 @@ title: >-
   How To Invest: What Chart Flaws Can Show Up In A New IPO Base?
 date: 2017-05-03 14:51 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-what-chart-flaws-can-show-up-in-a-new-ipo-base
 ---
 
 

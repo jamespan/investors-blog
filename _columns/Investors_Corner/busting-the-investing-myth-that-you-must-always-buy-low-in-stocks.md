@@ -4,6 +4,7 @@ title: >-
   Busting The Investing Myth That You Must Always Buy Low In Stocks
 date: 2016-09-19 16:36 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/busting-the-investing-myth-that-you-must-always-buy-low-in-stocks
 ---
 
 

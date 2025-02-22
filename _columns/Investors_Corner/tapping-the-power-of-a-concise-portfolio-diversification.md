@@ -4,6 +4,7 @@ title: >-
   How To Invest In The Top Stocks: Tapping The Power Of A Concise Portfolio
 date: 2019-04-18 08:15 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/tapping-the-power-of-a-concise-portfolio-diversification
 ---
 
 

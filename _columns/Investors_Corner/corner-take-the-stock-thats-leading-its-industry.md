@@ -4,6 +4,7 @@ title: >-
   Corner: Take The Stock That's Leading Its Industry
 date: 2011-10-12 17:31 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/corner-take-the-stock-thats-leading-its-industry
 ---
 
 

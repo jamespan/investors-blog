@@ -4,6 +4,7 @@ title: >-
   The Uncommon Ascending Base Can Yield Tidy Profits
 date: 2013-06-26 18:06 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ascending-base-stock-chart-pattern
 ---
 
 

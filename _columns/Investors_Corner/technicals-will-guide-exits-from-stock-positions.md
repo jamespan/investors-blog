@@ -4,6 +4,7 @@ title: >-
   Technicals Will Guide Your Exits From Stock Positions
 date: 2013-09-03 18:11 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/technicals-will-guide-exits-from-stock-positions
 ---
 
 

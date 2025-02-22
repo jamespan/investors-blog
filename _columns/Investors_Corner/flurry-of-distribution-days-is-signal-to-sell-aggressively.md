@@ -4,6 +4,7 @@ title: >-
   Distribution Day Pileup Means It's Time to Take Gains
 date: 2012-05-31 17:14 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/flurry-of-distribution-days-is-signal-to-sell-aggressively
 ---
 
 

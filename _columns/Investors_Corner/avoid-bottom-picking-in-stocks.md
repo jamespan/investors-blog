@@ -4,6 +4,7 @@ title: >-
   Three More Sins That Investors Shouldn't Commit
 date: 2015-08-27 16:41 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/avoid-bottom-picking-in-stocks
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Spot A Climax Run; Taser Provided An Example
 date: 2013-04-26 17:14 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/taser-in-2004-provided-climax-run-example
 ---
 
 

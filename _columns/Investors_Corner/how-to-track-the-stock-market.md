@@ -4,6 +4,7 @@ title: >-
   Learn To Invest: Four Ways To Stay Atop the Market
 date: 2013-09-16 16:40 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-track-the-stock-market
 ---
 
 

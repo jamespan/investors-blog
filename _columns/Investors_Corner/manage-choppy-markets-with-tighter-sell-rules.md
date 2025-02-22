@@ -4,6 +4,7 @@ title: >-
   CyberArk: A Quick Lesson In How To Tighten Sell Rules
 date: 2015-10-23 18:49 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/manage-choppy-markets-with-tighter-sell-rules
 ---
 
 

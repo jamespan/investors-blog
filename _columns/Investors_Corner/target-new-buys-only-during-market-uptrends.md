@@ -4,6 +4,7 @@ title: >-
   Healthy Market Critical For A Growth Stock's Success
 date: 2014-11-21 18:12 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/target-new-buys-only-during-market-uptrends
 ---
 
 

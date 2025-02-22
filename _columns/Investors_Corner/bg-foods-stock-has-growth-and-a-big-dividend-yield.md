@@ -4,6 +4,7 @@ title: >-
   Dividend Stocks Are Less Volatile, But Confirm Growth
 date: 2012-08-07 18:31 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/bg-foods-stock-has-growth-and-a-big-dividend-yield
 ---
 
 

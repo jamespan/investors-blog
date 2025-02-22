@@ -4,6 +4,7 @@ title: >-
   Do Stock Splits Still Deliver A Sting
 date: 2015-07-13 17:50 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-splits-are-fewer-and-extreme
 ---
 
 

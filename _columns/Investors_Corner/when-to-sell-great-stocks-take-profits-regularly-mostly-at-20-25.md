@@ -4,6 +4,7 @@ title: >-
   When To Sell Great Stocks: Take Profits Regularly, Mostly At 20%-25%
 date: 2017-07-11 18:45 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-sell-great-stocks-take-profits-regularly-mostly-at-20-25
 ---
 
 

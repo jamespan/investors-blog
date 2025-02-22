@@ -4,6 +4,7 @@ title: >-
   Creating A Stock Watch List Helps You Stay Prepared
 date: 2015-07-16 16:50 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-watch-lists-promote-sound-investing
 ---
 
 

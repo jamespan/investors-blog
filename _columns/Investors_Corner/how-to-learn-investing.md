@@ -4,6 +4,7 @@ title: >-
   IBD Workshops Can Take Investor To Next Level
 date: 2015-12-11 18:22 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-learn-investing
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Trade Stocks: Why The 10-Week Line Offers Follow-On Buy Points
 date: 2017-11-27 18:36 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-stocks-why-the-10-week-line-offers-follow-on-buy-points
 ---
 
 

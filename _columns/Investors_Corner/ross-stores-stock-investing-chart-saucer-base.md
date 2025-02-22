@@ -4,6 +4,7 @@ title: >-
   Invest Using Charts: Get Familiar With Saucer Base
 date: 2013-01-23 16:51 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ross-stores-stock-investing-chart-saucer-base
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Can You Score Big Profits In India Stocks? Yes, Here Are Some Ways
 date: 2017-12-15 12:30 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/profits-india-stocks-investing-etfs
 ---
 
 

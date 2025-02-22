@@ -4,6 +4,7 @@ title: >-
   How To Invest: A Good 2022 Begins With A Hard Look At Your 2021 Trades
 date: 2022-01-05 13:08 -0800
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-a-good-2022-begins-with-a-hard-look-at-your-2021-trades
 ---
 
 

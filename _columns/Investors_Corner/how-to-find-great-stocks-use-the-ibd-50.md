@@ -4,6 +4,7 @@ title: >-
   How To Find Great Stocks: Use The IBD 50
 date: 2015-03-05 18:32 -0800
 author: 
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-find-great-stocks-use-the-ibd-50
 ---
 
 

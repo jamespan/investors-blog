@@ -4,6 +4,7 @@ title: >-
   Stock Chart Skills: The Beauty Of A Symmetrical Base
 date: 2015-02-24 17:22 -0800
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-chart-skills-the-beauty-of-a-symmetrical-base
 ---
 
 

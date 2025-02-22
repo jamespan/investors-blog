@@ -4,6 +4,7 @@ title: >-
   Learn What To Look For In Market, Then Jump On It
 date: 2012-10-11 15:01 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-how-to-understand-stock-market
 ---
 
 

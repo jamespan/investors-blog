@@ -4,6 +4,7 @@ title: >-
   Ascending Base Is Rare, Hard To Find, Powerful
 date: 2013-01-18 17:33 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/aol-stock-market-investing-chart-base-pattern
 ---
 
 

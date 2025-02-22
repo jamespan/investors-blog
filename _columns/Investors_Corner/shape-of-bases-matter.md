@@ -4,6 +4,7 @@ title: >-
   How To Invest: Why The Shape Of Base Patterns Matter
 date: 2014-03-03 17:59 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/shape-of-bases-matter
 ---
 
 

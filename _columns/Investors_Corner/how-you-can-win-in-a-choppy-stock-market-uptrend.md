@@ -4,6 +4,7 @@ title: >-
   How You Can Win In A Choppy Stock Market Uptrend
 date: 2015-06-03 17:45 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-you-can-win-in-a-choppy-stock-market-uptrend
 ---
 
 

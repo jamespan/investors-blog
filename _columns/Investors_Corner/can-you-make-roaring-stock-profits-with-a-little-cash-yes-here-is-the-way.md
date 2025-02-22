@@ -4,6 +4,7 @@ title: >-
   How To Invest In Growth Stocks: Can You Make Big Profits With Just A Little Cash? Yes, Here's The Way
 date: 2019-09-23 18:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/can-you-make-roaring-stock-profits-with-a-little-cash-yes-here-is-the-way
 ---
 
 

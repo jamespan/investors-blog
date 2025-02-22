@@ -4,6 +4,7 @@ title: >-
   Base On Base Can Turn Frustration In Stocks Into Success On Second Try
 date: 2016-03-23 14:42 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/base-on-base-can-turn-frustration-into-success-on-second-try
 ---
 
 

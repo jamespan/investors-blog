@@ -4,6 +4,7 @@ title: >-
   Looking For A Winning Stock? Focus On EPS Growth In Recent Quarters
 date: 2016-03-03 13:21 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/looking-for-a-winning-stock-focus-on-eps-growth-in-recent-quarters
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   When To Sell: When A Big Gap Down In Price Means It's Time To Exit
 date: 2016-11-03 14:46 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-sell-when-a-big-gap-down-in-price-means-its-time-to-exit
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Reel In Price Target, Sell Rules In Rough Market
 date: 2012-11-05 17:27 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/reduce-profit-expectations-in-choppy-market
 ---
 
 

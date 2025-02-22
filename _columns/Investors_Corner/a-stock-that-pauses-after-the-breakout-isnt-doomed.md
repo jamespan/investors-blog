@@ -4,6 +4,7 @@ title: >-
   How To Invest: A Stock That Pauses After The Breakout Isn't Doomed
 date: 2017-04-28 17:00 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/a-stock-that-pauses-after-the-breakout-isnt-doomed
 ---
 
 

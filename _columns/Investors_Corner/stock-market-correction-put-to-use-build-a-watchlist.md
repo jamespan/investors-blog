@@ -4,6 +4,7 @@ title: >-
   Market Corrections Aren't Time To Sit Still; That's The Time To Build Watchlists
 date: 2022-08-03 08:00 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-correction-put-to-use-build-a-watchlist
 ---
 
 

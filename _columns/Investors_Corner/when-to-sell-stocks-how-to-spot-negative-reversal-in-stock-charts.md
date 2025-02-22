@@ -4,6 +4,7 @@ title: >-
   When To Sell Stocks: Is Your Big Winner About To Sell Off? Spot This Character Change
 date: 2023-06-22 08:00 -0700
 author: RACHEL FOX
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-sell-stocks-how-to-spot-negative-reversal-in-stock-charts
 ---
 
 

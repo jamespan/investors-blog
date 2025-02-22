@@ -4,6 +4,7 @@ title: >-
   Athenahealth Sizzles, Then Fizzles
 date: 2011-10-21 18:13 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/athenahealth-sizzles-then-fizzles
 ---
 
 

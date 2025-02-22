@@ -4,6 +4,7 @@ title: >-
   What Is A Blue Chip Stock?
 date: 2019-10-17 14:45 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/blue-chip-stock-dow-dia-warren-buffett
 ---
 
 

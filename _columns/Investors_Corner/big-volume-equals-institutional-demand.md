@@ -4,6 +4,7 @@ title: >-
   Volume Should Swell Above Average On The Breakout
 date: 2012-06-06 17:15 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/big-volume-equals-institutional-demand
 ---
 
 

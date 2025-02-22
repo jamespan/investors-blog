@@ -4,6 +4,7 @@ title: >-
   Distribution Days In Stock Indexes Come In Different Shapes And Sizes
 date: 2016-11-17 15:11 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/distribution-days-in-stock-indexes-come-in-different-shapes-and-sizes
 ---
 
 

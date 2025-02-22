@@ -4,6 +4,7 @@ title: >-
   Use Futures, Bond Sections To Grasp The Broad Picture
 date: 2012-03-13 17:27 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/futures-bond-sections-can-show-broad-picture
 ---
 
 

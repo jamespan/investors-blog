@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Hornstein On CAN SLIM
 date: 2011-05-05 16:07 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-hornstein-on-can-slim
 ---
 
 

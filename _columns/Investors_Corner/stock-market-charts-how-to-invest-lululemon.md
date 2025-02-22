@@ -4,6 +4,7 @@ title: >-
   Use Daily And Weekly Charts To Find Great Breakouts
 date: 2013-01-08 16:15 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-charts-how-to-invest-lululemon
 ---
 
 

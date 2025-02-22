@@ -4,6 +4,7 @@ title: >-
   How To Invest: Learn From Wise Market Sayings
 date: 2012-11-13 13:56 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/shaich-lynch-buffett-words-of-wisdom
 ---
 
 

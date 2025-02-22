@@ -4,6 +4,7 @@ title: >-
   When To Buy Growth Stocks: What To Do When A Sharp Pullback Follows The Breakout
 date: 2019-12-16 18:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-buy-growth-stocks-what-to-do-after-breakout-pullback
 ---
 
 

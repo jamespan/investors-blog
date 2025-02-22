@@ -4,6 +4,7 @@ title: >-
   Great Stocks: Upside Reversals Signal Fund Support
 date: 2015-03-04 18:06 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/oreillys-upside-reversals-preceded-big-run
 ---
 
 

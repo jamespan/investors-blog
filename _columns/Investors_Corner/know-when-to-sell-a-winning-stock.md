@@ -4,6 +4,7 @@ title: >-
   When A Market-Leading Stock Starts To Lag, Sell
 date: 2015-07-07 18:11 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/know-when-to-sell-a-winning-stock
 ---
 
 

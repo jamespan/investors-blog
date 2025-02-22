@@ -4,6 +4,7 @@ title: >-
   So, What Happened To Salesforce.com's Beautiful Breakout? A 2016 Market Lesson
 date: 2016-06-29 14:56 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/so-what-happened-to-salesforce-coms-beautiful-breakout-a-2016-market-lesson
 ---
 
 

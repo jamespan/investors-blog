@@ -4,6 +4,7 @@ title: >-
   All Stock Chart Bases Are Price Declines, But How Deep Is Too Deep?
 date: 2023-08-20 08:00 -0700
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/all-stock-chart-bases-are-price-declines-but-how-deep-is-too-deep
 ---
 
 

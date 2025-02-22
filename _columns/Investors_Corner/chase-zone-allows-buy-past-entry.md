@@ -4,6 +4,7 @@ title: >-
   Chase Zone Allows You To Buy A Stock Past Buy Point
 date: 2015-10-19 15:26 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/chase-zone-allows-buy-past-entry
 ---
 
 

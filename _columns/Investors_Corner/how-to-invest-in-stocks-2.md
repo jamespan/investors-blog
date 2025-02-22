@@ -4,6 +4,7 @@ title: >-
   Why Should You Use IBD's RS Rating?
 date: 2016-01-15 17:04 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-in-stocks-2
 ---
 
 

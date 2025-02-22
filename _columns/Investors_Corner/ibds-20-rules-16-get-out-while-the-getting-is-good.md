@@ -4,6 +4,7 @@ title: >-
   IBD's 20 Rules: #16 Get Out While The Getting Is Good
 date: 2011-10-04 15:35 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibds-20-rules-16-get-out-while-the-getting-is-good
 ---
 
 

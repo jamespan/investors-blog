@@ -4,6 +4,7 @@ title: >-
   Use 200-Day Line To Help Gauge When To Lock In Gains
 date: 2014-03-28 13:24 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/use-200-day-line-to-help-gauge-when-to-lock-in-gains
 ---
 
 

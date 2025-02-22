@@ -4,6 +4,7 @@ title: >-
   Spotting The Buy Point: Priceline In Early 2011
 date: 2012-05-17 16:52 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/spotting-the-buy-point-for-priceline-in-2011
 ---
 
 

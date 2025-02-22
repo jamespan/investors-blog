@@ -4,6 +4,7 @@ title: >-
   IBD Provides Tools To Help Investors Stalk A Breakout
 date: 2014-03-18 17:43 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-provide-tools-to-help-investors-stalk-breakout
 ---
 
 

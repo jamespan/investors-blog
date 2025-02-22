@@ -4,6 +4,7 @@ title: >-
   Why A Flawed Double-Bottom Base Is A Road To Ruin
 date: 2014-08-08 18:18 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-flawed-double-bottom-wide-and-loose
 ---
 
 

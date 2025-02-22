@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Follow-Throughs Sometimes Fail
 date: 2014-07-01 17:29 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/follow-through-signals-can-go-bad
 ---
 
 

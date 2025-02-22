@@ -4,6 +4,7 @@ title: >-
   A Savvy Investor Must Recognize Market Corrections
 date: 2013-12-03 17:31 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/savvy-investors-study-stock-market-corrections
 ---
 
 

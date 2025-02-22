@@ -4,6 +4,7 @@ title: >-
   Biggest One-Day Loss Is Red Flag For Market Leader
 date: 2013-05-13 17:36 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/biggest-one-day-loss-is-sell-signal
 ---
 
 

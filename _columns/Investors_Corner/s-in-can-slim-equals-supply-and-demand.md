@@ -4,6 +4,7 @@ title: >-
   The S In CAN SLIM: Look At Supply And Demand
 date: 2015-01-08 18:06 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/s-in-can-slim-equals-supply-and-demand
 ---
 
 

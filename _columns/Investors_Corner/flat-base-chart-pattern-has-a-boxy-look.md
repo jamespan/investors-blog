@@ -4,6 +4,7 @@ title: >-
   Why The Flat Base Sets A Leading Stock's Next Leg Up
 date: 2012-06-14 16:51 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/flat-base-chart-pattern-has-a-boxy-look
 ---
 
 

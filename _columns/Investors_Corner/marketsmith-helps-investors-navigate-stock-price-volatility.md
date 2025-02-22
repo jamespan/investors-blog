@@ -4,6 +4,7 @@ title: >-
   New Screen At MarketSmith Helps Investors Navigate Stock Price Volatility
 date: 2016-08-19 14:09 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/marketsmith-helps-investors-navigate-stock-price-volatility
 ---
 
 

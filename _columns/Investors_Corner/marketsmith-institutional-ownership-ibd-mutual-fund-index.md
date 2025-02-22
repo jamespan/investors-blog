@@ -4,6 +4,7 @@ title: >-
   How MarketSmith Tracks Institutional Sponsorship
 date: 2014-11-10 17:29 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/marketsmith-institutional-ownership-ibd-mutual-fund-index
 ---
 
 

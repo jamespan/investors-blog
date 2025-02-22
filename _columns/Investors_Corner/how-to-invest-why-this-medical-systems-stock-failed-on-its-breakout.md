@@ -4,6 +4,7 @@ title: >-
   How To Invest: Why This Medical Systems Stock Failed On Its Breakout
 date: 2016-05-05 14:02 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-why-this-medical-systems-stock-failed-on-its-breakout
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Stock Chart Reading: What Is Overhead Supply And Why You've Been Part Of It
 date: 2024-12-03 08:00 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-chart-reading-overhead-supply
 ---
 
 

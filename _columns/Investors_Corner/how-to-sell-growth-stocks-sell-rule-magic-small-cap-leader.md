@@ -4,6 +4,7 @@ title: >-
   When To Sell Growth Stocks: Why This Rule Worked Like Magic For This Small-Cap Leader
 date: 2024-11-06 08:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-sell-growth-stocks-sell-rule-magic-small-cap-leader
 ---
 
 

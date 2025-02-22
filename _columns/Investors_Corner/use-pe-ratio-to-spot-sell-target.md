@@ -4,6 +4,7 @@ title: >-
   Learn To Use Surging P-E Ratio To Spot A Sell Target
 date: 2013-05-03 17:51 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/use-pe-ratio-to-spot-sell-target
 ---
 
 

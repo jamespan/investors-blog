@@ -4,6 +4,7 @@ title: >-
   What To Buy: Why The Price-Earnings Ratio Is A Useless Indicator
 date: 2024-06-11 08:00 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/price-earnings-ratio-is-useless-stock-indicator
 ---
 
 

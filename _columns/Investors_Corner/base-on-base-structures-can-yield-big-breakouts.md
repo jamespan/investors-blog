@@ -4,6 +4,7 @@ title: >-
   Base-On-Base Patterns Signal Strength In A Down Market
 date: 2013-10-10 17:32 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/base-on-base-structures-can-yield-big-breakouts
 ---
 
 

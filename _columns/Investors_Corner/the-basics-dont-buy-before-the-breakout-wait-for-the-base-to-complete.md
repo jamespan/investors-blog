@@ -4,6 +4,7 @@ title: >-
   The Basics: Don't Buy Before The Breakout; Wait For The Base To Complete
 date: 2016-12-22 14:57 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-basics-dont-buy-before-the-breakout-wait-for-the-base-to-complete
 ---
 
 

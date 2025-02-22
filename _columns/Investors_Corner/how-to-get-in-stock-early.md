@@ -4,6 +4,7 @@ title: >-
   How To Invest: Shakeout + 3 Offers Early Entry
 date: 2014-02-13 17:34 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-get-in-stock-early
 ---
 
 

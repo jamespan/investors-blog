@@ -4,6 +4,7 @@ title: >-
   Facebook Rebounds From 2012 Disappointment
 date: 2013-12-23 17:01 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/facebook-has-solid-2013-performance
 ---
 
 

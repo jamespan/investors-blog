@@ -4,6 +4,7 @@ title: >-
   Before You Buy Growth Stocks, Seek Multiple Up Weeks In A Row On The Stock Chart
 date: 2019-09-01 14:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-when-to-buy-multiple-up-weeks-in-row-stock-chart
 ---
 
 

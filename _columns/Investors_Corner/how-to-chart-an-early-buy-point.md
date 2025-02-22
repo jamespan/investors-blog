@@ -4,6 +4,7 @@ title: >-
   Tips For Advanced Chart Readers: The Early Buy Point
 date: 2015-04-13 17:35 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-chart-an-early-buy-point
 ---
 
 

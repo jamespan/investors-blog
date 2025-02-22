@@ -4,6 +4,7 @@ title: >-
   Growth Stocks And Stock Charts: This Cup Base Had A Very Noticeable Flaw
 date: 2018-08-24 10:45 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-stock-charts-cup-base-flaw
 ---
 
 

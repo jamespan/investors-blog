@@ -4,6 +4,7 @@ title: >-
   A Bad Handle Is Bad News For The Unwary Investor
 date: 2015-09-24 15:52 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-a-bad-handle-in-a-base
 ---
 
 

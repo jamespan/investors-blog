@@ -4,6 +4,7 @@ title: >-
   How To Use the 10-Week Line To Sell Stocks Short
 date: 2016-01-07 17:34 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/short-selling-using-the-10-week
 ---
 
 

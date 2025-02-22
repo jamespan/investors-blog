@@ -4,6 +4,7 @@ title: >-
   Cool Stocks In Nervous Market Could Become Winners
 date: 2014-03-24 18:52 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-stocks-are-acting-right
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Dear Millennial Investor: Focus On What You Know, But Also The Stock Chart
 date: 2016-09-02 11:01 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dear-millennial-investor-focus-on-what-you-know-but-also-the-stock-chart
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Baidu Showed In 2007 How It Overcame Some Chart Flaws
 date: 2012-05-15 18:37 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-study-baidu-as-example-of-raw-power
 ---
 
 

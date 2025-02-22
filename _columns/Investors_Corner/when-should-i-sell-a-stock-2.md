@@ -4,6 +4,7 @@ title: >-
   Change In Stock's Character Says It's Time To Sell
 date: 2014-10-15 17:54 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-should-i-sell-a-stock-2
 ---
 
 

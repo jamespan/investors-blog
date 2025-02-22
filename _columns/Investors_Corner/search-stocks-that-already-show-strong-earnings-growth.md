@@ -4,6 +4,7 @@ title: >-
   Ignore Future Promises; Look For Strong Earnings Now
 date: 2012-07-26 16:01 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/search-stocks-that-already-show-strong-earnings-growth
 ---
 
 

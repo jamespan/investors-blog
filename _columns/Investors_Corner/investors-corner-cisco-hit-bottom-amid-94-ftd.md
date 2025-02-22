@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Cisco Hit Bottom Amid '94 FTD
 date: 2011-05-20 14:58 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-cisco-hit-bottom-amid-94-ftd
 ---
 
 

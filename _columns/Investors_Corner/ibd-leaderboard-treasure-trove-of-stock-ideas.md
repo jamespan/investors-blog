@@ -4,6 +4,7 @@ title: >-
   Leaderboard Is Educational, Informative, Actionable
 date: 2014-05-12 17:59 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-leaderboard-treasure-trove-of-stock-ideas
 ---
 
 

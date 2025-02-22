@@ -4,6 +4,7 @@ title: >-
   Follow The Leaders: IBD Helps You Find Best Stocks
 date: 2015-08-17 16:54 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/l-in-can-slim-stands-for-leaders
 ---
 
 

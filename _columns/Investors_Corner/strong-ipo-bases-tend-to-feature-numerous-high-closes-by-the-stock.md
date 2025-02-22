@@ -4,6 +4,7 @@ title: >-
   IPO Stocks And Good Bases Tend To Feature Numerous 'High Closes' By The Stock
 date: 2019-10-20 19:30 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/strong-ipo-bases-tend-to-feature-numerous-high-closes-by-the-stock
 ---
 
 

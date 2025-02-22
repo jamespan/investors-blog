@@ -4,6 +4,7 @@ title: >-
   A Shake-Your-Moneymaker Base: The High, Tight Flag
 date: 2012-06-18 17:57 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stalking-the-high-tight-flag-base
 ---
 
 

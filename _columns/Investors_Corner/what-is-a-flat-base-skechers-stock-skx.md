@@ -4,6 +4,7 @@ title: >-
   What Is A Flat Base? Why Does It Generate Flashy Profits? Skechers Scored Big With One
 date: 2022-07-27 08:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-a-flat-base-skechers-stock-skx
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Invest: In Stormy Market, Watch The RS Line
 date: 2015-02-17 17:45 -0800
 author: KEVIN HARLIN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-in-stormy-market-watch-the-rs-line
 ---
 
 

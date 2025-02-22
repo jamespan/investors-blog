@@ -4,6 +4,7 @@ title: >-
   Tom Wolfe, An Author With Exactly The Right Stuff
 date: 2013-12-16 13:43 -0800
 author: GEORGE NEUMAYR
+origin_url: https://www.investors.com/how-to-invest/investors-corner/tom-wolfe-defined-an-era-with-words-and-reporting
 ---
 
 

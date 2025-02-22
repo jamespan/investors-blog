@@ -4,6 +4,7 @@ title: >-
   How To Invest: Seeing A Bullish Pattern In Google IPO
 date: 2012-10-22 17:59 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/high-tight-flag-stock-chart-pattern
 ---
 
 

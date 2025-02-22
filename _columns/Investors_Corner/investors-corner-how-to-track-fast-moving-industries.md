@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: How To Track Fast-Moving Industries
 date: 2011-05-09 17:46 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-how-to-track-fast-moving-industries
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Why Facebook Is Tops In These 4 Fundamental Factors
 date: 2015-12-07 18:25 -0800
 author: 
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-stocks
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Chart Saved Traders From Longtop Fraud
 date: 2011-06-15 17:37 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-chart-saved-traders-from-longtop-fraud
 ---
 
 

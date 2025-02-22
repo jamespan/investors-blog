@@ -4,6 +4,7 @@ title: >-
   Using This IBD Tool Makes Stock Analysis Fast And Easy
 date: 2023-07-03 08:00 -0700
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/using-this-ibd-tool-makes-stock-analysis-easy
 ---
 
 

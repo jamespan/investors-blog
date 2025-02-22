@@ -4,6 +4,7 @@ title: >-
   How To Invest: Exercise Patience On Stock Buy Points
 date: 2012-11-23 17:32 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dont-buy-a-stock-too-early
 ---
 
 

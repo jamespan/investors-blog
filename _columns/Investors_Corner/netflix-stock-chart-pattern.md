@@ -4,6 +4,7 @@ title: >-
   This Bullish Chart Pattern Led To 39% Gain For Netflix Stock
 date: 2024-03-28 08:00 -0700
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/netflix-stock-chart-pattern
 ---
 
 

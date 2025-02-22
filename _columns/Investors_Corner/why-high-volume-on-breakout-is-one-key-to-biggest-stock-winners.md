@@ -4,6 +4,7 @@ title: >-
   Why High Volume On Breakout Is One Key To Biggest Stock Winners
 date: 2016-07-14 13:31 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-high-volume-on-breakout-is-one-key-to-biggest-stock-winners
 ---
 
 

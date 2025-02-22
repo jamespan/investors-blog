@@ -4,6 +4,7 @@ title: >-
   Sell Strategy Is Critical When You're Fully Invested
 date: 2013-03-07 14:18 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/selling-strategies-for-stocks-when-fully-invested
 ---
 
 

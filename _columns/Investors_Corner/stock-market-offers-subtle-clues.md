@@ -4,6 +4,7 @@ title: >-
   Subtle Clues Can Matter When A Stock Marks A Turn
 date: 2012-04-30 17:10 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-offers-subtle-clues
 ---
 
 

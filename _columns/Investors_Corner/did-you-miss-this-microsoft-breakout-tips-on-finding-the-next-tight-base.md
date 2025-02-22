@@ -4,6 +4,7 @@ title: >-
   Did You Miss This Microsoft Breakout? Tips On Finding The Next Tight Base
 date: 2017-11-17 16:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/did-you-miss-this-microsoft-breakout-tips-on-finding-the-next-tight-base
 ---
 
 

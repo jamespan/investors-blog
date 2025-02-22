@@ -4,6 +4,7 @@ title: >-
   SanDisk's Flaws After 2006 Breakout Signaled Trouble
 date: 2014-10-16 16:46 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/downside-reversals-after-breakout-a-warning-sign
 ---
 
 

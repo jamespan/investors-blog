@@ -4,6 +4,7 @@ title: >-
   Stock Out Of Buying Area? Watch For Flat Base To Form
 date: 2014-02-14 17:26 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/flat-bases-can-produce-powerful-breakouts
 ---
 
 

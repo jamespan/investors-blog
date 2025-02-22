@@ -4,6 +4,7 @@ title: >-
   Common Mistakes: Ignoring Market Trend Can Turn Investor's Gold To Lead
 date: 2016-05-25 13:48 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/common-mistakes-ignoring-market-trend-can-turn-investors-gold-to-lead
 ---
 
 

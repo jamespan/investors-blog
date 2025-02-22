@@ -4,6 +4,7 @@ title: >-
   How To Invest: Why You Should Avoid Late-Stage Bases
 date: 2013-07-16 16:34 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/late-stage-base-should-be-avoided
 ---
 
 

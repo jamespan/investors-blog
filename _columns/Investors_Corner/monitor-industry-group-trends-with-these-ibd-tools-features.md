@@ -4,6 +4,7 @@ title: >-
   Monitor Industry Group Trends With These IBD Tools, Features
 date: 2017-05-31 15:07 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/monitor-industry-group-trends-with-these-ibd-tools-features
 ---
 
 

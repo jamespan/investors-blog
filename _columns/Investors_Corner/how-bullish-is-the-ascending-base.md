@@ -4,6 +4,7 @@ title: >-
   Ascending Bases: Let's Go To The Instant Replay Tape
 date: 2013-10-11 17:12 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-bullish-is-the-ascending-base
 ---
 
 

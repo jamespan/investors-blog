@@ -4,6 +4,7 @@ title: >-
   How 10-Week, 50-Day Moving Averages Identify Buy, Sell Signals
 date: 2024-09-17 08:00 -0700
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/50-day-moving-average-identifies-buy-sell-signals
 ---
 
 

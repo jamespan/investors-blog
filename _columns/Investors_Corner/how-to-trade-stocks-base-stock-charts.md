@@ -4,6 +4,7 @@ title: >-
   How To Trade Stocks: What Is A Base? And How To Use Stock Charts To Win Big
 date: 2019-10-27 18:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-stocks-base-stock-charts
 ---
 
 

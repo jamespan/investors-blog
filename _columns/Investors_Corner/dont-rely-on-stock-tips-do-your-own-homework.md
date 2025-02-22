@@ -4,6 +4,7 @@ title: >-
   Don't Rely On Stock Tips; Do Your Own Homework
 date: 2011-11-08 15:46 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dont-rely-on-stock-tips-do-your-own-homework
 ---
 
 

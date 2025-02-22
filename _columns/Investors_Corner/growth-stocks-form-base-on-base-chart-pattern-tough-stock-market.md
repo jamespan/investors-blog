@@ -4,6 +4,7 @@ title: >-
   For Really Big Moves In Tough Markets, Two Bases Are Sometimes Better Than One
 date: 2019-11-13 11:01 -0800
 author: TERRY JONES
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-form-base-on-base-chart-pattern-tough-stock-market
 ---
 
 

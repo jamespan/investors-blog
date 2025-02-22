@@ -4,6 +4,7 @@ title: >-
   Learning To Short Can Improve Stock Selling Skills
 date: 2015-02-03 16:57 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/short-sales-improve-stock-selling
 ---
 
 

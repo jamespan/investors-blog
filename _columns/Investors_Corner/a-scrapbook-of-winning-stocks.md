@@ -4,6 +4,7 @@ title: >-
   A Scrapbook Of Winning Stocks Helps Investors Learn
 date: 2015-12-16 17:12 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/a-scrapbook-of-winning-stocks
 ---
 
 

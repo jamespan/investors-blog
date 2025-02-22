@@ -4,6 +4,7 @@ title: >-
   Don't Rush To Get Fully Invested In Top Stocks; Score A Profit First
 date: 2019-05-09 08:15 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dont-rush-to-get-fully-invested-score-a-profit-first
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Growth Stocks And How To Invest: Why It's Smart To Focus On Earnings Results
 date: 2019-08-07 08:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-when-to-buy-growth-stocks-earnings
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Invest: The Best Stocks Break Out Of Bases
 date: 2011-12-15 18:14 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/great-stocks-break-out-of-bases
 ---
 
 

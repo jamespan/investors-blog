@@ -4,6 +4,7 @@ title: >-
   Stock Market Timing And Charts: Boston Beer's Lesson On Calculating Corrections
 date: 2024-10-15 08:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-timing-how-to-use-stock-charts-calculating-corrections
 ---
 
 

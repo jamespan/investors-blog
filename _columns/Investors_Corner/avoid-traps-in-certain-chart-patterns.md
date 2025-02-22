@@ -4,6 +4,7 @@ title: >-
   Dumb Money Can Shape Short 'Bases' That Aren't Bases
 date: 2012-11-27 17:32 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/avoid-traps-in-certain-chart-patterns
 ---
 
 

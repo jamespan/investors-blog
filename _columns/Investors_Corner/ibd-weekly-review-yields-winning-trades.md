@@ -4,6 +4,7 @@ title: >-
   Study Of IBD's Your Weekly Review Reveals Big Winners
 date: 2014-05-09 14:44 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-weekly-review-yields-winning-trades
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Invest: Why Ultradeep Bases Are Scary Places
 date: 2013-07-12 17:23 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/avoid-very-deep-stock-bases
 ---
 
 

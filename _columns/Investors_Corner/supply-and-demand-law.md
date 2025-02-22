@@ -4,6 +4,7 @@ title: >-
   Pay Close Attention To A Stock's Supply And Demand
 date: 2013-02-21 17:24 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/supply-and-demand-law
 ---
 
 

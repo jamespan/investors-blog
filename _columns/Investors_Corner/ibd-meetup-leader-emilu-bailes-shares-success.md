@@ -4,6 +4,7 @@ title: >-
   Atlanta IBD Meetup Leader Shares Input With Rookies
 date: 2013-03-14 17:23 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-meetup-leader-emilu-bailes-shares-success
 ---
 
 

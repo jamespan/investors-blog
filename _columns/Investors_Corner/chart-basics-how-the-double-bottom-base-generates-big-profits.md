@@ -4,6 +4,7 @@ title: >-
   Chart Basics: How The Double Bottom Base Generates Big Profits
 date: 2017-02-13 15:04 -0800
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/chart-basics-how-the-double-bottom-base-generates-big-profits
 ---
 
 

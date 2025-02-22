@@ -4,6 +4,7 @@ title: >-
   Why Intuitive Surgical, Ping Identity Make MarketSmith's Growth 250 Near Pivot Stock List
 date: 2020-02-21 12:00 -0800
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stocks-to-watch-intuitive-surgical-ping-identity-join-this-stock-list
 ---
 
 

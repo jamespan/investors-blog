@@ -4,6 +4,7 @@ title: >-
   How To Sell Stocks: Scaling Out Of Losers In Phases
 date: 2024-09-30 08:00 -0700
 author: RACHEL FOX
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-sell-stocks-scaling-out-of-losers-in-phases
 ---
 
 

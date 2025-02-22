@@ -4,6 +4,7 @@ title: >-
   Insist On Seeing Symmetry In A Stock's Base
 date: 2015-10-01 17:56 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/symmetry-is-a-positive-in-a-base
 ---
 
 

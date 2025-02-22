@@ -4,6 +4,7 @@ title: >-
   Facebook Fends Off Critics; Fundamentals Intact With Healthy Chart
 date: 2018-06-03 07:40 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/facebook-stock-fundamentals-intact-bullish-chart
 ---
 
 

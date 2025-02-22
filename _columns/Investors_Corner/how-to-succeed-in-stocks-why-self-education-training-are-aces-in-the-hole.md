@@ -4,6 +4,7 @@ title: >-
   How To Succeed In Stocks: Why Self-Education, Training Are Aces In The Hole
 date: 2017-10-11 12:15 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-succeed-in-stocks-why-self-education-training-are-aces-in-the-hole
 ---
 
 

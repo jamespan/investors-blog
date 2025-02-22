@@ -4,6 +4,7 @@ title: >-
   In Some Cases, Modifying This Key Sell Rule Often Makes Sense
 date: 2017-08-25 16:00 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/in-some-cases-modifying-this-key-sell-rule-often-makes-sense
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Rule No. 15: Don't Invest Like A Central Planner
 date: 2011-10-03 17:04 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/rule-no-15-dont-invest-like-a-central-planner
 ---
 
 

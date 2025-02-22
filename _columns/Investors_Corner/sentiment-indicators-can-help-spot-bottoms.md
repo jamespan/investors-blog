@@ -4,6 +4,7 @@ title: >-
   Too Few Bulls Can Mark The Time To Buy
 date: 2014-05-16 17:21 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sentiment-indicators-can-help-spot-bottoms
 ---
 
 

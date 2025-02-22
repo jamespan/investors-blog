@@ -4,6 +4,7 @@ title: >-
   Common Investing Mistakes: Trying To Hit A Home Run At Every Bat
 date: 2016-05-19 16:22 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/common-investing-mistakes-trying-to-hit-a-home-run-at-every-bat
 ---
 
 

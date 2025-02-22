@@ -4,6 +4,7 @@ title: >-
   Great Stocks: AmTrust Led In 2014 But It Wasn't Easy
 date: 2015-01-14 17:05 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/amtrust-financial-offered-wild-ride
 ---
 
 

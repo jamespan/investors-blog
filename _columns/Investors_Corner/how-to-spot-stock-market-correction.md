@@ -4,6 +4,7 @@ title: >-
   How Can A Stock Investor React Fast To A Correction?
 date: 2015-05-11 18:06 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-spot-stock-market-correction
 ---
 
 

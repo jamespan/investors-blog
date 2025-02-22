@@ -4,6 +4,7 @@ title: >-
   V Doesn't Always Mean Victory In The Stock Market
 date: 2013-09-18 18:08 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/v-shaped-bases-are-prone-to-failure
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   A Drill Can Help Identify Right Time To Sell Leaders
 date: 2014-04-22 18:11 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-know-when-to-sell-stock
 ---
 
 

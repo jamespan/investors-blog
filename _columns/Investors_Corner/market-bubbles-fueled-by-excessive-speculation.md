@@ -4,6 +4,7 @@ title: >-
   Study Past Market Bubbles To Sidestep Them In The Future
 date: 2013-12-16 17:26 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/market-bubbles-fueled-by-excessive-speculation
 ---
 
 

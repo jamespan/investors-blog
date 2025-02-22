@@ -4,6 +4,7 @@ title: >-
   Bullish Stock Chart Patterns: Ascending Base Delivers
 date: 2015-03-27 18:27 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/good-stock-patterns
 ---
 
 

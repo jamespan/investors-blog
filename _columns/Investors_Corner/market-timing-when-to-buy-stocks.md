@@ -4,6 +4,7 @@ title: >-
   When To Buy Stocks: Do You Know The 3 Phases Of Market Timing?
 date: 2019-12-20 12:57 -0800
 author: RACHEL FOX
+origin_url: https://www.investors.com/how-to-invest/investors-corner/market-timing-when-to-buy-stocks
 ---
 
 

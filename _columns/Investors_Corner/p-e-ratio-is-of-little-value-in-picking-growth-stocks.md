@@ -4,6 +4,7 @@ title: >-
   Why The P/E Ratio Offers Little Value In Picking Stocks
 date: 2024-07-24 08:00 -0700
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/p-e-ratio-is-of-little-value-in-picking-growth-stocks
 ---
 
 

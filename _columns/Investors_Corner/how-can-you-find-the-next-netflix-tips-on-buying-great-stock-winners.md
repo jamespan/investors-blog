@@ -4,6 +4,7 @@ title: >-
   How Can You Find The Next Netflix? Tips On Buying Great Stock Winners
 date: 2017-10-05 14:33 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-can-you-find-the-next-netflix-tips-on-buying-great-stock-winners
 ---
 
 

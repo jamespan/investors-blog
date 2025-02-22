@@ -4,6 +4,7 @@ title: >-
   Trend Line Signaled Kors Was Going Out Of Style
 date: 2015-07-02 18:54 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/trend-line-break-signaled-kors-decline
 ---
 
 

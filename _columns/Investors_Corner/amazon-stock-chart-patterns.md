@@ -4,6 +4,7 @@ title: >-
   This Chart Pattern Launched Amazon's Big Run; How To Spot It
 date: 2024-03-22 08:00 -0700
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/amazon-stock-chart-patterns
 ---
 
 

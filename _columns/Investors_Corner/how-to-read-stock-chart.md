@@ -4,6 +4,7 @@ title: >-
   Trend Line Can Give Aggressive Entry Within Handle
 date: 2015-12-02 17:51 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-read-stock-chart
 ---
 
 

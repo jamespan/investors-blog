@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Use Checklist For Cup With Handle
 date: 2011-03-21 17:17 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-use-checklist-for-cup-with-handle
 ---
 
 

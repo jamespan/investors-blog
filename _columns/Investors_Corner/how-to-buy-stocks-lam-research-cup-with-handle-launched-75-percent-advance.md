@@ -4,6 +4,7 @@ title: >-
   How To Buy Stocks: Lam Research's Cup With Handle Launched A 75% Advance
 date: 2024-03-21 08:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-stocks-lam-research-cup-with-handle-launched-75-percent-advance
 ---
 
 

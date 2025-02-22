@@ -4,6 +4,7 @@ title: >-
   Distribution Days Signal A Market Top May Be Near
 date: 2015-05-08 18:59 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/distribution-days-signal-market-top-near
 ---
 
 

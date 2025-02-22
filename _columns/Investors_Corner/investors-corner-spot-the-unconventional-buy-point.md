@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Spot The Unconventional Buy Point
 date: 2011-08-08 17:23 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-spot-the-unconventional-buy-point
 ---
 
 

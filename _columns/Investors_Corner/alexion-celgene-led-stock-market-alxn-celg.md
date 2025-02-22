@@ -4,6 +4,7 @@ title: >-
   When Follow-Through Occurs, Watch Strong Industries
 date: 2012-12-10 17:29 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/alexion-celgene-led-stock-market-alxn-celg
 ---
 
 

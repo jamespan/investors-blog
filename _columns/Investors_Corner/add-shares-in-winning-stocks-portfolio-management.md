@@ -4,6 +4,7 @@ title: >-
   How To Invest: Average Up Carefully In Great Stocks
 date: 2012-02-03 17:52 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/add-shares-in-winning-stocks-portfolio-management
 ---
 
 

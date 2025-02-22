@@ -4,6 +4,7 @@ title: >-
   A Cup Doesn't Always Need A Handle To Work
 date: 2013-10-03 14:20 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/cups-with-no-handles-can-still-work
 ---
 
 

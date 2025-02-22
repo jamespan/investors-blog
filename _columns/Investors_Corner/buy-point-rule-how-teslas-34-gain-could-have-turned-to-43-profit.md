@@ -4,6 +4,7 @@ title: >-
   Buy Points Get A Historic Change. How Tesla's Stock Rally Started With The Correct Entry
 date: 2024-04-04 08:00 -0700
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/buy-point-rule-how-teslas-34-gain-could-have-turned-to-43-profit
 ---
 
 

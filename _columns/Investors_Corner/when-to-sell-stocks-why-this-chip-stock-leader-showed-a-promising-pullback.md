@@ -4,6 +4,7 @@ title: >-
   When To Sell Stocks: Why This Chip Stock Leader Showed A Promising Pullback
 date: 2017-11-13 17:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-sell-stocks-why-this-chip-stock-leader-showed-a-promising-pullback
 ---
 
 

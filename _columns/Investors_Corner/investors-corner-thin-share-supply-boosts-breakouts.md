@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Thin Share Supply Boosts Breakouts
 date: 2011-04-27 17:14 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-thin-share-supply-boosts-breakouts
 ---
 
 

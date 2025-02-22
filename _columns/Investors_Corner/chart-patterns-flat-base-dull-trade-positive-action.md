@@ -4,6 +4,7 @@ title: >-
   Chart Patterns 101: In A Flat Base, Dull Trade Can Be Positive Action
 date: 2023-01-11 08:00 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/chart-patterns-flat-base-dull-trade-positive-action
 ---
 
 

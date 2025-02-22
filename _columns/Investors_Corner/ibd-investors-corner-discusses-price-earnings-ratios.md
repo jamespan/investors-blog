@@ -4,6 +4,7 @@ title: >-
   How To Invest: Big Winners Often Sport High P-Es
 date: 2012-08-22 18:01 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-investors-corner-discusses-price-earnings-ratios
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   A Cup's Left Side Is No Place For Panic
 date: 2012-04-27 16:29 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/analyzing-left-side-of-good-cup-base
 ---
 
 

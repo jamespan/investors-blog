@@ -4,6 +4,7 @@ title: >-
   A Rating That Uncovers Big Buys By Big Investors
 date: 2016-01-19 17:25 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/accumulation-distribution-rating-helps
 ---
 
 

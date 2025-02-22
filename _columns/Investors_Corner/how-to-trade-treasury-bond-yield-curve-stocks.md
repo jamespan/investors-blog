@@ -4,6 +4,7 @@ title: >-
   How To Trade: Two Surprising Facts About The U.S. Treasury Bond Yield Curve
 date: 2018-12-04 12:00 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-treasury-bond-yield-curve-stocks
 ---
 
 

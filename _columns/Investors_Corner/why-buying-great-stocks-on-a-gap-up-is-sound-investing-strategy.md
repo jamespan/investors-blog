@@ -4,6 +4,7 @@ title: >-
   Why Mastercard Shows Buying Growth Stocks On A Gap-Up Is Sound Investing Strategy
 date: 2020-02-04 08:00 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/why-buying-great-stocks-on-a-gap-up-is-sound-investing-strategy
 ---
 
 

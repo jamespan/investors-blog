@@ -4,6 +4,7 @@ title: >-
   How To Invest: Rules, Not Emotions, Are Key To Wealth
 date: 2015-01-28 18:11 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/follow-stock-investing-rules
 ---
 
 

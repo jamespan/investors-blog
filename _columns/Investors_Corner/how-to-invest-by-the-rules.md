@@ -4,6 +4,7 @@ title: >-
   The Way You Heed Loss-Cutting Rules Matters
 date: 2014-04-10 17:30 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-by-the-rules
 ---
 
 

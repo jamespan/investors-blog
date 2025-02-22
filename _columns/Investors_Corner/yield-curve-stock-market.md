@@ -4,6 +4,7 @@ title: >-
   Cool It: LPL Research Shows Why Stock Gains Often Follow Yield Curve Inversion
 date: 2019-10-30 14:35 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/yield-curve-stock-market
 ---
 
 

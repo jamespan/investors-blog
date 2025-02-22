@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Smart Money Builds Tight Bases
 date: 2011-07-18 17:26 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-smart-money-builds-tight-bases
 ---
 
 

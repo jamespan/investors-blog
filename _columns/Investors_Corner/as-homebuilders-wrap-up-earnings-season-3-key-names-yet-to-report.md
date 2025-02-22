@@ -4,6 +4,7 @@ title: >-
   As Homebuilders Wrap Up Earnings Season, 3 Key Names Yet To Report
 date: 2017-07-31 19:00 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/as-homebuilders-wrap-up-earnings-season-3-key-names-yet-to-report
 ---
 
 

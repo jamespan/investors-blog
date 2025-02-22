@@ -4,6 +4,7 @@ title: >-
   Investing Shortcut Can Get You Up To Speed Quickly
 date: 2014-05-02 17:18 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-busy-people-can-invest-in-stocks
 ---
 
 

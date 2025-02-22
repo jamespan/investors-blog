@@ -4,6 +4,7 @@ title: >-
   Can You Outperform IBD Leaderboard? We Doubt It
 date: 2013-04-15 18:30 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-use-the-ibd-stock-leaderboard
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Use MarketSmith's Best Features: RS Line Blue Dot, Pattern Recognition, Industry Group Leadership
 date: 2023-06-29 08:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stocks-to-buy-and-watch-use-these-marketsmith-features-to-catch-stock-market-leaders
 ---
 
 

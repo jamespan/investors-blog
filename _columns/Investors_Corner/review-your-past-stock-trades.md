@@ -4,6 +4,7 @@ title: >-
   Reviewing Past Trades Reduces Errors, Boosts Returns
 date: 2015-04-30 18:22 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/review-your-past-stock-trades
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How Accelerating Earnings Growth Sets Apart This Chip Leader And Other Winning Stocks
 date: 2024-09-12 08:00 -0700
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/accelerating-earnings-growth-often-precedes-a-break-out
 ---
 
 

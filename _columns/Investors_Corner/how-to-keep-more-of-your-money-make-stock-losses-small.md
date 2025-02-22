@@ -4,6 +4,7 @@ title: >-
   How To Keep More Of Your Money? Make Stock Losses Small
 date: 2016-09-16 19:05 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-keep-more-of-your-money-make-stock-losses-small
 ---
 
 

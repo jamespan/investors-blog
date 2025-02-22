@@ -4,6 +4,7 @@ title: >-
   Why Not Every Break Of Support Is A Sell Signal
 date: 2025-01-29 08:00 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/palo-alto-vs-apple-why-not-every-break-of-support-is-a-sell-signal
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   A Fast Start Is A Clue To A Hot Stock's Long Advance
 date: 2015-09-03 17:11 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/eight-week-hold-rule-keeps-winners
 ---
 
 

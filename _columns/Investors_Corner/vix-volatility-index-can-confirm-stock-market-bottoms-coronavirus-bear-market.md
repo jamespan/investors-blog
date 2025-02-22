@@ -4,6 +4,7 @@ title: >-
   How To Invest: Use The VIX To Measure Fear And Confirm Key Stock Market Bottoms
 date: 2024-06-03 08:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/vix-volatility-index-can-confirm-stock-market-bottoms-coronavirus-bear-market
 ---
 
 

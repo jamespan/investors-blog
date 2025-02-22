@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Use Weekly Screens To Keep Focus
 date: 2011-05-16 17:19 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-use-weekly-screens-to-keep-focus
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Look Out When Industry Group Peers Are Falling
 date: 2014-09-24 17:18 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/look-out-when-industry-group-peers-are-falling
 ---
 
 

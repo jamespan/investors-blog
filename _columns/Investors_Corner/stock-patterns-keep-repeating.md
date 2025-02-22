@@ -4,6 +4,7 @@ title: >-
   Study The Past To Gain Insight Into Future Leaders
 date: 2013-12-09 18:28 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-patterns-keep-repeating
 ---
 
 

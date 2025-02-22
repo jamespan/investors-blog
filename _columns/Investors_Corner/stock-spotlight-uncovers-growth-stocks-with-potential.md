@@ -4,6 +4,7 @@ title: >-
   IBD Growth Screen Casts Spotlight On Emerging Leaders
 date: 2013-11-12 17:02 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-spotlight-uncovers-growth-stocks-with-potential
 ---
 
 

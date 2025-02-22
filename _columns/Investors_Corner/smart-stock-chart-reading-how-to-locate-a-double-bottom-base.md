@@ -4,6 +4,7 @@ title: >-
   Smart Chart Reading: How To Locate A Double-Bottom Base
 date: 2016-06-13 14:43 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/smart-stock-chart-reading-how-to-locate-a-double-bottom-base
 ---
 
 

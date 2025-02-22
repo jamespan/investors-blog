@@ -4,6 +4,7 @@ title: >-
   Corner: Top Industries Speak Up On The Economy
 date: 2011-10-14 17:08 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/corner-top-industries-speak-up-on-the-economy
 ---
 
 

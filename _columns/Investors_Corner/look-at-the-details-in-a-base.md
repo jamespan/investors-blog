@@ -4,6 +4,7 @@ title: >-
   Two Great Bases Charles Schwab Built In The 1990s
 date: 2015-10-13 17:22 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/look-at-the-details-in-a-base
 ---
 
 

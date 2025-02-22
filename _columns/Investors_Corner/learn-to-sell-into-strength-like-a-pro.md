@@ -4,6 +4,7 @@ title: >-
   Learn To Sell Winners In Hastily Formed V-Shape Bases
 date: 2012-05-23 17:39 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-to-sell-into-strength-like-a-pro
 ---
 
 

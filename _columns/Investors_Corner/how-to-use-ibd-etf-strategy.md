@@ -4,6 +4,7 @@ title: >-
   Use IBD's ETF Market Strategy To Calibrate Portfolio
 date: 2014-07-28 18:03 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-use-ibd-etf-strategy
 ---
 
 

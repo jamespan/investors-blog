@@ -4,6 +4,7 @@ title: >-
   Add-On Stock Buy Is Useful Tool In Imperfect World
 date: 2015-10-20 16:09 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-build-stock-position
 ---
 
 

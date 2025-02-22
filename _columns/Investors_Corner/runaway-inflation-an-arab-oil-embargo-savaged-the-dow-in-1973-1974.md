@@ -4,6 +4,7 @@ title: >-
   How Runaway Inflation, Arab Oil Embargo Savaged The Dow In 1973-1974
 date: 2016-05-20 15:52 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/runaway-inflation-an-arab-oil-embargo-savaged-the-dow-in-1973-1974
 ---
 
 

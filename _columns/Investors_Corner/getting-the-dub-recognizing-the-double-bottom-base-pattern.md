@@ -4,6 +4,7 @@ title: >-
   Getting The Dub: Recognizing The Double-Bottom Base Pattern
 date: 2024-07-08 08:35 -0700
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/getting-the-dub-recognizing-the-double-bottom-base-pattern
 ---
 
 

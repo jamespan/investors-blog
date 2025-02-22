@@ -4,6 +4,7 @@ title: >-
   How To Think About Debt Levels When You Pick Stocks
 date: 2013-03-27 16:41 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/evaluating-stocks-debt-levels-when-investing
 ---
 
 

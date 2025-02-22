@@ -4,6 +4,7 @@ title: >-
   When To Sell Stocks: Watch For Sharp Cut Of 200-Day Moving Average After A Big Run
 date: 2019-05-17 19:55 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-sell-stocks-200-day-moving-average
 ---
 
 

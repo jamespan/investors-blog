@@ -4,6 +4,7 @@ title: >-
   Make Sure Your Stock Has Institutional Backing
 date: 2015-08-18 17:12 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/professionals-move-stock-prices
 ---
 
 

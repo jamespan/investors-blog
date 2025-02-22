@@ -4,6 +4,7 @@ title: >-
   Check IBD's Premium Research Platform To Master Stock Market
 date: 2025-02-05 08:00 -0800
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-research-charting-tools
 ---
 
 

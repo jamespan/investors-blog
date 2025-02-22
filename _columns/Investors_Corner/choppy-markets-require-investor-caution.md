@@ -4,6 +4,7 @@ title: >-
   It's Keen To Exercise Caution In Choppy Markets
 date: 2013-12-06 17:15 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/choppy-markets-require-investor-caution
 ---
 
 

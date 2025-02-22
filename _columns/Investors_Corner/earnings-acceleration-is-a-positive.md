@@ -4,6 +4,7 @@ title: >-
   Pay Attention To Companies With Accelerating Growth
 date: 2013-04-29 17:46 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/earnings-acceleration-is-a-positive
 ---
 
 

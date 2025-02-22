@@ -4,6 +4,7 @@ title: >-
   To Lock In Big Gains, Look For Negative Reversal
 date: 2014-09-30 18:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-sell-stocks
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Why You Should Pay Close Attention To The 5% Buy Zone After A Breakout
 date: 2022-05-11 08:00 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/buy-zone-gives-investors-chance-to-buy-top-stocks-beyond-breakout
 ---
 
 

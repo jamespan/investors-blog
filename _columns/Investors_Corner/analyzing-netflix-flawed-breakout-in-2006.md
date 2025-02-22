@@ -4,6 +4,7 @@ title: >-
   Finding Flaws In The Familiar Cup-With-Handle Base
 date: 2013-11-07 17:37 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/analyzing-netflix-flawed-breakout-in-2006
 ---
 
 

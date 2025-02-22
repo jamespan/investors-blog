@@ -4,6 +4,7 @@ title: >-
   Watch Out When Distribution Days Stack Up
 date: 2013-05-17 17:57 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/be-wary-of-investing-pitfalls
 ---
 
 

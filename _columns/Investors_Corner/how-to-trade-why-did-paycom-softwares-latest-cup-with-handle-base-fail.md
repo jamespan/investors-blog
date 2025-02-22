@@ -4,6 +4,7 @@ title: >-
   Paycom Software Formed A Cup With Handle In 2016; Can You Spot The Flaw?
 date: 2019-12-04 08:25 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-why-did-paycom-softwares-latest-cup-with-handle-base-fail
 ---
 
 

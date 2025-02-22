@@ -4,6 +4,7 @@ title: >-
   How To Trade Top Stocks: Find These Positive Elements Of A Base
 date: 2024-10-24 18:00 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-growth-stocks-positive-elements-of-a-base
 ---
 
 

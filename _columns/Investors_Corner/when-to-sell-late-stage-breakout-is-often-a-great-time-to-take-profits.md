@@ -4,6 +4,7 @@ title: >-
   When To Sell: Late-Stage Breakout Is Often A Great Time To Take Profits
 date: 2016-09-27 13:46 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-sell-late-stage-breakout-is-often-a-great-time-to-take-profits
 ---
 
 

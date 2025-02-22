@@ -4,6 +4,7 @@ title: >-
   Five Investing Pitfalls To Avoid In A Down Market
 date: 2014-10-22 17:01 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/avoid-buying-stocks-during-market-downtrends
 ---
 
 

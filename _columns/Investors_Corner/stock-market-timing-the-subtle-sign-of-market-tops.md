@@ -4,6 +4,7 @@ title: >-
   Stock Market Timing: The Subtle Sign Of Market Tops
 date: 2024-11-12 08:00 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-timing-the-subtle-sign-of-market-tops
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Find The First Buy Point In IPO Stocks
 date: 2024-12-05 08:00 -0800
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ipo-stocks-how-to-trade-new-issues-using-this-first-buy-point
 ---
 
 

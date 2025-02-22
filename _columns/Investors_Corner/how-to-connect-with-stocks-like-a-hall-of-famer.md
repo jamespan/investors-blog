@@ -4,6 +4,7 @@ title: >-
   How To Connect With Stocks Like A Hall Of Famer
 date: 2016-08-12 13:13 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-connect-with-stocks-like-a-hall-of-famer
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Smart Stock Investing: Invest Time In Learning The Cup With Handle
 date: 2016-06-09 17:44 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/smart-stock-investing-invest-time-in-learning-the-cup-with-handle
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Sherwin-Williams Beats Valspar As Top '12 Paint Stock
 date: 2013-01-02 16:37 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sherwin-williams-growth-stock-valspar-paint-coating
 ---
 
 

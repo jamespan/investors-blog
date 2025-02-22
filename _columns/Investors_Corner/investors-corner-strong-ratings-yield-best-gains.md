@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Strong Ratings Yield Best Gains
 date: 2011-05-03 16:26 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-strong-ratings-yield-best-gains
 ---
 
 

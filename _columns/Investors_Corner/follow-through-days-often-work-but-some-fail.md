@@ -4,6 +4,7 @@ title: >-
   Choppy Action After Follow-Through Day? Be Defensive
 date: 2014-07-08 16:20 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/follow-through-days-often-work-but-some-fail
 ---
 
 

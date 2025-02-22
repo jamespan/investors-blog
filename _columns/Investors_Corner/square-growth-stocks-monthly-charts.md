@@ -4,6 +4,7 @@ title: >-
   Square, Growth Stocks And Monthly Charts: How This Tool Gives A Critical Third Eye
 date: 2018-10-05 11:25 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/square-growth-stocks-monthly-charts
 ---
 
 

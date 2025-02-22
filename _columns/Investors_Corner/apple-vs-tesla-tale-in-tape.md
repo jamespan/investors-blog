@@ -4,6 +4,7 @@ title: >-
   Apple Vs. Tesla And The Attack By Consumer Reports
 date: 2015-11-16 17:39 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/apple-vs-tesla-tale-in-tape
 ---
 
 

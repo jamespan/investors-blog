@@ -4,6 +4,7 @@ title: >-
   A Stock Sinks Below Its Buy Point; When Should You Get Back In?
 date: 2017-06-21 18:46 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/a-stock-sinks-below-its-buy-point-when-should-you-get-back-in
 ---
 
 

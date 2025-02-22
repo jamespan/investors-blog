@@ -4,6 +4,7 @@ title: >-
   Five Ways To Spot The Base On Base, A Bullish Pattern In Growth Stocks
 date: 2023-12-28 08:00 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/five-ways-to-spot-the-bullish-base-on-base-stock-pattern
 ---
 
 

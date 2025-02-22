@@ -4,6 +4,7 @@ title: >-
   Dividend Investing: This REIT Focuses On Millennials — And On Baby Boomers
 date: 2018-11-15 13:38 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dividend-investing-reit-millennials-baby-boomers
 ---
 
 

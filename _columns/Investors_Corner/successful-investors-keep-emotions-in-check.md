@@ -4,6 +4,7 @@ title: >-
   Curbing Emotions Is Key To Successful Investing
 date: 2014-05-15 16:28 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/successful-investors-keep-emotions-in-check
 ---
 
 

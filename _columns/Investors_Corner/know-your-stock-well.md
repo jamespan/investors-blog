@@ -4,6 +4,7 @@ title: >-
   Having Conviction Can Help You Hold A Great Stock
 date: 2015-07-17 17:38 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/know-your-stock-well
 ---
 
 

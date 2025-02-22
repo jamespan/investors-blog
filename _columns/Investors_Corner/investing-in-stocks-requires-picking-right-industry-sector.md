@@ -4,6 +4,7 @@ title: >-
   How To Use Industry Data To Select Winning Stocks
 date: 2024-03-20 12:30 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investing-in-stocks-requires-picking-right-industry-sector
 ---
 
 

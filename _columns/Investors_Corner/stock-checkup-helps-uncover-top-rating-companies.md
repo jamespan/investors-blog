@@ -4,6 +4,7 @@ title: >-
   Stock Checkup Helps Uncover Top-Rated Companies In A Specific industry
 date: 2016-01-28 13:01 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-checkup-helps-uncover-top-rating-companies
 ---
 
 

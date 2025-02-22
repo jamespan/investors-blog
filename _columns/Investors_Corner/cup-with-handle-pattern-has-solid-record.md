@@ -4,6 +4,7 @@ title: >-
   Historical Cup Bases: A Treasure Trove Of Information
 date: 2013-09-30 17:46 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/cup-with-handle-pattern-has-solid-record
 ---
 
 

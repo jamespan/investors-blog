@@ -4,6 +4,7 @@ title: >-
   How To Invest: Know The Standards For Winning Bases
 date: 2015-03-11 18:19 -0700
 author: ANDREW EDWARDS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-improve-chart-reading
 ---
 
 

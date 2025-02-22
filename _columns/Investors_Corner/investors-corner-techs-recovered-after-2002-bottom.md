@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Techs Recovered After 2002 Bottom
 date: 2011-05-24 17:44 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-techs-recovered-after-2002-bottom
 ---
 
 

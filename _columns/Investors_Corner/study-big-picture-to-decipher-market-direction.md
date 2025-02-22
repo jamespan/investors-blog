@@ -4,6 +4,7 @@ title: >-
   How To Invest: Big Picture Maps The Market Direction
 date: 2011-11-30 15:47 -0800
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/study-big-picture-to-decipher-market-direction
 ---
 
 

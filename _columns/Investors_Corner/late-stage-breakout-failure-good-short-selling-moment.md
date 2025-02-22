@@ -4,6 +4,7 @@ title: >-
   Late-Stage Breakout Failure? Good Short Selling Moment
 date: 2016-01-05 16:45 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/late-stage-breakout-failure-good-short-selling-moment
 ---
 
 

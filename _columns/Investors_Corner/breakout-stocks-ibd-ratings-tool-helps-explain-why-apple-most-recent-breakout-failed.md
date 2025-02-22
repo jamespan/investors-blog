@@ -4,6 +4,7 @@ title: >-
   This IBD Rating Helps Explain Why Apple's 2021 Breakout Failed
 date: 2024-07-10 08:00 -0700
 author: RACHEL FOX
+origin_url: https://www.investors.com/how-to-invest/investors-corner/breakout-stocks-ibd-ratings-tool-helps-explain-why-apple-most-recent-breakout-failed
 ---
 
 

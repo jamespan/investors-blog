@@ -4,6 +4,7 @@ title: >-
   Knowing Your Style Is Important To Investing Success
 date: 2015-08-31 15:25 -0700
 author: LEONID BERSHIDSKY
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-improve-stock-trades
 ---
 
 

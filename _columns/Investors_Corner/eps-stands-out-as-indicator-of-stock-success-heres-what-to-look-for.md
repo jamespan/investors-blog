@@ -4,6 +4,7 @@ title: >-
   How To Invest: Use This Proprietary Rating To Decipher A Stock's Value
 date: 2024-09-10 08:00 -0700
 author: DOMINIC GESSEL
+origin_url: https://www.investors.com/how-to-invest/investors-corner/eps-stands-out-as-indicator-of-stock-success-heres-what-to-look-for
 ---
 
 

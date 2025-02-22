@@ -4,6 +4,7 @@ title: >-
   How To Stalk Breakouts With Stocks On The Move Tables
 date: 2012-03-07 17:11 -0800
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/find-winners-with-stocks-on-the-move-feature
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   View, Use IBD's Key Stock Ratings In Light Of The Market
 date: 2015-06-05 14:52 -0700
 author: 
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-stocks-using-ibd-ratings
 ---
 
 

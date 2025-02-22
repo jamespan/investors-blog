@@ -4,6 +4,7 @@ title: >-
   The M In CAN SLIM Says Don't Get Trumped By The Market
 date: 2015-08-19 17:19 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learning-to-mind-the-market
 ---
 
 

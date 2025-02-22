@@ -4,6 +4,7 @@ title: >-
   Great Stocks Of 2013: LinkedIn Kicked Off A Big Year
 date: 2013-12-19 16:17 -0800
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/linkedin-formed-cup-with-handle-base
 ---
 
 

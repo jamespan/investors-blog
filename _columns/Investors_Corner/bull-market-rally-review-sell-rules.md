@@ -4,6 +4,7 @@ title: >-
   Why A Bull Market Rally Is The Time To Review Your Stock-Selling Smarts
 date: 2018-01-05 10:59 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/bull-market-rally-review-sell-rules
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Earlier Stage Bases Tend To Yield The Biggest Gains
 date: 2014-03-06 16:01 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/earlier-stage-bases-tend-to-yield-biggest-gains
 ---
 
 

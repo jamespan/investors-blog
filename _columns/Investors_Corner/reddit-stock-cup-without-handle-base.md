@@ -4,6 +4,7 @@ title: >-
   When Was Best Time To Buy Reddit Stock Before 145% Surge? This Pattern Told When
 date: 2025-01-24 08:00 -0800
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/reddit-stock-cup-without-handle-base
 ---
 
 

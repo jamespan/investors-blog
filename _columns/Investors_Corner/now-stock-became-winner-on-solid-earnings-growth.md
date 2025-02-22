@@ -4,6 +4,7 @@ title: >-
   Check This to Avoid Bubble Trap: How Solid Earnings Made ServiceNow A Winner
 date: 2024-11-05 08:00 -0800
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/now-stock-became-winner-on-solid-earnings-growth
 ---
 
 

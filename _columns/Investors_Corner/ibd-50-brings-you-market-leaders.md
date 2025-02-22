@@ -4,6 +4,7 @@ title: >-
   Turn To The IBD 50 For Potential Trade Ideas
 date: 2014-05-06 18:50 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-50-brings-you-market-leaders
 ---
 
 

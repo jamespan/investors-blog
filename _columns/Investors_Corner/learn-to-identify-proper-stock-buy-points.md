@@ -4,6 +4,7 @@ title: >-
   Sky Diving And Buy Points: The Moment Of Commitment
 date: 2012-05-14 18:25 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-to-identify-proper-stock-buy-points
 ---
 
 

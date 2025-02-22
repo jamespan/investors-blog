@@ -4,6 +4,7 @@ title: >-
   A Big Shakeout Can Create A Key Buying Opportunity
 date: 2012-05-10 18:10 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/liquidity-services-had-big-shakeout-in-december
 ---
 
 

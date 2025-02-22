@@ -4,6 +4,7 @@ title: >-
   Don't Play A Fund Like A Stock: You Will Fail
 date: 2012-08-03 17:11 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/fund-investing-is-different-than-picking-stocks
 ---
 
 

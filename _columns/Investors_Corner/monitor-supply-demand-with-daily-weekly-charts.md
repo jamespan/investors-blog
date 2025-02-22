@@ -4,6 +4,7 @@ title: >-
   Use Daily, Weekly Charts To See Institutional Buying
 date: 2014-11-11 17:23 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/monitor-supply-demand-with-daily-weekly-charts
 ---
 
 

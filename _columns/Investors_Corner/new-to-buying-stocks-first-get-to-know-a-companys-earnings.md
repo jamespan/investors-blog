@@ -4,6 +4,7 @@ title: >-
   New To Buying Stocks? First, Get To Know A Company's Earnings
 date: 2016-02-29 13:34 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/new-to-buying-stocks-first-get-to-know-a-companys-earnings
 ---
 
 

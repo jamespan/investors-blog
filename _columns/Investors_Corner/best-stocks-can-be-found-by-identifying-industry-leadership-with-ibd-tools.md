@@ -4,6 +4,7 @@ title: >-
   Best Stocks Can Be Found By Identifying Industry Leadership With IBD Tools
 date: 2022-11-04 08:00 -0700
 author: MICHAEL MOLINSKI
+origin_url: https://www.investors.com/how-to-invest/investors-corner/best-stocks-can-be-found-by-identifying-industry-leadership-with-ibd-tools
 ---
 
 

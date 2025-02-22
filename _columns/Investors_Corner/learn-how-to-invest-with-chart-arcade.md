@@ -4,6 +4,7 @@ title: >-
   Chart Arcade Takes Pain Out Of Learning How To Invest
 date: 2012-11-07 17:24 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/learn-how-to-invest-with-chart-arcade
 ---
 
 

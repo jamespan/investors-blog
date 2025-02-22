@@ -4,6 +4,7 @@ title: >-
   How To Invest: Watch Out For Crashing Industry Leaders
 date: 2012-08-29 16:01 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-sell-like-a-pro
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Understand The Link Between Leading Industry Groups And Fantastic Stocks
 date: 2016-09-09 09:32 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/understanding-the-link-between-industry-groups-and-institutional-investors
 ---
 
 

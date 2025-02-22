@@ -4,6 +4,7 @@ title: >-
   Looking For Great Stocks? First Use A Checklist To Identify Great Bases
 date: 2019-06-18 08:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-use-a-checklist-to-identify-great-bases
 ---
 
 

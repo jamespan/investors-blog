@@ -4,6 +4,7 @@ title: >-
   Base-On-Base Pattern Is More Powerful Than It Looks
 date: 2013-01-16 18:01 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/base-on-base-stock-patterns-produce-gains
 ---
 
 

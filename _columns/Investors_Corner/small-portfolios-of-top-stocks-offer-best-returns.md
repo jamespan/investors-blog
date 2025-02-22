@@ -4,6 +4,7 @@ title: >-
   Concentration, Not Diversification, Brings Big Profits
 date: 2012-06-25 17:36 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/small-portfolios-of-top-stocks-offer-best-returns
 ---
 
 

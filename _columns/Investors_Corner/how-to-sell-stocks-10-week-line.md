@@ -4,6 +4,7 @@ title: >-
   How To Sell Stocks: Use This Signal To Lock In Gains Before It's Too Late
 date: 2024-09-27 08:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-sell-stocks-10-week-line
 ---
 
 

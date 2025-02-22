@@ -4,6 +4,7 @@ title: >-
   Peak Moments In Base Could Lead To Stock 'Aria'
 date: 2014-03-07 15:57 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-to-look-for-in-stock-chart-2
 ---
 
 

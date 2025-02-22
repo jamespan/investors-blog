@@ -4,6 +4,7 @@ title: >-
   Corner: Wild Swings In A Base Often Mark The Peak
 date: 2011-03-09 16:15 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/corner-wild-swings-in-a-base-often-mark-the-peak
 ---
 
 

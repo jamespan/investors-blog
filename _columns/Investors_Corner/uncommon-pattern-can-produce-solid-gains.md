@@ -4,6 +4,7 @@ title: >-
   Rare High, Tight Flag Can Lead To Big Gains
 date: 2013-07-01 17:52 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/uncommon-pattern-can-produce-solid-gains
 ---
 
 

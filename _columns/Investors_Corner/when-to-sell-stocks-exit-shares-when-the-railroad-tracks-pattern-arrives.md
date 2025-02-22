@@ -4,6 +4,7 @@ title: >-
   When To Sell Stocks: Exit Shares When The Railroad Tracks Pattern Arrives
 date: 2018-12-14 13:45 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-sell-stocks-exit-shares-when-the-railroad-tracks-pattern-arrives
 ---
 
 

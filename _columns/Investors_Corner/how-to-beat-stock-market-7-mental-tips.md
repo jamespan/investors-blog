@@ -4,6 +4,7 @@ title: >-
   How To Beat The Stock Market: Try These Seven Mental Trading Tips
 date: 2024-04-10 08:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-beat-stock-market-7-mental-tips
 ---
 
 

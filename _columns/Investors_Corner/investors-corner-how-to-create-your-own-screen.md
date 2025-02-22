@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: How To Create Your Own Screen
 date: 2011-05-13 17:17 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-how-to-create-your-own-screen
 ---
 
 

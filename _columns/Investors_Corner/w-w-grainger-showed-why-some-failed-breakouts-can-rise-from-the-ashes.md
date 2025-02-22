@@ -4,6 +4,7 @@ title: >-
   W.W. Grainger Showed Why Some Failed Breakouts Can Rise From The Ashes
 date: 2016-08-31 12:40 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/w-w-grainger-showed-why-some-failed-breakouts-can-rise-from-the-ashes
 ---
 
 

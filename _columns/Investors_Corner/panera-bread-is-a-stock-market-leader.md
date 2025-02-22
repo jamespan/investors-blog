@@ -4,6 +4,7 @@ title: >-
   How To Trade: Base On Base Pattern Fuels Big Gains
 date: 2012-10-17 17:13 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/panera-bread-is-a-stock-market-leader
 ---
 
 

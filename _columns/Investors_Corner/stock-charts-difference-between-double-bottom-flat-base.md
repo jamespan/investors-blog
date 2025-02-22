@@ -4,6 +4,7 @@ title: >-
   In Growth Stocks, Here's When A Double Bottom Can Look Like Another Chart Pattern
 date: 2019-10-05 14:00 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-charts-difference-between-double-bottom-flat-base
 ---
 
 

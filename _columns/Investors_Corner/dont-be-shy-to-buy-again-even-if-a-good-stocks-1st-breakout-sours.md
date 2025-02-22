@@ -4,6 +4,7 @@ title: >-
   Don't Shy Away From A Rebuy Even If A Good Stock's 1st Breakout Sours
 date: 2016-08-09 13:06 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dont-be-shy-to-buy-again-even-if-a-good-stocks-1st-breakout-sours
 ---
 
 

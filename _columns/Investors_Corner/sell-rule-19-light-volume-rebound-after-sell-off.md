@@ -4,6 +4,7 @@ title: >-
   Sell Rule #19: Light-Volume Rebound After Sell-Off
 date: 2011-01-28 17:02 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sell-rule-19-light-volume-rebound-after-sell-off
 ---
 
 

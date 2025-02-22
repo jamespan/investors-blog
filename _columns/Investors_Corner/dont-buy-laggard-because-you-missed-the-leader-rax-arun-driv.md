@@ -4,6 +4,7 @@ title: >-
   Avoid The Mistake Of Buying Laggards In A Hot Group
 date: 2012-03-30 17:15 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/dont-buy-laggard-because-you-missed-the-leader-rax-arun-driv
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Apple And Growth Stocks: Why Most Penny Stocks Fail To Make Investors Rich
 date: 2019-08-08 15:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-stocks-why-most-penny-stocks-fail-to-make-investors-rich
 ---
 
 

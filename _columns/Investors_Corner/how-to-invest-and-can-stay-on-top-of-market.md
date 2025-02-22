@@ -4,6 +4,7 @@ title: >-
   Daily 15-Minute Drill Helps You Stay On Top Of Market
 date: 2012-09-14 16:18 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-and-can-stay-on-top-of-market
 ---
 
 

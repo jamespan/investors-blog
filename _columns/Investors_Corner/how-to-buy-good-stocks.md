@@ -4,6 +4,7 @@ title: >-
   Big Leaders Respect Their 10-Week Lines Post-Breakout
 date: 2015-04-07 18:05 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-good-stocks
 ---
 
 

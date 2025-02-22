@@ -4,6 +4,7 @@ title: >-
   How To Buy Stocks: SMR Rating Examines Factors That Drive Profits
 date: 2024-04-25 08:00 -0700
 author: VIDYA RAMAKRISHNAN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-stocks-smr-rating-examines-factors-that-drive-profits
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How Relative Strength Lines Can Tip Off A Big Winner
 date: 2015-10-05 17:07 -0700
 author: ANDREW EDWARDS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-relative-strength-gives-clues
 ---
 
 

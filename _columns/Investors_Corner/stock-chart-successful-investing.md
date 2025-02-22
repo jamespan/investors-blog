@@ -4,6 +4,7 @@ title: >-
   The Quickest Path To Successful Investing Is With Charts
 date: 2019-01-31 09:53 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-chart-successful-investing
 ---
 
 

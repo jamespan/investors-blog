@@ -4,6 +4,7 @@ title: >-
   Seeking A Plush Ride In A Rough Market? Scan The IBD Big Cap 20
 date: 2016-02-26 13:57 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/seeking-a-plush-ride-in-a-rough-market-scan-the-big-cap-20
 ---
 
 

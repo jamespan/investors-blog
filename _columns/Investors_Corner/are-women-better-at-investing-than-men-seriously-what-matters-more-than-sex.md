@@ -4,6 +4,7 @@ title: >-
   Are Women Better At Investing Than Men? Seriously? What Matters More Than Sex
 date: 2016-04-29 13:57 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/are-women-better-at-investing-than-men-seriously-what-matters-more-than-sex
 ---
 
 

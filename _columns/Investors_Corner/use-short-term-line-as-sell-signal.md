@@ -4,6 +4,7 @@ title: >-
   Short-Term 10-Day Moving Average Can Be Sell Signal
 date: 2015-06-25 17:29 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/use-short-term-line-as-sell-signal
 ---
 
 

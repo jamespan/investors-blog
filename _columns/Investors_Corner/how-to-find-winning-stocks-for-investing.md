@@ -4,6 +4,7 @@ title: >-
   How The IBD 50 Can Help Investors Find Winning Stocks
 date: 2013-04-05 16:35 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-find-winning-stocks-for-investing
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Do Top Fund Managers Like The Same Stock? Here's How To Find Out
 date: 2016-03-10 13:37 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/do-top-fund-managers-like-the-same-stock
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Acme Shows Importance Of New
 date: 2011-04-26 16:28 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-acme-shows-importance-of-new
 ---
 
 

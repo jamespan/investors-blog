@@ -4,6 +4,7 @@ title: >-
   Why The 1980s Walmart Stock Run Shows A High Stock Price, Breakouts Bespeak Quality
 date: 2020-01-17 13:30 -0800
 author: TERRY JONES
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-why-stock-price-is-sign-of-quality-walmart-stock
 ---
 
 

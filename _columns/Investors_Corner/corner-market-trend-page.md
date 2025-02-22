@@ -4,6 +4,7 @@ title: >-
   How To Make Money Using IBD's Market Trend Page
 date: 2016-12-23 10:51 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/corner-market-trend-page
 ---
 
 

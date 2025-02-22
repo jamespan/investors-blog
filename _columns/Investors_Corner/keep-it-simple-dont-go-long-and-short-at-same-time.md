@@ -4,6 +4,7 @@ title: >-
   Keep It Simple: Don't Go Long And Short At Same Time
 date: 2011-11-09 17:45 -0800
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/keep-it-simple-dont-go-long-and-short-at-same-time
 ---
 
 

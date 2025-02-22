@@ -4,6 +4,7 @@ title: >-
   Time To Sell: When A Stock Drops Hard, Then Rebounds In Feeble Trade
 date: 2016-10-18 13:07 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/time-to-sell-when-a-stock-drops-hard-then-rebounds-in-feeble-trade
 ---
 
 

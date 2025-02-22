@@ -4,6 +4,7 @@ title: >-
   How To Invest In Stocks: Take Some Gains At 20%-25%
 date: 2012-10-31 14:07 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/most-stocks-dont-become-huge-winners
 ---
 
 

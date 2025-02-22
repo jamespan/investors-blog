@@ -4,6 +4,7 @@ title: >-
   How To Buy Growth Stocks: What To Do After A Failed Breakout
 date: 2019-10-28 08:15 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-to-buy-growth-stocks-failed-breakout
 ---
 
 

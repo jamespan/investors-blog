@@ -4,6 +4,7 @@ title: >-
   How To Invest: Don't Fret A Shakeout After Breakout
 date: 2014-12-17 18:33 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/avoid-shakeouts-after-breakouts
 ---
 
 

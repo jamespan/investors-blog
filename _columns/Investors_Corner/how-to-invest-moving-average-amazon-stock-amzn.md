@@ -4,6 +4,7 @@ title: >-
   How To Invest: 10-Week Moving Average Revived Amazon's Run
 date: 2024-05-17 08:00 -0700
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-moving-average-amazon-stock-amzn
 ---
 
 

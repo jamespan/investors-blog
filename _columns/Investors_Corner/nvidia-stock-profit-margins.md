@@ -4,6 +4,7 @@ title: >-
   Profit Margins Confirmed Nvidia's Under-The-Hood Growth Story
 date: 2024-12-06 08:00 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/nvidia-stock-profit-margins
 ---
 
 

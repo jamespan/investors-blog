@@ -4,6 +4,7 @@ title: >-
   Investing 101: Opinions Don't Mean Much In Stock Market
 date: 2015-01-23 17:36 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-opinions-rarely-help
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Suggestions For Summer Reading For Growth Investors
 date: 2012-07-23 18:09 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/summer-book-recommendations-for-growth-investors
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Invest: Why The Double Bottom Base In Facebook Stock Showed Beautiful Symmetry
 date: 2019-11-11 12:30 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-analyze-a-double-bottom-base
 ---
 
 

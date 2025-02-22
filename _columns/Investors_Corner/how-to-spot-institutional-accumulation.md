@@ -4,6 +4,7 @@ title: >-
   Align With The Smart Money: Spot Institutional Buying
 date: 2015-05-15 18:13 -0700
 author: ANDREW EDWARDS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-spot-institutional-accumulation
 ---
 
 

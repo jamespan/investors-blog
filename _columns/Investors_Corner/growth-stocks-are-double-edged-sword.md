@@ -4,6 +4,7 @@ title: >-
   Buyer Beware: Growth Stocks Can Dive In Market Slump
 date: 2013-06-07 18:00 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-are-double-edged-sword
 ---
 
 

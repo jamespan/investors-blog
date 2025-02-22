@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Rules Also Apply To 3-Weeks Tight
 date: 2011-04-14 17:44 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investorss-corner-rules-also-apply-to-3-weeks-tight
 ---
 
 

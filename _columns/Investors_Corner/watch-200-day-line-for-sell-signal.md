@@ -4,6 +4,7 @@ title: >-
   200-Day Line Is Late Sell Signal For Winning Stocks
 date: 2013-05-09 18:10 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/watch-200-day-line-for-sell-signal
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   A Stock Chart Never Lies, But Sometimes It Mumbles
 date: 2015-03-03 17:18 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-chart-signals
 ---
 
 

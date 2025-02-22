@@ -4,6 +4,7 @@ title: >-
   California Leads Nation In Tech, Lifesciences IPOs
 date: 2016-02-12 14:46 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/california-leads-nation-in-tech-lifesciences-ipos
 ---
 
 

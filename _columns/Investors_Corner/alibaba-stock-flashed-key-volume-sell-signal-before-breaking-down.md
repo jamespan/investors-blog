@@ -4,6 +4,7 @@ title: >-
   When To Sell Stocks: New Highs In Weak Volume Signal Breakdowns
 date: 2022-12-22 08:00 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/alibaba-stock-flashed-key-volume-sell-signal-before-breaking-down
 ---
 
 

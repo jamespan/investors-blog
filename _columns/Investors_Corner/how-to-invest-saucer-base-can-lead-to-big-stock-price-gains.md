@@ -4,6 +4,7 @@ title: >-
   How To Invest: The Saucer-With-Handle Base Can Lead To Big Gains
 date: 2022-10-25 08:00 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-saucer-base-can-lead-to-big-stock-price-gains
 ---
 
 

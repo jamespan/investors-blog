@@ -4,6 +4,7 @@ title: >-
   Why Heavy Distribution Days Can Stop A Market Rally
 date: 2014-07-14 17:30 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/watch-out-for-institutional-selling
 ---
 
 

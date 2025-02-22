@@ -4,6 +4,7 @@ title: >-
   Beware The Company That Holds Too Much Long-Term Debt
 date: 2012-07-16 18:32 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/beware-the-company-with-too-much-debt
 ---
 
 

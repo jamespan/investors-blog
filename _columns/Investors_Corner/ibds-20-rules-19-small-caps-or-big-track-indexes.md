@@ -4,6 +4,7 @@ title: >-
   IBD's 20 Rules: #19 Small Caps Or Big? Track Indexes
 date: 2011-10-07 18:47 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibds-20-rules-19-small-caps-or-big-track-indexes
 ---
 
 

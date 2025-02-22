@@ -4,6 +4,7 @@ title: >-
   How To Pick The Best Dividend Stocks Right Now
 date: 2022-03-04 08:00 -0800
 author: MICHAEL MOLINSKI
+origin_url: https://www.investors.com/how-to-invest/investors-corner/best-dividend-stocks-to-pick-right-now
 ---
 
 

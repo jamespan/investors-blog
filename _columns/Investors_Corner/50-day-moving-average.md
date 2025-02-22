@@ -4,6 +4,7 @@ title: >-
   Breach Of 50-Day Moving Average Is A Key Sell Signal
 date: 2013-05-01 17:17 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/50-day-moving-average
 ---
 
 

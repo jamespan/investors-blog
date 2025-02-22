@@ -4,6 +4,7 @@ title: >-
   Investors Can Sell Stocks Before A 7% Or 8% Loss
 date: 2014-09-29 17:34 -0700
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-can-cut-losses-earlier-than-normal
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   When To Buy Growth Stocks: Why A Late Burst In Volume Can Still Power A Solid Breakout
 date: 2019-12-08 11:00 -0800
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/late-volume-can-lead-to-big-post-breakout-gains
 ---
 
 

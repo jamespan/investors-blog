@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Use Monthly Chart To See Big Trend
 date: 2011-05-06 17:03 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-use-monthly-chart-to-see-big-trend
 ---
 
 

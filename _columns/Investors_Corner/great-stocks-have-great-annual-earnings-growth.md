@@ -4,6 +4,7 @@ title: >-
   How To Invest: Large Annual Profit Growth Is Crucial
 date: 2011-11-22 17:56 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/great-stocks-have-great-annual-earnings-growth
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Psych 110: Don't Over-Depend On Stock Ratings
 date: 2011-02-18 17:11 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/psych-110-dont-over-depend-on-stock-ratings
 ---
 
 

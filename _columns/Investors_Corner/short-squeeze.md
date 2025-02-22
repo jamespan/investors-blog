@@ -4,6 +4,7 @@ title: >-
   What Is A Short Squeeze And What Happened With GameStop, AMC
 date: 2024-05-07 08:00 -0700
 author: CHRIS McKHANN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/short-squeeze
 ---
 
 

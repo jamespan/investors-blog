@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: How To Spot The Shakeout + 3
 date: 2014-06-11 17:55 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-spot-shakeout-plus-3
 ---
 
 

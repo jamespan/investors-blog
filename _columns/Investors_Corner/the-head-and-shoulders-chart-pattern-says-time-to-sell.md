@@ -4,6 +4,7 @@ title: >-
   Head-And-Shoulders Pattern Signals End Of Stock's Run
 date: 2012-10-24 16:13 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/the-head-and-shoulders-chart-pattern-says-time-to-sell
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   What Is A Follow-Through Day?
 date: 2021-11-22 08:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-a-follow-through-day
 ---
 
 

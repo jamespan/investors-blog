@@ -4,6 +4,7 @@ title: >-
   Don't Let Greed Blind You; Take Stock Gains At 20%-25%
 date: 2011-11-17 16:27 -0800
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/avoid-greed-use-stock-selling-rules
 ---
 
 

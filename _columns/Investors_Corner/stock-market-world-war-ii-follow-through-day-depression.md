@@ -4,6 +4,7 @@ title: >-
   Bull Market Began In Darkest Days Of World War II
 date: 2014-07-07 16:15 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-world-war-ii-follow-through-day-depression
 ---
 
 

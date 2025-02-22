@@ -4,6 +4,7 @@ title: >-
   V-Shaped Bases Often Suggest A Stock's Run Is Ending
 date: 2013-07-19 18:51 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/v-shaped-stock-bases-often-fail
 ---
 
 

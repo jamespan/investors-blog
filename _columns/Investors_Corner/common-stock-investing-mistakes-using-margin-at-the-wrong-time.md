@@ -4,6 +4,7 @@ title: >-
   Common Stock Investing Mistakes: Using Margin At The Wrong Time
 date: 2016-06-02 14:12 -0700
 author: KEN HOOVER
+origin_url: https://www.investors.com/how-to-invest/investors-corner/common-stock-investing-mistakes-using-margin-at-the-wrong-time
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   What Is An IPO? Know These Risks and Rewards Of Investing in IPO Stocks
 date: 2019-02-19 16:45 -0800
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-is-ipo
 ---
 
 

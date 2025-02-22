@@ -4,6 +4,7 @@ title: >-
   Upside Reversals Signal Conviction Among Investors
 date: 2012-05-01 18:00 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/watch-for-upside-stock-reversals-as-opentable-showed
 ---
 
 

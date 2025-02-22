@@ -4,6 +4,7 @@ title: >-
   Trend Line Offers Aggressive Investors Lower Entry
 date: 2014-06-16 17:13 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/trend-line-offers-aggressive-investors-lower-entry
 ---
 
 

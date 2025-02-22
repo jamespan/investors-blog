@@ -4,6 +4,7 @@ title: >-
   Short-Stroke, 3-Weeks Tight Give Investors New Chance
 date: 2013-01-25 18:12 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-investing-shareholder-shares-buy-pattern
 ---
 
 

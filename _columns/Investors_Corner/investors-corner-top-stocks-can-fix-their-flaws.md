@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Top Stocks Can Fix Their Flaws
 date: 2011-07-11 18:24 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-top-stocks-can-fix-their-flaws
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Sell Stocks Short: 4 Key Characteristics Of A Head-And-Shoulders Pattern
 date: 2023-01-10 08:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-sell-stocks-short-4-key-characteristics-of-a-head-and-shoulders-pattern
 ---
 
 

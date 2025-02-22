@@ -4,6 +4,7 @@ title: >-
   Successful Follow-Throughs Signal Market Bottoms, Offer Breakouts
 date: 2024-08-07 08:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-identify-stock-market-bottoms-use-this-key-signal
 ---
 
 

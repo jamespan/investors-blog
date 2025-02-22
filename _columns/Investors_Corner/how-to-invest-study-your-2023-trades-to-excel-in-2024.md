@@ -4,6 +4,7 @@ title: >-
   How To Invest: Study Your 2023 Trades To Profit In 2024
 date: 2023-12-29 08:00 -0800
 author: KIMBERLEY KOENIG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-study-your-2023-trades-to-excel-in-2024
 ---
 
 

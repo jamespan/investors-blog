@@ -4,6 +4,7 @@ title: >-
   CAN SLIM Trading: Use Stock Market Correction Downtime To Perfect Your Stock Picking
 date: 2018-04-06 11:51 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-correction-automate-research
 ---
 
 

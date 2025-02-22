@@ -4,6 +4,7 @@ title: >-
   Why The 50-Day Moving Average Is A Crucial Stock Market Tool
 date: 2022-09-08 08:00 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-tool-50-day-moving-average
 ---
 
 

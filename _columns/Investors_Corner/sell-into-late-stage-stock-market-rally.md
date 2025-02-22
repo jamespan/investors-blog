@@ -4,6 +4,7 @@ title: >-
   Learn To Sell Good Stocks Into A Late-Stage Rally
 date: 2013-04-24 18:07 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/sell-into-late-stage-stock-market-rally
 ---
 
 

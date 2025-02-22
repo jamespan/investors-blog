@@ -4,6 +4,7 @@ title: >-
   Master The IBD Methodology: How 2 Apple Breakouts Showed Great Bases Can Form Next To Poor Ones
 date: 2018-03-29 14:15 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/apple-breakouts-great-bases-ibd-methodology
 ---
 
 

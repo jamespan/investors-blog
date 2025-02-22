@@ -4,6 +4,7 @@ title: >-
   How To Control Your Risk When Selling Stocks Short
 date: 2016-04-28 14:30 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-control-your-risk-when-selling-stocks-short
 ---
 
 

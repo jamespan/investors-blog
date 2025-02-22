@@ -4,6 +4,7 @@ title: >-
   How To Sell Stock Short: Eye The Late-Stage Failure
 date: 2012-10-25 17:33 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/netflix-is-example-of-breakout-failure
 ---
 
 

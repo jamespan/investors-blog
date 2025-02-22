@@ -4,6 +4,7 @@ title: >-
   Can This New Stock Chart Technology Help You Hold Top Growth Stocks Longer?
 date: 2019-10-24 17:55 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-new-stock-chart-technology-big-stock-market-winners
 ---
 
 

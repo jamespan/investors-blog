@@ -4,6 +4,7 @@ title: >-
   How To Invest: Look For Stocks With Big EPS Estimates
 date: 2015-01-06 17:42 -0800
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-look-for-stocks-with-big-eps-estimates
 ---
 
 

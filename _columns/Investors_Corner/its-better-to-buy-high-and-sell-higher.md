@@ -4,6 +4,7 @@ title: >-
   Here's Why The Buy Low, Sell High Strategy Is Risky
 date: 2014-02-26 18:08 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/its-better-to-buy-high-and-sell-higher
 ---
 
 

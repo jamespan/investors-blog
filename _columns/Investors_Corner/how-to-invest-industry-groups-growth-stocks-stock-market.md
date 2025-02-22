@@ -4,6 +4,7 @@ title: >-
   How To Invest: Industry Groups, Growth Stocks And The Stock Market
 date: 2018-12-21 11:30 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-industry-groups-growth-stocks-stock-market
 ---
 
 

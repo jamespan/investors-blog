@@ -4,6 +4,7 @@ title: >-
   How To Invest: Look For Big Turnover On Breakout Day
 date: 2012-01-20 16:17 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/demand-strong-volume-on-breakout
 ---
 
 

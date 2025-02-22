@@ -4,6 +4,7 @@ title: >-
   New Highs In Light Volume Can Mark End Of Stock's Run
 date: 2013-10-21 18:33 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/new-highs-in-light-volume-signal-weak-demand
 ---
 
 

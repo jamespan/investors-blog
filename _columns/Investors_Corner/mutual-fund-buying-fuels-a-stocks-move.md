@@ -4,6 +4,7 @@ title: >-
   Powerful IBD Screen Sheds Light On Institutional Buying
 date: 2015-11-06 16:42 -0800
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/mutual-fund-buying-fuels-a-stocks-move
 ---
 
 

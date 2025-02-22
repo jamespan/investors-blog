@@ -4,6 +4,7 @@ title: >-
   Don't Wing It; Follow The Rules When You Sell
 date: 2012-12-17 19:53 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/let-rules-guide-you-in-selling-stocks
 ---
 
 

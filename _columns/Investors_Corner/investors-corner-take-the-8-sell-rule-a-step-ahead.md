@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Take The 8% Sell Rule A Step Ahead
 date: 2011-03-30 16:38 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-take-the-8-sell-rule-a-step-ahead
 ---
 
 

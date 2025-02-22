@@ -4,6 +4,7 @@ title: >-
   How Cambrex Became A Winning Stock Of 2015
 date: 2015-12-23 17:37 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-cambrex-became-a-winner
 ---
 
 

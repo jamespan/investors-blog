@@ -4,6 +4,7 @@ title: >-
   How To Invest: Here's Why Aksys' 2004 Breakout Failed
 date: 2012-01-17 18:47 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/aksys-breakout-from-double-bottom-base-failed
 ---
 
 

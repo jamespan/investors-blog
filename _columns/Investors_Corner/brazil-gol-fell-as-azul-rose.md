@@ -4,6 +4,7 @@ title: >-
   Gol No Longer Has 'New' In Brazil; Watch Azul For IPO
 date: 2012-10-02 17:01 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/brazil-gol-fell-as-azul-rose
 ---
 
 

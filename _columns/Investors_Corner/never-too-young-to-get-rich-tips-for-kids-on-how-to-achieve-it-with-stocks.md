@@ -4,6 +4,7 @@ title: >-
   How To Invest: Tips For Kids And Why You're Never Too Young To Get Rich
 date: 2019-11-18 08:25 -0800
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/never-too-young-to-get-rich-tips-for-kids-on-how-to-achieve-it-with-stocks
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Rules Can Help Investors Unsure About A Stock
 date: 2013-11-01 17:39 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/what-to-do-when-unsure-about-stock
 ---
 
 

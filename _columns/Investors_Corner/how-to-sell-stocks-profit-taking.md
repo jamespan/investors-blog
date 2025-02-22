@@ -4,6 +4,7 @@ title: >-
   How To Sell Stocks: Use This Profit-Taking Strategy On Market Leaders
 date: 2024-10-18 08:00 -0700
 author: SCOTT LEHTONEN
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-sell-stocks-profit-taking
 ---
 
 

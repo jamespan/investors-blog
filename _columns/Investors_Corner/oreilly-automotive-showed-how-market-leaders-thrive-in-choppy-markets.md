@@ -4,6 +4,7 @@ title: >-
   O'Reilly Shows Top Stocks Can Thrive In Rough Markets
 date: 2012-08-08 17:23 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/oreilly-automotive-showed-how-market-leaders-thrive-in-choppy-markets
 ---
 
 

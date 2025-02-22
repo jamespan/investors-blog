@@ -4,6 +4,7 @@ title: >-
   Big Annual Earnings Growth Key Trait Of Past Winners
 date: 2014-07-18 18:06 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/annual-earnings-growth-important-when-analyzing-a-stock
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   When To Buy Good Stocks: Don't Buy On The Way Down
 date: 2014-12-01 18:58 -0800
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/fine-tune-your-stock-buying-rules
 ---
 
 

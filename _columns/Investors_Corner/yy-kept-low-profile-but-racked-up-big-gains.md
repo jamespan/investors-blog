@@ -4,6 +4,7 @@ title: >-
   YY Bolted Out Of IPO Base, Became Big Winner Of 2013
 date: 2014-06-09 17:25 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/yy-kept-low-profile-but-racked-up-big-gains
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Invest: Why You Should Look At A Stock's Float
 date: 2012-10-03 13:10 -0700
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-investors-corner-looks-at-supply-of-shares
 ---
 
 

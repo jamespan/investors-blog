@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: When To Sell On The Way Up
 date: 2014-04-04 14:32 -0700
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/selling-on-the-way-up
 ---
 
 

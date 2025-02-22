@@ -4,6 +4,7 @@ title: >-
   How To Invest: Base On Base Pattern Can Turn Disappointment Into Success
 date: 2022-01-07 08:00 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-base-on-base-pattern-can-turn-disappointment-into-success
 ---
 
 

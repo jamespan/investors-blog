@@ -4,6 +4,7 @@ title: >-
   How To Invest: Use Rules, Not Emotion, To Pick Stocks
 date: 2014-12-09 18:24 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-pioneer-natural
 ---
 
 

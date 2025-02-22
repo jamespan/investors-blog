@@ -4,6 +4,7 @@ title: >-
   How To Invest: A Great Base Shows Calm, Tight Trading
 date: 2015-03-06 16:51 -0800
 author: VINCENT MAO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/look-for-tight-stock-action
 ---
 
 

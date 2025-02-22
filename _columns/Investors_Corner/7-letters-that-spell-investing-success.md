@@ -4,6 +4,7 @@ title: >-
   How To Trade Growth Stocks: 7 Letters That Spell Investing Success
 date: 2018-09-04 15:25 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/7-letters-that-spell-investing-success
 ---
 
 

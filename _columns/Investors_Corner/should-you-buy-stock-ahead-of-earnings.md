@@ -4,6 +4,7 @@ title: >-
   How To Trade: Should You Buy A Stock Ahead Of Its Earnings Report?
 date: 2018-08-10 21:45 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/should-you-buy-stock-ahead-of-earnings
 ---
 
 

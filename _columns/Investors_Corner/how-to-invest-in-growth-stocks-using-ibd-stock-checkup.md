@@ -4,6 +4,7 @@ title: >-
   Put IBD To Work, Save Time: Use The Stock Checkup
 date: 2012-07-24 17:39 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-in-growth-stocks-using-ibd-stock-checkup
 ---
 
 

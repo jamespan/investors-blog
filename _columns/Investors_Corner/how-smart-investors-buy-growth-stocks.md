@@ -4,6 +4,7 @@ title: >-
   Study How A Stock Market Winner Falls From A Peak
 date: 2013-12-11 18:36 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-smart-investors-buy-growth-stocks
 ---
 
 

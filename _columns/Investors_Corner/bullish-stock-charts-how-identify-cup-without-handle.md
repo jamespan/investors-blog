@@ -4,6 +4,7 @@ title: >-
   Bullish Stock Charts: How To Identify The Cup Without Handle Pattern
 date: 2023-05-18 08:00 -0700
 author: ALAN FARLEY
+origin_url: https://www.investors.com/how-to-invest/investors-corner/bullish-stock-charts-how-identify-cup-without-handle
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Stocks That Retreat Into Buy Areas Can Become Winners
 date: 2014-03-20 18:01 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/patience-and-perseverance-can-pay-off
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Build On Composite Ratings To Find Leaders
 date: 2012-06-08 18:21 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/not-all-top-composite-ratings-are-created-equal-2
 ---
 
 

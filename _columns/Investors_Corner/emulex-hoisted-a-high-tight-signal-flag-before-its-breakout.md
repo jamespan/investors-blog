@@ -4,6 +4,7 @@ title: >-
   Why The High, Tight Flag Is A Rare Chart Pattern And Produces Big Gains
 date: 2018-08-14 21:00 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/emulex-hoisted-a-high-tight-signal-flag-before-its-breakout
 ---
 
 

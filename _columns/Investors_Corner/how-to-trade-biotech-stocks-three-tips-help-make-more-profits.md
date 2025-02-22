@@ -4,6 +4,7 @@ title: >-
   How To Trade Biotech Stocks: Can These Three Tips Help You Make More Profits?
 date: 2024-04-30 08:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-trade-biotech-stocks-three-tips-help-make-more-profits
 ---
 
 

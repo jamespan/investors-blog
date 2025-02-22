@@ -4,6 +4,7 @@ title: >-
   Not Just For Stocks: IBD Has Views On Mutual Funds
 date: 2019-11-21 13:11 -0800
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/mutual-fund-investing-sound-strategy
 ---
 
 

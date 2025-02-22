@@ -4,6 +4,7 @@ title: >-
   Use "What's The Market Trend?" To Navigate The Market
 date: 2012-12-12 16:51 -0800
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-predict-the-stock-market
 ---
 
 

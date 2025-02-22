@@ -4,6 +4,7 @@ title: >-
   Operating Cash Flow A Key Gauge Of A Company's Health
 date: 2013-06-18 15:56 -0700
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/cash-flow-helps-gauge-corporate-health
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Fast Growth And Stable Earnings Can Go Together
 date: 2013-03-26 17:21 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-with-stable-earnings
 ---
 
 

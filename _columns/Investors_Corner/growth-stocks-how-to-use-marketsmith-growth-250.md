@@ -4,6 +4,7 @@ title: >-
   Finding Top Growth Stocks: Why MarketSmith Growth 250 Is Hotbed For Stock Market Leaders
 date: 2019-09-08 13:00 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/growth-stocks-how-to-use-marketsmith-growth-250
 ---
 
 

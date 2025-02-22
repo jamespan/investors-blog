@@ -4,6 +4,7 @@ title: >-
   Average Up, Not Down, To Boost Results
 date: 2009-03-16 18:37 -0700
 author: Vincent Mao
+origin_url: https://www.investors.com/how-to-invest/investors-corner/average-up-not-down-to-boost-results
 ---
 
 

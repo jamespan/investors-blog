@@ -4,6 +4,7 @@ title: >-
   How To Find News On The Next Supercycle Bull Market
 date: 2013-08-26 18:17 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/bill-oneil-and-supercycle-bull-market-news
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Supply/Demand Rating Can Be Useful In Right Situation
 date: 2014-09-04 16:10 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-use-supply-demand-investing-rating
 ---
 
 

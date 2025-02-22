@@ -4,6 +4,7 @@ title: >-
   New Year Is Good Time To Review Last Year's Mistakes
 date: 2015-12-31 18:12 -0800
 author: SCOTT STODDARD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/reviewing-trades-helps-break-bad-habits
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Tips On Reading The Bulls Vs. Bears Sentiment Survey
 date: 2013-12-12 17:39 -0800
 author: JUAN CARLOS ARANCIBIA
+origin_url: https://www.investors.com/how-to-invest/investors-corner/bulls-and-bears-survey-of-sentiment
 ---
 
 

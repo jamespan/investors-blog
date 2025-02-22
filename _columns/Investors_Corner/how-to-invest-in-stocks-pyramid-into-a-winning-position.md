@@ -4,6 +4,7 @@ title: >-
   When To Buy Growth Stocks: How Pyramiding Up Can Be As Easy As A Cup Of Coffee
 date: 2024-10-23 19:30 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-in-stocks-pyramid-into-a-winning-position
 ---
 
 

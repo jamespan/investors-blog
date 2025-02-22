@@ -4,6 +4,7 @@ title: >-
   How To Invest: Beware The Upward-Sloping Handle
 date: 2013-07-15 18:06 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/beware-upward-sloping-handle
 ---
 
 

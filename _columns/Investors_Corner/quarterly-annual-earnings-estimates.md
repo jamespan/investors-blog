@@ -4,6 +4,7 @@ title: >-
   Earnings Estimates Help Paint Complete Picture Of Stock
 date: 2015-06-01 18:09 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/quarterly-annual-earnings-estimates
 ---
 
 

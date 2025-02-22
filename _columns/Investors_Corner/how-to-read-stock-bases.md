@@ -4,6 +4,7 @@ title: >-
   How To Invest: Shire Shows Value Of High Closes
 date: 2015-03-09 17:39 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-read-stock-bases
 ---
 
 

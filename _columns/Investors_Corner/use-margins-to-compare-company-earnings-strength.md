@@ -4,6 +4,7 @@ title: >-
   Gauge A Stock's Strength By Comparing Margins
 date: 2012-07-13 17:53 -0700
 author: Alan R. Elliott
+origin_url: https://www.investors.com/how-to-invest/investors-corner/use-margins-to-compare-company-earnings-strength
 ---
 
 

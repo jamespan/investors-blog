@@ -4,6 +4,7 @@ title: >-
   When To Sell Growth Stocks: Is Your Stock 'Living' Beneath The 10-Week Line?
 date: 2019-10-09 08:25 -0700
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/know-this-sell-rule-is-the-stock-living-beneath-the-10-week-line
 ---
 
 

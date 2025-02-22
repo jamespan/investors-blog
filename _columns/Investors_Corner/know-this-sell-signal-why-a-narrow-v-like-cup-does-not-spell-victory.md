@@ -4,6 +4,7 @@ title: >-
   Know This Sell Signal: Why A Narrow V-Like Cup Does Not Spell Victory
 date: 2017-07-06 14:52 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/know-this-sell-signal-why-a-narrow-v-like-cup-does-not-spell-victory
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Invest In Stocks: Why IBD Rules Make Portfolio Management Intuitive
 date: 2019-02-18 14:30 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-in-stocks-rules-portfolio-management-intuitive
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Earnings Season Underway? Consider This Options Strategy
 date: 2019-04-11 13:16 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/earnings-season-underway-consider-this-options-strategy
 ---
 
 

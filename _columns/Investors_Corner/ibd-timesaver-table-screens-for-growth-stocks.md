@@ -4,6 +4,7 @@ title: >-
   Track Leaders' Price Action With IBD Timesaver Table
 date: 2014-03-17 17:32 -0700
 author: KEN SHREVE
+origin_url: https://www.investors.com/how-to-invest/investors-corner/ibd-timesaver-table-screens-for-growth-stocks
 ---
 
 

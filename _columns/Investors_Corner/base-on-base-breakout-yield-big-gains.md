@@ -4,6 +4,7 @@ title: >-
   Base-On-Base Breakouts Can Yield Big Gains
 date: 2015-09-16 20:18 -0700
 author: NANCY GONDO
+origin_url: https://www.investors.com/how-to-invest/investors-corner/base-on-base-breakout-yield-big-gains
 ---
 
 

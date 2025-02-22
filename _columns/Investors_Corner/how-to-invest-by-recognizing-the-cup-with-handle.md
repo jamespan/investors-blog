@@ -4,6 +4,7 @@ title: >-
   Cognizant Provided Good Example Of Cup With Handle
 date: 2013-01-14 17:47 -0800
 author: VICTOR REKLAITIS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-by-recognizing-the-cup-with-handle
 ---
 
 

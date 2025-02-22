@@ -4,6 +4,7 @@ title: >-
   Myth Two: Always Buy And Hold In The Stock Market
 date: 2012-03-23 15:57 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/buy-and-hold-has-flaws-so-understand-benefits-of-market-timing
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Perfumania, The 1991 IPO That Cast A Shadow Over Starbucks
 date: 2016-04-11 17:16 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/perfumania-the-1991-ipo-that-cast-a-shadow-over-starbucks
 ---
 
 

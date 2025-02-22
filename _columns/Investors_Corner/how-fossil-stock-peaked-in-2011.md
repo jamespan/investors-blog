@@ -4,6 +4,7 @@ title: >-
   This Sell Rule Can Help Lock In Gains Near The Peak
 date: 2015-07-10 18:47 -0700
 author: ANDREW EDWARDS
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-fossil-stock-peaked-in-2011
 ---
 
 

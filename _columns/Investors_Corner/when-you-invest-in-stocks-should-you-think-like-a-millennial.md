@@ -4,6 +4,7 @@ title: >-
   When You Invest In Stocks, Should You Think Like A Millennial?
 date: 2016-07-19 12:02 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/how-to-invest/investors-corner/when-you-invest-in-stocks-should-you-think-like-a-millennial
 ---
 
 

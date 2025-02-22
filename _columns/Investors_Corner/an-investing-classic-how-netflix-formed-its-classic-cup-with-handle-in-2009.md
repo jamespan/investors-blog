@@ -4,6 +4,7 @@ title: >-
   An Investing Classic: How Netflix Formed Its Cup With Handle In 2009
 date: 2017-01-18 13:21 -0800
 author: IBD STAFF
+origin_url: https://www.investors.com/how-to-invest/investors-corner/an-investing-classic-how-netflix-formed-its-classic-cup-with-handle-in-2009
 ---
 
 

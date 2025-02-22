@@ -4,6 +4,7 @@ title: >-
   Investor's Corner: Learn To Spot The Base-On-Base
 date: 2011-10-26 18:21 -0700
 author: DONALD H. GOLD
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investors-corner-learn-to-spot-the-base-on-base
 ---
 
 

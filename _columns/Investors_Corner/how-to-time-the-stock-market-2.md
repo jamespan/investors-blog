@@ -4,6 +4,7 @@ title: >-
   How The Stock Market Topped In October 1987
 date: 2014-07-15 18:24 -0700
 author: ALAN R. ELLIOTT
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-time-the-stock-market-2
 ---
 
 
