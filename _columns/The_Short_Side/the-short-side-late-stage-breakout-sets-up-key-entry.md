@@ -4,6 +4,7 @@ title: >-
   The Short Side: Late-Stage Breakout Sets Up Key Entry
 date: 2013-10-04 17:10 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/the-short-side-late-stage-breakout-sets-up-key-entry
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   The Short Side: When Few Late-Stage Bases Appear, Hide Like The Bears
 date: 2016-04-22 16:28 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/the-short-side-when-few-late-stage-bases-appear-hide-like-the-bears
 ---
 
 

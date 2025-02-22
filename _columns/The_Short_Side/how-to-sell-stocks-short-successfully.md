@@ -4,6 +4,7 @@ title: >-
   The Short Side: Avoid Stocks With Large Dividends
 date: 2013-03-28 17:41 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/how-to-sell-stocks-short-successfully
 ---
 
 

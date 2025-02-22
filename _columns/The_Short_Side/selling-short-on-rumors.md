@@ -4,6 +4,7 @@ title: >-
   The Short Side: Don't Act On Rumors, Tips, Theories
 date: 2013-02-22 16:54 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/selling-short-on-rumors
 ---
 
 

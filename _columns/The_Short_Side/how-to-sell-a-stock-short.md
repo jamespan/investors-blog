@@ -4,6 +4,7 @@ title: >-
   The Short Side: Great Sell Is Not A Great Short
 date: 2013-03-08 17:09 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/how-to-sell-a-stock-short
 ---
 
 

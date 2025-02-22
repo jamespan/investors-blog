@@ -4,6 +4,7 @@ title: >-
   Don't Short Stocks Showing Too Much Volatility
 date: 2013-06-21 18:44 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/dont-short-stocks-showing-too-much-volatility
 ---
 
 

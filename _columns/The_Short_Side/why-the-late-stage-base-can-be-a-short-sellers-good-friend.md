@@ -4,6 +4,7 @@ title: >-
   Why The Late-Stage Base Can Be A Short Seller's Good Friend
 date: 2016-09-23 18:52 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/why-the-late-stage-base-can-be-a-short-sellers-good-friend
 ---
 
 

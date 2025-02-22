@@ -4,6 +4,7 @@ title: >-
   Big-Volume Sell-Offs Precede Ideal Short-Sale Entry
 date: 2014-09-05 18:45 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/big-volume-sell-offs-precede-ideal-short-sale-entry
 ---
 
 

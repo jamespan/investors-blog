@@ -4,6 +4,7 @@ title: >-
   Scott O'Neil On Current Environment For Short-Sellers
 date: 2013-04-12 17:56 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/how-to-sell-short-stocks-in-the-market
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Use Leaderboard Cut List For Winning Plays
 date: 2014-08-01 18:12 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/how-to-use-leaderboard-cut-list-for-winning-plays
 ---
 
 

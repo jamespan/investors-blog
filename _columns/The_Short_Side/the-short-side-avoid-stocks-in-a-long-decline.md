@@ -4,6 +4,7 @@ title: >-
   The Short Side: Avoid Stocks In A Long Decline
 date: 2013-07-26 18:23 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/the-short-side-avoid-stocks-in-a-long-decline
 ---
 
 

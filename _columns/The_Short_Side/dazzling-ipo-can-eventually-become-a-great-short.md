@@ -4,6 +4,7 @@ title: >-
   Dazzling IPO Can Eventually Become A Great Short
 date: 2016-08-26 17:04 -0700
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/research/the-short-side/dazzling-ipo-can-eventually-become-a-great-short
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Sell Short When The Market's Direction Clearly Points Down
 date: 2015-10-02 18:01 -0700
 author: 
+origin_url: https://www.investors.com/research/the-short-side/sell-short-when-the-markets-direction-clearly-points-down
 ---
 
 

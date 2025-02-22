@@ -4,6 +4,7 @@ title: >-
   How To Sell Stocks Short: Focus On The Base Count
 date: 2015-04-02 18:27 -0700
 author: 
+origin_url: https://www.investors.com/research/the-short-side/how-to-sell-stocks-short-focus-on-the-base-count
 ---
 
 

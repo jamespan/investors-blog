@@ -4,6 +4,7 @@ title: >-
   The Short Side: Never Sell Short In A Bull Market
 date: 2013-01-18 17:52 -0800
 author: 
+origin_url: https://www.investors.com/research/the-short-side/dangers-of-selling-stocks-short
 ---
 
 

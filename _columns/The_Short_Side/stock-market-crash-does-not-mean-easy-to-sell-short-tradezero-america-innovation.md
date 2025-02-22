@@ -4,6 +4,7 @@ title: >-
   It's Not Easy To Sell Stocks Short, But TradeZero Innovates The Process For Hard To Find Shares
 date: 2020-03-16 18:35 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/stock-market-crash-does-not-mean-easy-to-sell-short-tradezero-america-innovation
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   The Short Side: When To Target A Weak Sector, Even In A Bull Market
 date: 2017-01-27 13:42 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/the-short-side-can-you-target-a-weak-sector-even-in-a-bull-market-yes
 ---
 
 

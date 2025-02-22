@@ -4,6 +4,7 @@ title: >-
   William O'Neil's Advice On Selling Stocks Short Right
 date: 2013-08-02 18:40 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/william-oneils-advice-on-selling-stocks-short-right
 ---
 
 

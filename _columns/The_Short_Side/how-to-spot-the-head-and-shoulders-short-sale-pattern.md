@@ -4,6 +4,7 @@ title: >-
   How To Spot The Head-And-Shoulders Short-Sale Pattern
 date: 2015-05-29 17:31 -0700
 author: 
+origin_url: https://www.investors.com/research/the-short-side/how-to-spot-the-head-and-shoulders-short-sale-pattern
 ---
 
 

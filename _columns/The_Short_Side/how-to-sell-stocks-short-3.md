@@ -4,6 +4,7 @@ title: >-
   5 Psychological Keys To Profits By Selling Short
 date: 2015-12-04 17:52 -0800
 author: 
+origin_url: https://www.investors.com/research/the-short-side/how-to-sell-stocks-short-3
 ---
 
 

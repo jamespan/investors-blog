@@ -4,6 +4,7 @@ title: >-
   What Steps Can You Take To Master The Art Of Short Selling Stocks?
 date: 2016-01-29 14:25 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/what-steps-to-take-in-mastering-the-art-of-short-selling-stocks
 ---
 
 

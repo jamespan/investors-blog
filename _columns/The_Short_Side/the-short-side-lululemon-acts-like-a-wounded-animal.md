@@ -4,6 +4,7 @@ title: >-
   The Short Side: Lululemon Acts Like A Wounded Animal
 date: 2013-07-12 18:24 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/the-short-side-lululemon-acts-like-a-wounded-animal
 ---
 
 

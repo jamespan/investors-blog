@@ -4,6 +4,7 @@ title: >-
   How Do You Prepare For A Fantastic Short Sale? 5 Steps To Consider
 date: 2017-06-23 14:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/how-do-you-prepare-for-a-fantastic-short-sale-5-steps-to-consider
 ---
 
 

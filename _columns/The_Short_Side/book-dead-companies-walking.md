@@ -4,6 +4,7 @@ title: >-
   How To Sell Short: A Hedge Fund Manager Gives Lessons
 date: 2014-12-16 15:12 -0800
 author: PAUL WHITFIELD
+origin_url: https://www.investors.com/research/the-short-side/book-dead-companies-walking
 ---
 
 

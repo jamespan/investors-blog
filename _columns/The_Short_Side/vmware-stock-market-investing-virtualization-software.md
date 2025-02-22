@@ -4,6 +4,7 @@ title: >-
   'L Pattern' Leads To Additional Short Entry Points
 date: 2013-01-25 18:12 -0800
 author: 
+origin_url: https://www.investors.com/research/the-short-side/vmware-stock-market-investing-virtualization-software
 ---
 
 

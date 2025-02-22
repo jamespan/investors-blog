@@ -4,6 +4,7 @@ title: >-
   The Short Side: Check A Short's Average Volume
 date: 2014-10-03 18:22 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/the-short-side-check-a-shorts-average-volume
 ---
 
 

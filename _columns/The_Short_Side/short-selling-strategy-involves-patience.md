@@ -4,6 +4,7 @@ title: >-
   The Short Side: Baidu Took Time Before Breaking Down
 date: 2012-12-21 17:42 -0800
 author: 
+origin_url: https://www.investors.com/research/the-short-side/short-selling-strategy-involves-patience
 ---
 
 

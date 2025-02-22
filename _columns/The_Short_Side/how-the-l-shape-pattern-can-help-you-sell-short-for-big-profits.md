@@ -4,6 +4,7 @@ title: >-
   How The L-Shape Pattern Can Help You Sell Short For Big Profits
 date: 2016-03-04 16:24 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/how-the-l-shape-pattern-can-help-you-sell-short-for-big-profits
 ---
 
 

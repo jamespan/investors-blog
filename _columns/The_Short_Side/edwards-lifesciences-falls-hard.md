@@ -4,6 +4,7 @@ title: >-
   The Short Side: Few Names Giving An Entry Point Today
 date: 2013-04-26 17:58 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/edwards-lifesciences-falls-hard
 ---
 
 

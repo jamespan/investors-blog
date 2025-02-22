@@ -4,6 +4,7 @@ title: >-
   The Short Side: How Acme Packet Gave New Sell Signals
 date: 2013-02-08 17:15 -0800
 author: 
+origin_url: https://www.investors.com/research/the-short-side/the-short-side-how-acme-packet-gave-new-sell-signals
 ---
 
 

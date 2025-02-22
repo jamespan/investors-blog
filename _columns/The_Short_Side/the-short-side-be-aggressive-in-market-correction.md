@@ -4,6 +4,7 @@ title: >-
   The Short Side: Be Aggressive In Market Correction
 date: 2014-10-31 17:36 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/the-short-side-be-aggressive-in-market-correction
 ---
 
 

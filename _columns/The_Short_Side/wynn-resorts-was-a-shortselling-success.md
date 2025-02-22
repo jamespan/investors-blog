@@ -4,6 +4,7 @@ title: >-
   Late-Stage Base Failure Supplies Short-Sale Setup
 date: 2013-01-11 18:34 -0800
 author: 
+origin_url: https://www.investors.com/research/the-short-side/wynn-resorts-was-a-shortselling-success
 ---
 
 

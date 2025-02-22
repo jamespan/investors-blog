@@ -4,6 +4,7 @@ title: >-
   The Short Side: To Lower Risk, Prefer High Volume
 date: 2013-02-01 18:20 -0800
 author: 
+origin_url: https://www.investors.com/research/the-short-side/analyze-daily-stock-volume-before-selling-short
 ---
 
 

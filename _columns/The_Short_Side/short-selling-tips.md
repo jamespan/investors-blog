@@ -4,6 +4,7 @@ title: >-
   How To Sell Stocks Short: Look For Second, Third Entry Points
 date: 2015-05-01 17:39 -0700
 author: 
+origin_url: https://www.investors.com/research/the-short-side/short-selling-tips
 ---
 
 

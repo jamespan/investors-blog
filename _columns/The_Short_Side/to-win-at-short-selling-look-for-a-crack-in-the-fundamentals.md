@@ -4,6 +4,7 @@ title: >-
   To Win At Short Selling, Look For A Crack In The Fundamentals
 date: 2017-08-25 11:27 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/to-win-at-short-selling-look-for-a-crack-in-the-fundamentals
 ---
 
 

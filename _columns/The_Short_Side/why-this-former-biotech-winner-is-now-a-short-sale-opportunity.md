@@ -4,6 +4,7 @@ title: >-
   Why This Former Biotech Winner Presented A Solid Short-Sale Opportunity
 date: 2022-02-16 12:45 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/why-this-former-biotech-winner-is-now-a-short-sale-opportunity
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   The Short Side: Don't Chase Stocks Well Past Proper Entry
 date: 2013-06-14 17:50 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/the-short-side-dont-chase-stocks-well-past-proper-entry
 ---
 
 

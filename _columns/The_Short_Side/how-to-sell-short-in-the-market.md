@@ -4,6 +4,7 @@ title: >-
   Use Leaderboard Cut List As One Of Several Screens
 date: 2013-05-17 19:01 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/how-to-sell-short-in-the-market
 ---
 
 

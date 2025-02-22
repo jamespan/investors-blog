@@ -4,6 +4,7 @@ title: >-
   How To Sell Stocks Short: Introducing The L-Pattern
 date: 2015-01-30 17:37 -0800
 author: 
+origin_url: https://www.investors.com/research/the-short-side/how-to-sell-short
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   The Short Side: Apple's Late-Stage Breakout Failure
 date: 2014-05-30 17:56 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/the-short-side-apples-late-stage-breakout-failure
 ---
 
 

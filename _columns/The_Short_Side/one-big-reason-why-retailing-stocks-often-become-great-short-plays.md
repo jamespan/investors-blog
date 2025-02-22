@@ -4,6 +4,7 @@ title: >-
   One Big Reason Why Retailing Stocks Often Become Great Short Plays
 date: 2017-02-24 13:16 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/one-big-reason-why-retailing-stocks-often-become-great-short-plays
 ---
 
 

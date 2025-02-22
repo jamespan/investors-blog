@@ -4,6 +4,7 @@ title: >-
   The Short Side: Sell Short On Stock Technicals Alone
 date: 2013-03-15 17:59 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/how-to-sell-short-on-technicals-alone
 ---
 
 

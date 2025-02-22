@@ -4,6 +4,7 @@ title: >-
   The Short Side: Timesaver Table Spots Leaders That Peaked
 date: 2014-02-28 17:52 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/the-short-side-timesaver-table-spots-leaders-that-peaked
 ---
 
 

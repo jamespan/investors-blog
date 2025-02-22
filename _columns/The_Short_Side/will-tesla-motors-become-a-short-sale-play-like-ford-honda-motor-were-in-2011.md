@@ -4,6 +4,7 @@ title: >-
   Will Tesla Motors Become A Short-Sale Play Like Ford, Honda Were In 2011?
 date: 2016-07-22 15:17 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/will-tesla-motors-become-a-short-sale-play-like-ford-honda-motor-were-in-2011
 ---
 
 

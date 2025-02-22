@@ -4,6 +4,7 @@ title: >-
   This Top Airline Triggered A New Short Sale Entry; Should You Short Chipotle?
 date: 2017-10-25 13:53 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/this-top-airline-triggered-a-new-short-sale-entry-should-you-short-chipotle
 ---
 
 

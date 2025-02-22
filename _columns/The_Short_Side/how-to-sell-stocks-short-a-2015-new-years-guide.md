@@ -4,6 +4,7 @@ title: >-
   How To Sell Stocks Short: A 2015 New Year's Guide
 date: 2015-01-02 17:25 -0800
 author: 
+origin_url: https://www.investors.com/research/the-short-side/how-to-sell-stocks-short-a-2015-new-years-guide
 ---
 
 

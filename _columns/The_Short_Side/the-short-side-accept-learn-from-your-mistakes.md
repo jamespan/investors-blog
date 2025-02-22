@@ -4,6 +4,7 @@ title: >-
   The Short Side: Accept, Learn From Your Mistakes
 date: 2013-07-19 18:51 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/the-short-side-accept-learn-from-your-mistakes
 ---
 
 

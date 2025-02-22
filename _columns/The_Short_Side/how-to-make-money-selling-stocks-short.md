@@ -4,6 +4,7 @@ title: >-
   The Short Side: Focus Sales During Market Corrections
 date: 2013-11-01 17:39 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/how-to-make-money-selling-stocks-short
 ---
 
 

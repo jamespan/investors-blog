@@ -4,6 +4,7 @@ title: >-
   When Should You Cover A Good Short Sale Trade?
 date: 2015-09-04 16:54 -0700
 author: 
+origin_url: https://www.investors.com/research/the-short-side/how-to-make-money-selling-stocks-short-2
 ---
 
 

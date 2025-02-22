@@ -4,6 +4,7 @@ title: >-
   These Screens Help You Find Good Short Candidates
 date: 2013-08-30 17:54 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/these-screens-help-you-find-good-short-candidates
 ---
 
 

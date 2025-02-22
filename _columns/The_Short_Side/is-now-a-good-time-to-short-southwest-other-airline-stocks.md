@@ -4,6 +4,7 @@ title: >-
   Is Now A Good Time To Short Southwest, Other Airline Stocks?
 date: 2015-07-31 17:48 -0700
 author: 
+origin_url: https://www.investors.com/research/the-short-side/is-now-a-good-time-to-short-southwest-other-airline-stocks
 ---
 
 

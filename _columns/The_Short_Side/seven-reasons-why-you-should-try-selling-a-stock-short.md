@@ -4,6 +4,7 @@ title: >-
   Seven Reasons Why You Should Try Selling A Stock Short
 date: 2016-10-28 15:25 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/seven-reasons-why-you-should-try-selling-a-stock-short
 ---
 
 

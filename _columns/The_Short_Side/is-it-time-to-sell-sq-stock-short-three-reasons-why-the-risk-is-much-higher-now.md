@@ -4,6 +4,7 @@ title: >-
   Is It Time To Sell SQ Stock Short? Three Reasons Why The Risk Is Much Higher Now
 date: 2022-03-02 14:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/is-it-time-to-sell-sq-stock-short-three-reasons-why-the-risk-is-much-higher-now
 ---
 
 

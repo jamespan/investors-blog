@@ -4,6 +4,7 @@ title: >-
   How To Sell Short: Analyze The Chart And IBD Ratings
 date: 2014-11-28 15:53 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/how-to-sell-short-analyze-the-chart-and-ibd-ratings
 ---
 
 

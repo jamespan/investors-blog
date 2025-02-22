@@ -4,6 +4,7 @@ title: >-
   How To Sell Stocks Short: Uncover The Head-And-Shoulders Pattern
 date: 2022-01-04 13:00 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/how-to-sell-stocks-short-uncover-the-head-and-shoulders-pattern
 ---
 
 

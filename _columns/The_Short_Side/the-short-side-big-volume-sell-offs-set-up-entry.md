@@ -4,6 +4,7 @@ title: >-
   The Short Side: Big-Volume Sell-Offs Set Up Entry
 date: 2014-02-07 17:53 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/the-short-side-big-volume-sell-offs-set-up-entry
 ---
 
 

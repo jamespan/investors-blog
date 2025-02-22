@@ -4,6 +4,7 @@ title: >-
   Why Selling IPOs Short Is Fraught With Risk
 date: 2013-07-05 17:28 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/why-selling-ipos-short-is-fraught-with-risk
 ---
 
 

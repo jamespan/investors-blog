@@ -4,6 +4,7 @@ title: >-
   How To Sell Short: Here Is The Biggest Mistake You Can Make
 date: 2017-07-28 16:45 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/how-to-sell-short-here-is-the-biggest-mistake-you-can-make
 ---
 
 

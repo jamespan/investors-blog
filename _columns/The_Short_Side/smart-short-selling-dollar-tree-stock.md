@@ -4,6 +4,7 @@ title: >-
   The Short Side: Dollar Tree Head-And-Shoulders Chart
 date: 2012-12-28 18:26 -0800
 author: 
+origin_url: https://www.investors.com/research/the-short-side/smart-short-selling-dollar-tree-stock
 ---
 
 

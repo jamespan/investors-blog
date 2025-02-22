@@ -4,6 +4,7 @@ title: >-
   How To Sell Short For Profits In A Choppy Environment
 date: 2016-05-27 17:13 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/the-short-side-how-to-sell-short-for-profits-in-a-choppy-environment
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   How To Win At Short Selling: Train Your Eyes For Follow-On Sells
 date: 2016-12-23 11:56 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/how-to-win-at-short-selling-train-your-eyes-for-follow-on-sells
 ---
 
 

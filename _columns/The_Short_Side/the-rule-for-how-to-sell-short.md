@@ -4,6 +4,7 @@ title: >-
   How To Sell Stocks Short: Choose The Biggest Gainers
 date: 2015-10-30 16:37 -0700
 author: 
+origin_url: https://www.investors.com/research/the-short-side/the-rule-for-how-to-sell-short
 ---
 
 

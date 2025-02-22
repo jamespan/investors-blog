@@ -4,6 +4,7 @@ title: >-
   The Short Side: Use IBD Screens Effectively
 date: 2013-06-28 17:55 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/the-short-side-use-ibd-screens-effectively
 ---
 
 

@@ -4,6 +4,7 @@ title: >-
   Disney Shares May Produce New Base Amid 'Star Wars' Success
 date: 2015-12-21 17:35 -0800
 author: ELAINE LOW
+origin_url: https://www.investors.com/research/the-short-side/how-to-invest-in-stocks
 ---
 
 

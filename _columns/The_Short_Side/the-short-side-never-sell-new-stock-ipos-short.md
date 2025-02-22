@@ -4,6 +4,7 @@ title: >-
   The Short Side: Never Sell New Stock IPOs Short
 date: 2014-04-04 17:59 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/the-short-side-never-sell-new-stock-ipos-short
 ---
 
 

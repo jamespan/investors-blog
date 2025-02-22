@@ -4,6 +4,7 @@ title: >-
   When To Sell Stocks Short: Learn To Recognize Head And Shoulders Pattern
 date: 2022-02-23 20:30 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/learn-to-recognize-head-and-shoulders-pattern
 ---
 
 

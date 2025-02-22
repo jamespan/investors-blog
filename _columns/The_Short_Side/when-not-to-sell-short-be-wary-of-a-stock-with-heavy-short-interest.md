@@ -4,6 +4,7 @@ title: >-
   When Not To Sell Short: Be Wary Of A Stock With Heavy Short Interest
 date: 2017-05-26 19:23 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/when-not-to-sell-short-be-wary-of-a-stock-with-heavy-short-interest
 ---
 
 

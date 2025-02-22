@@ -4,6 +4,7 @@ title: >-
   The Short Side: Sell When The Market Is Diving
 date: 2013-01-04 18:10 -0800
 author: 
+origin_url: https://www.investors.com/research/the-short-side/how-to-sell-stocks-short-correctly-investing
 ---
 
 

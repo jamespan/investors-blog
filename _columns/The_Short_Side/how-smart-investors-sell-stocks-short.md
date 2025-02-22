@@ -4,6 +4,7 @@ title: >-
   The Short Side: Confirm Big Volume On Downside
 date: 2013-12-06 17:15 -0800
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/how-smart-investors-sell-stocks-short
 ---
 
 

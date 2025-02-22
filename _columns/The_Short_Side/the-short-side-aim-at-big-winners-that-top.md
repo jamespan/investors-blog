@@ -4,6 +4,7 @@ title: >-
   The Short Side: Aim At Big Winners That Top
 date: 2014-07-03 17:56 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/the-short-side-aim-at-big-winners-that-top
 ---
 
 

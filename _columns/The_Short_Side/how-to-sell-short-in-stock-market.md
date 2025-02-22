@@ -4,6 +4,7 @@ title: >-
   The Short Side: Avoid Mediocrity; Go For Ex-Leaders
 date: 2013-06-07 18:00 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/how-to-sell-short-in-stock-market
 ---
 
 

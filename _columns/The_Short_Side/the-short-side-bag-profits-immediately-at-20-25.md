@@ -4,6 +4,7 @@ title: >-
   The Short Side: Bag Profits Immediately at 20%, 25%
 date: 2014-05-02 17:39 -0700
 author: DAVID SAITO-CHUNG
+origin_url: https://www.investors.com/research/the-short-side/the-short-side-bag-profits-immediately-at-20-25
 ---
 
 
