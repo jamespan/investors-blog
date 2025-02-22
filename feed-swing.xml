@@ -16,7 +16,12 @@ layout:
     {% for post in posts limit: 10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description>{% if post.image %}<p><img src="{{ post.image | prepend: site.baseurl | prepend: site.url | xml_escape }}"/></p>{% endif %}{{ post.content | split: "<p><strong>YOU " | first | xml_escape }}</description>
+        {% assign post_content = post.content %}
+        {% if post.image %}
+          {% assign img = post.image | prepend: site.baseurl | prepend: site.url | prepend: '<p><img src="' | append: '"/></p>' %}
+          {% assign post_content = post_content | prepend: img %}
+        {% endif %}
+        <description>{{ post_content | split: "<p><strong>YOU " | first | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         {% assign site_url = post.url | prepend: site.baseurl | prepend: site.url %}
         {% assign origin_url = post.origin_url | default: site_url %}
