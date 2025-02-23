@@ -2,9 +2,9 @@
 layout: page
 title: >-
   Winning Stocks Share This Financial Ratio At This Exact Level
-date: 2024-03-15 08:00 -0700
+date: 2025-02-19 08:00 -0800
 author: DOMINIC GESSEL
-origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-stocks-return-on-equity
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-stocks-return-on-equity/
 ---
 
 
@@ -13,9 +13,9 @@ origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-buy-
 When you're investing your hard-earned money, you want the most bang for your buck. If choosing between two companies, it would be nice to know which is more efficient with their money.
 
 
-
-
 Imagine sitting down with two CEOs and asking them, "How good are you with money?" It may sound silly, but that is the question that return-on-equity seeks to answer.
+
+
 
 
 Return on equity, or ROE, is a measure of how efficiently a company handles its business. It's a ratio comparing yearly net profit to a company's shareholder equity. Shareholder equity is the difference between a company's total assets minus their liabilities.
@@ -58,14 +58,17 @@ If you haven't built your own screens before, here's one to start:
 
 * Return on equity greater than or equal to 17%.
 * Share price greater than 15.
-* 50-day average dollar volume greater than \$100 million.
+* 50-day average dollar volume greater than $100 million.
 * [Relative Strength Rating](https://www.investors.com/how-to-invest/investors-corner/relative-strength-rating-stock-chart-analysis-helps-pick-outstanding-growth-stocks/) of 85 or higher.
 
 
-You can tweak these parameters however you like to best suit your needs. If the list is too large, consider raising return on equity to 30%.
+You can tweak these parameters however you like to best suit your needs. If the list is too large, consider raising return on equity to 30%. You may also add a minimum Composite Rating of 90.
 
 
 Remember to pay attention to other important fundamentals: earnings growth, sales growth and profit margins. If you're ever unsure, study stocks in IBD's Stock Checkup. Happy hunting.
+
+
+*This article was originally published March 15, 2024, and has been updated.*
 
 
 **YOU MAY ALSO LIKE:**

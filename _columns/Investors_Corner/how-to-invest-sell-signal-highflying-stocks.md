@@ -4,7 +4,7 @@ title: >-
   Danger Ahead: This Sell Signal Tells You When To Get Out Of A Highflying Stock
 date: 2025-02-21 08:00 -0800
 author: RACHEL FOX
-origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-sell-signal-highflying-stocks
+origin_url: https://www.investors.com/how-to-invest/investors-corner/how-to-invest-sell-signal-highflying-stocks/
 ---
 
 

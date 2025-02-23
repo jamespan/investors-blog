@@ -4,7 +4,7 @@ title: >-
   What Nvidia, Apple And Palantir Reveal About This Stock Market
 date: 2025-02-20 16:00 -0800
 author: MATTHEW GALGANI
-origin_url: https://www.investors.com/how-to-invest/investors-corner/investing-in-stocks-stock-investing-with-three-step-routine
+origin_url: https://www.investors.com/how-to-invest/investors-corner/investing-in-stocks-stock-investing-with-three-step-routine/
 ---
 
 
