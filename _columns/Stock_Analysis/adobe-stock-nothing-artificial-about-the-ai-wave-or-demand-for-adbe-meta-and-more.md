@@ -42,7 +42,7 @@ While **Microsoft** ([MSFT](https://research.investors.com/quote.aspx?symbol=MSF
 
 
 
- table.tableizer-table {<br /> font-size: 12px;<br /> border: 1px solid #CCC;<br /> font-family: Arial, Helvetica, sans-serif;<br /> }<br /> .tableizer-table td {<br /> padding: 4px;<br /> margin: 3px;<br /> border: 1px solid #CCC;<br /> }<br /> .tableizer-table th {<br /> background-color: #104E8B;<br /> color: #FFF;<br /> font-weight: bold;<br /> }<br />
+ 
 
 
 | Company | Symbol | Amount invested (mil) | Comp Rating | EPS Rating | RS Rating | Industry group RS | SMR Rating | A/D Rating |

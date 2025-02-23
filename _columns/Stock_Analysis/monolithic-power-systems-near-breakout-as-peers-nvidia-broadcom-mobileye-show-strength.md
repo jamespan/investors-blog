@@ -19,7 +19,7 @@ Top-performing money managers have taken note. As the [best mutual funds shovele
 
 
 
- table.tableizer-table {<br /> font-size: 12px;<br /> border: 1px solid #CCC;<br /> font-family: Arial, Helvetica, sans-serif;<br /> }<br /> .tableizer-table td {<br /> padding: 4px;<br /> margin: 3px;<br /> border: 1px solid #CCC;<br /> }<br /> .tableizer-table th {<br /> background-color: #104E8B;<br /> color: #FFF;<br /> font-weight: bold;<br /> }<br />
+ 
 
 
 | Selected Fabless Semiconductor Leaders |

@@ -55,7 +55,7 @@ However, there is a warning on the other side. You might come up with a risk per
 
 ###### [_Download The Calculator_](https://www.investors.com/wp-content/uploads/2020/05/IBDLive_Position_Size_Calculator.xlsx)
 
-table.tableizer-table {<br /> font-size: 12px;<br /> border: 1px solid #CCC;<br /> font-family: Arial, Helvetica, sans-serif;<br /> }<br /> .tableizer-table td {<br /> padding: 4px;<br /> margin: 3px;<br /> border: 1px solid #CCC;<br /> }<br /> .tableizer-table th {<br /> background-color: #104E8B;<br /> color: #FFF;<br /> font-weight: bold;<br /> }<br />
+
 
 | Position Size Calculator Using Stop Price    |          | Position Size Calculator Using Stop Percent |
 | -------------------------------------------- | -------- | ------------------------------------------- | -------------------------------------------- | -------- |
