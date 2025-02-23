@@ -40,6 +40,11 @@ defaults:
       investors_corner: true
       permalink: /columns/investors-corner/:name
   - scope:
+      path: "_columns/Stock_Analysis"
+    values:
+      stock_analysis: true
+      permalink: /columns/stock-analysis/:name
+  - scope:
       path: "_columns/Barrons_Weekly"
     values:
       barrons_weekly: true
