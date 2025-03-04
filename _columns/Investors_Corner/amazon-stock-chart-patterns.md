@@ -2,7 +2,7 @@
 layout: page
 title: >-
   This Chart Pattern Launched Amazon's Big Run; How To Spot It
-date: 2025-02-26 08:01 -0800
+date: 2025-03-04 08:45 -0800
 author: KIMBERLEY KOENIG
 origin_url: https://www.investors.com/how-to-invest/investors-corner/amazon-stock-chart-patterns/
 ---
@@ -47,7 +47,7 @@ Amazon Stock, JPMorgan Bases
 ----------------------------
 
 
-**![jpm](https://www.investors.com/wp-content/uploads/2024/03/IC032534-268x300.jpg)JPMorgan Chase** ([JPM](https://research.investors.com/quote.aspx?symbol=JPM)) formed a cup base in August through November **(1)** of 2023. The base had a choppy bottoming area, but still could be viewed as a cup pattern.
+**![jpm](https://www.investors.com/wp-content/uploads/2024/03/IC032534-268x300.jpg)JPMorgan Chase** ([JPM](https://research.investors.com/quote.aspx?symbol=JPM)) formed a cup base in August through November of 2023 **(1)**. The base had a choppy bottoming area, but still could be viewed as a cup pattern.
 
 
 Shares broke out the week of Dec. 15 **(2)** in volume well above the weekly average **(3)**. JPMorgan climbed to an all-time high on Tuesday and has gained over 21% since the breakout.
