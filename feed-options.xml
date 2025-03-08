@@ -1,0 +1,29 @@
+---
+layout: 
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ "IBD Options Column" | xml_escape }}</title>
+    <description>{{ "IBD’s extensive futures and options coverage tells you what you need to know about the gold and oil markets. Also find trading tips during earnings season." | xml_escape }}</description>
+    <link>https://www.investors.com/category/research/options/</link>
+    <atom:link href="{{ "/feed-options.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+    {% assign posts = site.documents | where: "options", true | where_exp: "item", "item.title != 'Options'" | sort: "date" | reverse %}
+    {% for post in posts limit: 10 %}
+      <item>
+        <title>{{ post.title | xml_escape }}</title>
+        <description>{{ post.content | xml_escape }}</description>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        {% assign site_url = post.url | prepend: site.baseurl | prepend: site.url %}
+        {% assign origin_url = post.origin_url | default: site_url %}
+        <link>{{ origin_url }}</link>
+        <guid isPermaLink="true">{{ origin_url }}</guid>
+      </item>
+    {% endfor %}
+
+  </channel>
+</rss>

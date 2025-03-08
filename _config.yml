@@ -45,6 +45,11 @@ defaults:
       stock_analysis: true
       permalink: /columns/stock-analysis/:name
   - scope:
+      path: "_columns/Options"
+    values:
+      options: true
+      permalink: /columns/options/:name
+  - scope:
       path: "_columns/Barrons_Weekly"
     values:
       barrons_weekly: true
