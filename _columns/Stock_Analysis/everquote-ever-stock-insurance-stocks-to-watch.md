@@ -2,7 +2,7 @@
 layout: page
 title: >-
   Insurance Leader Among Stocks To Watch As Sales Soar, Turnaround Unfolds
-date: 2025-03-06 08:00 -0800
+date: 2025-03-07 10:49 -0800
 author: JUAN CARLOS ARANCIBIA
 origin_url: https://www.investors.com/research/ibd-stock-analysis/everquote-ever-stock-insurance-stocks-to-watch/
 ---
@@ -10,10 +10,10 @@ origin_url: https://www.investors.com/research/ibd-stock-analysis/everquote-ever
 
 
 
-The insurance sector seems to have gotten lost while trade tariffs, artificial intelligence and other investing themes swarm Wall Street. Still, insurance has posted [the fifth-highest gains so far this year](https://www.investors.com/data-tables/ibd-smart-nyse-nasdaq-tables-mar-04-2025/) out of the 33 sectors followed by Investor's Business Daily, with a 7.5% climb. And **EverQuote** ([EVER](https://research.investors.com/quote.aspx?symbol=EVER)) has become one of the stocks to watch in that group.
+The insurance sector seems to have gotten lost while trade tariffs, artificial intelligence and other investing themes swarm Wall Street. Still, insurance has posted [the fourth-highest gains so far this year](https://www.investors.com/data-tables/ibd-smart-nyse-nasdaq-tables-mar-04-2025/) out of the 33 sectors followed by Investor's Business Daily, with a 7% climb. And **EverQuote** ([EVER](https://research.investors.com/quote.aspx?symbol=EVER)) has become one of the stocks to watch in that group.
 
 
-An insurance marketplace, EverQuote owns the best Earnings Per Share Rating out of 16 companies in the diversified insurance industry group. It became profitable last year and posted explosive sales growth of 72%, 163% and 165% during the past three quarters.
+An online insurance marketplace, EverQuote owns the best [Relative Strength Rating](https://www.investors.com/how-to-invest/investors-corner/relative-strength-rating-stock-chart-analysis-helps-pick-outstanding-growth-stocks/) out of 16 companies in the diversified insurance industry group. It became profitable last year and posted explosive sales growth of 72%, 163% and 165% during the past three quarters.
 
 
 
