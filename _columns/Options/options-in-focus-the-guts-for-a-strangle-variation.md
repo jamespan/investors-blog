@@ -1,0 +1,50 @@
+---
+layout: page
+title: >-
+  Options In Focus: The Guts For A Strangle Variation?
+date: 2011-04-11 17:44 -0700
+author: CHRIS TYLER
+origin_url: https://www.investors.com/research/options/options-in-focus-the-guts-for-a-strangle-variation/
+---
+
+
+
+
+
+As option traders, we're presented with the opportunity to design positions synthetically by using a combination of calls, puts and stock instead of a classic position in the underlying. Not that it always makes sense to actually put on these sometimes bizarre looking and sounding positions, but in part it's this pricing between a stock and its derivatives which help keep the markets more efficient.
+
+  
+
+Amongst synthetic opportunities, one of the most familiar is the married put or synthetic long call. Instead of a long-call position, a trader can buy the same number of puts against long stock in inventory or purchased at the same time and wind up with a synthetic risk equivalent of the long call but one which could maintain tax advantages.
+
+  
+
+Another less obvious choice but one, which might on occasion be a better fit than the regular or normal-way spread, is what's called a "guts." A guts position is a purchased (or sold) long call and long put in the same contract month on different strikes.
+
+  
+
+Sound familiar or even exactly like a strangle spread to you? Well, it is as far as the risk graph is concerned. In this case though, the trader is using in-the-money options in the design versus out-of-money ones. To illustrate, let's look at **Solarfun Power Holdings** ([SOLF](https://research.investors.com/quote.aspx?symbol=SOLF)) from last summer before it began to run higher from a cup with handle base.
+
+  
+
+With shares breaking out at the time from a handle consolidation on above-average volume back on July 19 I wanted to see if any unusual option action was present to confirm the move in shares. Checking the board and above-normal interest was apparent but not exactly breaking market headline news.
+
+  
+
+Two spots that caught my attention that day were the in-the-money August 7.50 call and in-the-money August 10 put, which surrounded shares. After the initial breakout, both options were the most actively traded and showing near identical volume of 333 and 334 contracts respectively. At that point, my reaction was someone or perhaps a couple traders, had put up the guts. Upon closer inspection of the prints, the action in the two options was ruled out as being related and merely an odd coincidence.
+
+  
+
+For the always good sake of educating readers about various strategies possible with options, shown above is an illustration of what the guts spread would look like using a three lot that day. With SOLF at 9.04, a debit of $3.10 for the combined in-the-money call and put meant the trader would be risking $0.60 [Risk = Debit — Distance between Strikes] or $180 in total, if shares found themselves sandwiched between 7.5 and 10 come expiration.
+
+  
+
+Remember or appreciate this spread will always be worth $2.50 inside the purchased strikes due to one or both options always being in-the-money. At the same time, with the mid market pricing of the (regular way) strangle at $0.60, arbitrage was alive and working all too well beneath the surface as both strategies were priced the same and not allowing for any potential freebies at the market makers expense.
+
+  
+
+*What do you think? Feel free to share your opinion in the comments section below.*
+
+
+
+
