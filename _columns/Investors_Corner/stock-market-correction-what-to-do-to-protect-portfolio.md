@@ -1,8 +1,8 @@
 ---
 layout: page
 title: >-
-  Keep Calm And Get Ready: Here's What To Do During A Stock Market Correction
-date: 2025-03-13 08:00 -0700
+  Stock Market Correction: Here's How To Keep Calm And Get Ready
+date: 2025-03-13 16:39 -0700
 author: MICHAEL LARKIN
 origin_url: https://www.investors.com/how-to-invest/investors-corner/stock-market-correction-what-to-do-to-protect-portfolio/
 ---
@@ -56,7 +56,7 @@ Don't Forget This Key Point For Future Gains
 --------------------------------------------
 
 
-It is all to easy to switch off and become disengaged from the market when a correction is underway. This is a dangerous mistake because a market bottom can catch you unprepared.
+It is all too easy to switch off and become disengaged from the market when a correction is underway. This is a dangerous mistake because a market bottom can catch you unprepared.
 
 
 One should be keeping a close eye on the market and building a robust watchlist of top stocks. Look for names that are showing unusual [relative strength](https://www.investors.com/how-to-invest/investors-corner/relative-strength-line-is-a-simple-yet-effective-stock-indicator/). The fact a stock is holding up while the broader market is falling is often a good indicator that it is ready to show leadership when an uptrend inevitably resumes.
