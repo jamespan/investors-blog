@@ -47,7 +47,9 @@ Nvidia Stock Falls From Grace
 -----------------------------
 
 
-Artificial intelligence giant Nvidia had been a Wall Street darling for years before it started trading sideways in June. Then in January, [Nvidia stock got clobbered](https://www.investors.com/news/technology/nvidia-stock-ai-chipmakers-tumble-on-deepseek-news/) on potential competition from China's DeepSeek low-cost AI model.
+Artificial intelligence giant Nvidia had been a Wall Street darling for years before it started trading sideways in June. Then in January, [Nvidia stock got clobbered](https://www.investors.com/news/technology/nvidia-stock-ai-chipmakers-tumble-on-deepseek-news/) on potential competition from China's DeepSeek low-cost AI model.  
+
+![IBD50](https://www.investors.com/wp-content/uploads/2025/03/ICtable032425.jpg)
 
 
 Nvidia stock holds a dismal D- Accumulation/Distribution Rating. And its [Relative Strength Rating](https://www.investors.com/how-to-invest/investors-corner/relative-strength-rating-stock-chart-analysis-helps-pick-outstanding-growth-stocks/) has dropped to 47 from 89 four weeks ago, according to [MarketSurge data](https://get.investors.com/marketsurge/?artProdLink=MarketSurge).

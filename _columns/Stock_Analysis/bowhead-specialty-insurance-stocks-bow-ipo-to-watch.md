@@ -1,8 +1,8 @@
 ---
 layout: page
 title: >-
-  Hot IPO In 'Boring' Industry Bucks Market To Blast Higher
-date: 2025-03-20 16:00 -0700
+  Breakout Watch: This Hot IPO Is Not So 'Boring' Now
+date: 2025-03-21 14:45 -0700
 author: MATTHEW GALGANI
 origin_url: https://www.investors.com/research/ibd-stock-analysis/bowhead-specialty-insurance-stocks-bow-ipo-to-watch/
 ---
@@ -57,7 +57,7 @@ With the highest-possible [Composite Rating of 99](https://research.investors.co
 The group ranks a strong No. 27 out of the 197 industries IBD tracks.
 
 
-Showing the strength of the broad insurance sector, **Ryan Specialty** ([RYAN](https://research.investors.com/quote.aspx?symbol=RYAN)) — hailing from the No. 28-ranked Insurance-Brokers group — also earns a 99 Composite Rating. In the No. 25-ranked Insurance-Property/Casualty/Life group, **Goosehead Insurance** ([GSHD](https://research.investors.com/quote.aspx?symbol=GSHD)) and **Root** ([ROOT](https://research.investors.com/quote.aspx?symbol=ROOT)) share that honor.
+Showing the strength of the broad insurance sector, **Ryan Specialty** ([RYAN](https://research.investors.com/quote.aspx?symbol=RYAN)) — hailing from the No. 26-ranked Insurance-Brokers group — also earns a 99 Composite Rating. In the No. 23-ranked Insurance-Property/Casualty/Life group, **Goosehead Insurance** ([GSHD](https://research.investors.com/quote.aspx?symbol=GSHD)) and **Root** ([ROOT](https://research.investors.com/quote.aspx?symbol=ROOT)) share that honor.
 
 
 
@@ -80,7 +80,7 @@ Showing the strength of the broad insurance sector, **Ryan Specialty** ([RYAN](h
 Bowhead Specialty has flashed multiple signs of [institutional demand](https://www.investors.com/how-to-invest/investors-corner/stock-market-leaders-track-institutional-demand-to-find-winners/).
 
 
-In addition to an [Accumulation/Distribution Rating](https://www.investors.com/how-to-invest/investors-corner/how-to-buy-stocks-ibd-rating-reveals-what-stocks-big-money-funds-are-buying/) of A and a 1.3 [up/down volume ratio](https://www.investors.com/how-to-invest/investors-corner/top-stocks-under-accumulation-use-the-up-down-volume-ratio-to-find-the-best-prospects/), the young insurer has already posted two quarters of rising fund ownership. Plus, 11 funds with an A rating from IBD own shares of Bowhead.
+In addition to an [Accumulation/Distribution Rating](https://www.investors.com/how-to-invest/investors-corner/how-to-buy-stocks-ibd-rating-reveals-what-stocks-big-money-funds-are-buying/) of A and a 1.5 [up/down volume ratio](https://www.investors.com/how-to-invest/investors-corner/top-stocks-under-accumulation-use-the-up-down-volume-ratio-to-find-the-best-prospects/), the young insurer has already posted two quarters of rising fund ownership. Plus, 11 funds with an A rating from IBD own shares of Bowhead.
 
 
 5. Bowhead Specialty Takes Aim At A Breakout
@@ -90,20 +90,20 @@ In addition to an [Accumulation/Distribution Rating](https://www.investors.com/h
 While formerly high-flying growth stocks like **Tesla** ([TSLA](https://research.investors.com/quote.aspx?symbol=TSLA)) and **Nvidia** ([NVDA](https://research.investors.com/quote.aspx?symbol=NVDA)) struggle, once-boring insurance stocks have taken center stage.
 
 
-Bowhead stock stands tall above its key [moving averages](https://www.investors.com/how-to-invest/investors-corner/moving-averages-help-understand-stock-markets-direction-heres-how-to-use-them/) as it blasts past a 37.81 [buy point](https://www.investors.com/how-to-invest/investors-corner/chart-reading-basics-how-a-buy-point-marks-a-time-of-opportunity/) in a first-stage [cup pattern](https://www.investors.com/how-to-invest/how-to-read-stock-charts-understanding-technical-analysis/#cupwithhandle). Up well over 3% Thursday, the stock remains within buy range.
+Bowhead stock stands tall above its key [moving averages](https://www.investors.com/how-to-invest/investors-corner/moving-averages-help-understand-stock-markets-direction-heres-how-to-use-them/) as it blasts past a 37.81 [buy point](https://www.investors.com/how-to-invest/investors-corner/chart-reading-basics-how-a-buy-point-marks-a-time-of-opportunity/) in a first-stage [cup pattern](https://www.investors.com/how-to-invest/how-to-read-stock-charts-understanding-technical-analysis/#cupwithhandle). Heading into the final hour of trading, the stock is in buy range and on pace for nearly a 10% gain for the week.
 
 
 In another sign of rising technical strength, Bowhead's [21-day exponential moving average](https://www.investors.com/how-to-invest/investors-corner/what-is-the-21-day-exponential-moving-average/) moved back above its longer-term [50-day line](https://www.investors.com/how-to-invest/investors-corner/50-day-moving-average-identifies-buy-sell-signals/) earlier this month
 
 
-Fellow insurance stocks EverQuote and Ryan Specialty have shown similar strength as [Tesla](https://www.investors.com/news/tesla-stock-initial-ride-hailing-permit-nvidia-gm-partnership-roadblock/) and [Nvidia](https://www.investors.com/news/technology/nvidia-stock-wall-street-analysts-react-to-gtc-news/) remain trapped below these key benchmarks.
+Fellow insurance stocks EverQuote, Palomar and Ryan Specialty have shown similar strength as [Tesla](https://www.investors.com/news/tesla-stock-initial-ride-hailing-permit-nvidia-gm-partnership-roadblock/) and [Nvidia](https://www.investors.com/news/technology/nvidia-stock-wall-street-analysts-react-to-gtc-news/) remain trapped below these key benchmarks.
 
 
 
 [Insurance Stocks News And Analysis](https://www.investors.com/tag/insurance-stocks/)
 -------------------------------------------------------------------------------------
 
-[![Ryan insurance stock](https://www.investors.com/wp-content/uploads/2025/03/Stock-insurancevarietytypes-01-adobe-300x169.jpg)](https://www.investors.com/research/breakout-stocks-technical-analysis/ryan-specialty-stock-insurance-stocks/) [Seven Insurance Stocks Swarm Wall Street — Including This 'Perfect' One](https://www.investors.com/research/breakout-stocks-technical-analysis/ryan-specialty-stock-insurance-stocks/)As growth stocks like Nvidia and Alphabet struggle in a market correction, insurance stocks have come into focus on Wall Street. Seven companies from the insurance sector have swarmed onto the IBD... [Read More](https://www.investors.com/research/breakout-stocks-technical-analysis/ryan-specialty-stock-insurance-stocks/)[![](https://www.investors.com/wp-content/uploads/2018/03/ibdstocksupdate1-300x169.jpg)](https://www.investors.com/research/netflix-stock-showing-unusual-strength-see-new-names-on-ibd-50-stock-spotlight-and-more/) [Netflix Stock Showing Unusual Strength: See New Names On IBD 50, Stock Spotlight And More](https://www.investors.com/research/netflix-stock-showing-unusual-strength-see-new-names-on-ibd-50-stock-spotlight-and-more/)Netflix, Agnico Eagle Mines and DoorDash rose onto various IBD top stock lists Monday. Netflix and Agnico Eagle landed in the Stock Spotlight. Meanwhile, DoorDash was among eight stocks qualifying for the... [Read More](https://www.investors.com/research/netflix-stock-showing-unusual-strength-see-new-names-on-ibd-50-stock-spotlight-and-more/)[![](https://www.investors.com/wp-content/uploads/2025/03/sotd-for-03-17-2025-desktop-300x158.png)](https://www.investors.com/research/ibd-stock-of-the-day/hartford-insurance-hig-stock-buy-point-insurance-stocks-march-2025/) [IBD Stock Of The Day Hartford Near Entry, Insurance Stocks Defy Sell-Off](https://www.investors.com/research/ibd-stock-of-the-day/hartford-insurance-hig-stock-buy-point-insurance-stocks-march-2025/)Hartford Insurance Group, is the IBD Stock Of The Day for Monday. HIG stock was among a group of insurers showing strength and constructive charts patterns while the overall market grinds through a... [Read More](https://www.investors.com/research/ibd-stock-of-the-day/hartford-insurance-hig-stock-buy-point-insurance-stocks-march-2025/)
+[![](https://www.investors.com/wp-content/uploads/2018/03/ibdstocksupdate2-300x169.jpg)](https://www.investors.com/research/build-your-list-of-stocks-to-watch-with-these-top-ibd-screens-2/) [Cencora, New To Big Cap 20, Had $81.5 Bil Sales Last Quarter: Build Your List Of Stocks To Watch With These Top IBD Screens](https://www.investors.com/research/build-your-list-of-stocks-to-watch-with-these-top-ibd-screens-2/)The indexes closed higher for the week, the first up week in the last four. Medical stocks continue to be hot including drug distributor Cencora, which rose to a record high. The... [Read More](https://www.investors.com/research/build-your-list-of-stocks-to-watch-with-these-top-ibd-screens-2/)[![](https://www.investors.com/wp-content/uploads/2017/07/SSA_plane_072417_adobe-300x170.jpg)](https://www.investors.com/stock-lists/new-highs/insurance-stocks-new-highs-root-bow/) [These Insurance Stocks And Biotech Leader Hit New Highs As Stock Market Crumbles](https://www.investors.com/stock-lists/new-highs/insurance-stocks-new-highs-root-bow/)It is a tough environment, but a handful of stocks have bucked the heavy selling and climbed to new highs in recent days. Insurance stocks have been doing well, while the aerospace... [Read More](https://www.investors.com/stock-lists/new-highs/insurance-stocks-new-highs-root-bow/)[![Ryan insurance stock](https://www.investors.com/wp-content/uploads/2025/03/Stock-insurancevarietytypes-01-adobe-300x169.jpg)](https://www.investors.com/research/breakout-stocks-technical-analysis/ryan-specialty-stock-insurance-stocks/) [Seven Insurance Stocks Swarm Wall Street — Including This 'Perfect' One](https://www.investors.com/research/breakout-stocks-technical-analysis/ryan-specialty-stock-insurance-stocks/)As growth stocks like Nvidia and Alphabet struggle in a market correction, insurance stocks have come into focus on Wall Street. Seven companies from the insurance sector have swarmed onto the IBD... [Read More](https://www.investors.com/research/breakout-stocks-technical-analysis/ryan-specialty-stock-insurance-stocks/)
 ###### [View More Insurance Stocks News And Analysis](https://www.investors.com/tag/insurance-stocks/)
 
 
@@ -130,7 +130,7 @@ Fellow insurance stocks EverQuote and Ryan Specialty have shown similar strength
 [Build Custom Stock Screens With MarketSurge](https://marketsurge.investors.com/)
 
 
-[China Stocks Are Hot: These Five Are Near Buy Points](https://www.investors.com/news/best-china-stocks-2025-tesla-rivals-buy-points-trump-tariff-fears/)
+[Which Funds Have Beat Their Benchmarks Over The Last 1, 3, 5 and 10 Years?](https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-2025-winning-funds-every-category/)
 
 
 
