@@ -2,7 +2,7 @@
 layout: page
 title: >-
   China Expansion Helps Fuel This AI-Powered Cloud Stock In Rough Market
-date: 2025-03-27 08:00 -0700
+date: 2025-03-27 13:27 -0700
 author: MATTHEW GALGANI
 origin_url: https://www.investors.com/research/ibd-stock-analysis/veeva-stock-china-crm-merck-moderna-gsk/
 ---
@@ -13,7 +13,7 @@ origin_url: https://www.investors.com/research/ibd-stock-analysis/veeva-stock-ch
 Already partnering with Big Pharma powerhouses like **Merck** ([MRK](https://research.investors.com/quote.aspx?symbol=MRK)), **Moderna** ([MRNA](https://research.investors.com/quote.aspx?symbol=MRNA)) and **GSK** ([GSK](https://research.investors.com/quote.aspx?symbol=GSK)), **Veeva Systems** ([VEEV](https://research.investors.com/quote.aspx?symbol=VEEV)) — a provider of cloud-based software for the life sciences industry — has just teamed up with [six of the top 20 biopharmas](https://www.veeva.com/resources/top-global-biopharmas-standardize-on-veeva-china-crm-suite/) to advance engagement with health care professionals in China. That has sparked new demand for the artificial-intelligence-fueled firm, helping Veeva stock close in on a new breakout.
 
 
-Sporting a 1.4 [up/down volume ratio](https://www.investors.com/how-to-invest/investors-corner/top-stocks-under-accumulation-use-the-up-down-volume-ratio-to-find-the-best-prospects/) and eight quarters of rising fund ownership, [Veeva](https://research.investors.com/stock-checkup/nyse-veeva-systems-cl-a-veev.aspx) has earned a spot on the [IBD Big Cap 20](https://research.investors.com/stock-lists/big-cap-20/) lists. While it did not make the latest list of [new buys by the best mutual funds](https://www.investors.com/etfs-and-funds/mutual-funds/apple-stock-meta-robinhood-walmart-lead-new-buys-by-best-mutual-funds/), an impressive 112 funds with an A+ rating from Investor's Business Daily have a position in Veeva stock.
+Sporting a 1.5 [up/down volume ratio](https://www.investors.com/how-to-invest/investors-corner/top-stocks-under-accumulation-use-the-up-down-volume-ratio-to-find-the-best-prospects/) and eight quarters of rising fund ownership, [Veeva](https://research.investors.com/stock-checkup/nyse-veeva-systems-cl-a-veev.aspx) has earned a spot on the [IBD Big Cap 20](https://research.investors.com/stock-lists/big-cap-20/) lists. While it did not make the latest list of [new buys by the best mutual funds](https://www.investors.com/etfs-and-funds/mutual-funds/apple-stock-meta-robinhood-walmart-lead-new-buys-by-best-mutual-funds/), an impressive 112 funds with an A+ rating from Investor's Business Daily have a position in Veeva stock.
 
 
 
@@ -44,10 +44,10 @@ After hitting an all-time high in 2021, shares of Veeva retreated into a multiye
 Veeva stock has now formed an early-stage [cup with handle](https://www.investors.com/how-to-invest/how-to-read-stock-charts-understanding-technical-analysis/#cupwithhandle). The [buy point](https://www.investors.com/how-to-invest/investors-corner/chart-reading-basics-how-a-buy-point-marks-a-time-of-opportunity/) is 247.62.
 
 
-While the relative strength line has dipped as the handle has formed, Veeva remains above its 50-day moving average. As investors like to see, the shorter-term [21-day exponential moving average](https://www.investors.com/how-to-invest/investors-corner/what-is-the-21-day-exponential-moving-average/) stands above the longer-term 50-day line.
+While the [relative strength line](https://www.investors.com/how-to-invest/investors-corner/growth-stocks-breakout-specialty-tool-relative-strength-line/) has dipped as the handle has formed, Veeva remains above its 50-day moving average. As investors like to see, the shorter-term [21-day exponential moving average](https://www.investors.com/how-to-invest/investors-corner/what-is-the-21-day-exponential-moving-average/) stands above the longer-term 50-day line. The stock found support at and bounced off its 21-day benchmark on Thursday.
 
 
-As Veeva continues to navigate a bumpy road to a potential breakout, keep the action of the Nasdaq and other [market indexes](https://www.investors.com/news/stock-market-today-stock-market-news/) in mind. Just as Veeva is weathering some turbulence, the general market is also fighting to launch a sustained new uptrend.
+As Veeva continues to navigate a bumpy road to a potential breakout, keep the action of the Nasdaq and other [market indexes](https://www.investors.com/news/stock-market-today-stock-market-news/) in mind. Just as Veeva is weathering some turbulence, the general market is also fighting to hold its ground and launch a sustained new uptrend.
 
 
 In this environment of trying to rebound from a [market correction](https://www.investors.com/how-to-invest/stock-market-corrections-how-to-sell-stocks-manage-risk-and-prepare-for-next-uptrend/), it can take multiple attempts before the indexes and individual stocks gain traction and launch new runs.
