@@ -2,7 +2,7 @@
 layout: page
 title: >-
   Dividend Stocks: Smoking-Hot 7% Yield Lights Up Demand
-date: 2025-04-03 16:21 -0700
+date: 2025-04-04 16:00 -0700
 author: MATTHEW GALGANI
 origin_url: https://www.investors.com/research/ibd-stock-analysis/dividend-stocks-british-american-tobacco-bat-bti-stock/
 ---
@@ -10,7 +10,7 @@ origin_url: https://www.investors.com/research/ibd-stock-analysis/dividend-stock
 
 
 
-Amid [market corrections](https://www.investors.com/how-to-invest/stock-market-corrections-how-to-sell-stocks-manage-risk-and-prepare-for-next-uptrend/) and extended downturns, some investors are turning to high-yielding dividend stocks while traditional growth names such as **Nvidia** ([NVDA](https://research.investors.com/quote.aspx?symbol=NVDA)), **Alphabet** ([GOOGL](https://research.investors.com/quote.aspx?symbol=GOOGL)) and **Amazon.com** ([AMZN](https://research.investors.com/quote.aspx?symbol=AMZN)) stumble. One such name attracting income investors is **British American Tobacco** ([BTI](https://research.investors.com/quote.aspx?symbol=BTI)), whose stock currently yields 7% on an annualized basis.
+Amid [market corrections](https://www.investors.com/how-to-invest/stock-market-corrections-how-to-sell-stocks-manage-risk-and-prepare-for-next-uptrend/) and extended downturns, some investors are turning to high-yielding dividend stocks while traditional growth names such as **Nvidia** ([NVDA](https://research.investors.com/quote.aspx?symbol=NVDA)), **Alphabet** ([GOOGL](https://research.investors.com/quote.aspx?symbol=GOOGL)) and **Amazon.com** ([AMZN](https://research.investors.com/quote.aspx?symbol=AMZN)) stumble. One such name attracting income investors is **British American Tobacco** ([BTI](https://research.investors.com/quote.aspx?symbol=BTI)), whose stock currently yields over 7% on an annualized basis.
 
 
 Investors are attracted by the company's strong cash flow, and shares of British American Tobacco stock have perked up since last April. While it remains risky to buy stocks in the current market environment, British American Tobacco is aiming to complete a new [chart pattern](https://www.investors.com/how-to-invest/how-to-read-stock-charts-understanding-technical-analysis/) with its [relative strength line](https://www.investors.com/how-to-invest/investors-corner/growth-stocks-breakout-specialty-tool-relative-strength-line/) notching a 52-week high.
@@ -57,13 +57,13 @@ BAT Among Top Dividend Stocks To Watch
 --------------------------------------
 
 
-Fueled by its strong cash flow and 7% annualized yield, British American Tobacco ranks among the [best dividend stocks](https://www.investors.com/category/research/the-income-investor/). It earns an [89 Composite Rating](https://research.investors.com/stock-checkup/nyse-british-amer-tobacco-adr-bti.aspx) out of a possible 99.
+Fueled by its strong cash flow and 7% annualized yield, British American Tobacco ranks among the [best dividend stocks](https://www.investors.com/category/research/the-income-investor/). It earns an [92 Composite Rating](https://research.investors.com/stock-checkup/nyse-british-amer-tobacco-adr-bti.aspx) out of a possible 99.
 
 
-Signs of demand for shares include a B+ [Accumulation/Distribution Rating](https://www.investors.com/how-to-invest/investors-corner/how-to-buy-stocks-ibd-rating-reveals-what-stocks-big-money-funds-are-buying/) and a 1.6 [up/down volume ratio](https://www.investors.com/how-to-invest/investors-corner/how-to-invest-up-down-volume-ratio-spots-underlying-demand-for-stocks/). A total of 117 funds with an A+ rating from Investor's Business Daily own shares of British American Tobacco stock.
+Signs of demand for shares include an A- [Accumulation/Distribution Rating](https://www.investors.com/how-to-invest/investors-corner/how-to-buy-stocks-ibd-rating-reveals-what-stocks-big-money-funds-are-buying/) and a 1.7 [up/down volume ratio](https://www.investors.com/how-to-invest/investors-corner/how-to-invest-up-down-volume-ratio-spots-underlying-demand-for-stocks/). A total of 117 funds with an A+ rating from Investor's Business Daily own shares of British American Tobacco stock.
 
 
-British American Tobacco continues to work on an early stage [cup with handle](https://www.investors.com/how-to-invest/how-to-read-stock-charts-understanding-technical-analysis/#cupwithhandle) with a 41.87 buy point. The stock fell Wednesday, but held support at its [50-day moving average](https://www.investors.com/how-to-invest/investors-corner/50-day-moving-average-identifies-buy-sell-signals/). On Thursday, BAT rose over 4% in heavy trade, retaking its [21-day exponential moving average](https://www.investors.com/how-to-invest/investors-corner/what-is-the-21-day-exponential-moving-average/).
+British American Tobacco continues to work on an early stage [cup with handle](https://www.investors.com/how-to-invest/how-to-read-stock-charts-understanding-technical-analysis/#cupwithhandle) with a 41.87 buy point. The stock fell Wednesday, but held support at its [50-day moving average](https://www.investors.com/how-to-invest/investors-corner/50-day-moving-average-identifies-buy-sell-signals/). After rising over 4% Thursday to retake its [21-day exponential moving average](https://www.investors.com/how-to-invest/investors-corner/what-is-the-21-day-exponential-moving-average/), BAT pulled back on Friday, slipping below its 50-day line.
 
 
 [The IBD Methodology](https://www.investors.com/how-to-invest/investors-corner/stock-market-investing-ibd-methodology/) emphasizes the elevated risk of making new buys in the current market conditions. But dividend stocks like BAT — with share prices holding up relatively well compared to the general market — can offer an alternative to growth stocks for investors seeking to generate income.
