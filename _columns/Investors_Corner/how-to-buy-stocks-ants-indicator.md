@@ -63,7 +63,7 @@ Using Ants As A Sell Signal
 But excessive buying can also indicate when a stock's price move has become exhausted. When the Ants Indicator shows up after a big price move, consider it a bearish signal.
 
 
-For example, artificial intelligence leader **Super Micro Computer** ([SMCI](https://research.investors.com/quote.aspx?symbol=SMCI)) started showing the Ants Indicator in mid-February after the stock had already gone on a tremendous advance from a 357 consolidation buy point.
+For example, artificial intelligence leader **Super Micro Computer** ([SMCI](https://research.investors.com/quote.aspx?symbol=SMCI)) started showing the Ants Indicator in mid-February 2024 after the stock had already gone on a tremendous advance from a split-adjusted 357 consolidation buy point.
 
 
 That was a sign of climactic action. While not an immediate sell signal, it was time for investors to take some profits off the table and be on the lookout for additional sell signals.
