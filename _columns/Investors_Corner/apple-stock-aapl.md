@@ -52,8 +52,8 @@ An early-stage flat base is an added advantage that can increase the chances of 
 **Apple** ([AAPL](https://research.investors.com/quote.aspx?symbol=AAPL)) broke out during the week of Aug. 2, 2019, from a cup-with-handle base that had a buy point of 215.31 **(1)**. But the stock fell hard the next week to mark the start a flat base. Apple quickly rallied back above its 10-week line and broke out during the week of Sept. 13, clearing a buy point of 221.37 **(2)**. Early gains faded on the breakout week, but after a two-week pullback, Apple cleared an alternate entry during the week of Oct. 4 **(Point 3)**. It was also an early-stage breakout led to a 48% gain as Apple stock hit a new high of 327.85 on Jan. 29, 2020 **(4)**.
 
 
-
 *Please follow [VRamakrishnan](https://twitter.com/IBD_VidyaR) on X/Twitter for more news on the stock market today.*
+
 
 **YOU MAY ALSO LIKE:**
 
@@ -71,7 +71,6 @@ An early-stage flat base is an added advantage that can increase the chances of 
 
 
 [Risk Management In The Stock Market: How Much Money To Invest](https://www.investors.com/how-to-invest/investors-corner/risk-management-in-the-stock-market-how-much-money-to-invest-now/)
-
 
 
 
